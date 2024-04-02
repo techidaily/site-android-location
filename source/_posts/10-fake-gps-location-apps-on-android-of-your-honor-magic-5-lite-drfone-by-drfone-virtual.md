@@ -1,7 +1,7 @@
 ---
 title: 10 Fake GPS Location Apps on Android Of your Honor Magic 5 Lite | Dr.fone
-date: 2024-04-01T11:30:41.799Z
-updated: 2024-04-02T11:30:41.799Z
+date: 2024-04-01T11:36:00.186Z
+updated: 2024-04-02T11:36:00.186Z
 tags: 
   - virtual location chang
   - location changer

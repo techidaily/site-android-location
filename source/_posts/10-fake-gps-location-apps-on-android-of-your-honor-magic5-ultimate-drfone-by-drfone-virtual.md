@@ -1,7 +1,7 @@
 ---
 title: 10 Fake GPS Location Apps on Android Of your Honor Magic5 Ultimate | Dr.fone
-date: 2024-04-01T11:36:00.188Z
-updated: 2024-04-02T11:36:00.188Z
+date: 2024-04-01T12:17:47.047Z
+updated: 2024-04-02T12:17:47.047Z
 tags: 
   - virtual location chang
   - location changer

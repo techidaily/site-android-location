@@ -1,7 +1,7 @@
 ---
 title: 10 Fake GPS Location Apps on Android Of your Honor Magic V2 | Dr.fone
-date: 2024-04-01T12:17:47.047Z
-updated: 2024-04-02T12:17:47.047Z
+date: 2024-04-02T00:03:37.951Z
+updated: 2024-04-03T00:03:37.951Z
 tags: 
   - virtual location chang
   - location changer

@@ -1,7 +1,7 @@
 ---
 title: 10 Fake GPS Location Apps on Android Of your Sony Xperia 5 V | Dr.fone
-date: 2024-04-11T23:18:56.464Z
-updated: 2024-04-12T23:18:56.464Z
+date: 2024-04-30T13:49:18.864Z
+updated: 2024-05-01T13:49:18.864Z
 tags: 
   - virtual location chang
   - location changer
@@ -751,3 +751,4 @@ There you go! After reading this guide, you would be able to mock GPS on your So
 <li><a href="https://phone-solutions.techidaily.com/can-t-open-mov-files-on-motorola-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't open MOV files on Motorola</u></a></li>
 <li><a href="https://techidaily.com/how-to-factory-reset-tecno-spark-20-proplus-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Spark 20 Pro+ in 5 Easy Ways | Dr.fone</u></a></li>
 </ul></div>
+

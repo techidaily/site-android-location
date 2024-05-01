@@ -1,7 +1,7 @@
 ---
 title: 10 Fake GPS Location Apps on Android Of your Lava Blaze 2 Pro | Dr.fone
-date: 2024-04-11T23:18:41.269Z
-updated: 2024-04-12T23:18:41.269Z
+date: 2024-04-30T13:49:18.526Z
+updated: 2024-05-01T13:49:18.526Z
 tags: 
   - virtual location chang
   - location changer
@@ -851,3 +851,4 @@ There you go! After reading this guide, you would be able to mock GPS on your La
 <li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-motorola-razr-40-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>Fixing Persistent Pandora Crashes on Motorola Razr 40 | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nokia-xr21-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/" ><u>How to Transfer Data from Nokia XR21 to BlackBerry | Dr.fone</u></a></li>
 </ul></div>
+

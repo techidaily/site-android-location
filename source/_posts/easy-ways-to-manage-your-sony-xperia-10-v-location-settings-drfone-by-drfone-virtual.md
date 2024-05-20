@@ -1,7 +1,7 @@
 ---
 title: Easy Ways to Manage Your Sony Xperia 10 V Location Settings | Dr.fone
-date: 2024-04-30T13:52:32.430Z
-updated: 2024-05-01T13:52:32.430Z
+date: 2024-05-19T03:49:42.966Z
+updated: 2024-05-20T03:49:42.966Z
 tags: 
   - virtual location chang
   - location changer
@@ -416,4 +416,5 @@ There are varying purposes why you might want to fake your location. Luckily, se
 <li><a href="https://ai-video-apps.techidaily.com/updated-tiktok-video-size-and-aspect-ratio-a-beginners-guide/"><u>Updated TikTok Video Size and Aspect Ratio A Beginners Guide</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-infinix-hot-40-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Infinix Hot 40 Devices</u></a></li>
 </ul></div>
+
 

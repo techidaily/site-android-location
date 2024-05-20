@@ -1,7 +1,7 @@
 ---
 title: For People Wanting to Mock GPS on Sony Xperia 5 V Devices | Dr.fone
-date: 2024-04-30T13:54:53.784Z
-updated: 2024-05-01T13:54:53.784Z
+date: 2024-05-19T03:49:44.633Z
+updated: 2024-05-20T03:49:44.633Z
 tags: 
   - virtual location chang
   - location changer
@@ -654,4 +654,5 @@ There are varying purposes why you might want to fake your location. Luckily, se
 <li><a href="https://review-topics.techidaily.com/nubia-red-magic-8s-pro-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Nubia Red Magic 8S Pro support - Forgotten screen lock.</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Motorola Moto G23? | Dr.fone</u></a></li>
 </ul></div>
+
 

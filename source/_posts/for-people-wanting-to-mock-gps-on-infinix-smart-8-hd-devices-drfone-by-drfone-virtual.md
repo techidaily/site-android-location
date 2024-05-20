@@ -1,7 +1,7 @@
 ---
 title: For People Wanting to Mock GPS on Infinix Smart 8 HD Devices | Dr.fone
-date: 2024-04-30T13:54:15.200Z
-updated: 2024-05-01T13:54:15.200Z
+date: 2024-05-19T03:49:44.177Z
+updated: 2024-05-20T03:49:44.177Z
 tags: 
   - virtual location chang
   - location changer
@@ -612,4 +612,5 @@ If you are looking for a safe and reliable location changer, then use [Dr.Fone -
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-best-of-fcp-top-10-movies-edited-with-final-cut-pro/"><u>New In 2024, The Best of FCP Top 10 Movies Edited with Final Cut Pro</u></a></li>
 <li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-vivo-v30-lite-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Vivo V30 Lite 5G is off? | Dr.fone</u></a></li>
 </ul></div>
+
 

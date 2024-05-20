@@ -1,7 +1,7 @@
 ---
 title: In 2024, For People Wanting to Mock GPS on Sony Xperia 5 V Devices | Dr.fone
-date: 2024-04-30T14:05:26.034Z
-updated: 2024-05-01T14:05:26.034Z
+date: 2024-05-19T03:49:52.738Z
+updated: 2024-05-20T03:49:52.738Z
 tags: 
   - virtual location chang
   - location changer
@@ -453,4 +453,5 @@ This article has given you a basic knowledge related to the spoofing techniques 
 <li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-t2-pro-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo T2 Pro 5G Phones with/without a PC</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-trim-your-videos-for-free-10-best-online-video-editors/"><u>2024 Approved Trim Your Videos for Free 10 Best Online Video Editors</u></a></li>
 </ul></div>
+
 

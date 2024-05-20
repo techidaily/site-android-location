@@ -1,7 +1,7 @@
 ---
 title: For People Wanting to Mock GPS on Infinix Smart 8 Devices | Dr.fone
-date: 2024-04-30T13:54:15.009Z
-updated: 2024-05-01T13:54:15.009Z
+date: 2024-05-19T03:49:44.175Z
+updated: 2024-05-20T03:49:44.175Z
 tags: 
   - virtual location chang
   - location changer
@@ -708,4 +708,5 @@ These three are the most effective methods to fake GPS locations on Android. How
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-photos-from-apple-iphone-8-plus-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Photos from Apple iPhone 8 Plus to other iPhone without iCloud | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Tecno Spark 20 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

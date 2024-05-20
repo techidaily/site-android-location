@@ -1,7 +1,7 @@
 ---
 title: For People Wanting to Mock GPS on Lava Agni 2 5G Devices | Dr.fone
-date: 2024-04-30T13:54:18.703Z
-updated: 2024-05-01T13:54:18.703Z
+date: 2024-05-19T03:49:44.206Z
+updated: 2024-05-20T03:49:44.206Z
 tags: 
   - virtual location chang
   - location changer
@@ -570,4 +570,5 @@ There are varying purposes why you might want to fake your location. Luckily, se
 <li><a href="https://techidaily.com/how-to-reset-meizu-21-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Meizu 21 Pro without Losing Data | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-top-10-classical-animated-cartoon-types-with-examples/"><u>Updated Top 10 Classical Animated Cartoon Types With Examples</u></a></li>
 </ul></div>
+
 

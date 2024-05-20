@@ -1,7 +1,7 @@
 ---
 title: Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor Magic V2 | Dr.fone
-date: 2024-04-30T13:55:18.397Z
-updated: 2024-05-01T13:55:18.397Z
+date: 2024-05-19T03:49:44.965Z
+updated: 2024-05-20T03:49:44.965Z
 tags: 
   - virtual location chang
   - location changer
@@ -642,4 +642,5 @@ There you go! After reading this guide, you would be able to mock GPS on your Ho
 <li><a href="https://techidaily.com/how-to-factory-reset-honor-magic-6-lite-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Magic 6 Lite without Losing Data | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/does-honor-magic-6-lite-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Honor Magic 6 Lite Have Find My Friends? | Dr.fone</u></a></li>
 </ul></div>
+
 

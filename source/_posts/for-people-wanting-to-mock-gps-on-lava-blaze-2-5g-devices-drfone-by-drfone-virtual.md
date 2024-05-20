@@ -1,7 +1,7 @@
 ---
 title: For People Wanting to Mock GPS on Lava Blaze 2 5G Devices | Dr.fone
-date: 2024-04-30T13:54:18.898Z
-updated: 2024-05-01T13:54:18.898Z
+date: 2024-05-19T03:49:44.207Z
+updated: 2024-05-20T03:49:44.207Z
 tags: 
   - virtual location chang
   - location changer
@@ -373,4 +373,5 @@ There you go! After reading this guide, you would be able to mock GPS on your La
 <li><a href="https://ai-editing-video.techidaily.com/1713953881981-new-step-by-step-to-rotate-videos-using-obs-for-2024/"><u>New Step by Step to Rotate Videos Using OBS for 2024</u></a></li>
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-honor-90-lite-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Honor 90 Lite</u></a></li>
 </ul></div>
+
 

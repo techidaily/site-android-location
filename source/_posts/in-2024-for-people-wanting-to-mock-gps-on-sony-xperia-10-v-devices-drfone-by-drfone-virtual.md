@@ -1,7 +1,7 @@
 ---
 title: In 2024, For People Wanting to Mock GPS on Sony Xperia 10 V Devices | Dr.fone
-date: 2024-04-30T14:05:25.840Z
-updated: 2024-05-01T14:05:25.840Z
+date: 2024-05-19T03:49:52.737Z
+updated: 2024-05-20T03:49:52.737Z
 tags: 
   - virtual location chang
   - location changer
@@ -530,4 +530,5 @@ There you go! After reading this guide, you would be able to mock GPS on your So
 <li><a href="https://techidaily.com/best-fixes-for-tecno-pova-5-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Tecno Pova 5 Pro Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Infinix Smart 8? | Dr.fone</u></a></li>
 </ul></div>
+
 

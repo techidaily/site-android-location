@@ -1,7 +1,7 @@
 ---
 title: For People Wanting to Mock GPS on Infinix Smart 8 Plus Devices | Dr.fone
-date: 2024-04-30T13:54:15.395Z
-updated: 2024-05-01T13:54:15.395Z
+date: 2024-05-19T03:49:44.179Z
+updated: 2024-05-20T03:49:44.179Z
 tags: 
   - virtual location chang
   - location changer
@@ -439,4 +439,5 @@ This article has given you a basic knowledge related to the spoofing techniques 
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Realme GT Neo 5 | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Realme Note 50 | Dr.fone</u></a></li>
 </ul></div>
+
 

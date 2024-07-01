@@ -1,7 +1,7 @@
 ---
 title: Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Defy 2 | Dr.fone
-date: 2024-05-19T03:49:45.063Z
-updated: 2024-05-20T03:49:45.063Z
+date: 2024-06-30T13:24:17.696Z
+updated: 2024-07-01T13:24:17.696Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Defy 2
 excerpt: This article describes Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Defy 2
 keywords: fake gps location on android,change location on Defy 2,fake location on Defy 2,change gps location on android,change location on android,fake location on android
-thumbnail: https://www.lifewire.com/thmb/TtsVrd32qSZ-IgZ8x0AB3dHyQVs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-make-a-song-your-ringtone-on-android-4777573-5d571b57c5a5436e91ebb7fcae1c2b6b.jpg
+thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca322a8100dfaafbd0ac4bcb97.jpg
 ---
 
 ## Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Defy 2
@@ -147,7 +147,7 @@ It is compatible with almost all location-based apps, including Instagram, Snapc
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 

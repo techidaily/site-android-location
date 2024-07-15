@@ -1,7 +1,7 @@
 ---
 title: For People Wanting to Mock GPS on Infinix GT 10 Pro Devices | Dr.fone
-date: 2024-06-15T13:06:44.116Z
-updated: 2024-06-16T13:06:44.116Z
+date: 2024-07-14T03:12:08.038Z
+updated: 2024-07-15T03:12:08.038Z
 tags: 
   - virtual location chang
   - location changer
@@ -22,6 +22,9 @@ This is one of the many queries that we get from Infinix  users who wish to mock
 
 ![mock GPS on the map](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: What is Mock GPS on Infinix GT 10 Pro?
 
 As the name suggests, mock location simply means changing the present location of your device. A fake or mock GPS feature lets us select the present location of our device that would now act as its active location – instead of its actual one.
@@ -83,7 +86,7 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Infinix  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Infinix ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Infinix](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Infinix GT 10 Pro device.
 
@@ -97,6 +100,9 @@ Now, go to the Play Store app on your phone and look for a mock GPS app. I have 
 
 After successfully installing the mock GPS apk on your Infinix , go back to its Settings > Developer Options > Mock Location app and select the fake GPS location app that you have recently downloaded. This will allow the mock GPS app to change the location of your device.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change the location](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-7.jpg)
 
 Step 3: Fake location on your Infinix 
@@ -111,7 +117,7 @@ There you go! After reading this guide, you would be able to mock GPS on your In
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -194,10 +200,13 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Infinix  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Infinix ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Infinix](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Infinix GT 10 Pro device.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mock location field](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-5.jpg)
 
 Step 2: Install and Allow a Mock GPS App
@@ -222,7 +231,7 @@ There you go! After reading this guide, you would be able to mock GPS on your In
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -318,6 +327,9 @@ It is a Virtual Private Network and used for ages related to security needs. Thi
 
 The VPN provider will assist you by serving a new IP address to mask your location. The IP address (Internet Protocol) is a combination of numerals and alphabets separated by colon indicating the location of your device over the network. The original address is replaced with a new one directing to another location on the internet.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![IP address to mask your location](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-8.jpg)
 
 ### Difference between GPS Spoofing and VPN
@@ -326,7 +338,7 @@ The VPN provider will assist you by serving a new IP address to mask your locati
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -370,6 +382,9 @@ Now it is the perfect time to Fake your GPS location using the below guidelines
 
 Step 1: After successful installation of Lexa, tap the icon to trigger the app. The home screen of this app displays a map
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![trigger the app](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-14.jpg)
 
 Step 2: Click the ‘Set Location’ option and drag the pointer on the map as per your desire
@@ -419,3 +434,40 @@ This article has given you a basic knowledge related to the spoofing techniques 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unpacked-strategies-for-optimal-viewing-of-live-videos/"><u>[New] In 2024, Unpacked Strategies for Optimal Viewing of Live Videos</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-vivo-s17-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-real-time-streaming-on-facebook-simplified-2023-for-2024/"><u>[Updated] Real-Time Streaming on Facebook, Simplified 2023 for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-vivo-s17e-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-vivo-s17t-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-tecno-spark-20-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/pros-and-cons-free2webcam-software-analysis/"><u>Pros & Cons  Free2WebCam Software Analysis</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-tecno-spark-20c-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-vivo-g2-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-tecno-pop-7-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/streamline-capturing-and-saving-tweets-visuals-on-android-for-2024/"><u>Streamline  Capturing and Saving Tweets' Visuals on Android for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-premium-selection-of-mp4-devices/"><u>2024 Approved  Premium Selection of MP4 Devices</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-vivo-s18-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-tecno-spark-go-2023-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-shopping-spree-to-stardom-editing-your-haul-video-for-2024/"><u>From Shopping Spree to Stardom  Editing Your Haul Video for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-tecno-spark-10c-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-tecno-spark-20-proplus-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-premium-siri-recording-toolkit-for-pc-and-mac-users/"><u>New In 2024, Premium Siri Recording Toolkit for PC and Mac Users</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-tecno-pop-8-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-tecno-pova-6-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-tecno-spark-10-4g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-tecno-phantom-v-fold-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-vivo-s17-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-best-video-editing-software-for-effortless-reframing/"><u>Updated In 2024, Best Video Editing Software for Effortless Reframing</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-tecno-pova-5-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamlined-conversion-experience-superior-video-to-text-software/"><u>In 2024, Streamlined Conversion Experience  Superior Video-to-Text Software</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-tecno-pova-5-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-tecno-spark-20-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/make-a-lasting-impression-6-best-movie-intro-creation-tools/"><u>Make a Lasting Impression 6 Best Movie Intro Creation Tools</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-tecno-spark-10-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-tecno-spark-10-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-rising-to-fame-tiktoks-most-shared-reactions/"><u>[New] In 2024, Rising to Fame  TikTok's Most Shared Reactions</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-tecno-phantom-v-flip-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Tecno Phantom V Flip | Dr.fone</u></a></li>
+</ul></div>

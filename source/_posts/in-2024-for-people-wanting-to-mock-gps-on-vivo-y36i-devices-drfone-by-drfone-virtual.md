@@ -1,7 +1,7 @@
 ---
 title: In 2024, For People Wanting to Mock GPS on Vivo Y36i Devices | Dr.fone
-date: 2024-05-19T03:49:52.832Z
-updated: 2024-05-20T03:49:52.832Z
+date: 2024-07-14T04:17:45.595Z
+updated: 2024-07-15T04:17:45.595Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes For People Wanting to Mock GPS on Vivo Y36i Devices
 excerpt: This article describes For People Wanting to Mock GPS on Vivo Y36i Devices
 keywords: change location on Y36i,fake location on android,change gps location on android,change location on android,fake location on Y36i,fake gps location on android
-thumbnail: https://www.lifewire.com/thmb/x5hFLtVYVUkR-_nqhbxS_f11j5E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netgear-default-password-list-2619154-b581fdcf136848d29e944638cd2ad444.png
+thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe2bd45f2ec6f3eb305fb3d58.png
 ---
 
 ## For People Wanting to Mock GPS on Vivo Y36i Devices
@@ -28,6 +28,9 @@ As the name suggests, mock location simply means changing the present location o
 
 The good thing about Android phones is that they let us change the present location of our device, which helps us unlock various location-based restrictions. For instance, you can use a mock GPS app to catch more Pokemons, unlock a restricted content on Netflix, or access more profiles on dating apps like Tinder.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## Part 2: Any Precaution or Preparation for Mocking GPS on Vivo Y36i
 
 The mock GPS feature is not available in standard device settings. To access it, you first need to unlock Developer Options on your phone. This is because the mock GPS feature on Android is offered to developers to test the location of an app they are working on or any other need.
@@ -75,6 +78,9 @@ Last, but most importantly, check the feedback and the real-life experience of o
 
 ![affected apps](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Step by Step Guide to Mock GPS on Vivo Y36i
 
 Now when you are all prepped-up, you can easily learn how to mock GPS on a Vivo  phone. As stated above, the fake or mock GPS feature is only enabled in Developer Options on the Vivo Y36i device. Thus, you need to first turn on your Vivo ’s Developer Options and later pick a mock GPS app to fake the current location on your device. Here’s how you can fake location or mock GPS on your Vivo  phone:
@@ -83,7 +89,7 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Vivo  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Vivo ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Vivo](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Vivo Y36i device.
 
@@ -111,7 +117,7 @@ There you go! After reading this guide, you would be able to mock GPS on your Vi
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -165,7 +171,7 @@ It is compatible with almost all location-based apps, including Instagram, Snapc
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -211,6 +217,9 @@ The best part about this application is that you can use it without the "allow m
 - Incompatible with low-end devices
 - Too basic UI
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## #3 Fake GPS Run
 
 ![fake gps run app](https://images.wondershare.com/drfone/article/2022/01/fake-gps-android-3.jpg)
@@ -462,8 +471,11 @@ Have you ever wondered why Android monitor tools exist? Well, with the recent bo
 
 Also, to track the real location of kids/spouses/employees, phone monitoring Apps for Android come in handy. Android monitoring Apps help you spy on others’ smartphones, hack their photos, messages, call logs, Social App data, location, and browsing patterns. To know more, read and find out about the 9 best and free Android monitoring Apps.
 
-_You may be interested in: [Top 21 Mobile Device Spy Apps for iPhone/iPad/Android in 2022](https://drfone.wondershare.com/spy/best-mobile-spy-apps.html)_
+_You may be interested in: [Top 21 Mobile Device Spy Apps for iPhone/iPad/Android in 2022](https://drfone.wondershare.com/spy/best-mobile-spy-apps.html) _
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: mSpy
 
 [mSpy](http://mspy.go2cloud.org/SH96F) is a popular Android monitor and is very reliable and powerful. It can track messages, calls, WhatsApp, location, e-mails, etc, and is a one-stop solution to Android monitoring. It comes with free online help and instructions for initial installation. It can be accessed easily and satisfies trackers by giving them the convenience of remote monitoring. It helps you to know wits happening, prevent activities or protect your near and dear ones in times of need.
@@ -552,6 +564,9 @@ Lacks features as compared to other Android monitors.
 
 The app contains advertisements.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: iKey Monitor
 
 This Android monitor was initially an iPhone-only App and then was launched for Android later. It can spy Apps on kids’ phones and also record calls, messages, GPS locations, websites visited, etc. It can keep 50 logs saved at a time and helps to take screenshots for evidence without rooting your Android. This software is intended for legal use only and does not entertain hacking for illegal purposes.
@@ -745,3 +760,58 @@ We hope you find this guide useful. The tools listed above are the best phone mo
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-nubia-z50s-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-nokia-g42-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-nokia-g310-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/reel-to-perfection-selecting-the-best-video-editor-for-android-for-2024/"><u>Reel to Perfection  Selecting the Best Video Editor for Android for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-guide-to-enabling-high-dynamic-range-auto-hdr-on-windows-11/"><u>In 2024, Step-by-Step Guide to Enabling High Dynamic Range (Auto HDR) on Windows 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-live-broadcast-faceoff-obs-vs-shadowtoolkit/"><u>[Updated] In 2024, Live Broadcast Faceoff  OBS Vs. ShadowToolkit</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-nokia-c12-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-spotify-promos-your-comprehensive-guide/"><u>In 2024, Mastering Spotify Promos  Your Comprehensive Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-nokia-c110-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-nubia-red-magic-8s-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-nubia-red-magic-9-proplus-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-nokia-c22-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-nokia-c210-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-nokia-c32-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-nokia-c12-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-achieving-soft-sound-effects-in-audacity/"><u>2024 Approved  Achieving Soft Sound Effects in Audacity</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-navigating-discord-live-a-users-blueprint-for-2024/"><u>[Updated] Navigating Discord Live  A User's Blueprint for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oneplus-nord-3-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oneplus-nord-n30-se-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oneplus-ace-2-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-motorola-razr-40-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oneplus-11r-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-nokia-105-classic-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-nokia-c02-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oneplus-ace-2-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-claim-the-crown-strategies-for-staff-picked-videos-at-vimeo/"><u>[Updated] In 2024, Claim the Crown  Strategies for Staff-Picked Videos at Vimeo</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-nokia-g22-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oneplus-open-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-mastering-the-art-of-screensaver-recording-with-mobizen-technology/"><u>2024 Approved  Mastering the Art of Screensaver Recording with Mobizen Technology</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/gopro-vs-yi-4k-updated-review-of-ultimate-action-cams/"><u>GoPro Vs. Yi 4K  Updated Review of Ultimate Action Cams</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-boost-your-channels-income-understanding-critical-view-thresholds/"><u>[New] 2024 Approved  Boost Your Channel's Income  Understanding Critical View Thresholds</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oneplus-11-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oneplus-ace-2v-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-nubia-red-magic-9-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oneplus-ace-3-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oppo-a1-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-nokia-150-2023-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-nokia-xr21-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oneplus-nord-n30-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-nokia-c12-plus-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-motorola-razr-40-ultra-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-nokia-c300-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oneplus-12-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-youtube-sounds-into-imovie-tracks-swiftly-for-2024/"><u>Hitch YouTube Sounds Into iMovie Tracks Swiftly for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oneplus-12r-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-nokia-130-music-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-nubia-z50-ultra-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exceptional-audioscape-for-cinematic-videos/"><u>In 2024, Exceptional Audioscape for Cinematic Videos</u></a></li>
+</ul></div>

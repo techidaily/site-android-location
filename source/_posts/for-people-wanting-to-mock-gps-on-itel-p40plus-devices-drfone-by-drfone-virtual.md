@@ -1,7 +1,7 @@
 ---
 title: For People Wanting to Mock GPS on Itel P40+ Devices | Dr.fone
-date: 2024-05-19T03:49:44.196Z
-updated: 2024-05-20T03:49:44.196Z
+date: 2024-07-14T03:12:36.619Z
+updated: 2024-07-15T03:12:36.619Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes For People Wanting to Mock GPS on Itel P40+ Devices
 excerpt: This article describes For People Wanting to Mock GPS on Itel P40+ Devices
 keywords: fake location on P40+,fake location on android,change location on android,change location on P40+,change gps location on android,fake gps location on android
-thumbnail: https://www.lifewire.com/thmb/6mx5ubcqWIE245JjiBlgZpvI48I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Horserace-56ca33a85f9b5879cc4bcc6e.jpg
+thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea081222f679c45ec271effc3.jpg
 ---
 
 ## For People Wanting to Mock GPS on Itel P40+ Devices
@@ -83,10 +83,16 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Itel  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Itel ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Developer Options on your Itel](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Itel P40+ device.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mock location field](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-5.jpg)
 
 Step 2: Install and Allow a Mock GPS App
@@ -97,6 +103,9 @@ Now, go to the Play Store app on your phone and look for a mock GPS app. I have 
 
 After successfully installing the mock GPS apk on your Itel , go back to its Settings > Developer Options > Mock Location app and select the fake GPS location app that you have recently downloaded. This will allow the mock GPS app to change the location of your device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change the location](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-7.jpg)
 
 Step 3: Fake location on your Itel 
@@ -111,7 +120,7 @@ There you go! After reading this guide, you would be able to mock GPS on your It
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -145,7 +154,7 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both Android and iOS!
 
@@ -187,6 +196,9 @@ This fake location app allows you to switch locations easily. Therefore, it is a
 
 **Step 1:** Download the Fake GPS Location app from the Google Play Store on your Itel P40+. Use the search bar, and it will pop up amongst the search results.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use fake gps location](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-4.jpg)
 
 **Step 2:** After installation, select this app as your mock location app on your phone by exploring your device settings. Go to developer options on your Itel P40+ and tap on "Select mock location app". The next step is to choose Fake GPS Location from the displayed option.
@@ -239,7 +251,7 @@ _**Tips:** Discover the most effective way to fake GPS on Android without using 
 
 
 
-_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html)_
+_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html) _
 
 ## Part 4: Mock Location Feature on Different Android Models
 
@@ -289,7 +301,7 @@ If you think the way above is complicated for you, you can just use the easiest 
 
 There are varying purposes why you might want to fake your location. Luckily, several apps are available to **fake GPS on Android without mock location**. The best option for you would be the [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With this fake location app, you can access any third-party app and be in a whole different country from the comfort of your home. However, this article also provides you with other options you can explore.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## 10 Fake GPS Location Apps on Android Of your Itel P40+
 
@@ -333,7 +345,7 @@ It is compatible with almost all location-based apps, including Instagram, Snapc
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -528,6 +540,9 @@ Its free version offers only limited features, but with the premium version, you
 - The free version has fewer features
 - Ads in free version
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## #8 Fake GPS Free
 
 ![fake gps free app](https://images.wondershare.com/drfone/article/2022/01/fake-gps-android-8.jpg)
@@ -641,3 +656,58 @@ If you are looking for a safe and reliable location changer, then use [Dr.Fone -
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-s17-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-navigating-the-ban-barrier-strategies-for-unblocked-fb-life/"><u>[Updated] 2024 Approved  Navigating the Ban Barrier  Strategies for Unblocked FB Life</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-samsung-galaxy-a25-5g-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Samsung Galaxy A25 5G</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-spark-10c-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-s17-pro-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-a-gamers-treasure-chest-top-5-ways-to-record-vr-games-professionally-for-2024/"><u>[New] A Gamer's Treasure Chest  Top 5 Ways to Record VR Games Professionally for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-tutorial-on-editing-youtube-videos-for-2024/"><u>The Ultimate Tutorial on Editing YouTube Videos for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-quest-for-codec-perfection-is-av1-surpassing-vp9/"><u>The Quest for Codec Perfection  Is AV1 Surpassing VP9?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-spark-20-pro-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-addressing-distorted-media-on-youtube-platform/"><u>In 2024, Addressing Distorted Media on YouTube Platform</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-pova-5-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-g2-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-live-obs-video-on-instagram/"><u>[Updated] Live OBS Video on Instagram</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-infinix-hot-40-pro-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-phantom-v-flip-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-camon-20-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-pop-7-pro-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-spark-10-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-spark-10-4g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-camon-20-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-camon-20-premier-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-spark-20c-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-fix-disrupted-video-streams-in-instagram-reels/"><u>[New] In 2024, Fix Disrupted Video Streams in Instagram Reels</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-elevating-earning-strategies-for-snapchat-influencers-for-2024/"><u>[New] Elevating Earning Strategies for Snapchat Influencers for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-spark-go-2023-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-phantom-v-fold-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-maximizing-sound-immediately-the-best-volumetric-boost-software-compatible-with-windows/"><u>2024 Approved Maximizing Sound Immediately The Best Volumetric Boost Software Compatible with Windows</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-sony-xperia-10-v-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/nintendo-switch-pugilists-the-ultimate-10-game-guidebook-for-2024/"><u>Nintendo Switch Pugilists  The Ultimate 10-Game Guidebook for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-pop-8-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-s18-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-dissecting-the-technology-behind-frapss-screenshot-pro/"><u>[New] Dissecting the Technology Behind Fraps's Screenshot Pro</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-firefoxs-best-screen-recorders-roundup/"><u>[Updated] In 2024, Firefox's Best Screen Recorders Roundup</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-spark-20-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-screenskip-videocapturer-kit/"><u>2024 Approved  ScreenSkip Videocapturer Kit</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-spark-10-pro-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-camon-30-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-spark-20-proplus-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-the-art-of-converting-youtube-to-interactive-animated-gifs/"><u>[Updated] Mastering the Art of Converting YouTube to Interactive Animated GIFs</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-sony-xperia-5-v-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-pova-6-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-social-media-savvy-top-trending-hashtags-for-youtubers/"><u>[Updated] In 2024, Social Media Savvy  Top Trending Hashtags for Youtubers</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-s18-pro-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-sony-xperia-1-v-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-s17e-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-pova-5-pro-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-discovering-vn-video-editor-for-pc-a-brief-analysis/"><u>New 2024 Approved Discovering VN Video Editor for PC A Brief Analysis</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-s18e-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-ultimate-simplicity-guide-to-iphone-screen-recordings/"><u>[Updated] 2024 Approved  Ultimate Simplicity Guide to iPhone Screen Recordings</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-s17t-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo S17t | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: In 2024, For People Wanting to Mock GPS on Samsung Galaxy A05s Devices | Dr.fone
-date: 2024-05-19T03:49:52.669Z
-updated: 2024-05-20T03:49:52.669Z
+date: 2024-07-14T04:15:57.984Z
+updated: 2024-07-15T04:15:57.984Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes For People Wanting to Mock GPS on Samsung Galaxy A05s Devices
 excerpt: This article describes For People Wanting to Mock GPS on Samsung Galaxy A05s Devices
 keywords: fake gps location on android,change location on Galaxy A05s,change gps location on android,fake location on android,change location on android,fake location on Galaxy A05s
-thumbnail: https://www.lifewire.com/thmb/1giCJ_GI0g5IPS2wzD1NWNQqoBs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-see-who-shared-your-tiktok-5271091-8fc5445938ed433d830a2b5275079c62.jpg
+thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad7a99594a73a26d6b57f4450.jpg
 ---
 
 ## For People Wanting to Mock GPS on Samsung Galaxy A05s Devices
@@ -39,6 +39,9 @@ The mock GPS feature is not available in standard device settings. To access it,
 - A mock GPS app would consume more battery and memory on your device as well.
 - Some apps would even become unavailable to you and you might not be able to install them from Google Play.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mock GPS feature](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-2.jpg)
 
 ## Part 3: How to Find the Best Tool to Mock GPS on Samsung Galaxy A05s?
@@ -83,7 +86,7 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Samsung  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Samsung ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Samsung](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Samsung Galaxy A05s device.
 
@@ -111,7 +114,7 @@ There you go! After reading this guide, you would be able to mock GPS on your Sa
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -161,6 +164,9 @@ As the name already hints, this mode is best if you want to save the phone batte
 
 If you are in a place with poor Wi-Fi and Bluetooth networks, the best way to manage your android location settings is to turn on the Samsung Galaxy A05s device-only mode. This feature prioritizes the inbuilt GPS radio signals over other networks. It functions just like cars, but, minds you, it consumes more battery power than different modes and will perform best when you're outside.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Emergency Location services**
 
 When you dial or text an emergency number like 911, your device's location is available to emergency responders through Emergency Location Services. Only if local emergency responders rely on location data is this setting relevant. Even if you don't want your location to be shared with emergency services, your mobile provider has the option to do so.
@@ -179,6 +185,9 @@ First, you need to download and install **Dr.Fone - Virtual Location**, then run
 
 **Step 1**: Select "Virtual Location" from the drop-down menu, and connect your iPhone or Android phone to your computer through a USB cable. To begin, click "Get Started."
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Turn on the "virtual location" functionality.
@@ -365,7 +374,7 @@ Fake GPS Go Location Spoofer is a premium tool, but most of its functions are fr
 
 **Price**: Free
 
-![ fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
+![fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
 
 Fake GPS Location Professional is another free tool to deceive your GPS on Android devices. However, whenever you want to use it, you will have to go through Settings and mock your location manually every time.
 
@@ -379,7 +388,7 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 **Step 1. Install** the [**Fake GPS location by Lexa app**](https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en) from the Google Play store.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
 
 **Step 2**. Go to the **Developer option** on an Android device (**refer to the FAQ section** to learn how to enable Developer options on an Android device).
 
@@ -387,18 +396,18 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 - **Click on the Select mock location app option** to view all the Fake GPS locations installed on your Samsung Galaxy A05s.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
 
 - Add **Fake GPS Location by Lexa.**
 
-![ mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
+![mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
 
 **Step 4.** Close the Settings after adding the Fake GPS location by Lexa in Developer options.
 
 - **Open the Fake GPS Location by Lexa app.**
 - And **choose the desired fake location**.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
 
 ### 1\. How To Enable Developer Options In Android?
 
@@ -409,19 +418,22 @@ Here’s how to enable the developer option:
 - Open
 - **Go to System.**
 
-![ fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
+![fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
 
 - Navigate to **About Phone** and open it.
 
-![ fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
+![fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
 
 - Choose the **Software info**
 
-![ fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
+![fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
 
 - And click on **Build Number 7 times to see** the developer options screen.
 
-![ fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
 
 You can now access the Developer options directly in the Settings menu. Now, use the earlier method to set the location-spoofing app in the Developer options.
 
@@ -435,6 +447,9 @@ Dr. Fone’s Virtual Location is the best tool to prevent online services from d
 
 Yes. Dr. Fone's Virtual Location program is the best tool to fake your location on Grindr. It allows you to unlock several profiles at any desired location and discover more people.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ### 4\. Is it legal to fake GPS location on Android?
 
 Yes, as long as you are not using them to engage in criminal activities.
@@ -466,3 +481,41 @@ These three are the most effective methods to fake GPS locations on Android. How
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-a34-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-videos-freely-no-watermarks-with-these-10-trimmers-for-2024/"><u>Edit Videos Freely No Watermarks with These 10 Trimmers for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-essential-tactics-for-success-in-instagrams-video-discussions/"><u>[Updated] In 2024, Essential Tactics for Success in Instagram's Video Discussions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-cover-insta-peaks-iphoneandroid-edition-enhanced-features/"><u>2024 Approved  Cover Insta Peaks  IPhone/Android Edition, Enhanced Features</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-m14-4g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-m54-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-feedback-to-fanbase-the-video-journey/"><u>2024 Approved  From Feedback to Fanbase  The Video Journey</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-expert-mac-system-for-high-definition-screen-plus-audio-recording/"><u>[Updated] 2024 Approved  Expert Mac System for High Definition Screen + Audio Recording</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-pioneers-in-the-realm-of-multimedia-synergy-for-2024/"><u>[Updated] Pioneers in the Realm of Multimedia Synergy for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-syncing-tiktok-creativity-across-chrome-android-ios/"><u>[Updated] In 2024, Syncing TikTok Creativity Across Chrome, Android, iOS</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-a54-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-f54-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-step-by-step-guide-to-mobile-snapchat-screen-recording/"><u>[Updated] In 2024, Step-by-Step Guide to Mobile Snapchat Screen Recording</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-a23-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigate-sims-4-black-screen-fixes/"><u>Navigate Sims 4 Black Screen Fixes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-from-scenes-to-screenings-filming-across-os-ecosystems/"><u>2024 Approved  From Scenes to Screenings  Filming Across OS Ecosystems</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-a24-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-f14-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-establishing-baseline-metrics-for-igtv-effectiveness/"><u>[New] 2024 Approved  Establishing Baseline Metrics for IGTV Effectiveness</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-s23-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-a25-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-infinix-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Infinix</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-f04-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-m34-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-m14-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-f34-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-the-blueprint-to-viral-success-on-tiktok-best-quotes-reviewed/"><u>[Updated] In 2024, The Blueprint to Viral Success on TikTok  Best Quotes Reviewed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicate-windows-7-screen-flares/"><u>Eradicate Windows 7 Screen Flares</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-f15-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-add-freeze-frame-to-your-video-from-any-device/"><u>Updated In 2024, How to Add Freeze Frame to Your Video From Any Device?</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-m34-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-s23-fe-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+</ul></div>

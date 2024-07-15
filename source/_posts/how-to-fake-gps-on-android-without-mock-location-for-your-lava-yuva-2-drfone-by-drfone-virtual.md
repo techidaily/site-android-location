@@ -1,7 +1,7 @@
 ---
 title: How to Fake GPS on Android without Mock Location For your Lava Yuva 2 | Dr.fone
-date: 2024-06-23T05:34:10.421Z
-updated: 2024-06-24T05:34:10.421Z
+date: 2024-07-14T03:26:20.547Z
+updated: 2024-07-15T03:26:20.547Z
 tags: 
   - virtual location chang
   - location changer
@@ -60,6 +60,9 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 
 **Step 4:** After choosing an option, search for your preferred location in the search bar and press "Go" once you find it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 This would change your location automatically, and you’re ready to access third-party apps without compromising your location.
@@ -128,7 +131,7 @@ _**Tips:** Discover the most effective way to fake GPS on Android without using 
 
 
 
-_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html)_
+_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html) _
 
 ## Part 4: Mock Location Feature on Different Android Models
 
@@ -138,6 +141,9 @@ Accessing the mock location feature on different Android models isn’t always e
 
 Accessing the mock location feature on your Samsung or Moto device is relatively easy. First, you have to visit the ‘Developer Options’ page and navigate the ‘debugging’ option.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![locate mock location on samsung](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-7.jpg)
 
 ### 2\. LG
@@ -178,7 +184,7 @@ If you think the way above is complicated for you, you can just use the easiest 
 
 There are varying purposes why you might want to fake your location. Luckily, several apps are available to **fake GPS on Android without mock location**. The best option for you would be the [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With this fake location app, you can access any third-party app and be in a whole different country from the comfort of your home. However, this article also provides you with other options you can explore.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 
 
@@ -188,6 +194,9 @@ _“Hi! I'm Jack and I play Pokemon Go in between classes or whenever I get free
 
 This is one of the many queries that we get from Lava  users who wish to mock GPS on their phones. The good news is that on various Android phones, you can use a mock GPS apk to fake your location. Though, Lava  users need to be a bit cautious since the company has so many security restrictions. Don’t worry – I’m here to help you use the best mock GPS app for your phone. Read on to clear your doubts and enable the mock GPS provider on your phone like a pro!
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mock GPS on the map](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-1.jpg)
 
 ## Part 1: What is Mock GPS on Lava Yuva 2?
@@ -255,6 +264,9 @@ To start with, you need to enable the Developer Options on your Lava  phone. To 
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Lava Yuva 2 device.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mock location field](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-5.jpg)
 
 Step 2: Install and Allow a Mock GPS App
@@ -355,6 +367,9 @@ You can use Wi-Fi to connect the software to your iPhone once you've linked it t
 
 **Step 2**: You'll be taken to a new window where you can see a map of your current position. Click the "Center On" symbol in the lower right corner to see the proper place if it is not displayed correctly.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on get started button](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
 **Step 3:** Activate the "teleport mode" by swiping up and down and then clicking on the 2nd icon (the top right). Click "Go" to teleport to your location of choice.
@@ -390,3 +405,52 @@ Managing your android phone's location services can be super helpful to access s
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-motorola-edge-2023-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Motorola Edge 2023 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-motorola-razr-40-ultra-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Motorola Razr 40 Ultra Location Settings | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-from-beginners-to-pros-choosing-webcams-for-youtube-live/"><u>[New] 2024 Approved  From Beginners to Pros  Choosing Webcams for YouTube Live</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-motorola-g54-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Motorola G54 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-lenovo-thinkphone-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Lenovo ThinkPhone Location Settings | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-guide-to-sierras-cloud-documentation-and-drive-integration-for-2024/"><u>Expert Guide to Sierra's Cloud Documentation & Drive Integration for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-motorola-moto-g-stylus-5g-2023-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Motorola Moto G Stylus 5G (2023) Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-nokia-105-classic-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Nokia 105 Classic Location Settings | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/the-ultimate-checklist-for-pairing-airpods-with-laptops-and-desktops-for-2024/"><u>The Ultimate Checklist for Pairing AirPods with Laptops and Desktops for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-motorola-moto-g73-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Motorola Moto G73 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-nokia-130-music-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Nokia 130 Music Location Settings | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-comprehensive-guide-to-discovering-dazzling-and-downloadable-images-on-pexels/"><u>A Comprehensive Guide to Discovering Dazzling and Downloadable Images on Pexels</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-initiating-conversations-on-instagram-live/"><u>In 2024, Initiating Conversations on Instagram Live</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-meizu-21-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Meizu 21 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-tecno-spark-20-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Tecno Spark 20 Pro Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-motorola-moto-g04-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Motorola Moto G04 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-how-to-use-io-screen-recorder/"><u>[Updated] How to Use IO Screen Recorder</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-motorola-moto-g34-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Motorola Moto G34 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transforming-flat-text-into-3d-masterpieces-photo-for-2024/"><u>Transforming Flat Text Into 3D Masterpieces PHOTO for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-from-soundcloud-to-your-playlist-mp3-conversion-tips-for-2024/"><u>New From Soundcloud to Your Playlist MP3 Conversion Tips for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-motorola-razr-40-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Motorola Razr 40 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-motorola-moto-e13-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Motorola Moto E13 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-motorola-moto-g14-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Motorola Moto G14 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-motorola-moto-g84-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Motorola Moto G84 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-from-mundane-to-memorable-transform-your-social-media-identity-with-these-tips/"><u>[New] From Mundane to Memorable  Transform Your Social Media Identity with These Tips</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-oppo-reno-11f-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Oppo Reno 11F 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-motorola-moto-g13-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Motorola Moto G13 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-celebrating-matrimony-the-best-wedding-movies-from-youtube-to-vimeo/"><u>[New] In 2024, Celebrating Matrimony  The Best Wedding Movies From YouTube to Vimeo</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-a25-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy A25 5G Users</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-lava-yuva-3-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Lava Yuva 3 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/a-convenient-compilation-finding-your-yt-comments/"><u>A Convenient Compilation  Finding Your YT Comments</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-motorola-g24-power-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Motorola G24 Power Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-motorola-edge-40-neo-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Motorola Edge 40 Neo Location Settings | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-motorola-defy-2-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Motorola Defy 2 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-best-video-recording-gear-guide/"><u>2024 Approved  Best Video Recording Gear Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-motorola-moto-g23-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Motorola Moto G23 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-the-ultimate-guide-to-quieting-down-films-and-videos/"><u>Updated In 2024, The Ultimate Guide to Quieting Down Films and Videos</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-motorola-moto-g-stylus-2023-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Motorola Moto G Stylus (2023) Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-motorola-moto-g24-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Motorola Moto G24 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-meizu-21-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Meizu 21 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-nokia-150-2023-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Nokia 150 (2023) Location Settings | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/leading-tech-choices-for-virtual-meetings/"><u>Leading Tech Choices for Virtual Meetings</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-motorola-edge-40-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Motorola Edge 40 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-motorola-edge-40-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Motorola Edge 40 Location Settings | Dr.fone</u></a></li>
+</ul></div>

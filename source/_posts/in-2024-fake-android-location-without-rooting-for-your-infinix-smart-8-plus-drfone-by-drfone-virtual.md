@@ -1,7 +1,7 @@
 ---
 title: In 2024, Fake Android Location without Rooting For Your Infinix Smart 8 Plus | Dr.fone
-date: 2024-05-19T03:49:51.368Z
-updated: 2024-05-20T03:49:51.368Z
+date: 2024-07-14T04:06:12.863Z
+updated: 2024-07-15T04:06:12.863Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes Fake Android Location without Rooting For Your Infinix Smart 8 Plus
 excerpt: This article describes Fake Android Location without Rooting For Your Infinix Smart 8 Plus
 keywords: change location on Smart 8 Plus,fake location on Smart 8 Plus,change gps location on android,fake gps location on android,change location on android,fake location on android
-thumbnail: https://www.lifewire.com/thmb/ky9dx6TkOY6aQ-Ch6TfW7sMDBu8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-free-movies-on-youtube-5114491-12-811d37329347405eab1a368e3018dc54.jpg
+thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d15d4b0d06e6a3ab502cdbe2d.jpg
 ---
 
 ## Fake Android Location without Rooting For Your Infinix Smart 8 Plus
@@ -106,7 +106,7 @@ The VPN provider will assist you by serving a new IP address to mask your locati
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -154,12 +154,18 @@ Step 1: After successful installation of Lexa, tap the icon to trigger the app. 
 
 Step 2: Click the ‘Set Location’ option and drag the pointer on the map as per your desire
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drag the pointer on the map](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-15.jpg)
 
 Step 3: Save the changes and exit from App. Your Infinix Smart 8 Plus phone will display the new location address in the notification window.
 
 ![display the new location](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: How to fake Android location using VPN
 
 Step 1: Go to the Google Play store and choose an appropriate VPN provider compatible with your device
@@ -233,6 +239,9 @@ Since this is a location-based error, you can also consider resetting the locati
 
 Android users get the feature to set mock location on their phones, but it can also be a reason for getting the GPS not found 11 error. Therefore, if you are also getting the GPS signal not found 11 issue on your Android, then go to its Settings > Developer Options. From here, make sure that you have disabled any mock location app or settings on your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disable mock location android](https://images.wondershare.com/drfone/2020/disable-mock-location-android.jpg)
 
 ### Fix 5: Restart your Smartphone
@@ -367,7 +376,7 @@ The VPN provider will assist you by serving a new IP address to mask your locati
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -399,6 +408,9 @@ Activate the Mock Location option in Android
 
 Step 1: Go to the ‘Settings’ option in your Infinix Smart 8 Plus and choose ‘Developer Option’.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Activate the Mock Location option](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-12.jpg)
 
 Step 2: In the next screen enable the ‘Mock Location’ option to spoof the location details
@@ -421,6 +433,9 @@ Step 3: Save the changes and exit from App. Your Infinix Smart 8 Plus phone will
 
 ![display the new location](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: How to fake Android location using VPN
 
 Step 1: Go to the Google Play store and choose an appropriate VPN provider compatible with your device
@@ -460,3 +475,57 @@ This article has given you a basic knowledge related to the spoofing techniques 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-size-your-videos-youtubes-best-practices-unveiled/"><u>[New] In 2024, How to Size Your Videos  YouTube's Best Practices Unveiled</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-oppo-a59-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Oppo A59 5G Phone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-cutting-edge-techniques-for-aspiring-youtube-game-streamers/"><u>In 2024, Cutting-Edge Techniques for Aspiring YouTube Game Streamers</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-google-pixel-8-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Google Pixel 8 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-quick-fix-resizing-your-video-to-perfect-proportions/"><u>New 2024 Approved Quick Fix Resizing Your Video to Perfect Proportions</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-gionee-f3-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Gionee F3 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-improving-the-endurance-of-your-gopro-power-source/"><u>In 2024, Improving the Endurance of Your GoPro Power Source</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-selecting-the-ideal-aiff-converter-a-beginners-guide/"><u>New Selecting the Ideal AIFF Converter A Beginners Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-honor-magic-v2-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Honor Magic V2 Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/shades-and-tones-mastering-the-visual-spectrum-for-2024/"><u>Shades and Tones  Mastering the Visual Spectrum for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-google-pixel-8-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Google Pixel 8 Devices | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/deciphering-the-secrets-to-your-personalized-tiktok-code-for-2024/"><u>Deciphering the Secrets to Your Personalized TikTok Code for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-honor-90-gt-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Honor 90 GT Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-zte-nubia-z60-ultra-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-7-plus-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Data from Apple iPhone 7 Plus to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-zte-axon-40-lite-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-honor-80-pro-straight-screen-edition-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Honor 80 Pro Straight Screen Edition Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-honor-90-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Honor 90 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-honor-magic-5-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Honor Magic 5 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-honor-magic-5-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Honor Magic 5 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-zte-blade-a73-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-asus-rog-phone-7-ultimate-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Asus ROG Phone 7 Ultimate Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-honor-magic-6-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Honor Magic 6 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-asus-rog-phone-7-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Asus ROG Phone 7 Devices | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-premier-strategies-in-sport-broadcasting-technology/"><u>[Updated] In 2024, Premier Strategies in Sport Broadcasting Technology</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-vivo-y27-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Vivo Y27 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/2024-approved-saving-youtube-audio-made-easy-a-tutorial/"><u>2024 Approved Saving YouTube Audio Made Easy A Tutorial</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-honor-magic-6-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Honor Magic 6 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-honor-magic-5-lite-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Honor Magic 5 Lite Devices | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-itel-a60s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-honor-70-lite-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Honor 70 Lite 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-simplified-techniques-for-using-the-io-screener/"><u>In 2024, Simplified Techniques for Using the IO Screener</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-action-to-archive-top-screen-recording-tools-assessed-for-2024/"><u>[Updated] Action to Archive  Top Screen Recording Tools Assessed for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-google-pixel-7a-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Google Pixel 7a Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-honor-magic-6-lite-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Honor Magic 6 Lite Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-asus-rog-phone-8-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Asus ROG Phone 8 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-honor-90-lite-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Honor 90 Lite Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-zte-nubia-flip-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-asus-rog-phone-8-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Asus ROG Phone 8 Devices | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oppo-reno-9a-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Oppo Reno 9A Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-google-pixel-fold-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Google Pixel Fold Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-honor-100-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Honor 100 Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-live-sounds-made-simple-the-ultimate-guide-to-digital-recording-for-2024/"><u>[Updated] Live Sounds Made Simple  The Ultimate Guide to Digital Recording for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-vivo-y27-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-honor-90-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Honor 90 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-honor-magic-vs-2-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Honor Magic Vs 2 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-honor-100-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Honor 100 Pro Devices | Dr.fone</u></a></li>
+</ul></div>

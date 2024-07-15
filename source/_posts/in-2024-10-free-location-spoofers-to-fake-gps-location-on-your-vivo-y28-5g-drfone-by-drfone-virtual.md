@@ -1,7 +1,7 @@
 ---
 title: In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo Y28 5G | Dr.fone
-date: 2024-05-19T03:49:48.501Z
-updated: 2024-05-20T03:49:48.501Z
+date: 2024-07-14T03:44:07.560Z
+updated: 2024-07-15T03:44:07.560Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes 10 Free Location Spoofers to Fake GPS Location on your Vivo Y28 5G
 excerpt: This article describes 10 Free Location Spoofers to Fake GPS Location on your Vivo Y28 5G
 keywords: change location on Y28 5G,fake gps location on android,change gps location on android,fake location on Y28 5G,change location on android,fake location on android
-thumbnail: https://www.lifewire.com/thmb/T-vk6tcRBceJKhDueci3J9FGWK4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-454939687-56cac7b03df78cfb37988474.jpg
+thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c6533fd74096afaf9205f685325.jpg
 ---
 
 ## 10 Free Location Spoofers to Fake GPS Location on your Vivo Y28 5G
@@ -37,6 +37,9 @@ Before you get to know about the best fake GPS spoofer apps for Android, it is i
 
 Without much ado, let’s get to know about some of the best fake location spoofer apps that you can use for free.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fake GPS Location by Lexa
 
 If you are looking for a reliable and lightweight fake GPS location spoofer free app, then give this one a go. The app works smoothly on most of the Android devices even if they are not rooted.
@@ -58,7 +61,7 @@ Download link: [https://play.google.com/store/apps/details?id=com.lexa.fakegps](
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -107,7 +110,7 @@ Download link: [https://play.google.com/store/apps/details?id=org.hola.gpslocati
 
 ![Fake GPS by Hola](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-4.jpg)
 
-### [Fake GPS Location Spoofer](https://drfone.wondershare.com/fake-location/fake-gps-location-spoofer.html)
+### Fake GPS Location Spoofer
 
 If you are looking for a lightweight, reliable, and user-friendly location spoofer, then you can give this app a try. It has been recently updated to provide support for most gaming and dating apps.
 
@@ -257,7 +260,15 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both Android and iOS!
 
@@ -309,6 +320,18 @@ _**App Link:** <https://play.google.com/store/apps/details?id=com.lexa.fakegps&h
 
 ### 2\. Fake Location Using Floater
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use floater fake gps location](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-5.png)
 
 This is another effective fake GPS app that you can use to fake GPS. It works as a floating window above games and third-party apps. With Floater, you can change your location to a place globally. Additionally, you can save your favorite locations and test apps without locking onto a GPS signal. This feature is great for developers. Additionally, Floater can fake GPS location when you’re tagging pictures. It shows you any part of the world you want so you can pick where you want people to think you are.
@@ -351,7 +374,7 @@ _**Tips:** Discover the most effective way to fake GPS on Android without using 
 
 
 
-_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html)_
+_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html) _
 
 ## Part 4: Mock Location Feature on Different Android Models
 
@@ -361,6 +384,9 @@ Accessing the mock location feature on different Android models isn’t always e
 
 Accessing the mock location feature on your Samsung or Moto device is relatively easy. First, you have to visit the ‘Developer Options’ page and navigate the ‘debugging’ option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![locate mock location on samsung](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-7.jpg)
 
 ### 2\. LG
@@ -401,7 +427,7 @@ If you think the way above is complicated for you, you can just use the easiest 
 
 There are varying purposes why you might want to fake your location. Luckily, several apps are available to **fake GPS on Android without mock location**. The best option for you would be the [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With this fake location app, you can access any third-party app and be in a whole different country from the comfort of your home. However, this article also provides you with other options you can explore.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 
 
@@ -447,7 +473,7 @@ It is compatible with almost all location-based apps, including Instagram, Snapc
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -522,6 +548,9 @@ For rooted phones, you can fake locations without enabling "Allow mock locations
 - Contains ads
 - Lack of advanced features
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## #4 Fake GPS 360
 
 ![fake gps 360 app](https://images.wondershare.com/drfone/article/2022/01/fake-gps-android-4.jpg)
@@ -755,3 +784,55 @@ If you are looking for a safe and reliable location changer, then use [Dr.Fone -
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-s18-pro-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-s17-pro-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-tecno-spark-go-2023-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-tecno-spark-10-4g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-tecno-spark-20c-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-s17e-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-next-gen-editing-experience-reviewed-magix-video-pro-x/"><u>[Updated] Next-Gen Editing Experience Reviewed  Magix Video Pro X</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-y100i-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo Y100i Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-capture-and-convert-photos-into-dynamic-videos-in-pixiz-for-2024/"><u>[Updated] Capture and Convert  Photos Into Dynamic Videos in Pixiz for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-monitoring-and-alerts-for-2024/"><u>[New] Monitoring and Alerts for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-tecno-pova-6-pro-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-tecno-spark-20-proplus-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-tecno-spark-10-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-t2-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-samsung-galaxy-a05s-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-harnessing-ambiance-with-thoughtful-lighting/"><u>2024 Approved  Harnessing Ambiance with Thoughtful Lighting</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-tecno-pova-5-pro-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-v27e-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-v27-pro-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-google-meet-on-youtube-streaming-made-easy-step-by-step/"><u>2024 Approved  Google Meet on YouTube  Streaming Made Easy, Step by Step</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-s18-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-tecno-pova-5-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-s17-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-s17t-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/conquer-youtube-with-creator-studio-a-comprehensive-guide-for-2024/"><u>Conquer YouTube with Creator Studio  A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-tecno-phantom-v-flip-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-tecno-spark-20-pro-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-tecno-spark-20-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-tecno-spark-10-pro-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-tecno-pop-7-pro-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-tecno-pop-8-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-tecno-camon-20-pro-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-g2-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unpacking-facebooks-freshest-features-in-top-vids-for-2024/"><u>[New] Unpacking Facebook's Freshest Features in Top Vids for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-v29-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-tecno-camon-30-pro-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-tecno-camon-20-premier-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-v27-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-sony-xperia-5-v-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-building-your-digital-identity-start-a-youtube-channel-today/"><u>[New] 2024 Approved  Building Your Digital Identity  Start a YouTube Channel Today</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-s18e-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-t2x-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/upload-longer-video-to-youtube-as-you-wished-for-2024/"><u>Upload Longer Video to YouTube As You Wished for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-tecno-phantom-v-fold-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-tecno-spark-10c-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-t2-pro-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-stay-active-with-the-best-motion-tracking-apps-on-android-and-ios/"><u>2024 Approved Stay Active with the Best Motion Tracking Apps on Android and iOS</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-tecno-camon-20-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Tecno Camon 20 | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: 10 Free Location Spoofers to Fake GPS Location on your Motorola Moto G13 | Dr.fone
-date: 2024-05-19T03:49:39.477Z
-updated: 2024-05-20T03:49:39.477Z
+date: 2024-07-14T02:39:18.038Z
+updated: 2024-07-15T02:39:18.038Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes 10 Free Location Spoofers to Fake GPS Location on your Motorola Moto G13
 excerpt: This article describes 10 Free Location Spoofers to Fake GPS Location on your Motorola Moto G13
 keywords: change location on Moto G13,change gps location on android,fake location on android,change location on android,fake location on Moto G13,fake gps location on android
-thumbnail: https://www.lifewire.com/thmb/d9lJRl6RYaLlK-VFLlHiI4bbn1o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-halloween-live-wallpaper-for-2019-4691483-019a40e91504436ca9fc9f1944d89c15.jpg
+thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c30695c76166aa925348b0ff1b74.jpg
 ---
 
 ## 10 Free Location Spoofers to Fake GPS Location on your Motorola Moto G13
@@ -58,7 +58,7 @@ Download link: [https://play.google.com/store/apps/details?id=com.lexa.fakegps](
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -107,7 +107,7 @@ Download link: [https://play.google.com/store/apps/details?id=org.hola.gpslocati
 
 ![Fake GPS by Hola](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-4.jpg)
 
-### [Fake GPS Location Spoofer](https://drfone.wondershare.com/fake-location/fake-gps-location-spoofer.html)
+### Fake GPS Location Spoofer
 
 If you are looking for a lightweight, reliable, and user-friendly location spoofer, then you can give this app a try. It has been recently updated to provide support for most gaming and dating apps.
 
@@ -123,6 +123,9 @@ Play Store Rating: 3.7
 
 Download link: [https://play.google.com/store/apps/details?id=com.incorporateapps.fakegps.fre](https://play.google.com/store/apps/details?id=com.incorporateapps.fakegps.fre)
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fake GPS Go](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-5.jpg)
 
 ### Fake GPS Location
@@ -233,6 +236,9 @@ Play Store Rating: 3.8
 
 Download link: [https://play.google.com/store/apps/details?id=com.pe.fakegps](https://play.google.com/store/apps/details?id=com.pe.fakegps)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fake GPS 360](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-11.jpg)
 
 This brings us to the end of this extensive post about the best GPS spoofer apps. Now when you know about the top 10 location spoofer apps for Android, you can easily pick an ideal solution. For your convenience, we have only listed the fake GPS location spoofer free apps. Some of these apps are entirely free while others would need a premium subscription for their advanced features. Feel free to give some of them a try and pick the best GPS spoofer for your device.
@@ -279,7 +285,7 @@ It is compatible with almost all location-based apps, including Instagram, Snapc
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -383,6 +389,9 @@ With Fake GPS 360, you can choose any location of your choice on your Motorola M
 
 ## #5 Fake GPS Location by Lexa
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fake gps location by lexa](https://images.wondershare.com/drfone/article/2022/01/fake-gps-android-5.jpg)
 
 **Rating – 4.6**
@@ -411,6 +420,9 @@ With this fake GPS app, you can set the movement of any location. It means you c
 - Location restores errors
 - Unattractive UI
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## #6 Fake GPS Joystick
 
 ![fake gps joystick](https://images.wondershare.com/drfone/article/2022/01/fake-gps-android-6.jpg)
@@ -636,6 +648,9 @@ As mentioned, Dr. Fone Virtual Location program can do more than just mock your 
 
 That said, scroll down to discover other two methods to fake GPS location on Android devices, such as Samsung, [Xiaomi](https://drfone.wondershare.com/fake-location/how-to-fake-gps-location-on-xiaomi.html), etc.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solution 2: Change location on Android phone by VPNs
 
 Although all the VPNs claim to fake GPS on Android, only a few in the market can do it effectively.
@@ -732,7 +747,7 @@ Fake GPS Go Location Spoofer is a premium tool, but most of its functions are fr
 
 **Price**: Free
 
-![ fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
+![fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
 
 Fake GPS Location Professional is another free tool to deceive your GPS on Android devices. However, whenever you want to use it, you will have to go through Settings and mock your location manually every time.
 
@@ -746,7 +761,7 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 **Step 1. Install** the [**Fake GPS location by Lexa app**](https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en) from the Google Play store.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
 
 **Step 2**. Go to the **Developer option** on an Android device (**refer to the FAQ section** to learn how to enable Developer options on an Android device).
 
@@ -754,18 +769,18 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 - **Click on the Select mock location app option** to view all the Fake GPS locations installed on your Motorola Moto G13.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
 
 - Add **Fake GPS Location by Lexa.**
 
-![ mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
+![mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
 
 **Step 4.** Close the Settings after adding the Fake GPS location by Lexa in Developer options.
 
 - **Open the Fake GPS Location by Lexa app.**
 - And **choose the desired fake location**.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
 
 ### 1\. How To Enable Developer Options In Android?
 
@@ -776,19 +791,19 @@ Here’s how to enable the developer option:
 - Open
 - **Go to System.**
 
-![ fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
+![fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
 
 - Navigate to **About Phone** and open it.
 
-![ fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
+![fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
 
 - Choose the **Software info**
 
-![ fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
+![fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
 
 - And click on **Build Number 7 times to see** the developer options screen.
 
-![ fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
+![fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
 
 You can now access the Developer options directly in the Settings menu. Now, use the earlier method to set the location-spoofing app in the Developer options.
 
@@ -831,3 +846,43 @@ These three are the most effective methods to fake GPS locations on Android. How
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oneplus-nord-n30-se-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-pioneering-online-video-secrets-for-youtubes-spherical-livestreaming-techniques-for-2024/"><u>[Updated] Pioneering Online Video  Secrets for YouTube's Spherical Livestreaming Techniques for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionary-methods-for-breaking-barriers-in-gif-making/"><u>In 2024, Revolutionary Methods for Breaking Barriers in GIF Making</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oppo-a78-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-vivo-y78-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Vivo Y78 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-facebook-registration-simplified-for-2024/"><u>[New] Facebook Registration Simplified for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-elevate-your-ears-10-pro-tips-for-excellent-sound-quality/"><u>[New] Elevate Your Ears  10 Pro Tips for Excellent Sound Quality</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oneplus-open-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oppo-a1-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-spark-ar-graphics-mastering-the-art-with-downloadable-color-lookups/"><u>2024 Approved  Spark AR Graphics  Mastering the Art with Downloadable Color Lookups</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oneplus-nord-n30-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-screenrec-for-lactops-your-step-by-step-guide/"><u>[New] ScreenRec for Lactops  Your Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oppo-a56s-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oppo-a18-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-lava-blaze-2-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Lava Blaze 2 Pro to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-photography-clarity-revolution-best-fixers-of-the-web-age/"><u>[Updated] 2024 Approved  Photography Clarity Revolution  Best Fixers of the Web Age</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-cool-down-with-these-top-rated-stress-erasers/"><u>[New] 2024 Approved  Cool Down with These Top-Rated Stress Erasers</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oppo-f25-pro-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/video-streaming-sonic-database-youtube-for-2024/"><u>Video Streaming Sonic Database - YouTube for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-off-mode-how-to-deactivate-igtv/"><u>[Updated] 2024 Approved  Off Mode  How to Deactivate IGTV</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oppo-a79-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oppo-find-n3-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oppo-a1x-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oppo-a38-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oneplus-nord-3-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oppo-a58-4g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oppo-f23-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-itel-p55plus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Itel P55+ to iPhone | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-getting-started-with-youtube-tv-a-must-read-article/"><u>[Updated] In 2024, Getting Started with YouTube TV  A Must-Read Article</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oppo-a78-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oppo-a59-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-the-dark-we-trust-iphone-photography/"><u>In 2024, In the Dark We Trust, iPhone Photography</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oppo-a2-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Oppo A2 | Dr.fone</u></a></li>
+</ul></div>

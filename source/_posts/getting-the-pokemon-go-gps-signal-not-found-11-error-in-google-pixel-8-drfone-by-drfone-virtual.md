@@ -1,7 +1,7 @@
 ---
 title: Getting the Pokemon Go GPS Signal Not Found 11 Error in Google Pixel 8 | Dr.fone
-date: 2024-05-19T03:49:44.891Z
-updated: 2024-05-20T03:49:44.891Z
+date: 2024-07-14T03:18:09.127Z
+updated: 2024-07-15T03:18:09.127Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes Getting the Pokemon Go GPS Signal Not Found 11 Error in Google Pixel 8
 excerpt: This article describes Getting the Pokemon Go GPS Signal Not Found 11 Error in Google Pixel 8
 keywords: change location on android,change gps location on android,fake gps location on android,fake location on android,change location on Pixel 8,fake location on Pixel 8
-thumbnail: https://www.lifewire.com/thmb/td12YpTj-yP7iyxYOnjHj9dHoA4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/streamfreesportsonline-5b1994178023b900364a81e5.jpg
+thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f71196cdaae4af6176a3b33bf.jpg
 ---
 
 ## Getting the Pokemon Go GPS Signal Not Found 11 Error in Google Pixel 8
@@ -45,6 +45,9 @@ The simplest way to fix the Pokemon Go GPS not found 11 issue is by restarting t
 
 ![close pokemon go app](https://images.wondershare.com/drfone/2020/close-pokemon-go-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Update or Reinstall the Pokemon Go app
 
 If you are using a corrupt or outdated Pokemon Go app, then you can get the GPS not found 11 error as well. Firstly, you can just go to the App/Play Store, look for Pokemon Go, and update the app.
@@ -105,6 +108,9 @@ If you use an iOS device and are getting the Pokemon Go GPS signal not found 11 
 
 I’m sure that after reading this troubleshooting post, you would be able to fix the Pokemon Go GPS signal not found 11 error on Android or iOS devices. I have included app and device-related solutions to resolve the GPS not found 11 issues. Though, if it still persists, then you can try [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) (iOS) to manually change the location of your iPhone without jailbreaking it.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## For People Wanting to Mock GPS on Google Pixel 8 Devices
 
 _“Hi! I'm Jack and I play Pokemon Go in between classes or whenever I get free time from school. A lot of my friends use mock GPS on their phones to catch more Pokemons, but somehow I can’t seem to do the same. Can I also fake my location or use the mock GPS feature on my Google ?”_
@@ -113,6 +119,9 @@ This is one of the many queries that we get from Google  users who wish to mock 
 
 ![mock GPS on the map](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: What is Mock GPS on Google Pixel 8?
 
 As the name suggests, mock location simply means changing the present location of your device. A fake or mock GPS feature lets us select the present location of our device that would now act as its active location – instead of its actual one.
@@ -130,6 +139,9 @@ The mock GPS feature is not available in standard device settings. To access it,
 - A mock GPS app would consume more battery and memory on your device as well.
 - Some apps would even become unavailable to you and you might not be able to install them from Google Play.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mock GPS feature](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-2.jpg)
 
 ## Part 3: How to Find the Best Tool to Mock GPS on Google Pixel 8?
@@ -174,7 +186,7 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Google  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Google ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Google](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Google Pixel 8 device.
 
@@ -184,6 +196,9 @@ Step 2: Install and Allow a Mock GPS App
 
 Now, go to the Play Store app on your phone and look for a mock GPS app. I have tried and tested the Fake GPS Location app by Lexa. If you want, you can install the same freely available mock GPS app or try any other app as well.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mock GPS app](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-6.jpg)
 
 After successfully installing the mock GPS apk on your Google , go back to its Settings > Developer Options > Mock Location app and select the fake GPS location app that you have recently downloaded. This will allow the mock GPS app to change the location of your device.
@@ -202,7 +217,7 @@ There you go! After reading this guide, you would be able to mock GPS on your Go
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -220,7 +235,7 @@ Have you ever wondered why Android monitor tools exist? Well, with the recent bo
 
 Also, to track the real location of kids/spouses/employees, phone monitoring Apps for Android come in handy. Android monitoring Apps help you spy on others’ smartphones, hack their photos, messages, call logs, Social App data, location, and browsing patterns. To know more, read and find out about the 9 best and free Android monitoring Apps.
 
-_You may be interested in: [Top 21 Mobile Device Spy Apps for iPhone/iPad/Android in 2022](https://drfone.wondershare.com/spy/best-mobile-spy-apps.html)_
+_You may be interested in: [Top 21 Mobile Device Spy Apps for iPhone/iPad/Android in 2022](https://drfone.wondershare.com/spy/best-mobile-spy-apps.html) _
 
 ## Part 1: mSpy
 
@@ -503,3 +518,55 @@ We hope you find this guide useful. The tools listed above are the best phone mo
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-asus-rog-phone-8-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-civi-3-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Civi 3 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/streamline-your-video-submissions-adding-imovie-content-to-vimeo-for-2024/"><u>Streamline Your Video Submissions  Adding iMovie Content to Vimeo for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-90-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-14-ultra-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi 14 Ultra Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-a2plus-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi A2+ Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-note-12t-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi Note 12T Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-k70e-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi K70E Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-k70-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi K70 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-asus-rog-phone-7-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-note-13-proplus-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi Note 13 Pro+ 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-demystifying-the-process-of-full-degree-videography-in-adobe-premiere/"><u>2024 Approved  Demystifying the Process of Full Degree Videography in Adobe Premiere</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-note-13-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi Note 13 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-note-13-pro-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi Note 13 Pro 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-xiaomi-redmi-note-12t-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Xiaomi Redmi Note 12T Pro Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-samsung-galaxy-xcover-6-pro-tactical-edition-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Samsung Galaxy XCover 6 Pro Tactical Edition Device</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-how-to-share-images-from-phone-snapshots-seamlessly/"><u>[New] In 2024, How To Share Images From Phone Snapshots Seamlessly</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-note-12r-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi Note 12R Location Settings | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-avoid-the-fake-out-maintaining-authenticity-in-likes/"><u>[New] 2024 Approved  Avoid the Fake-Out  Maintaining Authenticity in Likes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-complete-guide-to-drone-racing-plus-high-speed-fpv-drones/"><u>[New] The Complete Guide to Drone Racing + High-Speed FPV Drones</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-screenrecorderpro-a-detailed-analysis-of-video-capture-software/"><u>In 2024, ScreenRecorderPro  A Detailed Analysis of Video Capture Software</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-note-12-4g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi Note 12 4G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-12-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi 12 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-13c-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi 13C 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-zte-nubia-z60-ultra-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your ZTE Nubia Z60 Ultra Location Settings | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/elevate-your-videos-the-essential-guide-to-screencasts-today-for-2024/"><u>Elevate Your Videos  The Essential Guide to Screencasts Today for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-create-cartoons-like-a-pro-top-10-tools-for-pc-and-web/"><u>Updated In 2024, Create Cartoons Like a Pro Top 10 Tools for PC and Web</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-note-12-pro-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi Note 12 Pro 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-zte-nubia-flip-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your ZTE Nubia Flip 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-note-12-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi Note 12 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-civi-3-disney-100th-anniversary-edition-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Civi 3 Disney 100th Anniversary Edition Location Settings | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/gender-diversity-in-streaming-celebrating-top-10-females/"><u>Gender Diversity in Streaming  Celebrating Top 10 Females</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-kinemaster-for-everyday-memers/"><u>[New] In 2024, KineMaster for Everyday Memers</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-12-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi 12 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/fortune-on-screen-achieving-youtube-earnings-unlinked-from-ads-for-2024/"><u>Fortune on Screen  Achieving YouTube Earnings Unlinked From Ads for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-note-12-proplus-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi Note 12 Pro+ 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ealities-of-youtube-view-calculation/"><u>The Realities of YouTube View Calculation</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-mix-fold-3-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Mix Fold 3 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-k70-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi K70 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-13c-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi 13C Location Settings | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-unlocking-viral-videos-2-powerful-ways-to-master-tiktok-react-creation-in-filmora-for-2024/"><u>[New] Unlocking Viral Videos  2 Powerful Ways to Master TikTok React Creation in Filmora for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-note-12-pro-4g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi Note 12 Pro 4G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-easy-steps-to-create-intro-video-with-after-effects/"><u>Updated 2024 Approved Easy Steps to Create Intro Video with After Effects</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-zte-blade-a73-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your ZTE Blade A73 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-zte-axon-40-lite-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your ZTE Axon 40 Lite Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-a2-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi A2 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Vivo Y200e 5G | Dr.fone</u></a></li>
+</ul></div>

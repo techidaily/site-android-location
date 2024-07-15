@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fake GPS on Android without Mock Location For your Nokia C12 | Dr.fone
-date: 2024-03-24 17:26:23
-updated: 2024-03-25 14:32:49
+date: 2024-07-14T04:27:17.662Z
+updated: 2024-07-15T04:27:17.662Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Fake GPS on Android without Mock Location For your Nokia C12
 excerpt: This article describes How to Fake GPS on Android without Mock Location For your Nokia C12
 keywords: fake gps location on android,fake location on C12,change location on C12,fake location on android,change location on android,change gps location on android
-thumbnail: https://www.lifewire.com/thmb/Z0ZdjJb5nz4Ek2qcGOTaqnhoZ04=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1164718779-aa87dac78cd44ad7b71e76c27adc7e9a.jpg
+thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7f00706449676a59eeb923d9.jpg
 ---
 
 ## How to Fake GPS on Android without Mock Location For your Nokia C12
@@ -34,7 +34,7 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both Android and iOS!
 
@@ -68,6 +68,18 @@ This would change your location automatically, and you’re ready to access thir
 
 ## Part 3: Using Fake Location Apps to Fake GPS Without Mock Location
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Fake Location App
 
 Apart from Dr.Fone - Virtual Location, another app you can use to fake GPS without mock location-enabled is Fake GPS Location. This app is quite common as many people use it to [fake GPS Android](https://drfone.wondershare.com/virtual-location/fake-gps-android.html). Downloading this app is easy because you can get it from Google Play Store.
@@ -92,6 +104,9 @@ This is another effective fake GPS app that you can use to fake GPS. It works as
 
 _**App Link:** <https://play.google.com/store/apps/details?id=com.marlon.floating.fake.location&hl=en>_
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ### 3\. Fake GPS Location with GPS Joystick
 
 ![use fake location with gps joystick](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-6.jpg)
@@ -128,7 +143,7 @@ _**Tips:** Discover the most effective way to fake GPS on Android without using 
 
 
 
-_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html)_
+_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html) _
 
 ## Part 4: Mock Location Feature on Different Android Models
 
@@ -178,7 +193,7 @@ If you think the way above is complicated for you, you can just use the easiest 
 
 There are varying purposes why you might want to fake your location. Luckily, several apps are available to **fake GPS on Android without mock location**. The best option for you would be the [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With this fake location app, you can access any third-party app and be in a whole different country from the comfort of your home. However, this article also provides you with other options you can explore.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Easy Ways to Manage Your Nokia C12 Location Settings
 
@@ -204,12 +219,18 @@ If you use an Android phone, you can turn on your location services following th
 
 Immediately you turn on your location services. You'd find many settings and options like high accuracy, phone/device only, battery-saving, emergency location services, and other Google services. Here are what each means and how you can manage your android location services.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **High Accuracy**
 
 When you select this mode for your location services on Android, you want the most precise location tracking possible. This mode will prompt many networks like GPS, Wi-Fi, Bluetooth, and cellular networks to work together and give you the best location tracking.
 
 This mode comes in handy when navigating through streets searching for a particular location, as it gives a more accurate address than others.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Battery saving**
 
 As the name already hints, this mode is best if you want to save the phone battery. GPS, one of the location services, uses lots of power, and in a bid to save your battery, this mode will turn off the GPS and use other tracking networks like Wi-Fi and Bluetooth. Although this mode might not provide the most accurate tracking possible, it will direct you rightly.
@@ -236,6 +257,9 @@ First, you need to download and install **Dr.Fone - Virtual Location**, then run
 
 **Step 1**: Select "Virtual Location" from the drop-down menu, and connect your iPhone or Android phone to your computer through a USB cable. To begin, click "Get Started."
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Turn on the "virtual location" functionality.
@@ -333,7 +357,7 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Nokia  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Nokia ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Nokia](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Nokia C12 device.
 
@@ -361,7 +385,7 @@ There you go! After reading this guide, you would be able to mock GPS on your No
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -388,3 +412,45 @@ There you go! After reading this guide, you would be able to mock GPS on your No
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/pro-level-clarity-top-8k-cameras-for-the-ultimate-picture-for-2024/"><u>Pro-Level Clarity  Top 8K Cameras for the Ultimate Picture for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-smart-8-plus-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-smart-8-pro-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-smart-7-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-note-30-pro-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-note-30-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-essential-dj-playlist-archives/"><u>2024 Approved Essential DJ Playlist Archives</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-note-30-vip-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/on-air-in-minutes-easy-steps-to-start-a-live-stream-for-2024/"><u>On Air in Minutes  Easy Steps to Start a Live Stream for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-hot-40i-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-smart-8-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-flip-video-clips-in-final-cut-pro-a-4-step-guide-for-beginners/"><u>In 2024, Flip Video Clips in Final Cut Pro A 4-Step Guide for Beginners</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-itel-a60-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-channelart-essentials-10-digital-tools-to-design-logos-and-themes/"><u>2024 Approved  ChannelArt Essentials  10 Digital Tools to Design Logos & Themes</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-motorola-moto-g04-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Motorola Moto G04 Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-power-play-essential-10-motivational-films/"><u>[New] In 2024, Power Play  Essential 10 Motivational Films</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-itel-a05s-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-how-to-seamlessly-observe-the-most-praised-youtube-comments/"><u>[New] In 2024, How to Seamlessly Observe the Most Praised YouTube Comments</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-itel-a60s-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-mastering-avi-file-editing-how-to-split-cut-and-trim-with-confidence/"><u>Updated In 2024, Mastering AVI File Editing How to Split, Cut, and Trim with Confidence</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-note-30-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-itel-p55plus-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Itel P55+ phone? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-zero-30-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>How to identify missing drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-ultimate-guide-to-free-vob-video-editing-tools/"><u>New 2024 Approved The Ultimate Guide to Free VOB Video Editing Tools</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-hot-40-pro-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-revolutionary-bio-blueprint-essential-strategies-for-maximum-viewership-on-tiktok-filmora-platforms/"><u>2024 Approved  Revolutionary Bio Blueprint  Essential Strategies for Maximum Viewership on TikTok-Filmora Platforms</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-smart-7-hd-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-hot-30i-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-note-30i-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-hot-40-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-hot-30-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-smart-8-hd-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-gt-10-pro-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-media-playback-on-macos-with-vlc-player-knowledge/"><u>[New] Mastering Media Playback on macOS with VLC Player Knowledge</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-facebooks-viewing-wave-the-hottest-videos-this-year/"><u>[Updated] 2024 Approved  Facebook’s Viewing Wave  The Hottest Videos This Year</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Effective Methods to Fake GPS location on Android For your HTC U23 | Dr.fone
-date: 2024-05-19T03:49:48.734Z
-updated: 2024-05-20T03:49:48.734Z
+date: 2024-07-14T03:45:39.061Z
+updated: 2024-07-15T03:45:39.061Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes 3 Effective Methods to Fake GPS location on Android For your HTC U23
 excerpt: This article describes 3 Effective Methods to Fake GPS location on Android For your HTC U23
 keywords: fake gps location on android,change location on android,fake location on android,fake location on U23,change gps location on android,change location on U23
-thumbnail: https://www.lifewire.com/thmb/BFplsHvF2W-tN_GPJVyxOAwi8YM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/E-reader-57b936e05f9b58cdfd3e07e1.jpg
+thumbnail: https://thmb.techidaily.com/98cce883f8c6d6df0bb852da7eb40767e5514e4304dfa4fcbf005c1298bed966.jpg
 ---
 
 ## 3 Effective Methods to Fake GPS location on Android For your HTC U23
@@ -174,7 +174,7 @@ Fake GPS Go Location Spoofer is a premium tool, but most of its functions are fr
 
 **Price**: Free
 
-![ fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
+![fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
 
 Fake GPS Location Professional is another free tool to deceive your GPS on Android devices. However, whenever you want to use it, you will have to go through Settings and mock your location manually every time.
 
@@ -188,7 +188,7 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 **Step 1. Install** the [**Fake GPS location by Lexa app**](https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en) from the Google Play store.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
 
 **Step 2**. Go to the **Developer option** on an Android device (**refer to the FAQ section** to learn how to enable Developer options on an Android device).
 
@@ -196,18 +196,18 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 - **Click on the Select mock location app option** to view all the Fake GPS locations installed on your HTC U23.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
 
 - Add **Fake GPS Location by Lexa.**
 
-![ mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
+![mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
 
 **Step 4.** Close the Settings after adding the Fake GPS location by Lexa in Developer options.
 
 - **Open the Fake GPS Location by Lexa app.**
 - And **choose the desired fake location**.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
 
 ### 1\. How To Enable Developer Options In Android?
 
@@ -218,22 +218,25 @@ Here’s how to enable the developer option:
 - Open
 - **Go to System.**
 
-![ fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
+![fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
 
 - Navigate to **About Phone** and open it.
 
-![ fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
+![fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
 
 - Choose the **Software info**
 
-![ fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
+![fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
 
 - And click on **Build Number 7 times to see** the developer options screen.
 
-![ fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
+![fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
 
 You can now access the Developer options directly in the Settings menu. Now, use the earlier method to set the location-spoofing app in the Developer options.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Can Fake GPS be detected?
 
 No. Most Fake GPS location apps aren’t detectable. However, if you are still unable to fake GPS location on Android using a third-party app, combine it with a VPN to also change your IP address.
@@ -244,6 +247,9 @@ Dr. Fone’s Virtual Location is the best tool to prevent online services from d
 
 Yes. Dr. Fone's Virtual Location program is the best tool to fake your location on Grindr. It allows you to unlock several profiles at any desired location and discover more people.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Is it legal to fake GPS location on Android?
 
 Yes, as long as you are not using them to engage in criminal activities.
@@ -256,6 +262,9 @@ These three are the most effective methods to fake GPS locations on Android. How
 
 **The other two:** VPNs and Fake GPS apps on Android, are effective, but you will have to follow tons of steps every time you want to mock location on Android devices.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## For People Wanting to Mock GPS on HTC U23 Devices
 
 _“Hi! I'm Jack and I play Pokemon Go in between classes or whenever I get free time from school. A lot of my friends use mock GPS on their phones to catch more Pokemons, but somehow I can’t seem to do the same. Can I also fake my location or use the mock GPS feature on my HTC ?”_
@@ -325,7 +334,7 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your HTC  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your HTC ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your HTC](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the HTC U23 device.
 
@@ -353,7 +362,7 @@ There you go! After reading this guide, you would be able to mock GPS on your HT
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -409,7 +418,7 @@ It is compatible with almost all location-based apps, including Instagram, Snapc
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -484,6 +493,9 @@ For rooted phones, you can fake locations without enabling "Allow mock locations
 - Contains ads
 - Lack of advanced features
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## #4 Fake GPS 360
 
 ![fake gps 360 app](https://images.wondershare.com/drfone/article/2022/01/fake-gps-android-4.jpg)
@@ -543,6 +555,9 @@ With this fake GPS app, you can set the movement of any location. It means you c
 
 ## #6 Fake GPS Joystick
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![fake gps joystick](https://images.wondershare.com/drfone/article/2022/01/fake-gps-android-6.jpg)
 
 **Rating – 4.3**
@@ -717,3 +732,54 @@ If you are looking for a safe and reliable location changer, then use [Dr.Fone -
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-logitechs-high-end-webcam-an-all-inclusive-review/"><u>[Updated] Logitech’s High-End Webcam  An All-Inclusive Review</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oneplus-ace-2-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on OnePlus Ace 2 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oneplus-nord-ce-3-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on OnePlus Nord CE 3 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-find-x6-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo Find X6 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-excel-2016-files-free-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i sign a Excel 2016 files free</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-exclusive-gamer-monitoring-tools/"><u>In 2024, Exclusive Gamer Monitoring Tools</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-a2-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo A2 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-a1x-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo A1x 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oneplus-nord-n30-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on OnePlus Nord N30 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-k11x-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo K11x Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-f25-pro-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo F25 Pro 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-a79-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo A79 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/elevate-visual-appeal-incorporating-black-bar-and-box-in-social-feeds-for-2024/"><u>Elevate Visual Appeal  Incorporating Black Bar & Box in Social Feeds for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-a18-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo A18 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-samsung-galaxy-s23-ultra-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Samsung Galaxy S23 Ultra to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-a38-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo A38 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-find-n3-flip-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo Find N3 Flip Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oneplus-open-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on OnePlus Open Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-a78-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo A78 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-reno-10-pro-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo Reno 10 Pro 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-find-x7-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo Find X7 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-find-x7-ultra-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo Find X7 Ultra Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-reno-10-proplus-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo Reno 10 Pro+ 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oneplus-nord-ce-3-lite-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on OnePlus Nord CE 3 Lite 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-a58-4g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo A58 4G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-a78-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo A78 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-asus-rog-phone-7-ultimate-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Asus ROG Phone 7 Ultimate Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-a56s-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo A56s 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-pulsepundit-critique-of-live-performances-for-2024/"><u>[New] PulsePundit  Critique of Live Performances for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-a1-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo A1 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-the-2023-shift-in-facebooks-video-presentation-style/"><u>[Updated] In 2024, The 2023 Shift in Facebook’s Video Presentation Style</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-find-n3-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo Find N3 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oneplus-ace-3-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on OnePlus Ace 3 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oneplus-ace-2v-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on OnePlus Ace 2V Devices | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-apple-iphone-xr-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From Apple iPhone XR</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-10-apps-to-add-stickers-to-photos-for-iphone-and-android/"><u>In 2024, Best 10 Apps to Add Stickers to Photos for iPhone and Android</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oneplus-nord-3-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on OnePlus Nord 3 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-find-x6-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo Find X6 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-f23-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo F23 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/crafting-compelling-conclusions-the-vimeo-end-screens-guide/"><u>Crafting Compelling Conclusions  The Vimeo End Screens Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-reno-10-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo Reno 10 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oneplus-nord-n30-se-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on OnePlus Nord N30 SE Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-a59-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo A59 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-k11-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo K11 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elevating-channel-excellence-with-ideas-and-vision/"><u>[New] In 2024, Elevating Channel Excellence with Ideas & Vision</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-reno-11-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo Reno 11 5G Devices | Dr.fone</u></a></li>
+</ul></div>

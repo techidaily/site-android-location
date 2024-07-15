@@ -1,7 +1,7 @@
 ---
 title: In 2024, Easy Ways to Manage Your Tecno Spark 10 Pro Location Settings | Dr.fone
-date: 2024-06-15T13:06:40.840Z
-updated: 2024-06-16T13:06:40.840Z
+date: 2024-07-14T04:03:26.654Z
+updated: 2024-07-15T04:03:26.654Z
 tags: 
   - virtual location chang
   - location changer
@@ -44,6 +44,9 @@ When you select this mode for your location services on Android, you want the mo
 
 This mode comes in handy when navigating through streets searching for a particular location, as it gives a more accurate address than others.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Battery saving**
 
 As the name already hints, this mode is best if you want to save the phone battery. GPS, one of the location services, uses lots of power, and in a bid to save your battery, this mode will turn off the GPS and use other tracking networks like Wi-Fi and Bluetooth. Although this mode might not provide the most accurate tracking possible, it will direct you rightly.
@@ -110,6 +113,9 @@ However, **how do you manage your Tecno Spark 10 Pro location settings**? How ca
 
 If you use an Android phone, you can turn on your location services following these easy steps:
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Change android phone location](https://images.wondershare.com/drfone/article/2022/05/android-location-settings.jpg)
 
 1. Head over to Settings on your android phone.
@@ -186,6 +192,9 @@ _“Hi! I'm Jack and I play Pokemon Go in between classes or whenever I get free
 
 This is one of the many queries that we get from Tecno  users who wish to mock GPS on their phones. The good news is that on various Android phones, you can use a mock GPS apk to fake your location. Though, Tecno  users need to be a bit cautious since the company has so many security restrictions. Don’t worry – I’m here to help you use the best mock GPS app for your phone. Read on to clear your doubts and enable the mock GPS provider on your phone like a pro!
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mock GPS on the map](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-1.jpg)
 
 ## Part 1: What is Mock GPS on Tecno Spark 10 Pro?
@@ -239,6 +248,9 @@ If you are trying to fake location for a particular app, then make sure the mock
 
 Last, but most importantly, check the feedback and the real-life experience of other users of the mock GPS app. If it has a lot of negative feedback, then you can skip the app and pick any other option.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![affected apps](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-3.jpg)
 
 ## Part 4: Step by Step Guide to Mock GPS on Tecno Spark 10 Pro
@@ -249,7 +261,7 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Tecno  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Tecno ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Tecno](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Tecno Spark 10 Pro device.
 
@@ -269,6 +281,9 @@ Step 3: Fake location on your Tecno
 
 That’s it! Once you have granted the needed permission to the mock GPS app, you can easily use it to change the location of your device. Just launch the app to get a map-like interface. You can zoom in and out the map or just look for any location on the search bar. In the end, drop the pin on any location and tap on the start button to fake your location.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![confirm to fake your location](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-8.jpg)
 
 Later, you can go back to the app and stop the fake location to switch back to your original location whenever you want.
@@ -277,7 +292,7 @@ There you go! After reading this guide, you would be able to mock GPS on your Te
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -306,3 +321,51 @@ There you go! After reading this guide, you would be able to mock GPS on your Te
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-mastering-nvidia-professional-screen-recording/"><u>In 2024, Mastering NVIDIA  Professional Screen Recording</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-note-30-vip-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-walking-through-time-a-guide-to-inverted-videos-on-instagram/"><u>In 2024, Walking Through Time  A Guide to Inverted Videos on Instagram</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-note-30i-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-note-30-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-hot-30i-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-htc-u23-pro-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-hot-40-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-prime-interactive-face-time-festivals/"><u>2024 Approved  Prime Interactive Face Time Festivals</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-a-quick-primer-on-what-is-discord/"><u>[New] In 2024, A Quick Primer On What Is Discord</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-techniques-for-optimizing-the-file-size-of-broadcast-content-for-2024/"><u>New Techniques for Optimizing the File Size of Broadcast Content for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-if-you-are-a-teacher-or-people-who-want-to-share-their-ideas-via-vides-you-can-always-make-it-on-your-own-this-article-will-share-you-7-tips-t/"><u>2024 Approved If You Are a Teacher or People Who Want to Share Their Ideas via Vides, You Can Always Make It on Your Own. This Article Will Share You 7 Tips to Create an Educational Video Easily</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-digital-filtration-guide-to-removing-ambient-noise-in-online-video-media/"><u>In 2024, Digital Filtration Guide to Removing Ambient Noise in Online Video Media</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-note-30-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-evolving-channels-8-fastest-video-climbers/"><u>[New] Evolving Channels 8  Fastest Video Climbers</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-smart-8-pro-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-comprehensive-manual-mastering-mobizen-recorders/"><u>[New] In 2024, Comprehensive Manual  Mastering Mobizen Recorders</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-smart-7-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-smart-7-hd-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-boosting-youtube-ad-revenue-keeping-cc-active/"><u>[New] In 2024, Boosting YouTube Ad Revenue  Keeping CC Active</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/closer-look-techniques-for-microsoft-teams-for-2024/"><u>Closer Look Techniques for Microsoft Teams for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-achieving-precise-youtube-content-extraction/"><u>[New] 2024 Approved  Achieving Precise YouTube Content Extraction</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-huawei-nova-y71-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/4-ways-to-set-up-your-youtube-talking-head-shots-for-2024/"><u>4 Ways To Set Up Your YouTube Talking-Head Shots for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-create-a-stunning-slideshow-a-step-by-step-guide/"><u>Updated 2024 Approved Create a Stunning Slideshow A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-note-30-pro-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-vlcs-advanced-webcam-functionality-for-video-archiving/"><u>[Updated] 2024 Approved  VLC's Advanced Webcam Functionality for Video Archiving</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-huawei-nova-y91-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-smart-8-plus-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/make-a-lasting-impression-top-4-video-resume-creation-tools-free-templates-for-2024/"><u>Make a Lasting Impression Top 4 Video Resume Creation Tools Free Templates for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-hot-30-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupt-mp4movavi-video-files-of-moto-e13-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupt MP4,MOV,AVI video files of Moto E13</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-deciphering-bandicams-latest-2023-capabilities/"><u>[Updated] In 2024, Deciphering Bandicam's Latest 2023 Capabilities</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-hot-40-pro-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-huawei-p60-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-hot-40i-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-decoding-the-modern-content-creators-dilemma/"><u>[Updated] 2024 Approved  Decoding the Modern Content Creator's Dilemma</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-gt-10-pro-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-htc-u23-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-smart-8-hd-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-smart-8-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-x9b-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-from-your-apple-iphone-14-pro-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock from your Apple iPhone 14 Pro and iPad?</u></a></li>
+</ul></div>

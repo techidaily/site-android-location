@@ -1,7 +1,7 @@
 ---
 title: Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo Y36 | Dr.fone
-date: 2024-05-19T03:49:45.552Z
-updated: 2024-05-20T03:49:45.552Z
+date: 2024-07-14T03:24:00.211Z
+updated: 2024-07-15T03:24:00.211Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo Y36
 excerpt: This article describes Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo Y36
 keywords: change gps location on android,fake gps location on android,fake location on android,fake location on Y36,change location on android,change location on Y36
-thumbnail: https://www.lifewire.com/thmb/4J2iVgv99e0e6zd-RILzsk4gPzo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1134410016-75c4b547097941299e55dceeef4b764c.jpg
+thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2219e90738423fb3fbbee898.jpg
 ---
 
 ## Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo Y36
@@ -45,6 +45,9 @@ The simplest way to fix the Pokemon Go GPS not found 11 issue is by restarting t
 
 ![close pokemon go app](https://images.wondershare.com/drfone/2020/close-pokemon-go-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Update or Reinstall the Pokemon Go app
 
 If you are using a corrupt or outdated Pokemon Go app, then you can get the GPS not found 11 error as well. Firstly, you can just go to the App/Play Store, look for Pokemon Go, and update the app.
@@ -57,6 +60,9 @@ If you still get the Pokemon Go GPS not found 11 error, then consider deleting t
 
 Since this is a location-based error, you can also consider resetting the location services on your phone. For this, just go to the Location Services (GPS) settings and toggle it off (and on). You can also go to the notification center and tap on the GPS icon to turn the service off and on again.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android location option](https://images.wondershare.com/drfone/2020/android-location-option.jpg)
 
 ### Fix 4: Turn off the Mock Location feature
@@ -85,6 +91,9 @@ This will automatically turn off its networks (like cellular data). Now, wait fo
 
 Lastly, if nothing else seems to work, then you can reset the network settings on your phone as well. To do this, you can go to its Settings > Backup & Reset and tap on the “Reset Network Settings” under the Reset section.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reset network settings android](https://images.wondershare.com/drfone/2020/reset-network-settings-android.jpg)
 
 In the end, you can choose to reset the network settings of your phone and wait for it to be restarted. This will erase the saved WiFi passwords and other network settings but might fix the GPS signal not found 11 errors on Android.
@@ -111,7 +120,7 @@ Have you ever wondered why Android monitor tools exist? Well, with the recent bo
 
 Also, to track the real location of kids/spouses/employees, phone monitoring Apps for Android come in handy. Android monitoring Apps help you spy on others’ smartphones, hack their photos, messages, call logs, Social App data, location, and browsing patterns. To know more, read and find out about the 9 best and free Android monitoring Apps.
 
-_You may be interested in: [Top 21 Mobile Device Spy Apps for iPhone/iPad/Android in 2022](https://drfone.wondershare.com/spy/best-mobile-spy-apps.html)_
+_You may be interested in: [Top 21 Mobile Device Spy Apps for iPhone/iPad/Android in 2022](https://drfone.wondershare.com/spy/best-mobile-spy-apps.html) _
 
 ## Part 1: mSpy
 
@@ -207,6 +216,9 @@ This Android monitor was initially an iPhone-only App and then was launched for 
 
 To know more, visit <https://ikeymonitor.com/android-spy-app-free-download>
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Free Android Monitoring App-iKey Monitor](https://images.wondershare.com/drfone/article/2017/10/15081788406574.jpg)
 
 **Features:**
@@ -396,6 +408,9 @@ Before we troubleshoot the GPS signal not found 11 errors in Pokemon Go, let’s
 
 ![pokemon gps signal 11](https://images.wondershare.com/drfone/2020/pokemon-gps-signal-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to fix the GPS Signal Not Found 11 Issue in Pokemon Go?
 
 As I have listed above, the Pokemon Go GPS not found 11 problem can arise due to all kinds of reasons. Therefore, let’s have a look at numerous ways to fix the GPS not found 11 error in the game.
@@ -485,3 +500,55 @@ I’m sure that after reading this troubleshooting post, you would be able to fi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-mastering-your-content-on-facebook-after-algorithms-change/"><u>In 2024, Mastering Your Content on Facebook After Algorithms Change</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-itel-p40-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-stream-control-showdown-is-obs-best-over-twitch-studio/"><u>[Updated] 2024 Approved  Stream Control Showdown  Is OBS Best over Twitch Studio?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-ultimate-guide-to-sourcing-premium-soundtracks-from-instagram-and-designing-outstanding-ringtone-alerts/"><u>[New] 2024 Approved  The Ultimate Guide to Sourcing Premium Soundtracks From Instagram and Designing Outstanding Ringtone Alerts</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-itel-s23-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-effortless-solutions-for-instagram-video-archiving/"><u>[New] In 2024, Effortless Solutions for Instagram Video Archiving</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-best-of-the-web-top-rated-free-online-video-combiners/"><u>New 2024 Approved Best of the Web Top-Rated Free Online Video Combiners</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-highest-rated-slow-mo-camera-applications-iphonesandroid/"><u>2024 Approved  Highest Rated Slow Mo Camera Applications, iPhones/Android</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leading-15-no-cost-image-editing-apps-top-picks-of-2023/"><u>[New] Leading 15 No-Cost Image Editing Apps - Top Picks of 2023</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unlocking-potential-innovative-strategies-for-better-insta-content/"><u>Unlocking Potential  Innovative Strategies for Better Insta Content</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-spectacular-selects-ideal-laptops-mastering-4k-editing/"><u>[New] Spectacular Selects  Ideal Laptops Mastering 4K Editing</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-itel-a60s-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-smart-8-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-smart-7-hd-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-itel-a60-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-note-30i-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-itel-p40plus-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-itel-p55t-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-discovering-tiktoks-most-shared-meals/"><u>[Updated] 2024 Approved  Discovering TikTok's Most Shared Meals</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-the-world-of-drone-video-manipulation-for-2024/"><u>Navigating the World of Drone Video Manipulation for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-vivo-y17s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-smart-8-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-channel-success-across-social-networks-youtube-plus-more/"><u>[Updated] In 2024, Channel Success Across Social Networks  YouTube + More</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-itel-a05s-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-itel-p55-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-honor-v-purse-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Honor V Purse Phone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-motorola-g24-power-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Motorola G24 Power Device</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-video-testimonials-shape-perception-and-trust/"><u>In 2024, How Video Testimonials Shape Perception and Trust</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-smart-7-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-smart-8-hd-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-top-10-instagram-hashtags-you-need-to-start-using-today/"><u>[Updated] In 2024, Top 10 Instagram Hashtags You Need to Start Using Today</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-best-7-practical-cost-free-ways-to-improve-your-digital-vocal-effects/"><u>Updated In 2024, Best 7 Practical, Cost-Free Ways to Improve Your Digital Vocal Effects</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-ultimate-guide-to-slow-motion-video-editing-with-windows-live-movie-maker/"><u>New 2024 Approved The Ultimate Guide to Slow Motion Video Editing with Windows Live Movie Maker</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-amplify-aesthetics-with-customized-canva-video-music/"><u>In 2024, Amplify Aesthetics with Customized Canva Video Music</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-itel-p55-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-itel-a70-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-smart-8-plus-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essential-e-steps-your-pathway-from-preparation-to-production-in-a-reviews-channel/"><u>[New] The Essential E-Steps  Your Pathway From Preparation to Production in a Reviews Channel</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-upload-videos-effortlessly-with-premiere-on-youtube/"><u>[Updated] Upload Videos Effortlessly with Premiere on YouTube</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-note-30-vip-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-note-30-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/guide-to-completely-erase-data-on-iphone-14-to-avoid-privacy-leak-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Guide to Completely Erase Data on iPhone 14 to Avoid Privacy Leak | Stellar</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-itel-s23plus-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-itel-p55plus-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-combat-colossus-leading-10-royale-titles/"><u>[New] 2024 Approved  Combat Colossus  Leading 10 Royale Titles</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-zero-30-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Zero 30 5G | Dr.fone</u></a></li>
+</ul></div>

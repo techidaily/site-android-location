@@ -1,7 +1,7 @@
 ---
 title: For People Wanting to Mock GPS on Oppo A78 Devices | Dr.fone
-date: 2024-05-19T03:49:44.389Z
-updated: 2024-05-20T03:49:44.389Z
+date: 2024-07-14T03:14:14.746Z
+updated: 2024-07-15T03:14:14.746Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes For People Wanting to Mock GPS on Oppo A78 Devices
 excerpt: This article describes For People Wanting to Mock GPS on Oppo A78 Devices
 keywords: fake location on A78,fake location on android,fake gps location on android,change location on A78,change gps location on android,change location on android
-thumbnail: https://www.lifewire.com/thmb/CUKW3XFY7liGlZzhBQy-nvEFMFg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/frenchopen-4d320297828b413f84f9940d5bd258f9.jpg
+thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e6c7211350802c91feadcdaf.jpg
 ---
 
 ## For People Wanting to Mock GPS on Oppo A78 Devices
@@ -83,7 +83,7 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Oppo  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Oppo ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Oppo](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Oppo A78 device.
 
@@ -93,6 +93,9 @@ Step 2: Install and Allow a Mock GPS App
 
 Now, go to the Play Store app on your phone and look for a mock GPS app. I have tried and tested the Fake GPS Location app by Lexa. If you want, you can install the same freely available mock GPS app or try any other app as well.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mock GPS app](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-6.jpg)
 
 After successfully installing the mock GPS apk on your Oppo , go back to its Settings > Developer Options > Mock Location app and select the fake GPS location app that you have recently downloaded. This will allow the mock GPS app to change the location of your device.
@@ -111,7 +114,7 @@ There you go! After reading this guide, you would be able to mock GPS on your Op
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -165,7 +168,7 @@ It is compatible with almost all location-based apps, including Instagram, Snapc
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -177,6 +180,9 @@ It is compatible with almost all location-based apps, including Instagram, Snapc
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## #2 Mock Locations
 
 ![mock locations fake gps app](https://images.wondershare.com/drfone/article/2022/01/fake-gps-android-2.jpg)
@@ -213,6 +219,9 @@ The best part about this application is that you can use it without the "allow m
 
 ## #3 Fake GPS Run
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fake gps run app](https://images.wondershare.com/drfone/article/2022/01/fake-gps-android-3.jpg)
 
 **Rating - 3.9**
@@ -330,6 +339,9 @@ You can also use the location changer to find new people on dating apps like Tin
 
 ## #7 Fake GPS Location Spoofer
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fake gps location spoofer](https://images.wondershare.com/drfone/article/2022/01/fake-gps-android-7.jpg)
 
 **Rating – 3.8**
@@ -483,6 +495,18 @@ The mock GPS feature is not available in standard device settings. To access it,
 - A mock GPS app would consume more battery and memory on your device as well.
 - Some apps would even become unavailable to you and you might not be able to install them from Google Play.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mock GPS feature](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-2.jpg)
 
 ## Part 3: How to Find the Best Tool to Mock GPS on Oppo A78?
@@ -527,7 +551,7 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Oppo  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Oppo ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Oppo](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Oppo A78 device.
 
@@ -555,7 +579,7 @@ There you go! After reading this guide, you would be able to mock GPS on your Op
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -584,3 +608,66 @@ There you go! After reading this guide, you would be able to mock GPS on your Op
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-google-pixel-7a-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Google Pixel 7a Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-magic-6-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor Magic 6 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/right-tools-for-converting-60fps-frame-rate-in-videos-for-2024/"><u>Right Tools for Converting 60FPS Frame Rate in Videos for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-100-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor 100 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-play-8t-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor Play 8T Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-swift-seize-video-with-soundtracking/"><u>[Updated] 2024 Approved  Swift Seize  Video with Soundtracking</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-meme-artisans-guide-to-shaping-social-interaction-gifs/"><u>[Updated] The Meme Artisan's Guide to Shaping Social Interaction (GIFs)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-depth-look-at-the-gecata-game-capture-tool-for-2024/"><u>[Updated] In-Depth Look at the Gecata Game Capture Tool for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-perfecting-playback-apply-filters-to-video-content/"><u>2024 Approved  Perfecting Playback  Apply Filters to Video Content</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-90-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor 90 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-asus-rog-phone-8-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Asus ROG Phone 8 Devices | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-blueprint-to-buzz-generating-posts-for-2024/"><u>The Blueprint to Buzz-Generating Posts for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-magic-5-lite-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor Magic 5 Lite Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-play-40c-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor Play 40C Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-100-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor 100 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-asus-rog-phone-7-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Asus ROG Phone 7 Devices | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-ultimate-list-of-instagram-downloaders/"><u>In 2024, The Ultimate List of Instagram Downloaders</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-artisans-approach-to-color-balancing/"><u>2024 Approved  The Artisan's Approach to Color Balancing</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-magic-5-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor Magic 5 Devices | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-windows-10-seamless-media-importation-techniques/"><u>[New] Unlocking Windows 10  Seamless Media Importation Techniques</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-magic-5-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor Magic 5 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/retain-snapchat-moments-android-and-mac-solutions-for-2024/"><u>Retain Snapchat Moments  Android and Mac Solutions for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-asus-rog-phone-7-ultimate-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Asus ROG Phone 7 Ultimate Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-magic-6-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor Magic 6 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-magic5-ultimate-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor Magic5 Ultimate Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-asus-rog-phone-8-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Asus ROG Phone 8 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-rectifying-backward-screen-orientation/"><u>Windows 10: Rectifying Backward Screen Orientation</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-magic-vs-2-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor Magic Vs 2 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-google-pixel-8-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Google Pixel 8 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-v-purse-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor V Purse Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-flashsnap-firefox-tools/"><u>[New] FlashSnap Firefox Tools</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-top-8-best-kept-video-download-secrets/"><u>[Updated] In 2024, Top 8 Best-Kept Video Download Secrets</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-zte-nubia-z60-ultra-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/make-your-whatsapp-status-stand-out-with-these-essential-apps-for-2024/"><u>Make Your WhatsApp Status Stand Out with These Essential Apps for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-magic-v2-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor Magic V2 Devices | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-zoom-voice-modifiers-6-expert-tips-to-make-every-meeting-unforgettable-and-entertaining-for-2024/"><u>New Zoom Voice Modifiers 6 Expert Tips to Make Every Meeting Unforgettable and Entertaining for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-poco-c55-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-video-trimming-on-windows-10-tips-for-efficiency-and-precision/"><u>2024 Approved  Mastering Video Trimming on Windows 10  Tips for Efficiency and Precision</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-google-pixel-8-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Google Pixel 8 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-oppo-find-x7-ultra-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-magic-6-lite-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor Magic 6 Lite Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-essential-techniques-for-blurring-photos-on-iphone/"><u>In 2024, Essential Techniques for Blurring Photos on iPhone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-list-of-windows-movie-maker-alternatives/"><u>Updated The Ultimate List of Windows Movie Maker Alternatives</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-audiovisual-integration-incorporating-audio-waveform-and-creative-animation-into-davinci-resolve/"><u>Updated Audiovisual Integration Incorporating Audio Waveform and Creative Animation Into DaVinci Resolve</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-gionee-f3-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Gionee F3 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-unveiling-omegle-understanding-online-chat-rooms-and-their-security-implications-for-2024/"><u>Updated Unveiling Omegle Understanding Online Chat Rooms and Their Security Implications for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-google-pixel-fold-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Google Pixel Fold Devices | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-tunes-apps-win-edition-for-2024/"><u>Top Tunes Apps  Win Edition for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-90-lite-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor 90 Lite Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-70-lite-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor 70 Lite 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-captivate-viewers-learn-to-perfectly-border-ig-videos/"><u>[Updated] Captivate Viewers  Learn to Perfectly Border IG Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-crafting-timeless-videos-with-historical-flair/"><u>[Updated] Crafting Timeless Videos with Historical Flair</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-90-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor 90 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-play-7t-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor Play 7T Devices | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-laughing-matters-the-premier-toolkit-for-twitters-2024-gifs/"><u>[New] Laughing Matters  The Premier Toolkit for Twitter's 2024 GIFs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-revitalize-your-reels-a-compreenas-guide-for-enhancer-22/"><u>[Updated] Revitalize Your Reels  A Compreenas Guide for Enhancer 2.2</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-90-gt-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor 90 GT Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-80-pro-straight-screen-edition-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor 80 Pro Straight Screen Edition Devices | Dr.fone</u></a></li>
+</ul></div>

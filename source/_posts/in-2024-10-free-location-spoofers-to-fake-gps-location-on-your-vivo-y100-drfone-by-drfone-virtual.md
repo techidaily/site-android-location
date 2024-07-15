@@ -1,7 +1,7 @@
 ---
 title: In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo Y100 | Dr.fone
-date: 2024-05-19T03:49:48.484Z
-updated: 2024-05-20T03:49:48.484Z
+date: 2024-07-14T03:43:55.128Z
+updated: 2024-07-15T03:43:55.128Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes 10 Free Location Spoofers to Fake GPS Location on your Vivo Y100
 excerpt: This article describes 10 Free Location Spoofers to Fake GPS Location on your Vivo Y100
 keywords: change location on Y100,change gps location on android,fake location on Y100,change location on android,fake gps location on android,fake location on android
-thumbnail: https://www.lifewire.com/thmb/UCCJI6MO1FwbR0mTqx5aB-FS3_0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-add-tiktok-filters-and-effects-f3c195b2fe1449cb8b2906eea3305b22.jpg
+thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2f2b7f6dd74a2f0921700773.jpg
 ---
 
 ## 10 Free Location Spoofers to Fake GPS Location on your Vivo Y100
@@ -37,6 +37,9 @@ Before you get to know about the best fake GPS spoofer apps for Android, it is i
 
 Without much ado, let’s get to know about some of the best fake location spoofer apps that you can use for free.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fake GPS Location by Lexa
 
 If you are looking for a reliable and lightweight fake GPS location spoofer free app, then give this one a go. The app works smoothly on most of the Android devices even if they are not rooted.
@@ -58,7 +61,7 @@ Download link: [https://play.google.com/store/apps/details?id=com.lexa.fakegps](
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -107,7 +110,7 @@ Download link: [https://play.google.com/store/apps/details?id=org.hola.gpslocati
 
 ![Fake GPS by Hola](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-4.jpg)
 
-### [Fake GPS Location Spoofer](https://drfone.wondershare.com/fake-location/fake-gps-location-spoofer.html)
+### Fake GPS Location Spoofer
 
 If you are looking for a lightweight, reliable, and user-friendly location spoofer, then you can give this app a try. It has been recently updated to provide support for most gaming and dating apps.
 
@@ -123,6 +126,9 @@ Play Store Rating: 3.7
 
 Download link: [https://play.google.com/store/apps/details?id=com.incorporateapps.fakegps.fre](https://play.google.com/store/apps/details?id=com.incorporateapps.fakegps.fre)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fake GPS Go](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-5.jpg)
 
 ### Fake GPS Location
@@ -141,6 +147,9 @@ Play Store Rating: 3.9
 
 Download link: [https://play.google.com/store/apps/details?id=com.gsmartstudio.fakegps](https://play.google.com/store/apps/details?id=com.gsmartstudio.fakegps)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fake GPS Location](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-6.jpg)
 
 ### Fake GPS by ByteRev
@@ -260,6 +269,9 @@ Before you get to know about the best fake GPS spoofer apps for Android, it is i
 
 Without much ado, let’s get to know about some of the best fake location spoofer apps that you can use for free.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fake GPS Location by Lexa
 
 If you are looking for a reliable and lightweight fake GPS location spoofer free app, then give this one a go. The app works smoothly on most of the Android devices even if they are not rooted.
@@ -281,7 +293,7 @@ Download link: [https://play.google.com/store/apps/details?id=com.lexa.fakegps](
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -330,7 +342,7 @@ Download link: [https://play.google.com/store/apps/details?id=org.hola.gpslocati
 
 ![Fake GPS by Hola](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-4.jpg)
 
-### [Fake GPS Location Spoofer](https://drfone.wondershare.com/fake-location/fake-gps-location-spoofer.html)
+### Fake GPS Location Spoofer
 
 If you are looking for a lightweight, reliable, and user-friendly location spoofer, then you can give this app a try. It has been recently updated to provide support for most gaming and dating apps.
 
@@ -616,13 +628,16 @@ Free to use, Fake GPS location by Lexa allows you to change your location to any
 
 Fake GPS Go Location Spoofer is a premium tool, but most of its functions are free to use. Therefore, you do not have to upgrade unless you want to play games on Android devices. Moreover, it works without root on Android 6.0 and above variants. However, you will have to root the Android device on earlier versions.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Fake GPS Location Professional
 
 **Android app**: [Fake GPS Location Professional](https://play.google.com/store/apps/details?id=com.just4funtools.fakegpslocationprofessional)
 
 **Price**: Free
 
-![ fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
+![fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
 
 Fake GPS Location Professional is another free tool to deceive your GPS on Android devices. However, whenever you want to use it, you will have to go through Settings and mock your location manually every time.
 
@@ -636,7 +651,7 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 **Step 1. Install** the [**Fake GPS location by Lexa app**](https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en) from the Google Play store.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
 
 **Step 2**. Go to the **Developer option** on an Android device (**refer to the FAQ section** to learn how to enable Developer options on an Android device).
 
@@ -644,18 +659,18 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 - **Click on the Select mock location app option** to view all the Fake GPS locations installed on your Vivo Y100.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
 
 - Add **Fake GPS Location by Lexa.**
 
-![ mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
+![mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
 
 **Step 4.** Close the Settings after adding the Fake GPS location by Lexa in Developer options.
 
 - **Open the Fake GPS Location by Lexa app.**
 - And **choose the desired fake location**.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
 
 ### 1\. How To Enable Developer Options In Android?
 
@@ -666,19 +681,19 @@ Here’s how to enable the developer option:
 - Open
 - **Go to System.**
 
-![ fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
+![fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
 
 - Navigate to **About Phone** and open it.
 
-![ fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
+![fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
 
 - Choose the **Software info**
 
-![ fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
+![fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
 
 - And click on **Build Number 7 times to see** the developer options screen.
 
-![ fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
+![fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
 
 You can now access the Developer options directly in the Settings menu. Now, use the earlier method to set the location-spoofing app in the Developer options.
 
@@ -721,3 +736,41 @@ These three are the most effective methods to fake GPS locations on Android. How
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/prime-open-source-tools-for-educational-screenshots/"><u>Prime Open-Source Tools for Educational Screenshots</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-y100a-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-x-fold-2-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-t2-pro-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-x100-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-v30-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-v29-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-capturing-youtube-videos-subtitles-in-srt-format/"><u>The Ultimate Guide to Capturing YouTube Videos' Subtitles in SRT Format</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-v30-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-avchd-editing-made-easy-top-5-software-solutions/"><u>New In 2024, AVCHD Editing Made Easy Top 5 Software Solutions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-effortlessly-pinning-friends-on-snapchat-with-confidence/"><u>[New] In 2024, Effortlessly Pinning Friends on Snapchat with Confidence</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-harmonizing-technology-with-taste-your-guide-to-mastering-audio-format-selection/"><u>Updated Harmonizing Technology with Taste Your Guide to Mastering Audio Format Selection</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-iphone-15-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to iPhone 15 iCloud Bypass</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-x-flip-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-explore-advanced-voice-options-on-tiktok-to-stand-out/"><u>[New] Explore Advanced Voice Options on TikTok to Stand Out</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-y100-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-v29-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gain-unlimited-stock-videos-through-essential-4-youtube-sources/"><u>[New] 2024 Approved  Gain Unlimited Stock Videos Through Essential 4 YouTube Sources</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-best-collection-sites-for-quick-access-to-youtube-vids-for-2024/"><u>[Updated] Best Collection Sites for Quick Access to YouTube Vids for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-v29e-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-v27-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-x90s-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-x100-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-v27-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/bringing-familiarity-migrating-custom-powertoys-on-a-new-device/"><u>Bringing Familiarity: Migrating Custom PowerToys on a New Device</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-y02t-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-insightful-analysis-of-magix-media-plug-ins/"><u>2024 Approved  Insightful Analysis of MAGIX Media Plug-Ins</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-v30-lite-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-vivo-y100i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo Y100i? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-y100-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-t2x-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-v27e-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo V27e | Dr.fone</u></a></li>
+</ul></div>

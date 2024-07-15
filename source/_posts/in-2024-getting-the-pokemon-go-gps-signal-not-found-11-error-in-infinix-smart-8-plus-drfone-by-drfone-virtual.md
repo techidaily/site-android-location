@@ -1,7 +1,7 @@
 ---
 title: In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Smart 8 Plus | Dr.fone
-date: 2024-05-19T03:49:53.049Z
-updated: 2024-05-20T03:49:53.049Z
+date: 2024-07-14T04:19:36.404Z
+updated: 2024-07-15T04:19:36.404Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Smart 8 Plus
 excerpt: This article describes Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Smart 8 Plus
 keywords: fake location on Smart 8 Plus,change gps location on android,fake gps location on android,change location on android,fake location on android,change location on Smart 8 Plus
-thumbnail: https://www.lifewire.com/thmb/jkTzGxTQj6GZdoRByOnef64Ubf0=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows_search-56aa11bd3df78cf772ac3ea5.jpg
+thumbnail: https://thmb.techidaily.com/650f46c8db195bf984ecb592d4a15814bfd7afa085c1775706e382ffb2952424.jpg
 ---
 
 ## Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Smart 8 Plus
@@ -20,6 +20,9 @@ _**“Every time I launch Pokemon Go, I get the GPS Signal not found 11 error on
 
 As I read this query posted on an online forum, I realized that so many Pokemon Go players encounter a similar issue. The Pokemon Go GPS not found 11 errors can occur on any Android or iOS device. Since it is a location-based error, there are a couple of ways to fix it without harming your phone. In this post, I will help you overcome the GPS signal not found 11 errors on Android and iOS devices in detail.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pokemon gps signal 11 banner](https://images.wondershare.com/drfone/2020/pokemon-gps-signal-11-banner.jpg)
 
 ## Part 1: Common Reasons for the Pokemon Go GPS not found 11 issues?
@@ -174,7 +177,7 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Infinix  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Infinix ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Infinix](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Infinix Smart 8 Plus device.
 
@@ -184,6 +187,18 @@ Step 2: Install and Allow a Mock GPS App
 
 Now, go to the Play Store app on your phone and look for a mock GPS app. I have tried and tested the Fake GPS Location app by Lexa. If you want, you can install the same freely available mock GPS app or try any other app as well.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mock GPS app](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-6.jpg)
 
 After successfully installing the mock GPS apk on your Infinix , go back to its Settings > Developer Options > Mock Location app and select the fake GPS location app that you have recently downloaded. This will allow the mock GPS app to change the location of your device.
@@ -194,6 +209,9 @@ Step 3: Fake location on your Infinix
 
 That’s it! Once you have granted the needed permission to the mock GPS app, you can easily use it to change the location of your device. Just launch the app to get a map-like interface. You can zoom in and out the map or just look for any location on the search bar. In the end, drop the pin on any location and tap on the start button to fake your location.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![confirm to fake your location](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-8.jpg)
 
 Later, you can go back to the app and stop the fake location to switch back to your original location whenever you want.
@@ -202,7 +220,7 @@ There you go! After reading this guide, you would be able to mock GPS on your In
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -236,7 +254,7 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both Android and iOS!
 
@@ -330,7 +348,7 @@ _**Tips:** Discover the most effective way to fake GPS on Android without using 
 
 
 
-_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html)_
+_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html) _
 
 ## Part 4: Mock Location Feature on Different Android Models
 
@@ -348,6 +366,9 @@ Another device you can access the mock location on again is the LG Smartphone de
 
 ![locate mock location on lg](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Xiaomi
 
 Xiaomi devices don’t use build numbers. They work with MIUI numbers. So to enable the mock location feature on your Xiaomi device, you must first tap on the MIUI number. You can locate this number by visiting ‘settings’ and selecting ‘About Phone’ on the list of options. Once you tap on the number, you will see the ‘Allow Mock Location Apk’ option.
@@ -376,11 +397,14 @@ If you think the way above is complicated for you, you can just use the easiest 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 There are varying purposes why you might want to fake your location. Luckily, several apps are available to **fake GPS on Android without mock location**. The best option for you would be the [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With this fake location app, you can access any third-party app and be in a whole different country from the comfort of your home. However, this article also provides you with other options you can explore.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 
 <ins class="adsbygoogle"
@@ -399,3 +423,48 @@ There are varying purposes why you might want to fake your location. Luckily, se
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-poco-f5-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-realme-c55-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-a-vacation-slideshow-in-5-minutes-for-2024/"><u>Updated How to Make a Vacation Slideshow in 5 Minutes for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-poco-x5-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-realme-c67-4g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/how-to-download-and-keep-your-favorite-fb-stories-for-2024/"><u>How to Download and Keep Your Favorite FB Stories for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-a-global-perspective-your-favorite-travel-youtubers/"><u>[Updated] A Global Perspective  Your Favorite Travel Youtubers</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-poco-m6-pro-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-poco-m6-pro-4g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mastering-swedish-phonetics-rapidly/"><u>Mastering Swedish Phonetics Rapidly</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-realme-gt-5-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-apple-iphone-6s-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your Apple iPhone 6s</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-realme-gt-neo-5-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-poco-x6-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/sharp-currents-dell-display-flicker-stopped/"><u>Sharp Currents: Dell Display Flicker Stopped</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-realme-12plus-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-realme-gt-3-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-orchestrating-visuals-and-vo-in-powerpoint/"><u>[New] Orchestrating Visuals & VO in Powerpoint</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-realme-11-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exquisite-online-destinations-for-sparkling-3d-typography/"><u>[New] Exquisite Online Destinations for Sparkling 3D Typography</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-realme-10t-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-realme-11-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-realme-12-proplus-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-realme-c51-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-realme-gt-5-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-realme-gt-5-240w-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-itel-p55t-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Itel P55T Quickly? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-tailoring-titles-and-tags-for-top-youtube-performance/"><u>[New] 2024 Approved  Tailoring Titles and Tags for Top YouTube Performance</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-poco-f5-pro-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-realme-c67-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-poco-x5-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-realme-12-pro-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-realme-11x-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-realme-c33-2023-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-poco-x6-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-realme-12-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-realme-c53-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-poco-m6-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-ultimate-list-of-engaging-moba-titles-on-android/"><u>The Ultimate List of Engaging MOBA Titles on Android</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-realme-11-proplus-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-art-of-audio-editing-a-comprehensive-fcp-tutorial/"><u>New The Art of Audio Editing A Comprehensive FCP Tutorial</u></a></li>
+</ul></div>

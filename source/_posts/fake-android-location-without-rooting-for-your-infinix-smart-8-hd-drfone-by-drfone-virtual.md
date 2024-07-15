@@ -1,7 +1,7 @@
 ---
 title: Fake Android Location without Rooting For Your Infinix Smart 8 HD | Dr.fone
-date: 2024-05-19T03:49:43.220Z
-updated: 2024-05-20T03:49:43.220Z
+date: 2024-07-14T03:05:42.039Z
+updated: 2024-07-15T03:05:42.039Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes Fake Android Location without Rooting For Your Infinix Smart 8 HD
 excerpt: This article describes Fake Android Location without Rooting For Your Infinix Smart 8 HD
 keywords: change location on Smart 8 HD,change location on android,change gps location on android,fake location on android,fake location on Smart 8 HD,fake gps location on android
-thumbnail: https://www.lifewire.com/thmb/YDOkX4KOrU-1Gfk6Kj7DPlg333E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows11contextmenu-f4d6ebb14db4444d851b4338aa553e21.png
+thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b903378f876b3f4cc7ee4fa520.png
 ---
 
 ## Fake Android Location without Rooting For Your Infinix Smart 8 HD
@@ -106,7 +106,7 @@ The VPN provider will assist you by serving a new IP address to mask your locati
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -154,6 +154,9 @@ Step 1: After successful installation of Lexa, tap the icon to trigger the app. 
 
 Step 2: Click the ‘Set Location’ option and drag the pointer on the map as per your desire
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drag the pointer on the map](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-15.jpg)
 
 Step 3: Save the changes and exit from App. Your Infinix Smart 8 HD phone will display the new location address in the notification window.
@@ -204,7 +207,7 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both Android and iOS!
 
@@ -246,6 +249,9 @@ This fake location app allows you to switch locations easily. Therefore, it is a
 
 **Step 1:** Download the Fake GPS Location app from the Google Play Store on your Infinix Smart 8 HD. Use the search bar, and it will pop up amongst the search results.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![use fake gps location](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-4.jpg)
 
 **Step 2:** After installation, select this app as your mock location app on your phone by exploring your device settings. Go to developer options on your Infinix Smart 8 HD and tap on "Select mock location app". The next step is to choose Fake GPS Location from the displayed option.
@@ -298,7 +304,7 @@ _**Tips:** Discover the most effective way to fake GPS on Android without using 
 
 
 
-_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html)_
+_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html) _
 
 ## Part 4: Mock Location Feature on Different Android Models
 
@@ -320,12 +326,18 @@ Another device you can access the mock location on again is the LG Smartphone de
 
 Xiaomi devices don’t use build numbers. They work with MIUI numbers. So to enable the mock location feature on your Xiaomi device, you must first tap on the MIUI number. You can locate this number by visiting ‘settings’ and selecting ‘About Phone’ on the list of options. Once you tap on the number, you will see the ‘Allow Mock Location Apk’ option.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![locate mock location on xiaomi](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-9.jpg)
 
 ### 4\. Huawei
 
 Huawei devices are easy to navigate. Like the Xiaomi devices, they have an EMUI number that you need to tap on. You can find this number by selecting ‘settings’ on your device. Then, choose ‘About Phone’ to proceed and activate the ‘mock location’ feature on the settings page.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![locate mock location on huawei](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-10.jpg)
 
 ## Bonus Tip: How to Change GPS on Android without Root?
@@ -348,7 +360,10 @@ If you think the way above is complicated for you, you can just use the easiest 
 
 There are varying purposes why you might want to fake your location. Luckily, several apps are available to **fake GPS on Android without mock location**. The best option for you would be the [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With this fake location app, you can access any third-party app and be in a whole different country from the comfort of your home. However, this article also provides you with other options you can explore.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Easy Ways to Manage Your Infinix Smart 8 HD Location Settings
 
@@ -449,3 +464,46 @@ Managing your android phone's location services can be super helpful to access s
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-pova-6-pro-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Pova 6 Pro 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-top-youtube-spotlight-key-influences-on-your-viewership-position/"><u>[Updated] Top YouTube Spotlight  Key Influences on Your Viewership Position</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-easy-steps-to-rectify-non-sending-or-delayed-videos-in-messenger-chats/"><u>2024 Approved  Easy Steps to Rectify Non-Sending or Delayed Videos in Messenger Chats</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-spark-10-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Spark 10 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-phantom-v-fold-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Phantom V Fold Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-vivo-x90s-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Vivo X90S Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-ace-your-earnings-game-in-youtube-shorts-for-2024/"><u>[New] Ace Your Earnings Game in YouTube Shorts for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-phantom-v-flip-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Phantom V Flip Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-camon-30-pro-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Camon 30 Pro 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-antique-cinematography-in-the-digital-realm/"><u>[Updated] Antique Cinematography in the Digital Realm</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-spark-10-4g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Spark 10 4G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-pop-8-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Pop 8 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-step-by-step-guide-for-top-picture-editor/"><u>In 2024, Step-by-Step Guide for Top Picture Editor</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-spark-20-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Spark 20 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/comprehensive-guide-to-crafting-engaging-youtube-outros-for-2024/"><u>Comprehensive Guide to Crafting Engaging YouTube Outros for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-oppo-a38-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Oppo A38 Phone? Unlock It Now</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-spark-10c-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Spark 10C Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-sony-xperia-5-v-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Sony Xperia 5 V Location Settings | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-a-pocket-guide-for-channel-setup-and-management-on-discord/"><u>[New] A Pocket Guide for Channel Setup and Management on Discord</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-spark-20-proplus-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Spark 20 Pro+ Location Settings | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-playbackquality-diagnosis/"><u>[Updated] 2024 Approved  PlaybackQuality Diagnosis</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-pop-7-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Pop 7 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-camon-20-pro-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Camon 20 Pro 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-deciphering-the-prowess-of-magix-samplitude-in-modern-music-production-for-2024/"><u>Updated Deciphering the Prowess of MAGIX Samplitude in Modern Music Production for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/keychron-gaming-pad-the-lemokey-l3-showdown/"><u>Keychron Gaming Pad: The Lemokey L3 Showdown</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-spark-10-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Spark 10 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/examining-the-effectiveness-of-selfie-validation-on-instagram/"><u>Examining the Effectiveness of Selfie Validation on Instagram</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-pova-5-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Pova 5 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-camon-20-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Camon 20 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-pova-5-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Pova 5 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-spark-20-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Spark 20 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-eyeballs-to-earnings-the-price-of-popular-videos/"><u>In 2024, From Eyeballs to Earnings  The Price of Popular Videos</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-sony-xperia-1-v-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Sony Xperia 1 V Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-camon-20-premier-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Camon 20 Premier 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-remote-connection-issues/"><u>Mastering Windows Remote Connection Issues</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-how-to-crop-a-video-with-avidemux-for-2024/"><u>Updated How to Crop a Video with Avidemux for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-streamline-your-workflow-essential-tips-to-record-on-hp-laptop/"><u>[Updated] Streamline Your Workflow  Essential Tips to Record on HP Laptop</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-sony-xperia-10-v-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Sony Xperia 10 V Location Settings | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-5-ways-to-track-apple-iphone-15-pro-without-app-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways to Track Apple iPhone 15 Pro without App | Dr.fone</u></a></li>
+</ul></div>

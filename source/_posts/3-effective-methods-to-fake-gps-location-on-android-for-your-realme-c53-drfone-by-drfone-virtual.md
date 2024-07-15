@@ -1,7 +1,7 @@
 ---
 title: 3 Effective Methods to Fake GPS location on Android For your Realme C53 | Dr.fone
-date: 2024-05-19T03:49:40.918Z
-updated: 2024-05-20T03:49:40.918Z
+date: 2024-07-14T02:48:04.858Z
+updated: 2024-07-15T02:48:04.858Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes 3 Effective Methods to Fake GPS location on Android For your Realme C53
 excerpt: This article describes 3 Effective Methods to Fake GPS location on Android For your Realme C53
 keywords: fake location on android,change gps location on android,fake gps location on android,change location on android,fake location on C53,change location on C53
-thumbnail: https://www.lifewire.com/thmb/W4WRTJiI80qWQugtfcrcauwLImY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rearviewofboywithlaptoponsofa-31ba45dfa7fb4553a257c133b352ef64.jpg
+thumbnail: https://thmb.techidaily.com/26dcef27c207b8605e3fcf4585ee0822110eeb8a794c85ff8e27071c7786d452.jpg
 ---
 
 ## 3 Effective Methods to Fake GPS location on Android For your Realme C53
@@ -70,6 +70,9 @@ You can check out this video for further instruction.
 
 - Click on **Move Here** to mock your location on Android.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 Once you select the Move Here option, your new location on the program’s map, as well as your Realme C53, will show as Rome, Italy.
@@ -174,7 +177,7 @@ Fake GPS Go Location Spoofer is a premium tool, but most of its functions are fr
 
 **Price**: Free
 
-![ fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
+![fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
 
 Fake GPS Location Professional is another free tool to deceive your GPS on Android devices. However, whenever you want to use it, you will have to go through Settings and mock your location manually every time.
 
@@ -188,7 +191,7 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 **Step 1. Install** the [**Fake GPS location by Lexa app**](https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en) from the Google Play store.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
 
 **Step 2**. Go to the **Developer option** on an Android device (**refer to the FAQ section** to learn how to enable Developer options on an Android device).
 
@@ -196,18 +199,21 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 - **Click on the Select mock location app option** to view all the Fake GPS locations installed on your Realme C53.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
 
 - Add **Fake GPS Location by Lexa.**
 
-![ mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
+![mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
 
 **Step 4.** Close the Settings after adding the Fake GPS location by Lexa in Developer options.
 
 - **Open the Fake GPS Location by Lexa app.**
 - And **choose the desired fake location**.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
 
 ### 1\. How To Enable Developer Options In Android?
 
@@ -218,19 +224,19 @@ Here’s how to enable the developer option:
 - Open
 - **Go to System.**
 
-![ fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
+![fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
 
 - Navigate to **About Phone** and open it.
 
-![ fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
+![fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
 
 - Choose the **Software info**
 
-![ fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
+![fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
 
 - And click on **Build Number 7 times to see** the developer options screen.
 
-![ fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
+![fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
 
 You can now access the Developer options directly in the Settings menu. Now, use the earlier method to set the location-spoofing app in the Developer options.
 
@@ -244,6 +250,9 @@ Dr. Fone’s Virtual Location is the best tool to prevent online services from d
 
 Yes. Dr. Fone's Virtual Location program is the best tool to fake your location on Grindr. It allows you to unlock several profiles at any desired location and discover more people.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Is it legal to fake GPS location on Android?
 
 Yes, as long as you are not using them to engage in criminal activities.
@@ -363,6 +372,9 @@ As the name suggests, mock location simply means changing the present location o
 
 The good thing about Android phones is that they let us change the present location of our device, which helps us unlock various location-based restrictions. For instance, you can use a mock GPS app to catch more Pokemons, unlock a restricted content on Netflix, or access more profiles on dating apps like Tinder.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Any Precaution or Preparation for Mocking GPS on Realme C53
 
 The mock GPS feature is not available in standard device settings. To access it, you first need to unlock Developer Options on your phone. This is because the mock GPS feature on Android is offered to developers to test the location of an app they are working on or any other need.
@@ -418,10 +430,13 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Realme  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Realme ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Realme](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Realme C53 device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mock location field](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-5.jpg)
 
 Step 2: Install and Allow a Mock GPS App
@@ -446,7 +461,7 @@ There you go! After reading this guide, you would be able to mock GPS on your Re
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -475,3 +490,50 @@ There you go! After reading this guide, you would be able to mock GPS on your Re
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-tecno-spark-10-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/quick-tips-for-hitting-the-jackpot-in-pexels-for-2024/"><u>Quick Tips for Hitting the Jackpot in Pexels for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-s18-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-tecno-spark-20-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/"><u>Aiseesoft FoneLab Android Data Recovery</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-a-pictures-worth-a-thousand-dollars-online-top-photo-cloud-services-reviewed/"><u>[Updated] A Picture's Worth a Thousand Dollars Online  Top Photo Cloud Services Reviewed</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-tecno-spark-go-2023-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-efficient-editing-techniques-mastering-video-cropping-and-exporting/"><u>[Updated] 2024 Approved  Efficient Editing Techniques  Mastering Video Cropping and Exporting</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-thors-fury-legends-of-the-ragnarok/"><u>[New] Thor's Fury  Legends of the Ragnarök</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-tecno-spark-20-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-s17-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-healing-holograms-arvr-in-healthcare/"><u>2024 Approved  Healing Holograms  AR/VR in Healthcare</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-s18-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-top-webm-video-compression-tools-online/"><u>Updated In 2024, Top WebM Video Compression Tools Online</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-why-you-shouldnt-trust-your-eyes-when-it-comes-to-youtube-views/"><u>[New] Why You Shouldn't Trust Your Eyes When It Comes to YouTube Views</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-step-by-step-guide-to-youtube-stats-analysis-via-social-blade-platform/"><u>[New] A Step-by-Step Guide to YouTube Stats Analysis via Social Blade Platform</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-tecno-spark-20-proplus-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-infinix-note-30-vip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-tecno-spark-10c-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-best-price-to-performance-ratio-for-asmr-equipment-for-2024/"><u>The Best Price-to-Performance Ratio for ASMR Equipment for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-tecno-spark-10-4g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-t2-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-tecno-spark-10-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-s17-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-s18e-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-tecno-pova-5-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-t2-pro-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-digital-identification-showdown-iphone-x-and-galaxy-edition-for-2024/"><u>[Updated] Digital Identification Showdown  IPhone X and Galaxy Edition for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-g2-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-make-every-youtube-video-count-learn-how-to-free-transcribe-easily/"><u>[Updated] Make Every YouTube Video Count  Learn How to Free-Transcribe Easily</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-honor-80-pro-straight-screen-edition-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Honor 80 Pro Straight Screen Edition to iPhone | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-size-matters-crafting-engaging-video-titles/"><u>[Updated] 2024 Approved  Size Matters  Crafting Engaging Video Titles</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-some-techniques-for-creating-animated-logo-that-few-people-know-about/"><u>Updated Some Techniques for Creating Animated Logo That Few People Know About</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-rapid-tiktok-downloads-flawless-mp4-format-conversions/"><u>[Updated] 2024 Approved  Rapid TikTok Downloads  Flawless MP4 Format Conversions</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-s17t-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-tecno-spark-20c-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-tecno-pova-6-pro-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-invisible-readers-pathway-how-to-engage-with-instagram-stories-unseen/"><u>[Updated] 2024 Approved  The Invisible Reader's Pathway  How to Engage with Instagram Stories Unseen</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-tecno-pova-5-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-s17e-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-zte-nubia-flip-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from ZTE Nubia Flip 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-step-by-step-techniques-for-making-a-standout-slowed-motion-video-on-instas-trendy-reels-for-2024/"><u>[New] Step by Step Techniques for Making a Standout Slowed-Motion Video on Insta's Trendy Reels for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-ignite-your-narratives-complimentary-fb-apps-for-everyday-users-for-2024/"><u>[Updated] Ignite Your Narratives  Complimentary FB Apps for Everyday Users for 2024</u></a></li>
+</ul></div>

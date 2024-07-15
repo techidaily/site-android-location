@@ -1,7 +1,7 @@
 ---
 title: 3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy A23 5G | Dr.fone
-date: 2024-05-19T03:49:41.003Z
-updated: 2024-05-20T03:49:41.003Z
+date: 2024-07-14T02:48:32.375Z
+updated: 2024-07-15T02:48:32.375Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes 3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy A23 5G
 excerpt: This article describes 3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy A23 5G
 keywords: change gps location on android,change location on Galaxy A23 5G,fake location on Galaxy A23 5G,change location on android,fake location on android,fake gps location on android
-thumbnail: https://www.lifewire.com/thmb/6d3Pk0OpPHgsMtYTh0RE0ehMopY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-758317893-3ab5c26f770448db8b4a58205fb549f1.jpg
+thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3ee5edf935baeb75dd083d47.jpg
 ---
 
 ## 3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy A23 5G
@@ -174,7 +174,7 @@ Fake GPS Go Location Spoofer is a premium tool, but most of its functions are fr
 
 **Price**: Free
 
-![ fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
+![fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
 
 Fake GPS Location Professional is another free tool to deceive your GPS on Android devices. However, whenever you want to use it, you will have to go through Settings and mock your location manually every time.
 
@@ -188,7 +188,7 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 **Step 1. Install** the [**Fake GPS location by Lexa app**](https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en) from the Google Play store.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
 
 **Step 2**. Go to the **Developer option** on an Android device (**refer to the FAQ section** to learn how to enable Developer options on an Android device).
 
@@ -196,18 +196,18 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 - **Click on the Select mock location app option** to view all the Fake GPS locations installed on your Samsung Galaxy A23 5G.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
 
 - Add **Fake GPS Location by Lexa.**
 
-![ mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
+![mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
 
 **Step 4.** Close the Settings after adding the Fake GPS location by Lexa in Developer options.
 
 - **Open the Fake GPS Location by Lexa app.**
 - And **choose the desired fake location**.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
 
 ### 1\. How To Enable Developer Options In Android?
 
@@ -218,19 +218,19 @@ Here’s how to enable the developer option:
 - Open
 - **Go to System.**
 
-![ fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
+![fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
 
 - Navigate to **About Phone** and open it.
 
-![ fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
+![fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
 
 - Choose the **Software info**
 
-![ fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
+![fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
 
 - And click on **Build Number 7 times to see** the developer options screen.
 
-![ fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
+![fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
 
 You can now access the Developer options directly in the Settings menu. Now, use the earlier method to set the location-spoofing app in the Developer options.
 
@@ -327,7 +327,7 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Samsung  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Samsung ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Samsung](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Samsung Galaxy A23 5G device.
 
@@ -355,7 +355,10 @@ There you go! After reading this guide, you would be able to mock GPS on your Sa
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -373,7 +376,7 @@ Have you ever wondered why Android monitor tools exist? Well, with the recent bo
 
 Also, to track the real location of kids/spouses/employees, phone monitoring Apps for Android come in handy. Android monitoring Apps help you spy on others’ smartphones, hack their photos, messages, call logs, Social App data, location, and browsing patterns. To know more, read and find out about the 9 best and free Android monitoring Apps.
 
-_You may be interested in: [Top 21 Mobile Device Spy Apps for iPhone/iPad/Android in 2022](https://drfone.wondershare.com/spy/best-mobile-spy-apps.html)_
+_You may be interested in: [Top 21 Mobile Device Spy Apps for iPhone/iPad/Android in 2022](https://drfone.wondershare.com/spy/best-mobile-spy-apps.html) _
 
 ## Part 1: mSpy
 
@@ -441,6 +444,9 @@ Children tracker Android monitoring App is a parental control app to find out th
 
 To know more, visit <https://play.google.com/store/apps/details?id=com.faisalayaz.ChildrenTracking&hl=en>
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Free Android Monitoring App-Children Tracker](https://images.wondershare.com/drfone/article/2017/10/15081788113159.jpg)
 
 **Features:**
@@ -527,6 +533,9 @@ Phone monitoring apps for Android are many and Track it is one of them. It is es
 
 To know more, visit <https://play.google.com/store/apps/details?id=com.perfectapps.trackit&hl=en>
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Free Android Monitoring App-Track it](https://images.wondershare.com/drfone/article/2017/10/15082187024926.jpg)
 
 **Features:**
@@ -609,12 +618,18 @@ This App contains ads.
 
 Social media calls cannot be recorded.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 9: The Fonemate Spy
 
 This Android monitoring App is a reliable spy tool and has a feature-laden interface to track, spy on, and hack other people’s Android smartphones. It makes it easy to monitor and spy on Android devices and comes with an easy installation process. Just download/install the App, monitor target Android via CPanel, and then purchase the App in 48 hours.
 
 To know more, visit <https://www.myfonemate.com>
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Free Android Monitoring App-The TruthSpy](https://images.wondershare.com/drfone/article/2017/10/15081790103122.jpg)
 
 **Features:**
@@ -654,3 +669,45 @@ We hope you find this guide useful. The tools listed above are the best phone mo
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exquisite-note-taking-experience-on-mematic/"><u>2024 Approved  Exquisite Note-Taking Experience on Mematic</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-v30-lite-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-behind-the-scenes-10-underrated-aspects-of-reels-on-instagram-for-2024/"><u>[Updated] Behind the Scenes  10 Underrated Aspects of Reels on Instagram for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-x-fold-2-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-v29e-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-t2-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-v27-pro-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-s18e-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-online-add-on-social-media-story-vault-for-2024/"><u>[New] Online Add-On  Social Media Story Vault for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-next-level-video-editing-the-ultimate-guide-to-cool-effects-for-2024/"><u>New Next-Level Video Editing The Ultimate Guide to Cool Effects for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-apple-iphone-11-pro-max-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked Apple iPhone 11 Pro Max Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/what-is-mov-format-and-how-to-edit-mov-video-better-in-2024/"><u>What Is MOV Format and How to Edit MOV Video Better, In 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-decoding-instagrams-legal-framework-for-musicians/"><u>[New] 2024 Approved  Decoding Instagram's Legal Framework for Musicians</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-t2x-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-v27-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-garmins-action-camera-triumph-a-comprehensible-look-at-ultra-30/"><u>[New] Garmin's Action Camera Triumph - A Comprehensible Look at Ultra 30</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-expert-insights-efficiently-adding-subtitles-to-vimeo-videos/"><u>[New] In 2024, Expert Insights  Efficiently Adding Subtitles to Vimeo Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-ultimate-high-definition-slow-mo-cams-for-2024/"><u>[New] Ultimate High Definition Slow-Mo Cams for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-v29-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-strategic-placements-for-elevating-youtube-videos/"><u>[New] Strategic Placements for Elevating YouTube Videos</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-y100-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-v27e-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-comprehensive-guide-to-turning-vids-into-mp3-on-pinterest/"><u>A Comprehensive Guide to Turning Vids Into MP3 on Pinterest</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-x100-pro-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/2024-approved-5-best-realistic-text-to-speech-ai-voice-generators-you-may-like/"><u>2024 Approved 5 Best Realistic Text to Speech AI Voice Generators You May Like</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-v30-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-your-subtitles-with-top-10-free-converter-websites/"><u>[Updated] Master Your Subtitles with Top 10 Free Converter Websites</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-x100-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-invest-in-insta-success-the-top-earners-playbook/"><u>[New] Invest in Insta Success  The Top Earners' Playbook</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-v29-pro-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-x90s-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-enhancing-visual-aesthetics-adding-black-bar-and-box-to-videos-for-2024/"><u>[Updated] Enhancing Visual Aesthetics  Adding Black Bar & Box to Videos for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-x-flip-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/scouting-grounds-websites-for-finding-sponsorships-in-videography-for-2024/"><u>Scouting Grounds  Websites for Finding Sponsorships in Videography for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-v30-pro-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-t2-pro-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-y02t-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo Y02T | Dr.fone</u></a></li>
+</ul></div>

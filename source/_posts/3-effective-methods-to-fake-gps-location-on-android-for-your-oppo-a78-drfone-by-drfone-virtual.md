@@ -1,7 +1,7 @@
 ---
 title: 3 Effective Methods to Fake GPS location on Android For your Oppo A78 | Dr.fone
-date: 2024-05-19T03:49:40.749Z
-updated: 2024-05-20T03:49:40.749Z
+date: 2024-07-14T02:47:13.911Z
+updated: 2024-07-15T02:47:13.911Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes 3 Effective Methods to Fake GPS location on Android For your Oppo A78
 excerpt: This article describes 3 Effective Methods to Fake GPS location on Android For your Oppo A78
 keywords: fake location on android,fake gps location on android,fake location on A78,change gps location on android,change location on A78,change location on android
-thumbnail: https://www.lifewire.com/thmb/RWcl_Joktvj_rmr9ViWUZrsB7e4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/homepod-hero-5a79bc226bf06900378a7e1a.jpg
+thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f898253edd18111f294ce2b839027.jpg
 ---
 
 ## 3 Effective Methods to Fake GPS location on Android For your Oppo A78
@@ -174,7 +174,7 @@ Fake GPS Go Location Spoofer is a premium tool, but most of its functions are fr
 
 **Price**: Free
 
-![ fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
+![fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
 
 Fake GPS Location Professional is another free tool to deceive your GPS on Android devices. However, whenever you want to use it, you will have to go through Settings and mock your location manually every time.
 
@@ -188,7 +188,7 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 **Step 1. Install** the [**Fake GPS location by Lexa app**](https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en) from the Google Play store.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
 
 **Step 2**. Go to the **Developer option** on an Android device (**refer to the FAQ section** to learn how to enable Developer options on an Android device).
 
@@ -196,18 +196,18 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 - **Click on the Select mock location app option** to view all the Fake GPS locations installed on your Oppo A78.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
 
 - Add **Fake GPS Location by Lexa.**
 
-![ mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
+![mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
 
 **Step 4.** Close the Settings after adding the Fake GPS location by Lexa in Developer options.
 
 - **Open the Fake GPS Location by Lexa app.**
 - And **choose the desired fake location**.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
 
 ### 1\. How To Enable Developer Options In Android?
 
@@ -218,22 +218,25 @@ Here’s how to enable the developer option:
 - Open
 - **Go to System.**
 
-![ fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
+![fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
 
 - Navigate to **About Phone** and open it.
 
-![ fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
+![fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
 
 - Choose the **Software info**
 
-![ fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
+![fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
 
 - And click on **Build Number 7 times to see** the developer options screen.
 
-![ fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
+![fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
 
 You can now access the Developer options directly in the Settings menu. Now, use the earlier method to set the location-spoofing app in the Developer options.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Can Fake GPS be detected?
 
 No. Most Fake GPS location apps aren’t detectable. However, if you are still unable to fake GPS location on Android using a third-party app, combine it with a VPN to also change your IP address.
@@ -320,6 +323,9 @@ You can use Wi-Fi to connect the software to your iPhone once you've linked it t
 
 **Step 2**: You'll be taken to a new window where you can see a map of your current position. Click the "Center On" symbol in the lower right corner to see the proper place if it is not displayed correctly.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on get started button](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
 **Step 3:** Activate the "teleport mode" by swiping up and down and then clicking on the 2nd icon (the top right). Click "Go" to teleport to your location of choice.
@@ -328,6 +334,9 @@ You can use Wi-Fi to connect the software to your iPhone once you've linked it t
 
 **Step 4:** The system now knows where you want to go. In the popup box, select "Move Here."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 **Step 5**: Rome has been selected as your new home base. Whether you use the "Center On" symbol or your Phone's GPS to find your current location, you will always be in Rome, Italy. Your location-based app's location is, of course, in the same area as well. So that's where it's going to be shown.
@@ -384,7 +393,7 @@ Download link: [https://play.google.com/store/apps/details?id=com.lexa.fakegps](
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -396,6 +405,9 @@ Download link: [https://play.google.com/store/apps/details?id=com.lexa.fakegps](
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### GPS Emulator
 
 This fake location spoofer free app is developed by RosTeam and would let you emulate your location anywhere on the map. You can also access the past locations you have spoofed and even mark favorites.
@@ -433,7 +445,7 @@ Download link: [https://play.google.com/store/apps/details?id=org.hola.gpslocati
 
 ![Fake GPS by Hola](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-4.jpg)
 
-### [Fake GPS Location Spoofer](https://drfone.wondershare.com/fake-location/fake-gps-location-spoofer.html)
+### Fake GPS Location Spoofer
 
 If you are looking for a lightweight, reliable, and user-friendly location spoofer, then you can give this app a try. It has been recently updated to provide support for most gaming and dating apps.
 
@@ -485,6 +497,9 @@ Play Store Rating: 4.3
 
 Download link: [https://play.google.com/store/apps/details?id=com.blogspot.newapphorizons.fakegps](https://play.google.com/store/apps/details?id=com.blogspot.newapphorizons.fakegps)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fake GPS by ByteRev](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-7.jpg)
 
 ### Location Changer by NetLinkd
@@ -580,3 +595,51 @@ This brings us to the end of this extensive post about the best GPS spoofer apps
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-exclusive-no-branded-capture-utility-10plus-instances/"><u>2024 Approved  Exclusive No-Branded Capture Utility, 10+ Instances</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-100-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hear-the-difference-on-chrome-the-ultimate-guide-to-voice-alteration-apps/"><u>In 2024, Hear the Difference on Chrome  The Ultimate Guide to Voice Alteration Apps</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-12-proplus-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Xiaomi Redmi Note 12 Pro+ 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-into-premium-filmmaking-discover-these-8-online-backdrop-banks/"><u>In 2024, Step Into Premium Filmmaking  Discover These 8 Online Backdrop Banks</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-zte-nubia-flip-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on ZTE Nubia Flip 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-asus-rog-phone-8-pro-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-12t-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Xiaomi Redmi Note 12T Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-70-lite-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-ranked-top-5-ps3-virtual-players-for-pc/"><u>In 2024, Ranked  Top 5 PS3 Virtual Players for PC</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-troubleshooting-sudden-facebook-live-hiccups-for-2024/"><u>[New] Troubleshooting Sudden Facebook Live Hiccups for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-12-pro-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Xiaomi Redmi Note 12 Pro 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-zte-axon-40-lite-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on ZTE Axon 40 Lite Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-asus-rog-phone-7-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-explore-the-best-in-class-android-apps-to-revive-ps2-games-for-2024/"><u>[New] Explore the Best-in-Class Android Apps to Revive PS2 Games for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-12-4g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Xiaomi Redmi Note 12 4G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-zte-blade-a73-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on ZTE Blade A73 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-12r-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Xiaomi Redmi Note 12R Devices | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-keep-your-content-clout-authentic-resist-the-like-lie-in/"><u>[New] Keep Your Content Clout Authentic  Resist the Like Lie-In</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-xiaomi-redmi-k70e-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Xiaomi Redmi K70E Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-tutorial-for-apple-music-and-video-mix/"><u>The Ultimate Tutorial for Apple Music & Video Mix</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-12-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Xiaomi Redmi Note 12 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-google-pixel-8-pro-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-zte-nubia-z60-ultra-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on ZTE Nubia Z60 Ultra Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-top-9-iphone-applications-for-adding-photo-water-marks/"><u>Exploring Top 9 iPhone Applications for Adding Photo Water Marks</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-100-pro-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-perfecting-your-videos-farewell-scene/"><u>[Updated] Perfecting Your Video's Farewell Scene</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-google-pixel-7a-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-asus-rog-phone-8-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-upgrade-your-facebook-experience-with-the-best-5-extensions/"><u>2024 Approved  Upgrade Your Facebook Experience with the Best 5 Extensions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-rip-and-save-the-best-youtube-download-software/"><u>In 2024, Rip & Save  The Best YouTube Download Software</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-gionee-f3-pro-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-13-pro-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Xiaomi Redmi Note 13 Pro 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-honor-x50-gt-to-mac-drfone-by-drfone-android/"><u>How to Mirror Honor X50 GT to Mac? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-poco-c65-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Poco C65 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-13-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Xiaomi Redmi Note 13 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-google-pixel-8-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-revolutionary-videography-toolset-for-vimeo-users-for-2024/"><u>[Updated] Revolutionary Videography Toolset for Vimeo Users for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-12-pro-4g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Xiaomi Redmi Note 12 Pro 4G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-google-pixel-fold-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-13-proplus-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Xiaomi Redmi Note 13 Pro+ 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-blend-music-sequences-into-animated-file-format-on-win-os/"><u>Updated Blend Music Sequences Into Animated File Format on WIN OS</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: 10 Free Location Spoofers to Fake GPS Location on your Sony Xperia 10 V | Dr.fone
-date: 2024-06-08T05:53:25.446Z
-updated: 2024-06-09T05:53:25.446Z
+date: 2024-07-14T02:42:10.394Z
+updated: 2024-07-15T02:42:10.394Z
 tags: 
   - virtual location chang
   - location changer
@@ -58,7 +58,10 @@ Download link: [https://play.google.com/store/apps/details?id=com.lexa.fakegps](
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -105,9 +108,12 @@ Play Store Rating: 4.0
 
 Download link: [https://play.google.com/store/apps/details?id=org.hola.gpslocation](https://play.google.com/store/apps/details?id=org.hola.gpslocation)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fake GPS by Hola](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-4.jpg)
 
-### [Fake GPS Location Spoofer](https://drfone.wondershare.com/fake-location/fake-gps-location-spoofer.html)
+### Fake GPS Location Spoofer
 
 If you are looking for a lightweight, reliable, and user-friendly location spoofer, then you can give this app a try. It has been recently updated to provide support for most gaming and dating apps.
 
@@ -123,6 +129,9 @@ Play Store Rating: 3.7
 
 Download link: [https://play.google.com/store/apps/details?id=com.incorporateapps.fakegps.fre](https://play.google.com/store/apps/details?id=com.incorporateapps.fakegps.fre)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fake GPS Go](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-5.jpg)
 
 ### Fake GPS Location
@@ -159,6 +168,9 @@ Play Store Rating: 4.3
 
 Download link: [https://play.google.com/store/apps/details?id=com.blogspot.newapphorizons.fakegps](https://play.google.com/store/apps/details?id=com.blogspot.newapphorizons.fakegps)
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fake GPS by ByteRev](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-7.jpg)
 
 ### Location Changer by NetLinkd
@@ -215,6 +227,9 @@ Play Store Rating: 3
 
 Download link: [https://play.google.com/store/apps/details?id=com.pe.fakegpsrun](https://play.google.com/store/apps/details?id=com.pe.fakegpsrun)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fake GPS Run](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-10.jpg)
 
 ### Fake GPS 360
@@ -283,7 +298,7 @@ Download link: [https://play.google.com/store/apps/details?id=com.lexa.fakegps](
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -332,7 +347,7 @@ Download link: [https://play.google.com/store/apps/details?id=org.hola.gpslocati
 
 ![Fake GPS by Hola](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-4.jpg)
 
-### [Fake GPS Location Spoofer](https://drfone.wondershare.com/fake-location/fake-gps-location-spoofer.html)
+### Fake GPS Location Spoofer
 
 If you are looking for a lightweight, reliable, and user-friendly location spoofer, then you can give this app a try. It has been recently updated to provide support for most gaming and dating apps.
 
@@ -622,7 +637,7 @@ Fake GPS Go Location Spoofer is a premium tool, but most of its functions are fr
 
 **Price**: Free
 
-![ fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
+![fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
 
 Fake GPS Location Professional is another free tool to deceive your GPS on Android devices. However, whenever you want to use it, you will have to go through Settings and mock your location manually every time.
 
@@ -636,7 +651,7 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 **Step 1. Install** the [**Fake GPS location by Lexa app**](https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en) from the Google Play store.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
 
 **Step 2**. Go to the **Developer option** on an Android device (**refer to the FAQ section** to learn how to enable Developer options on an Android device).
 
@@ -644,18 +659,18 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 - **Click on the Select mock location app option** to view all the Fake GPS locations installed on your Sony Xperia 10 V.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
 
 - Add **Fake GPS Location by Lexa.**
 
-![ mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
+![mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
 
 **Step 4.** Close the Settings after adding the Fake GPS location by Lexa in Developer options.
 
 - **Open the Fake GPS Location by Lexa app.**
 - And **choose the desired fake location**.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
 
 ### 1\. How To Enable Developer Options In Android?
 
@@ -666,19 +681,19 @@ Here’s how to enable the developer option:
 - Open
 - **Go to System.**
 
-![ fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
+![fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
 
 - Navigate to **About Phone** and open it.
 
-![ fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
+![fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
 
 - Choose the **Software info**
 
-![ fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
+![fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
 
 - And click on **Build Number 7 times to see** the developer options screen.
 
-![ fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
+![fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
 
 You can now access the Developer options directly in the Settings menu. Now, use the earlier method to set the location-spoofing app in the Developer options.
 
@@ -721,3 +736,58 @@ These three are the most effective methods to fake GPS locations on Android. How
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-nokia-c300-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-x100-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo X100 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-apple-iphone-12-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on Apple iPhone 12</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-safe-methods-for-directly-downloading-youtubes-audios-as-mp3-for-2024/"><u>Three Safe Methods for Directly Downloading YouTube's Audios as MP3 for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-step-up-your-streams-advanced-practices-for-capturing-vr-playtimes/"><u>[Updated] Step Up Your Streams  Advanced Practices for Capturing VR Playtimes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-chic-coverage-for-your-portable-screen/"><u>In 2024, Chic Coverage for Your Portable Screen</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-v27-pro-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo V27 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-exploring-12-premium-cameras-for-professional-vloggers-for-2024/"><u>[New] Exploring 12 Premium Cameras for Professional Vloggers for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-y100-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo Y100 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhancing-relaxation-while-exploring-podcast-realms/"><u>Enhancing Relaxation While Exploring Podcast Realms</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-y27-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo Y27 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/the-ultimate-mac-movie-maker-software-roundup-a-beginners-resource-for-2024/"><u>The Ultimate Mac Movie Maker Software Roundup A Beginners Resource for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-v29e-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo V29e Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-y27s-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo Y27s Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-v30-pro-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo V30 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-y27-4g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo Y27 4G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-immediate-recovery-of-lost-snapshots/"><u>2024 Approved  Immediate Recovery of Lost Snapshots</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-a-comprehensive-introduction-to-color-grading-with-luts/"><u>[Updated] In 2024, A Comprehensive Introduction to Color Grading with LUTs</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-honor-100-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Honor 100? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-v29-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo V29 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-ultimate-strategic-guide-to-facebook-video-promotions-for-2024/"><u>[New] Ultimate Strategic Guide to Facebook Video Promotions for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-y100t-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo Y100t Location Settings | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-sonys-blu-ray-revolution-s6700-updates/"><u>[Updated] Sony's Blu-Ray Revolution  S6700 Updates</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-itel-p55-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-master-list-of-youtube-templates-for-beginners/"><u>In 2024, Master List of YouTube Templates for Beginners</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-y200-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo Y200 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-y100a-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo Y100A Location Settings | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-3-sites-to-find-free-oppo-unlock-codes-to-unlock-your-oppo-phone-by-drfone-android/"><u>In 2024, Top 3 Sites to Find Free Oppo Unlock Codes to Unlock Your Oppo Phone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-v27-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo V27 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-v30-lite-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo V30 Lite 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-y100i-power-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo Y100i Power 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-compreeved-guide-to-optimizing-space-and-pc-for-vr/"><u>[Updated] 2024 Approved  The Compreeved Guide to Optimizing Space & PC for VR</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-x-flip-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo X Flip Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-y200e-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo Y200e 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-x90s-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo X90S Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-v29-pro-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo V29 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-strategic-playlist-formation-your-guide-to-youtube-mastery/"><u>In 2024, Strategic Playlist Formation  Your Guide to YouTube Mastery</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-y02t-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo Y02T Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-y100i-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo Y100i Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-y100-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo Y100 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-gradual-sound-escalation-auditions-guide-to-fades/"><u>2024 Approved  The Gradual Sound Escalation  Audition’s Guide to Fades</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-v27e-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo V27e Location Settings | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-voice-as-armor-harnessing-the-power-of-morphvox-to-amplify-your-gaming-persona-online/"><u>New In 2024, Voice as Armor Harnessing the Power of Morphvox to Amplify Your Gaming Persona Online</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-y100i-power-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo Y100i Power 5G</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-y17s-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo Y17s Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-x-fold-2-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo X Fold 2 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/video-mastery-start-here-essential-seo-gadgets/"><u>Video Mastery Start Here - Essential SEO Gadgets</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-x100-pro-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo X100 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-free-up-iphone-se-2022-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up iPhone SE (2022) Space | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-virtual-identity-your-metaverse-persona-creation-companion/"><u>[Updated] Mastering Virtual Identity  Your Metaverse Persona Creation Companion</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-v30-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo V30 Location Settings | Dr.fone</u></a></li>
+</ul></div>

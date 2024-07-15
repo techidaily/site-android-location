@@ -1,7 +1,7 @@
 ---
 title: 3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 12R | Dr.fone
-date: 2024-05-19T03:49:41.443Z
-updated: 2024-05-20T03:49:41.443Z
+date: 2024-07-14T02:50:58.596Z
+updated: 2024-07-15T02:50:58.596Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes 3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 12R
 excerpt: This article describes 3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 12R
 keywords: change gps location on android,change location on Redmi Note 12R,fake location on android,fake gps location on android,fake location on Redmi Note 12R,change location on android
-thumbnail: https://www.lifewire.com/thmb/upymkFD17829BoXqvYndmLQPGU4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/safari-photo--canon-and-nikon-digital-cameras-and-lenses--masai-mara-game-reserve--kenya--769713645-5bde071546e0fb0026a2c012.jpg
+thumbnail: https://thmb.techidaily.com/85be9153d8c81024583588a94ed9e00fc880777ac2a8c7cff5efd5d21044d91c.jpg
 ---
 
 ## 3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 12R
@@ -174,7 +174,7 @@ Fake GPS Go Location Spoofer is a premium tool, but most of its functions are fr
 
 **Price**: Free
 
-![ fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
+![fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
 
 Fake GPS Location Professional is another free tool to deceive your GPS on Android devices. However, whenever you want to use it, you will have to go through Settings and mock your location manually every time.
 
@@ -188,7 +188,7 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 **Step 1. Install** the [**Fake GPS location by Lexa app**](https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en) from the Google Play store.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
 
 **Step 2**. Go to the **Developer option** on an Android device (**refer to the FAQ section** to learn how to enable Developer options on an Android device).
 
@@ -196,18 +196,18 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 - **Click on the Select mock location app option** to view all the Fake GPS locations installed on your Xiaomi Redmi Note 12R.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
 
 - Add **Fake GPS Location by Lexa.**
 
-![ mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
+![mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
 
 **Step 4.** Close the Settings after adding the Fake GPS location by Lexa in Developer options.
 
 - **Open the Fake GPS Location by Lexa app.**
 - And **choose the desired fake location**.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
 
 ### 1\. How To Enable Developer Options In Android?
 
@@ -218,19 +218,19 @@ Here’s how to enable the developer option:
 - Open
 - **Go to System.**
 
-![ fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
+![fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
 
 - Navigate to **About Phone** and open it.
 
-![ fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
+![fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
 
 - Choose the **Software info**
 
-![ fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
+![fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
 
 - And click on **Build Number 7 times to see** the developer options screen.
 
-![ fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
+![fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
 
 You can now access the Developer options directly in the Settings menu. Now, use the earlier method to set the location-spoofing app in the Developer options.
 
@@ -240,6 +240,9 @@ No. Most Fake GPS location apps aren’t detectable. However, if you are still u
 
 Dr. Fone’s Virtual Location is the best tool to prevent online services from detecting your actual location.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Can you Fake your location on Grindr?
 
 Yes. Dr. Fone's Virtual Location program is the best tool to fake your location on Grindr. It allows you to unlock several profiles at any desired location and discover more people.
@@ -262,7 +265,7 @@ Have you ever wondered why Android monitor tools exist? Well, with the recent bo
 
 Also, to track the real location of kids/spouses/employees, phone monitoring Apps for Android come in handy. Android monitoring Apps help you spy on others’ smartphones, hack their photos, messages, call logs, Social App data, location, and browsing patterns. To know more, read and find out about the 9 best and free Android monitoring Apps.
 
-_You may be interested in: [Top 21 Mobile Device Spy Apps for iPhone/iPad/Android in 2022](https://drfone.wondershare.com/spy/best-mobile-spy-apps.html)_
+_You may be interested in: [Top 21 Mobile Device Spy Apps for iPhone/iPad/Android in 2022](https://drfone.wondershare.com/spy/best-mobile-spy-apps.html) _
 
 ## Part 1: mSpy
 
@@ -270,6 +273,9 @@ _You may be interested in: [Top 21 Mobile Device Spy Apps for iPhone/iPad/Androi
 
 To know more, visit [https://www.mspy.com/](http://mspy.go2cloud.org/SH96F)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Free Android Monitoring App-mSpy](https://images.wondershare.com/drfone/article/2017/10/15081787456389.jpg)
 
 **Features:**
@@ -358,6 +364,9 @@ This Android monitor was initially an iPhone-only App and then was launched for 
 
 To know more, visit <https://ikeymonitor.com/android-spy-app-free-download>
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Free Android Monitoring App-iKey Monitor](https://images.wondershare.com/drfone/article/2017/10/15081788406574.jpg)
 
 **Features:**
@@ -534,6 +543,9 @@ Location services on your Xiaomi Redmi Note 12R or iPhone are one you'd find hel
 
 However, **how do you manage your Xiaomi Redmi Note 12R location settings**? How can you turn on/off GPS on Android and change phone location on Android? That's precisely the purpose of this guide! So let's get started on how you can manage your Xiaomi Redmi Note 12R location settings!
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Part 1: How to enable location services on Android**
 
 If you use an Android phone, you can turn on your location services following these easy steps:
@@ -564,6 +576,9 @@ As the name already hints, this mode is best if you want to save the phone batte
 
 If you are in a place with poor Wi-Fi and Bluetooth networks, the best way to manage your android location settings is to turn on the Xiaomi Redmi Note 12R device-only mode. This feature prioritizes the inbuilt GPS radio signals over other networks. It functions just like cars, but, minds you, it consumes more battery power than different modes and will perform best when you're outside.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Emergency Location services**
 
 When you dial or text an emergency number like 911, your device's location is available to emergency responders through Emergency Location Services. Only if local emergency responders rely on location data is this setting relevant. Even if you don't want your location to be shared with emergency services, your mobile provider has the option to do so.
@@ -627,3 +642,48 @@ Managing your android phone's location services can be super helpful to access s
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-a15-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy A15 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-v30-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme V30 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-a54-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy A54 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-f34-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy F34 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-7-camcorders-for-extreme-weather-and-splashes-review/"><u>[Updated] Top 7 Camcorders for Extreme Weather and Splashes Review</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-m54-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy M54 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-effortless-techniques-for-streamlined-ipad-video-recording/"><u>In 2024, Effortless Techniques for Streamlined iPad Video Recording</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-15-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 15 Pro Max without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-a23-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy A23 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/1716164397391-how-to-post-a-vimeo-video-on-instagram/"><u>How to Post a Vimeo Video on Instagram?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-narzo-n55-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme Narzo N55 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-a05-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy A05 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-mastering-gender-transformation-in-voice-the-essential-male-to-female-software-collection/"><u>In 2024, Mastering Gender Transformation in Voice The Essential Male to Female Software Collection</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-m34-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy M34 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flying-economically-top-five-drones-(100-price-tag/"><u>In 2024, Flying Economically  Top Five Drones <$100 Price Tag</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-narzo-n53-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme Narzo N53 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-a24-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy A24 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-xiaomi-13-ultra-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Xiaomi 13 Ultra and stops randomly</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-a05s-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy A05s Location Settings | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-expert-techniques-for-archiving-pc-based-television-programming/"><u>2024 Approved  Expert Techniques for Archiving PC-Based Television Programming</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-v30t-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme V30T Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-note-50-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme Note 50 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-f15-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy F15 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-m14-4g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy M14 4G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-f54-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy F54 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-infinix-hot-40-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Infinix Hot 40</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/visuals-that-convert-mastering-the-art-of-video-marketing-on-insta-for-2024/"><u>Visuals That Convert  Mastering the Art of Video Marketing on Insta for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-m34-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy M34 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-transform-your-audio-projects-professional-tips-on-utilizing-keyframes-in-adobe-premiere-pro-for-macos/"><u>2024 Approved Transform Your Audio Projects Professional Tips on Utilizing Keyframes in Adobe Premiere Pro for macOS</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-selecting-the-right-video-recorder-for-teaching/"><u>[Updated] Selecting the Right Video Recorder for Teaching</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-s21-fe-5g-2023-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy S21 FE 5G (2023) Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-a34-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy A34 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-a14-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy A14 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-f04-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy F04 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/innovative-home-designs-for-modern-minecraft-world/"><u>Innovative Home Designs for Modern Minecraft World</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-a14-4g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy A14 4G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-a15-4g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy A15 4G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-essential-firefox-screen-capturing-plugins/"><u>[Updated] In 2024, Essential Firefox Screen Capturing Plugins</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-a25-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy A25 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-m14-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy M14 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-f14-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy F14 5G Location Settings | Dr.fone</u></a></li>
+</ul></div>

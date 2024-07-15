@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Effective Methods to Fake GPS location on Android For your Vivo Y17s | Dr.fone
-date: 2024-05-19T03:49:49.547Z
-updated: 2024-05-20T03:49:49.547Z
+date: 2024-07-14T03:50:43.611Z
+updated: 2024-07-15T03:50:43.611Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes 3 Effective Methods to Fake GPS location on Android For your Vivo Y17s
 excerpt: This article describes 3 Effective Methods to Fake GPS location on Android For your Vivo Y17s
 keywords: fake gps location on android,fake location on Y17s,change location on android,change location on Y17s,change gps location on android,fake location on android
-thumbnail: https://www.lifewire.com/thmb/U4MhHoz9AdQJe4tEoeV-ONBuCas=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-ps5-d3975e63d2ff47e6ac4e81768b79801c.jpg
+thumbnail: https://thmb.techidaily.com/0aeedb6f0e08290ddfa4945f77d0426cb986cac7f0c8ef179d1c62c13237705d.jpg
 ---
 
 ## 3 Effective Methods to Fake GPS location on Android For your Vivo Y17s
@@ -70,6 +70,9 @@ You can check out this video for further instruction.
 
 - Click on **Move Here** to mock your location on Android.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 Once you select the Move Here option, your new location on the program’s map, as well as your Vivo Y17s, will show as Rome, Italy.
@@ -174,7 +177,7 @@ Fake GPS Go Location Spoofer is a premium tool, but most of its functions are fr
 
 **Price**: Free
 
-![ fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
+![fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
 
 Fake GPS Location Professional is another free tool to deceive your GPS on Android devices. However, whenever you want to use it, you will have to go through Settings and mock your location manually every time.
 
@@ -188,7 +191,7 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 **Step 1. Install** the [**Fake GPS location by Lexa app**](https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en) from the Google Play store.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
 
 **Step 2**. Go to the **Developer option** on an Android device (**refer to the FAQ section** to learn how to enable Developer options on an Android device).
 
@@ -196,18 +199,21 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 - **Click on the Select mock location app option** to view all the Fake GPS locations installed on your Vivo Y17s.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
 
 - Add **Fake GPS Location by Lexa.**
 
-![ mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
 
 **Step 4.** Close the Settings after adding the Fake GPS location by Lexa in Developer options.
 
 - **Open the Fake GPS Location by Lexa app.**
 - And **choose the desired fake location**.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
 
 ### 1\. How To Enable Developer Options In Android?
 
@@ -218,19 +224,19 @@ Here’s how to enable the developer option:
 - Open
 - **Go to System.**
 
-![ fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
+![fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
 
 - Navigate to **About Phone** and open it.
 
-![ fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
+![fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
 
 - Choose the **Software info**
 
-![ fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
+![fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
 
 - And click on **Build Number 7 times to see** the developer options screen.
 
-![ fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
+![fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
 
 You can now access the Developer options directly in the Settings menu. Now, use the earlier method to set the location-spoofing app in the Developer options.
 
@@ -305,6 +311,18 @@ Since this is a location-based error, you can also consider resetting the locati
 
 Android users get the feature to set mock location on their phones, but it can also be a reason for getting the GPS not found 11 error. Therefore, if you are also getting the GPS signal not found 11 issue on your Android, then go to its Settings > Developer Options. From here, make sure that you have disabled any mock location app or settings on your phone.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disable mock location android](https://images.wondershare.com/drfone/2020/disable-mock-location-android.jpg)
 
 ### Fix 5: Restart your Smartphone
@@ -483,6 +501,9 @@ Read on to find out about fake GPS apps and use them independently or alongside 
 
 You can also use a dedicated fake GPS app on Android to change your GPS location. And while some tools require you to root the Android device, the ones suggested here do not necessitate any provisions; at most, you will have to tinker with developer options on Android (refer to the FAQ section for more on this).
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### 1\. Fake GPS location by Lexa
 
 **Android App**:  [Fake GPS location by Lexa](https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en_IN&gl=US)
@@ -509,7 +530,7 @@ Fake GPS Go Location Spoofer is a premium tool, but most of its functions are fr
 
 **Price**: Free
 
-![ fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
+![fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
 
 Fake GPS Location Professional is another free tool to deceive your GPS on Android devices. However, whenever you want to use it, you will have to go through Settings and mock your location manually every time.
 
@@ -523,7 +544,10 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 **Step 1. Install** the [**Fake GPS location by Lexa app**](https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en) from the Google Play store.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
 
 **Step 2**. Go to the **Developer option** on an Android device (**refer to the FAQ section** to learn how to enable Developer options on an Android device).
 
@@ -531,18 +555,18 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 - **Click on the Select mock location app option** to view all the Fake GPS locations installed on your Vivo Y17s.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
 
 - Add **Fake GPS Location by Lexa.**
 
-![ mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
+![mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
 
 **Step 4.** Close the Settings after adding the Fake GPS location by Lexa in Developer options.
 
 - **Open the Fake GPS Location by Lexa app.**
 - And **choose the desired fake location**.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
 
 ### 1\. How To Enable Developer Options In Android?
 
@@ -553,19 +577,19 @@ Here’s how to enable the developer option:
 - Open
 - **Go to System.**
 
-![ fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
+![fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
 
 - Navigate to **About Phone** and open it.
 
-![ fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
+![fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
 
 - Choose the **Software info**
 
-![ fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
+![fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
 
 - And click on **Build Number 7 times to see** the developer options screen.
 
-![ fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
+![fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
 
 You can now access the Developer options directly in the Settings menu. Now, use the earlier method to set the location-spoofing app in the Developer options.
 
@@ -608,3 +632,44 @@ These three are the most effective methods to fake GPS locations on Android. How
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/in-2024-craft-engaging-yt-titles-in-a-flash/"><u>In 2024, Craft Engaging YT Titles in a Flash</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-tecno-pova-5-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-delicious-diplomacy-popular-food-recipes-from-nations/"><u>2024 Approved  Delicious Diplomacy  Popular Food Recipes From Nations</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-tecno-phantom-v-fold-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-creative-commons-soothing-scenes/"><u>[New] In 2024, Creative Commons Soothing Scenes</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-sony-xperia-1-v-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-sharing-tweets-via-vids-on-whatsapp-now-for-2024/"><u>[New] Sharing Tweets via Vids on WhatsApp Now for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-tecno-camon-20-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-tecno-spark-20-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-sony-xperia-10-v-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-tecno-spark-20-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-and-fabulous-top-mov-movie-editors/"><u>New 2024 Approved Free and Fabulous Top MOV Movie Editors</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-tecno-camon-20-pro-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-motorola-razr-40-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Motorola Razr 40 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-tecno-spark-10-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-tecno-pova-6-pro-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-apple-iphone-x-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On Apple iPhone X without Password?</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-sony-xperia-5-v-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-tecno-camon-20-premier-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-tecno-camon-30-pro-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-motorola-moto-g23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-tecno-spark-10-4g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-tecno-spark-10-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/squared-up-crafting-square-format-videos-with-imovie-and-instagram/"><u>Squared Up  Crafting Square-Format Videos with iMovie and Instagram</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-exclusive-gathering-of-top-tier-no-fee-vectr-and-illustration-sources/"><u>2024 Approved  Exclusive Gathering of Top-Tier No-Fee Vectr and Illustration Sources</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-on-your-apple-iphone-13-pro-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock on your Apple iPhone 13 Pro and iPad</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-guide-is-your-control-right-for-battle/"><u>Gaming Guide: Is Your Control Right for Battle?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-samsung-galaxy-m34-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Samsung Galaxy M34 5G Phone Network-Ready</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-amplify-your-social-impact-with-these-innovative-fb-growth-tactics/"><u>[New] In 2024, Amplify Your Social Impact with These Innovative FB Growth Tactics</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-mastering-mobile-video-tips-for-vertical-aspect-ratio-on-smartphones/"><u>Updated In 2024, Mastering Mobile Video Tips for Vertical Aspect Ratio on Smartphones</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-tecno-spark-20-proplus-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-tecno-pop-8-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-tecno-phantom-v-flip-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-tecno-spark-10c-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-tecno-pop-7-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-tecno-pova-5-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Tecno Pova 5 | Dr.fone</u></a></li>
+</ul></div>

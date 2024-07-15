@@ -1,7 +1,7 @@
 ---
 title: In 2024, For People Wanting to Mock GPS on Sony Xperia 5 V Devices | Dr.fone
-date: 2024-05-19T03:49:52.738Z
-updated: 2024-05-20T03:49:52.738Z
+date: 2024-07-14T04:16:37.404Z
+updated: 2024-07-15T04:16:37.404Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes For People Wanting to Mock GPS on Sony Xperia 5 V Devices
 excerpt: This article describes For People Wanting to Mock GPS on Sony Xperia 5 V Devices
 keywords: change location on Xperia 5 V,fake location on Xperia 5 V,fake gps location on android,fake location on android,change location on android,change gps location on android
-thumbnail: https://www.lifewire.com/thmb/Rjkf6fiPF-oXAs-UqYWshvM3oZ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/CODA-d4dd2a9b6c3d4a008a05c9718c9bce1e.jpg
+thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371dbf02532bc0633c00063d56.jpg
 ---
 
 ## For People Wanting to Mock GPS on Sony Xperia 5 V Devices
@@ -22,6 +22,9 @@ This is one of the many queries that we get from Sony  users who wish to mock GP
 
 ![mock GPS on the map](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: What is Mock GPS on Sony Xperia 5 V?
 
 As the name suggests, mock location simply means changing the present location of your device. A fake or mock GPS feature lets us select the present location of our device that would now act as its active location – instead of its actual one.
@@ -83,7 +86,10 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Sony  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Sony ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Developer Options on your Sony](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Sony Xperia 5 V device.
 
@@ -111,7 +117,7 @@ There you go! After reading this guide, you would be able to mock GPS on your So
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -123,6 +129,9 @@ There you go! After reading this guide, you would be able to mock GPS on your So
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## For People Wanting to Mock GPS on Sony Xperia 5 V Devices
 
 _“Hi! I'm Jack and I play Pokemon Go in between classes or whenever I get free time from school. A lot of my friends use mock GPS on their phones to catch more Pokemons, but somehow I can’t seem to do the same. Can I also fake my location or use the mock GPS feature on my Sony ?”_
@@ -192,7 +201,7 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Sony  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Sony ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Sony](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Sony Xperia 5 V device.
 
@@ -220,7 +229,7 @@ There you go! After reading this guide, you would be able to mock GPS on your So
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -262,6 +271,9 @@ The location-based apps are available below and learn how to make use of the spo
 - Dating apps like tinder
 - Bypass media blackouts
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### Pokemon Go
 
 It is one of the finest and trending game app for the current generation kids. This game is a favorite one for all age groups. Capturing Pokemon by moving around wisely is the foremost goal of this game. The Pokemons were scattered around the globe and you can get hold of the Pokemons residing nearby your location.
@@ -307,6 +319,9 @@ All these satellites emit signals continuously with unique coordinate parameters
 
 ![change in the location](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What is a VPN?
 
 It is a Virtual Private Network and used for ages related to security needs. This concept deals with the IP address. Similar to the firewall in your PC this VPN serves as a protective curtain for the data on the web. With the help of a VPN, you can
@@ -326,7 +341,7 @@ The VPN provider will assist you by serving a new IP address to mask your locati
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -419,3 +434,67 @@ This article has given you a basic knowledge related to the spoofing techniques 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-poco-m6-pro-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/virtual-reality-showdown-ranking-the-top-10-pc-streamers-for-360-videos/"><u>Virtual Reality Showdown  Ranking the Top 10 PC Streamers for 360 Videos</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-beginners-blueprint-to-creating-an-audio-book-with-ease-a-compreranly-updated-manual/"><u>New The Beginners Blueprint to Creating an Audio Book with Ease A Compreranly Updated Manual</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-poco-x6-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oppo-reno-10-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oppo-reno-11-pro-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-breaking-down-whatsapps-voice-call-features/"><u>[Updated] In 2024, Breaking Down WhatsApp's Voice Call Features</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-poco-c50-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oppo-reno-11f-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oppo-f25-pro-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oppo-k11-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/key-fixes-for-stabilizing-windows-10-photos-display-for-2024/"><u>Key Fixes for Stabilizing Windows 10 Photos Display for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-poco-m6-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-your-gateway-to-digital-proficiency-understanding-screen-capture-on-macbook-air/"><u>[Updated] Your Gateway to Digital Proficiency  Understanding Screen Capture on MacBook Air</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oppo-k11x-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-poco-x5-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oppo-find-n3-flip-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/top-influencers-on-tiktok-for-daily-zest/"><u>Top Influencers on TikTok for Daily Zest</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oppo-a79-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-your-pin-library-top-5-free-downloader-software-online/"><u>[Updated] In 2024, Your Pin Library  Top 5 Free Downloader Software Online</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-from-iphone-7-plus-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 From iPhone 7 Plus</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-from-space-to-nature-yts-guide-for-dynamic-green-screen-filmmaking/"><u>[New] From Space to Nature  YT's Guide for Dynamic Green Screen Filmmaking</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/hot-on-the-heels-of-trends-try-these-tiktoks-now-for-2024/"><u>Hot on the Heels of Trends  Try These TikToks Now for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oppo-reno-8t-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-online-and-offline-harmony-a-comprehensive-guide-to-selecting-top-mp3-karaoke-transformers/"><u>New 2024 Approved Online & Offline Harmony A Comprehensive Guide to Selecting Top MP3 Karaoke Transformers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-androids-pixelated-playgrounds-the-top-15-virtual-adventures/"><u>[New] In 2024, Android's Pixelated Playgrounds  The Top 15 Virtual Adventures</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-poco-c55-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oppo-f23-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-top-rated-mts-video-editors-expert-reviews/"><u>New 2024 Approved Top-Rated MTS Video Editors Expert Reviews</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oppo-find-x6-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oppo-reno-11-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-poco-x5-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-optimizing-facebook-search-efficiency-101-for-2024/"><u>[Updated] Optimizing Facebook Search Efficiency 101 for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-poco-f5-pro-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-poco-c65-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oppo-a78-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-13-pro-max-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone 13 Pro Max Without Passcode Now</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/streamlining-your-mixes-normalizing-audio-in-davinci-resolve/"><u>Streamlining Your Mixes Normalizing Audio in DaVinci Resolve</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-poco-x6-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-10-most-shared-tiktoks-in-social-media-circles/"><u>[Updated] 2024 Approved  10 Most Shared TikToks in Social Media Circles</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-time-saving-photo-enhancement-adding-dates-to-pictures/"><u>[Updated] Time-Saving Photo Enhancement  Adding Dates to Pictures</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-picture-perfect-viewing-the-best-8k-monitors-uncovered/"><u>[Updated] Picture Perfect Viewing  The Best 8K Monitors Uncovered</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oppo-find-x7-ultra-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oppo-reno-9a-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-itel-a60-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-premiere-10-battle-royale-titles-for-2024/"><u>[New] Premiere 10 Battle Royale Titles for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-poco-f5-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oppo-reno-10-pro-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-melodic-milestinas-where-to-find-elegant-mobile-alerts/"><u>2024 Approved  Melodic Milestinas  Where to Find Elegant Mobile Alerts</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oppo-find-x7-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-quest-for-the-best-framerate-balancing-speed-and-clarity/"><u>[New] The Quest for the Best Framerate - Balancing Speed & Clarity</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oppo-find-x6-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oppo-find-n3-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oppo-reno-8t-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-enhance-your-watch-experience-with-faster-instagram-videos/"><u>[New] Enhance Your Watch Experience with Faster Instagram Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-ideal-blueprint-top-6-fresh-mojave-homes-for-2024/"><u>[New] Ideal Blueprint  Top 6 Fresh Mojave Homes for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-poco-m6-pro-4g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-poco-c51-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-unlock-vertical-video-potential-top-editing-apps-for-ios-and-android-for-2024/"><u>New Unlock Vertical Video Potential Top Editing Apps for iOS and Android for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: In 2024, For People Wanting to Mock GPS on Samsung Galaxy XCover 6 Pro Tactical Edition Devices | Dr.fone
-date: 2024-05-19T03:49:52.731Z
-updated: 2024-05-20T03:49:52.731Z
+date: 2024-07-14T04:16:30.739Z
+updated: 2024-07-15T04:16:30.739Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes For People Wanting to Mock GPS on Samsung Galaxy XCover 6 Pro Tactical Edition Devices
 excerpt: This article describes For People Wanting to Mock GPS on Samsung Galaxy XCover 6 Pro Tactical Edition Devices
 keywords: change location on Galaxy XCover 6 Pro Tactical Edition,change gps location on android,fake location on android,change location on android,fake gps location on android,fake location on Galaxy XCover 6 Pro Tactical Edition
-thumbnail: https://www.lifewire.com/thmb/Lt7EML2RrB2kJWs-oE5VbZxnlNo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-kids-movies-on-disney-plus-june-2023-5112564-37245acf2e6840ba8319f0e13985e04a.jpg
+thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec05c10e1ad65882453b11db44.jpg
 ---
 
 ## For People Wanting to Mock GPS on Samsung Galaxy XCover 6 Pro Tactical Edition Devices
@@ -28,6 +28,9 @@ As the name suggests, mock location simply means changing the present location o
 
 The good thing about Android phones is that they let us change the present location of our device, which helps us unlock various location-based restrictions. For instance, you can use a mock GPS app to catch more Pokemons, unlock a restricted content on Netflix, or access more profiles on dating apps like Tinder.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Any Precaution or Preparation for Mocking GPS on Samsung Galaxy XCover 6 Pro Tactical Edition
 
 The mock GPS feature is not available in standard device settings. To access it, you first need to unlock Developer Options on your phone. This is because the mock GPS feature on Android is offered to developers to test the location of an app they are working on or any other need.
@@ -83,7 +86,7 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Samsung  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Samsung ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Samsung](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Samsung Galaxy XCover 6 Pro Tactical Edition device.
 
@@ -111,7 +114,7 @@ There you go! After reading this guide, you would be able to mock GPS on your Sa
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -125,6 +128,9 @@ There you go! After reading this guide, you would be able to mock GPS on your Sa
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy XCover 6 Pro Tactical Edition
 
 _**“Every time I launch Pokemon Go, I get the GPS Signal not found 11 error on my Android. Can someone tell me how to troubleshoot the GPS not found 11 problems?”**_
@@ -216,6 +222,9 @@ If you use an iOS device and are getting the Pokemon Go GPS signal not found 11 
 
 I’m sure that after reading this troubleshooting post, you would be able to fix the Pokemon Go GPS signal not found 11 error on Android or iOS devices. I have included app and device-related solutions to resolve the GPS not found 11 issues. Though, if it still persists, then you can try [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) (iOS) to manually change the location of your iPhone without jailbreaking it.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy XCover 6 Pro Tactical Edition
 
 Whether you want to play mobile games or trick streaming services like Netflix, learning how to fake GPS locations on Android could be valuable whenever you do not wish to disclose your actual location.
@@ -366,6 +375,9 @@ Free to use, Fake GPS location by Lexa allows you to change your location to any
 
 **Price**: Free; Premium available
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fake gps go location spoofer](https://images.wondershare.com/drfone/article/2022/03/fake-gps-go-location-spoofer.jpg)
 
 Fake GPS Go Location Spoofer is a premium tool, but most of its functions are free to use. Therefore, you do not have to upgrade unless you want to play games on Android devices. Moreover, it works without root on Android 6.0 and above variants. However, you will have to root the Android device on earlier versions.
@@ -376,7 +388,7 @@ Fake GPS Go Location Spoofer is a premium tool, but most of its functions are fr
 
 **Price**: Free
 
-![ fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
+![fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
 
 Fake GPS Location Professional is another free tool to deceive your GPS on Android devices. However, whenever you want to use it, you will have to go through Settings and mock your location manually every time.
 
@@ -390,7 +402,7 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 **Step 1. Install** the [**Fake GPS location by Lexa app**](https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en) from the Google Play store.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
 
 **Step 2**. Go to the **Developer option** on an Android device (**refer to the FAQ section** to learn how to enable Developer options on an Android device).
 
@@ -398,18 +410,18 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 - **Click on the Select mock location app option** to view all the Fake GPS locations installed on your Samsung Galaxy XCover 6 Pro Tactical Edition.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
 
 - Add **Fake GPS Location by Lexa.**
 
-![ mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
+![mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
 
 **Step 4.** Close the Settings after adding the Fake GPS location by Lexa in Developer options.
 
 - **Open the Fake GPS Location by Lexa app.**
 - And **choose the desired fake location**.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
 
 ### 1\. How To Enable Developer Options In Android?
 
@@ -420,19 +432,19 @@ Here’s how to enable the developer option:
 - Open
 - **Go to System.**
 
-![ fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
+![fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
 
 - Navigate to **About Phone** and open it.
 
-![ fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
+![fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
 
 - Choose the **Software info**
 
-![ fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
+![fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
 
 - And click on **Build Number 7 times to see** the developer options screen.
 
-![ fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
+![fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
 
 You can now access the Developer options directly in the Settings menu. Now, use the earlier method to set the location-spoofing app in the Developer options.
 
@@ -450,6 +462,9 @@ Yes. Dr. Fone's Virtual Location program is the best tool to fake your location 
 
 Yes, as long as you are not using them to engage in criminal activities.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Wrap it Up
 
 Once your fake GPS location is on Android successfully, you can stream restricted content on streaming services and mock your location on online services like dating apps, social media, and YouTube.
@@ -475,3 +490,55 @@ These three are the most effective methods to fake GPS locations on Android. How
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-iphone-7-plus-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your iPhone 7 Plus in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+<li><a href="https://win11.techidaily.com/bring-back-the-life-solutions-for-non-responsive-bluetooth-mice-windows/"><u>Bring Back the Life: Solutions for Non-Responsive Bluetooth Mice (Windows)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-motorola-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Motorola Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-xiaomi-redmi-note-12-4g-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Xiaomi Redmi Note 12 4G</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-note-12-4g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi Note 12 4G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-a2plus-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi A2+ Location Settings | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-efficiently-archive-social-media-videos-with-top-5-pick/"><u>2024 Approved  Efficiently Archive Social Media Videos with Top 5 Pick</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-must-have-specifications-in-mac-audio-editing-applications/"><u>Updated Must-Have Specifications in Mac Audio Editing Applications</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-zte-axon-40-lite-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your ZTE Axon 40 Lite Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-google-pixel-8-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-seizing-youtubes-algorithm-advantage-with-smart-seo-tactics/"><u>[Updated] Seizing YouTube's Algorithm Advantage with Smart SEO Tactics</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-note-13-pro-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi Note 13 Pro 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-nokia-c210-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-k70e-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi K70E Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-note-12-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi Note 12 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/the-best-text-to-speech-online-tools-to-use/"><u>The Best Text-to-Speech Online Tools To Use</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-zte-nubia-z60-ultra-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your ZTE Nubia Z60 Ultra Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-note-12t-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi Note 12T Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-13c-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi 13C Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-k70-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi K70 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-note-12r-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi Note 12R Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-asus-rog-phone-7-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leveraging-keywords-and-metadata-in-podcast-seo/"><u>2024 Approved  Leveraging Keywords and Metadata in Podcast SEO</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-frame-by-frame-focus-high-quality-video-devices/"><u>2024 Approved  Frame by Frame Focus  High-Quality Video Devices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/seamless-speech-recognition-the-pinnacle-of-googles-translation/"><u>Seamless Speech Recognition  The Pinnacle of Google's Translation</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/in-2024-say-goodbye-to-premiere-rush-top-4-alternative-video-editors/"><u>In 2024, Say Goodbye to Premiere Rush Top 4 Alternative Video Editors</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-note-12-pro-4g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi Note 12 Pro 4G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-note-12-proplus-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi Note 12 Pro+ 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-zte-nubia-flip-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your ZTE Nubia Flip 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-note-12-pro-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi Note 12 Pro 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-note-13-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi Note 13 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-13c-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi 13C 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-gionee-f3-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-a2-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi A2 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-online-anomalies-sound-bank-legal-free-access/"><u>New Online Anomalies Sound Bank - Legal, Free Access</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-zte-blade-a73-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your ZTE Blade A73 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-note-13-proplus-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi Note 13 Pro+ 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-compreran-list-efficient-platforms-for-downloading-your-favorite-tones/"><u>[New] 2024 Approved  Compreran List  Efficient Platforms for Downloading Your Favorite Tones</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-k70-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi K70 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-google-pixel-fold-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-asus-rog-phone-8-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-optimizing-story-video-playback-rate-on-instagram-app/"><u>[Updated] Optimizing Story Video Playback Rate on Instagram App</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/best-5-video-webcams-equipped-with-microphones-for-2024/"><u>Best 5 Video Webcams Equipped With Microphones for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-google-pixel-7a-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-google-pixel-8-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-asus-rog-phone-8-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Asus ROG Phone 8 | Dr.fone</u></a></li>
+</ul></div>

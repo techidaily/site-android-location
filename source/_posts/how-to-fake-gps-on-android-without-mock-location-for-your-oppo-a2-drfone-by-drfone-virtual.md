@@ -1,7 +1,7 @@
 ---
 title: How to Fake GPS on Android without Mock Location For your Oppo A2 | Dr.fone
-date: 2024-06-30T13:24:12.017Z
-updated: 2024-07-01T13:24:12.017Z
+date: 2024-07-14T03:27:35.630Z
+updated: 2024-07-15T03:27:35.630Z
 tags: 
   - virtual location chang
   - location changer
@@ -138,6 +138,9 @@ Accessing the mock location feature on different Android models isn’t always e
 
 Accessing the mock location feature on your Samsung or Moto device is relatively easy. First, you have to visit the ‘Developer Options’ page and navigate the ‘debugging’ option.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![locate mock location on samsung](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-7.jpg)
 
 ### 2\. LG
@@ -150,12 +153,18 @@ Another device you can access the mock location on again is the LG Smartphone de
 
 Xiaomi devices don’t use build numbers. They work with MIUI numbers. So to enable the mock location feature on your Xiaomi device, you must first tap on the MIUI number. You can locate this number by visiting ‘settings’ and selecting ‘About Phone’ on the list of options. Once you tap on the number, you will see the ‘Allow Mock Location Apk’ option.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![locate mock location on xiaomi](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-9.jpg)
 
 ### 4\. Huawei
 
 Huawei devices are easy to navigate. Like the Xiaomi devices, they have an EMUI number that you need to tap on. You can find this number by selecting ‘settings’ on your device. Then, choose ‘About Phone’ to proceed and activate the ‘mock location’ feature on the settings page.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![locate mock location on huawei](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-10.jpg)
 
 ## Bonus Tip: How to Change GPS on Android without Root?
@@ -318,12 +327,18 @@ You can also use a dedicated fake GPS app on Android to change your GPS location
 
 **Android App**:  [Fake GPS location by Lexa](https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en_IN&gl=US)
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![how to fake location by lexa](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-by-lexa.jpg)
 
 **Price**: Free
 
 Free to use, Fake GPS location by Lexa allows you to change your location to anywhere in the world with just two clicks. Although exceptional, it does not work effectively on the newer Android 12 variants (rubber banding on the Google Play store). Plus, you will have to turn off your “Google location accuracy” and “Google location sharing” features for this to work.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Fake GPS Go Location Spoofer
 
 **Android app**: [Fake GPS Go Location Spoofer](https://play.google.com/store/apps/details?id=com.incorporateapps.fakegps.fre)
@@ -664,3 +679,56 @@ This brings us to the end of this extensive post about the best GPS spoofer apps
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-smooth-streams-from-obs-to-insta/"><u>[New] 2024 Approved  Smooth Streams From OBS to Insta</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-s23-fe-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-get-ready-to-rewind-top-10-slow-motion-video-players/"><u>New In 2024, Get Ready to Rewind Top 10 Slow Motion Video Players</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-f54-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-smooth-operator-3-techniques-to-steady-unstable-footage-in-ae/"><u>Updated Smooth Operator 3 Techniques to Steady Unstable Footage in AE</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-m14-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-f04-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-sony-xperia-1-v-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-tecno-camon-20-premier-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-m34-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-tecno-camon-20-premier-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-a54-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-f15-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-sony-xperia-10-v-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-enhancing-zoom-talks-with-advanced-filter-techniques-for-2024/"><u>[Updated] Enhancing Zoom Talks with Advanced Filter Techniques for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-a34-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-does-immediate-subscribing-affect-content-recommendations/"><u>2024 Approved  Does Immediate Subscribing Affect Content Recommendations?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-the-blueprint-for-adhering-to-youtube-community-guidelines/"><u>In 2024, The Blueprint for Adhering to YouTube Community Guidelines</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-crafting-link-driven-success-a-backlink-blueprint-for-channels-for-2024/"><u>[New] Crafting Link-Driven Success  A Backlink Blueprint for Channels for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-tecno-camon-20-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-eco-film-frameworks-unlimited-free-template-access-for-pros-and-amateurs/"><u>[New] Eco-Film Frameworks  Unlimited Free Template Access for Pros & Amateurs</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-f34-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-m54-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-s23plus-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-13-pro-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 13 Pro</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-s17e-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo S17e Phone without Any Data Loss</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-s23-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/reconnect-your-controller-windows-xpxbox-failsafe/"><u>Reconnect Your Controller: Windows XPXbox Failsafe</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-sony-xperia-5-v-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-m14-4g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/proven-methods-for-skyrocketing-viewership-on-youtube-shorts/"><u>Proven Methods for Skyrocketing Viewership on YouTube Shorts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-how-to-view-instagram-stories-anonymously-on-pc-android-and-iphone/"><u>2024 Approved  How to View Instagram Stories Anonymously on PC, Android, and iPhone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-s24-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-s24plus-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-m34-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-f14-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-implementing-windows-11s-automatic-hdr-feature/"><u>[Updated] The Ultimate Guide to Implementing Windows 11'S Automatic HDR Feature</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-ditch-the-search-get-filmora-discounts-without-reddit/"><u>Updated In 2024, Ditch the Search Get Filmora Discounts Without Reddit</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-revolutionizing-your-brand-with-the-top-30-fb-hacks-all-levels/"><u>[New] In 2024, Revolutionizing Your Brand with the Top 30 FB Hacks (All Levels)</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-subtitling-in-final-cut-pro-x-tips-and-tricks/"><u>The Ultimate Guide to Subtitling in Final Cut Pro X Tips and Tricks</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-a25-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+</ul></div>

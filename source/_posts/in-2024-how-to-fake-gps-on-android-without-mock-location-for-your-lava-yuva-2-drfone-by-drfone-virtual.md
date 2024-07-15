@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fake GPS on Android without Mock Location For your Lava Yuva 2 | Dr.fone
-date: 2024-03-24 16:39:27
-updated: 2024-03-25 14:42:41
+date: 2024-07-14T04:26:41.322Z
+updated: 2024-07-15T04:26:41.322Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Fake GPS on Android without Mock Location For your Lava Yuva 2
 excerpt: This article describes How to Fake GPS on Android without Mock Location For your Lava Yuva 2
 keywords: change location on Yuva 2,fake location on Yuva 2,fake gps location on android,change gps location on android,fake location on android,change location on android
-thumbnail: https://www.lifewire.com/thmb/fNAEUmZEUUuqZzxr6hV391lXHYg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-11-best-whatsapp-tricks-and-tips-in-2020-4782877-fd12628437f34b85ac38f1a9ac95637e.jpg
+thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad97d3a8d2551786ec91da20e4.jpg
 ---
 
 ## How to Fake GPS on Android without Mock Location For your Lava Yuva 2
@@ -34,7 +34,7 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both Android and iOS!
 
@@ -52,6 +52,9 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 
 **Step 2:** The next step you have to take is to click "Virtual Location" on the homepage to launch the app, connect your smartphone to the PC and click on "Get Started".
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 **Step 3:** A world map with 5 modes at the side will appear; you can choose an option to proceed. There’s the teleport, two-stop, and multi-stop mode for you to choose from to fake location without developer options. Here we take the teleport mode as an example.
@@ -92,6 +95,9 @@ This is another effective fake GPS app that you can use to fake GPS. It works as
 
 _**App Link:** <https://play.google.com/store/apps/details?id=com.marlon.floating.fake.location&hl=en>_
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Fake GPS Location with GPS Joystick
 
 ![use fake location with gps joystick](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-6.jpg)
@@ -128,7 +134,7 @@ _**Tips:** Discover the most effective way to fake GPS on Android without using 
 
 
 
-_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html)_
+_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html) _
 
 ## Part 4: Mock Location Feature on Different Android Models
 
@@ -146,6 +152,9 @@ Another device you can access the mock location on again is the LG Smartphone de
 
 ![locate mock location on lg](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Xiaomi
 
 Xiaomi devices don’t use build numbers. They work with MIUI numbers. So to enable the mock location feature on your Xiaomi device, you must first tap on the MIUI number. You can locate this number by visiting ‘settings’ and selecting ‘About Phone’ on the list of options. Once you tap on the number, you will see the ‘Allow Mock Location Apk’ option.
@@ -178,7 +187,7 @@ If you think the way above is complicated for you, you can just use the easiest 
 
 There are varying purposes why you might want to fake your location. Luckily, several apps are available to **fake GPS on Android without mock location**. The best option for you would be the [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With this fake location app, you can access any third-party app and be in a whole different country from the comfort of your home. However, this article also provides you with other options you can explore.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## How to Fake GPS on Android without Mock Location For your Lava Yuva 2
 
@@ -200,7 +209,7 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both Android and iOS!
 
@@ -294,7 +303,7 @@ _**Tips:** Discover the most effective way to fake GPS on Android without using 
 
 
 
-_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html)_
+_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html) _
 
 ## Part 4: Mock Location Feature on Different Android Models
 
@@ -344,7 +353,7 @@ If you think the way above is complicated for you, you can just use the easiest 
 
 There are varying purposes why you might want to fake your location. Luckily, several apps are available to **fake GPS on Android without mock location**. The best option for you would be the [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With this fake location app, you can access any third-party app and be in a whole different country from the comfort of your home. However, this article also provides you with other options you can explore.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 
 
@@ -417,10 +426,13 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Lava  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Lava ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Lava](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Lava Yuva 2 device.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mock location field](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-5.jpg)
 
 Step 2: Install and Allow a Mock GPS App
@@ -431,6 +443,9 @@ Now, go to the Play Store app on your phone and look for a mock GPS app. I have 
 
 After successfully installing the mock GPS apk on your Lava , go back to its Settings > Developer Options > Mock Location app and select the fake GPS location app that you have recently downloaded. This will allow the mock GPS app to change the location of your device.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change the location](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-7.jpg)
 
 Step 3: Fake location on your Lava 
@@ -445,7 +460,7 @@ There you go! After reading this guide, you would be able to mock GPS on your La
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -472,3 +487,54 @@ There you go! After reading this guide, you would be able to mock GPS on your La
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-a1-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo A1 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-reno-11-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo Reno 11 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oneplus-open-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your OnePlus Open Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-a18-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo A18 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlocking-income-insights-googles-simplified-three-step-strategy-for-monetizing-youtube/"><u>[New] Unlocking Income Insights  Google's Simplified Three-Step Strategy for Monetizing YouTube</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oneplus-nord-3-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your OnePlus Nord 3 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-find-n3-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo Find N3 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-guide-to-video-quality-improvement-software/"><u>Updated The Ultimate Guide to Video Quality Improvement Software</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-how-to-execute-a-swift-and-silent-chat-purge-on-discord-platform-for-2024/"><u>[Updated] How to Execute a Swift and Silent Chat Purge on Discord Platform for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oneplus-nord-n30-se-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your OnePlus Nord N30 SE Location Settings | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-twitter-image-resolution-standards/"><u>[New] In 2024, Twitter Image Resolution Standards</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oneplus-nord-ce-3-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your OnePlus Nord CE 3 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-find-x6-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo Find X6 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-the-magic-creating-breathtaking-gopro-time-lapse-videos/"><u>2024 Approved  Unlock the Magic  Creating Breathtaking GoPro Time-Lapse Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-setting-up-your-gaming-studio-with-obs/"><u>[New] Setting Up Your Gaming Studio with OBS</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-k11-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo K11 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-a78-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo A78 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oneplus-nord-ce-3-lite-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your OnePlus Nord CE 3 Lite 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-oppo-find-x7-ultra-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Oppo Find X7 Ultra Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-find-x7-ultra-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo Find X7 Ultra Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-a1x-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo A1x 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-reno-11f-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo Reno 11F 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-acquiring-hidden-gems-of-quiet-music-for-an-undisturbed-atmosphere/"><u>New 2024 Approved Acquiring Hidden Gems of Quiet Music for an Undisturbed Atmosphere</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-find-n3-flip-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo Find N3 Flip Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-a58-4g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo A58 4G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-find-x7-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo Find X7 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-a2-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo A2 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-a38-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo A38 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-k11x-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo K11x Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-reno-10-proplus-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo Reno 10 Pro+ 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-find-x6-pro-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo Find X6 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-f23-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo F23 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-create-obs-slideshow-for-2024/"><u>How to Create OBS Slideshow for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-f25-pro-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo F25 Pro 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-capture-and-replay-top-tools-to-secure-every-web-moment/"><u>[New] Capture & Replay  Top Tools to Secure Every Web Moment</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oneplus-nord-n30-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your OnePlus Nord N30 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-a79-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo A79 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-reno-10-pro-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo Reno 10 Pro 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/spectacited-sight-top-ranked-phones-with-elite-4k-camera-features/"><u>Spectacited Sight  Top-Ranked Phones with Elite 4K Camera Features</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-a59-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo A59 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-reno-11-pro-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo Reno 11 Pro 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-scouring-influencers-tailoring-your-niches-insta-community/"><u>[New] In 2024, Scouring Influencers  Tailoring Your Niche's Insta Community</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-reno-10-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo Reno 10 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-a56s-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo A56s 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oneplus-ace-3-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your OnePlus Ace 3 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-a78-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo A78 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-reno-8t-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo Reno 8T 5G Location Settings | Dr.fone</u></a></li>
+</ul></div>

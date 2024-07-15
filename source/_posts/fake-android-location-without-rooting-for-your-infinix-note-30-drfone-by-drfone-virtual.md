@@ -1,7 +1,7 @@
 ---
 title: Fake Android Location without Rooting For Your Infinix Note 30 | Dr.fone
-date: 2024-05-19T03:49:43.207Z
-updated: 2024-05-20T03:49:43.207Z
+date: 2024-07-14T03:05:32.989Z
+updated: 2024-07-15T03:05:32.989Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes Fake Android Location without Rooting For Your Infinix Note 30
 excerpt: This article describes Fake Android Location without Rooting For Your Infinix Note 30
 keywords: change gps location on android,change location on android,fake location on android,fake gps location on android,change location on Note 30,fake location on Note 30
-thumbnail: https://www.lifewire.com/thmb/tJAkAFLn8PgYLDdSxKT4QReLsyg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macOS-Sonoma-Banner-fe4ffda2caaf4040b81ae0b66f2d6dc0.jpg
+thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc319264524a7b728bfe67ef7f7.jpg
 ---
 
 ## Fake Android Location without Rooting For Your Infinix Note 30
@@ -106,7 +106,7 @@ The VPN provider will assist you by serving a new IP address to mask your locati
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -142,6 +142,9 @@ Step 1: Go to the ‘Settings’ option in your Infinix Note 30 and choose ‘De
 
 Step 2: In the next screen enable the ‘Mock Location’ option to spoof the location details
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![spoof the location details](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-13.jpg)
 
 You have to install the Fake GPS App, which is available in the Google Play Store. In this article, Lexa Fake GPS app employed to explain the steps in detail.
@@ -228,7 +231,7 @@ Download link: [https://play.google.com/store/apps/details?id=com.lexa.fakegps](
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -275,9 +278,12 @@ Play Store Rating: 4.0
 
 Download link: [https://play.google.com/store/apps/details?id=org.hola.gpslocation](https://play.google.com/store/apps/details?id=org.hola.gpslocation)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fake GPS by Hola](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-4.jpg)
 
-### [Fake GPS Location Spoofer](https://drfone.wondershare.com/fake-location/fake-gps-location-spoofer.html)
+### Fake GPS Location Spoofer
 
 If you are looking for a lightweight, reliable, and user-friendly location spoofer, then you can give this app a try. It has been recently updated to provide support for most gaming and dating apps.
 
@@ -452,6 +458,9 @@ Since this is a location-based error, you can also consider resetting the locati
 
 ![android location option](https://images.wondershare.com/drfone/2020/android-location-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Turn off the Mock Location feature
 
 Android users get the feature to set mock location on their phones, but it can also be a reason for getting the GPS not found 11 error. Therefore, if you are also getting the GPS signal not found 11 issue on your Android, then go to its Settings > Developer Options. From here, make sure that you have disabled any mock location app or settings on your phone.
@@ -466,6 +475,9 @@ At times, all it takes to fix an issue like Pokemon Go GPS not found 11 error is
 
 Now, just wait for a while as your phone would restart and launch Pokemon Go afterward to check if you still get the GPS not found 11 error.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 6: Toggle On and Off the Airplane Mode
 
 If there is a network-related problem causing the GPS not found 11 error, then you can just reset the Airplane mode. At first, just go to the Control Center or the Settings of your device to enable the Airplane mode.
@@ -482,6 +494,9 @@ Lastly, if nothing else seems to work, then you can reset the network settings o
 
 In the end, you can choose to reset the network settings of your phone and wait for it to be restarted. This will erase the saved WiFi passwords and other network settings but might fix the GPS signal not found 11 errors on Android.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Fix the GPS Not Found 11 Error with a Location Spoofing Tool
 
 If you use an iOS device and are getting the Pokemon Go GPS signal not found 11 errors on iPhone, then you can use a spoofing tool. I would recommend using [Dr.Fone – Virtual Location (iOS)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) which can change the location of your iPhone to anywhere you like and fix these GPS-based errors.
@@ -515,3 +530,49 @@ I’m sure that after reading this troubleshooting post, you would be able to fi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-hot-30i-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Hot 30i Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-hot-40-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Hot 40 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-booting-procedures-complete-guide/"><u>Navigating Windows' Booting Procedures Complete Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-x8b-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor X8b Location Settings | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-screen-mirroring-apple-iphone-7-plus-to-tv-or-pc-drfone-by-drfone-ios/"><u>In 2024, How Screen Mirroring Apple iPhone 7 Plus to TV or PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-dynamic-speaker-analysis-episode-8/"><u>2024 Approved  Dynamic Speaker Analysis - Episode 8</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-playing-halted-a6400-video-viewing-woes/"><u>In 2024, Playing Halted  A6400 Video Viewing Woes</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-play-8t-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor Play 8T Location Settings | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-record-mov-files-on-windows-11-for-2024/"><u>[Updated] How to Record MOV Files on Windows 11 for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-hot-30-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Hot 30 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-14-pro-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer From Apple iPhone 14 Pro to Samsung Simplified Guide | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-x7b-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor X7b Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-x9b-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor X9b Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-play-7t-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor Play 7T Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-huawei-nova-y71-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Huawei Nova Y71 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-step-by-step-tips-for-captivating-igtv-backgrounds/"><u>[Updated] Step-By-Step Tips for Captivating IGTV Backgrounds</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-incorporating-itunes-vibes-into-videos/"><u>[Updated] Incorporating iTunes Vibes Into Videos</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-flat-out-print-fiasco-windows-error-0x00000709-resolved/"><u>Fixing Flat-Out Print Fiasco: Windows Error 0X00000709 Resolved</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-blur-the-outside-sharpen-inside-bokeh-balance-guide/"><u>In 2024, Blur the Outside, Sharpen Inside  Bokeh Balance Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-x9a-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor X9a Location Settings | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-take-portrait-photo-with-your-old-iphone-x8-plus7-plus/"><u>[New] Take Portrait Photo with Your Old iPhone X/8 Plus/7 Plus</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-visual-impact-the-best-ae-title-methods-for-2024/"><u>Mastering Visual Impact  The Best AE Title Methods for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-v-purse-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor V Purse Location Settings | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-crafting-new-tones-top-7-recording-changer-applications-reviewed/"><u>[New] Crafting New Tones  Top 7 Recording Changer Applications Reviewed</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-htc-u23-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your HTC U23 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-htc-u23-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your HTC U23 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-acid-pro-reviewed-comparable-professional-tools-explored/"><u>[Updated] 2024 Approved  ACID Pro Reviewed  Comparable Professional Tools Explored</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-retrace-steps-how-to-turn-your-yt-queue-on-its-head/"><u>2024 Approved  Retrace Steps  How to Turn Your YT Queue on Its Head</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-charting-the-differences-in-youtubes-ownership-and-cc-models/"><u>[New] Charting the Differences in YouTube's Ownership and CC Models</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-decoding-youtube-stats-efficiency-with-social-blades-advanced-analysis/"><u>[New] 2024 Approved  Decoding YouTube Stats Efficiency with Social Blade's Advanced Analysis</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-free-vob-video-editor-roundup-top-5-choices-for-2024/"><u>Updated Free VOB Video Editor Roundup Top 5 Choices for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-hot-40-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Hot 40 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-size-it-up-right-instagrams-best-videography-practices-for-2024/"><u>[New] Size It Up Right  Instagram's Best Videography Practices for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-x50i-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor X50i Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-x50iplus-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor X50i+ Location Settings | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-cutting-edge-approaches-for-iphoneipad-screen-capture/"><u>[Updated] 2024 Approved  Cutting-Edge Approaches for iPhone/iPad Screen Capture</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-huawei-nova-y91-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Huawei Nova Y91 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-redmi-note-12-proplus-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Xiaomi Redmi Note 12 Pro+ 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-x50-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor X50 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-x50-gt-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor X50 GT Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-huawei-p60-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Huawei P60 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-gt-10-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix GT 10 Pro Location Settings | Dr.fone</u></a></li>
+</ul></div>

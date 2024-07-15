@@ -1,7 +1,7 @@
 ---
 title: In 2024, Fake Android Location without Rooting For Your Xiaomi Redmi 12 | Dr.fone
-date: 2024-05-19T03:49:52.228Z
-updated: 2024-05-20T03:49:52.228Z
+date: 2024-07-14T04:11:24.078Z
+updated: 2024-07-15T04:11:24.078Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes Fake Android Location without Rooting For Your Xiaomi Redmi 12
 excerpt: This article describes Fake Android Location without Rooting For Your Xiaomi Redmi 12
 keywords: fake location on android,change location on android,change location on Redmi 12,fake gps location on android,fake location on Redmi 12,change gps location on android
-thumbnail: https://www.lifewire.com/thmb/KrjxcoVkV9vT3cQ3C-URm7mlpcM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-917461864-7141ebd3ec944ce6a431b8d485cc9cdb.jpg
+thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed46c02973b8fefdc10e6507c.jpg
 ---
 
 ## Fake Android Location without Rooting For Your Xiaomi Redmi 12
@@ -106,7 +106,7 @@ The VPN provider will assist you by serving a new IP address to mask your locati
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -118,6 +118,9 @@ The VPN provider will assist you by serving a new IP address to mask your locati
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to fake Android location by GPS spoofing
 
 You must make some changes on your Xiaomi Redmi 12 Phone before installing the Fake GPS location app.
@@ -138,10 +141,16 @@ Activate the Mock Location option in Android
 
 Step 1: Go to the ‘Settings’ option in your Xiaomi Redmi 12 and choose ‘Developer Option’.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Activate the Mock Location option](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-12.jpg)
 
 Step 2: In the next screen enable the ‘Mock Location’ option to spoof the location details
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![spoof the location details](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-13.jpg)
 
 You have to install the Fake GPS App, which is available in the Google Play Store. In this article, Lexa Fake GPS app employed to explain the steps in detail.
@@ -178,6 +187,9 @@ In the above screenshot, you can infer that there are three tabs displaying ‘R
 
 You can choose the desired country and connect to the respective VPN in no time. Your original IP address will be masked immediately soon after the selection process. This app will make your device to appear in the selected region using the newly generated IP address.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conclusion
 
 This article has given you a basic knowledge related to the spoofing techniques based on GPS and VPN. It is highly advisable to make use of this location-masking feature for fun games and constructive purpose. Here you have learnt about the fake android location without rooting. Do not use this option to make money since it is an illegal act by law. Learn and explore spoofing techniques with the help of this detailed guide.
@@ -202,7 +214,7 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both Android and iOS!
 
@@ -296,7 +308,7 @@ _**Tips:** Discover the most effective way to fake GPS on Android without using 
 
 
 
-_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html)_
+_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html) _
 
 ## Part 4: Mock Location Feature on Different Android Models
 
@@ -346,7 +358,7 @@ If you think the way above is complicated for you, you can just use the easiest 
 
 There are varying purposes why you might want to fake your location. Luckily, several apps are available to **fake GPS on Android without mock location**. The best option for you would be the [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With this fake location app, you can access any third-party app and be in a whole different country from the comfort of your home. However, this article also provides you with other options you can explore.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## For People Wanting to Mock GPS on Xiaomi Redmi 12 Devices
 
@@ -356,6 +368,9 @@ This is one of the many queries that we get from Xiaomi  users who wish to mock 
 
 ![mock GPS on the map](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: What is Mock GPS on Xiaomi Redmi 12?
 
 As the name suggests, mock location simply means changing the present location of your device. A fake or mock GPS feature lets us select the present location of our device that would now act as its active location – instead of its actual one.
@@ -417,7 +432,7 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Xiaomi  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Xiaomi ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Xiaomi](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Xiaomi Redmi 12 device.
 
@@ -445,7 +460,7 @@ There you go! After reading this guide, you would be able to mock GPS on your Xi
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -476,3 +491,56 @@ There you go! After reading this guide, you would be able to mock GPS on your Xi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-hot-40i-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-master-the-art-of-social-media-video-capture-with-5-leaders-for-2024/"><u>[New] Master the Art of Social Media Video Capture with 5 Leaders for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-gt-10-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-upside-down-visuals-unraveling-instagram-video-confusion/"><u>2024 Approved  Upside Down Visuals  Unraveling Instagram Video Confusion</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-smart-7-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-the-science-of-quantum-hdr/"><u>[New] Mastering the Science of Quantum HDR</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-note-30i-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-visuallyvivid-adjust-your-content-for-instagram-success-for-2024/"><u>[Updated] VisuallyVivid  Adjust Your Content for Instagram Success for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/in-2024-cloud-stop-motion-studio-essential-features-expert-advice-and-alternative-options/"><u>In 2024, Cloud Stop Motion Studio Essential Features, Expert Advice, and Alternative Options</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-hot-40-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-m1-computing-power-comparing-macbook-air-to-macbook-pro/"><u>2024 Approved  M1 Computing Power  Comparing MacBook Air to MacBook Pro</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-winning-at-gaming-memory-capture-essentials-on-windows-10/"><u>[New] Winning at Gaming Memory  Capture Essentials on Windows 10</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-itel-a05s-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-a-quick-guide-secure-your-instagram-stories-with-screen-record/"><u>In 2024, A Quick Guide  Secure Your Instagram Stories with Screen Record</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-integrating-slack-and-filmora-for-smooth-meeting-operations/"><u>[New] Integrating Slack & Filmora for Smooth Meeting Operations</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-smart-8-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-smart-8-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-hot-40-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-zero-30-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-note-30-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-note-30-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-itel-p40plus-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-itel-a70-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-itel-a60-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-quick-window-snaps-in-winoses-for-2024/"><u>[New] Quick Window Snaps in WinOSes for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-elevate-your-photos-tips-and-apps-on-android/"><u>[Updated] In 2024, Elevate Your Photos  Tips & Apps on Android</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-hot-30-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-apple-iphone-11-location-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Phone Number Locators To Track Apple iPhone 11 Location | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-streamline-youtube-tweets-on-chrome-performance/"><u>[New] Streamline  YouTube Tweets on Chrome Performance</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-elite-8-cameras-revolutionizing-online-broadcasts/"><u>[Updated] Elite 8 Cameras Revolutionizing Online Broadcasts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/inside-out-the-nikon-d7500-experience-for-2024/"><u>Inside Out  The Nikon D7500 Experience for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-say-goodbye-to-sideways-videos-16-free-avi-video-rotators-for-every-situation/"><u>New Say Goodbye to Sideways Videos 16 Free AVI Video Rotators for Every Situation</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-itel-a60s-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-add-text-in-after-effects/"><u>How To Add Text In After Effects</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-huawei-p60-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-vivo-y200-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Vivo Y200 Phone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-e-learning-title-engineer-for-2024/"><u>Expert E-Learning Title Engineer for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-your-snapchat-storytelling-learn-to-zoom-like-pros/"><u>[New] Transform Your Snapchat Storytelling  Learn to Zoom Like Pros</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-smart-8-plus-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-unveiling-the-6-finest-automatic-transcription-applications/"><u>Updated Unveiling the 6 Finest Automatic Transcription Applications</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/breathing-life-into-bios-a-zodiac-perspective/"><u>Breathing Life Into Bios  A Zodiac Perspective</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-smart-7-hd-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-smart-8-hd-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-note-30-vip-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-hot-30i-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-itel-p40-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-note-30-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Note 30 Pro | Dr.fone</u></a></li>
+</ul></div>

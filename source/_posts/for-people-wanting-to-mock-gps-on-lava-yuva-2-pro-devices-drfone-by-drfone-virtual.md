@@ -1,7 +1,7 @@
 ---
 title: For People Wanting to Mock GPS on Lava Yuva 2 Pro Devices | Dr.fone
-date: 2024-05-19T03:49:44.217Z
-updated: 2024-05-20T03:49:44.217Z
+date: 2024-07-14T03:12:53.467Z
+updated: 2024-07-15T03:12:53.467Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes For People Wanting to Mock GPS on Lava Yuva 2 Pro Devices
 excerpt: This article describes For People Wanting to Mock GPS on Lava Yuva 2 Pro Devices
 keywords: change gps location on android,change location on android,fake location on Yuva 2 Pro,change location on Yuva 2 Pro,fake location on android,fake gps location on android
-thumbnail: https://www.lifewire.com/thmb/QSOkVMBCO__10c9yExi2xlfXUGg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-626970032-497800518dac4d6cafa0dc19b953f1ff.jpg
+thumbnail: https://thmb.techidaily.com/5996397f505d52b0f60ffe77c36fd8859621590a57dd0707f44eeaa06c560dbc.jpg
 ---
 
 ## For People Wanting to Mock GPS on Lava Yuva 2 Pro Devices
@@ -39,6 +39,9 @@ The mock GPS feature is not available in standard device settings. To access it,
 - A mock GPS app would consume more battery and memory on your device as well.
 - Some apps would even become unavailable to you and you might not be able to install them from Google Play.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mock GPS feature](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-2.jpg)
 
 ## Part 3: How to Find the Best Tool to Mock GPS on Lava Yuva 2 Pro?
@@ -83,7 +86,7 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Lava  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Lava ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Lava](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Lava Yuva 2 Pro device.
 
@@ -111,7 +114,7 @@ There you go! After reading this guide, you would be able to mock GPS on your La
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -137,13 +140,16 @@ This mock location feature has many benefits when you use it to fake your locati
 - It enables you to access several third-party apps not accessible to your location.
 - Finally, you can access location-based networking apps and interact with people beyond your locality.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Using Location Spoofer to Fake GPS Without Mock Location and Root
 
 One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) by Wondershare. This app will enable you to spoof your location on iOS and Android, and it is pretty easy to use. Below are a few crucial steps to follow if you want to fake a location without developer options or mock location.
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both Android and iOS!
 
@@ -209,6 +215,9 @@ Many people love this app because it doesn’t require users to root their devic
 
 _**App Link:** <https://play.google.com/store/apps/details?id=com.theappninjas.fakegpsjoystick&hl=en>_
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Mock Locations (fake GPS path)
 
 ![mock locations app](https://images.wondershare.com/drfone/article/2023/05/how-to-fake-gps-android-without-mock-location-01.jpg)
@@ -237,7 +246,7 @@ _**Tips:** Discover the most effective way to fake GPS on Android without using 
 
 
 
-_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html)_
+_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html) _
 
 ## Part 4: Mock Location Feature on Different Android Models
 
@@ -287,7 +296,7 @@ If you think the way above is complicated for you, you can just use the easiest 
 
 There are varying purposes why you might want to fake your location. Luckily, several apps are available to **fake GPS on Android without mock location**. The best option for you would be the [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With this fake location app, you can access any third-party app and be in a whole different country from the comfort of your home. However, this article also provides you with other options you can explore.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## For People Wanting to Mock GPS on Lava Yuva 2 Pro Devices
 
@@ -314,6 +323,9 @@ The mock GPS feature is not available in standard device settings. To access it,
 - A mock GPS app would consume more battery and memory on your device as well.
 - Some apps would even become unavailable to you and you might not be able to install them from Google Play.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mock GPS feature](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-2.jpg)
 
 ## Part 3: How to Find the Best Tool to Mock GPS on Lava Yuva 2 Pro?
@@ -358,7 +370,7 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Lava  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Lava ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Lava](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Lava Yuva 2 Pro device.
 
@@ -378,6 +390,9 @@ Step 3: Fake location on your Lava
 
 That’s it! Once you have granted the needed permission to the mock GPS app, you can easily use it to change the location of your device. Just launch the app to get a map-like interface. You can zoom in and out the map or just look for any location on the search bar. In the end, drop the pin on any location and tap on the start button to fake your location.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![confirm to fake your location](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-8.jpg)
 
 Later, you can go back to the app and stop the fake location to switch back to your original location whenever you want.
@@ -386,7 +401,7 @@ There you go! After reading this guide, you would be able to mock GPS on your La
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -417,3 +432,56 @@ There you go! After reading this guide, you would be able to mock GPS on your La
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-gionee-f3-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-honor-magic-6-lite-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-asus-rog-phone-8-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/melodic-matchups-finding-the-right-song-for-your-insta-story/"><u>Melodic Matchups  Finding the Right Song for Your Insta Story</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-honor-x50iplus-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-honor-90-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-honor-magic-vs-2-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-honor-magic-6-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-honor-70-lite-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-honor-x50-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-zte-nubia-z60-ultra-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-honor-100-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-honor-play-8t-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-unraveling-youtubes-viewer-metrics-a-deeper-look/"><u>[Updated] In 2024, Unraveling YouTube's Viewer Metrics  A Deeper Look</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-honor-play-40c-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-honor-90-gt-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-mastering-filmora-scrn-a-comprehensive-guide-to-desktop-recording/"><u>In 2024, Mastering Filmora Scrn A Comprehensive Guide to Desktop Recording</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713962977712-updated-find-out-the-best-animated-text-video-tools-and-learn-how-to-animate-text-in-a-video-in-simple-steps-discover-the-best-fonts-to-animate-text-along-w/"><u>Updated Find Out the Best Animated Text Video Tools and Learn How to Animate Text in a Video in Simple Steps. Discover the Best Fonts to Animate Text Along with the Text Animation Templates for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-download-and-relive-a-compreran-review-of-top-youtube-playlist-extractors/"><u>In 2024, Download and Relive  A Compreran Review of Top YouTube Playlist Extractors</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/best-video-editing-software-like-sony-vegas-for-pc-for-2024/"><u>Best Video Editing Software Like Sony Vegas for PC for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-google-pixel-8-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-honor-x50i-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-hush-harmony-techniques-for-taming-unwanted-voices-on-gchat/"><u>[Updated] Hush Harmony  Techniques for Taming Unwanted Voices on GChat</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-google-pixel-7a-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-honor-100-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-zte-nubia-flip-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-honor-magic-5-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-honor-x50-gt-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-asus-rog-phone-8-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Asus ROG Phone 8</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-best-free-iphone-14-pro-imei-checker-by-drfone-ios/"><u>In 2024, Best Free iPhone 14 Pro IMEI Checker</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-google-pixel-8-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-asus-rog-phone-7-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/advanced-audio-editing-implementing-real-time-ducking-in-windows-version-of-adobe-premiere-pro/"><u>Advanced Audio Editing Implementing Real-Time Ducking in Windows Version of Adobe Premiere Pro</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-honor-magic5-ultimate-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-chromes-best-deals-on-screen-recorder-free-tools/"><u>In 2024, Chrome's Best Deals on Screen Recorder Free Tools</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-google-pixel-fold-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-honor-magic-5-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-honor-90-lite-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-honor-play-7t-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-honor-magic-v2-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-honor-magic-5-lite-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-frontiers-unleashed-a-review-of-the-best-7-grand-strategy-games/"><u>[New] 2024 Approved  Frontiers Unleashed  A Review of the Best 7 Grand Strategy Games</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-honor-v-purse-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mirthful-melodies-best-song-caricatures/"><u>[Updated] Mirthful Melodies  Best Song Caricatures</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-asus-rog-phone-8-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-honor-90-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-honor-magic-6-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Honor Magic 6 Pro | Dr.fone</u></a></li>
+</ul></div>

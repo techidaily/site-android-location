@@ -1,7 +1,7 @@
 ---
 title: In 2024, For People Wanting to Mock GPS on Vivo Y78+ (T1) Edition Devices | Dr.fone
-date: 2024-06-08T05:53:36.411Z
-updated: 2024-06-09T05:53:36.411Z
+date: 2024-07-14T04:17:52.269Z
+updated: 2024-07-15T04:17:52.269Z
 tags: 
   - virtual location chang
   - location changer
@@ -83,7 +83,7 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Vivo  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Vivo ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Vivo](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Vivo Y78+ (T1) Edition device.
 
@@ -93,6 +93,9 @@ Step 2: Install and Allow a Mock GPS App
 
 Now, go to the Play Store app on your phone and look for a mock GPS app. I have tried and tested the Fake GPS Location app by Lexa. If you want, you can install the same freely available mock GPS app or try any other app as well.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mock GPS app](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-6.jpg)
 
 After successfully installing the mock GPS apk on your Vivo , go back to its Settings > Developer Options > Mock Location app and select the fake GPS location app that you have recently downloaded. This will allow the mock GPS app to change the location of your device.
@@ -103,6 +106,9 @@ Step 3: Fake location on your Vivo
 
 That’s it! Once you have granted the needed permission to the mock GPS app, you can easily use it to change the location of your device. Just launch the app to get a map-like interface. You can zoom in and out the map or just look for any location on the search bar. In the end, drop the pin on any location and tap on the start button to fake your location.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![confirm to fake your location](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-8.jpg)
 
 Later, you can go back to the app and stop the fake location to switch back to your original location whenever you want.
@@ -111,7 +117,7 @@ There you go! After reading this guide, you would be able to mock GPS on your Vi
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -173,6 +179,9 @@ Tinder is a dating app mostly used by singles, college students, and committed o
 
 If you are residing in a small country then you will get exhausted after surfing through the regular members all the time. You would like to look for a change. By fake GPS Android, you can implement this mock location phenomenon. With the help of this option, you can now make friends beyond boundaries despite location constraints.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![location spoofing on tinder](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-5.jpg)
 
 ### Bypass media blackouts
@@ -215,7 +224,7 @@ The VPN provider will assist you by serving a new IP address to mask your locati
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -227,6 +236,9 @@ The VPN provider will assist you by serving a new IP address to mask your locati
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to fake Android location by GPS spoofing
 
 You must make some changes on your Vivo Y78+ (T1) Edition Phone before installing the Fake GPS location app.
@@ -263,6 +275,9 @@ Step 1: After successful installation of Lexa, tap the icon to trigger the app. 
 
 Step 2: Click the ‘Set Location’ option and drag the pointer on the map as per your desire
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drag the pointer on the map](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-15.jpg)
 
 Step 3: Save the changes and exit from App. Your Vivo Y78+ (T1) Edition phone will display the new location address in the notification window.
@@ -392,3 +407,64 @@ Managing your android phone's location services can be super helpful to access s
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-inside-screencasting-obs-tools-analyzed-for-optimal-broadcasts/"><u>In 2024, Inside Screencasting  OBS Tools Analyzed for Optimal Broadcasts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-streamlined-mp4-creation-must-have-tools-on-mac/"><u>[Updated] Streamlined MP4 Creation  Must-Have Tools on Mac</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-advanced-methods-for-silencing-background-music-in-videos/"><u>New In 2024, Advanced Methods for Silencing Background Music in Videos</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-redmi-12-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-mix-fold-3-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-mastering-authenticity-checks-on-instagram/"><u>In 2024, Mastering Authenticity Checks on Instagram</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-sifting-through-inshots-features-for-best-edits/"><u>[New] In 2024, Sifting Through InShot's Features for Best Edits</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-game-bar-screen-recorder-alternatives/"><u>[New] Game Bar Screen Recorder Alternatives</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-gt-5s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Realme GT 5s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-picks-of-top-fee-free-live-streaming-tech-tools-for-everyone/"><u>In 2024, Expert Picks of Top, Fee-Free Live Streaming Tech Tools for Everyone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-redmi-13c-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-shoot-vertical-panorama-photos-with-your-mobile-phone/"><u>[Updated] How to Shoot Vertical Panorama Photos with Your Mobile Phone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-evaluating-vlc-for-screen-recordings/"><u>[New] 2024 Approved  Evaluating VLC for Screen Recordings</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y27-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-behind-the-scenes-of-virtual-reality-films/"><u>2024 Approved  Behind the Scenes of Virtual Reality Films</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-the-ultimate-youtube-thumbnail-cheat-sheet-sizes-designs-and-more/"><u>2024 Approved The Ultimate YouTube Thumbnail Cheat Sheet Sizes, Designs, and More</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-motorola-razr-40-ultra-by-drfone-android/"><u>Three Ways to Sim Unlock Motorola Razr 40 Ultra</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y56-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-invisible-hand-decoding-instagrams-update-effects-for-2024/"><u>[New] The Invisible Hand  Decoding Instagram’s Update Effects for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y36i-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-step-by-step-process-for-personalizing-your-tiktok-soundtrack/"><u>In 2024, Step-by-Step Process for Personalizing Your TikTok Soundtrack</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-13t-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-renowned-makers-exquisite-insta-hlv-designers-online/"><u>In 2024, Renowned Makers  Exquisite Insta HLV Designers Online</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-redmi-12-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y78-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-echo-excellence-enhancing-windows-pc-sounds-with-online-acoustic-plugins/"><u>2024 Approved Echo Excellence Enhancing Windows PC Sounds with Online Acoustic Plugins</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y28-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-your-youtube-shorts-have-been-restored/"><u>[Updated] Your YouTube Shorts Have Been Restored</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y78plus-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y78t-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-y77t-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo Y77t to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-samsung-galaxy-f14-5g-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Samsung Galaxy F14 5G</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y78plus-t1-edition-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/quickstart-to-flawless-nft-artistry-for-beginners-for-2024/"><u>Quickstart to Flawless NFT Artistry for Beginners for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y36-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-14-ultra-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-14-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-x-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-redmi-a2-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-13-ultra-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y55s-5g-2023-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-14-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y27s-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-13t-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-hobbyist-to-pro-the-full-potential-of-sj-cam-s6/"><u>2024 Approved  From Hobbyist to Pro  The Full Potential of SJ-CAM S6</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y77t-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-redmi-a2plus-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-redmi-k70-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-app-image-alterations-resizing-photos-made-simple-ios/"><u>2024 Approved  In-App Image Alterations  Resizing Photos Made Simple (iOS)</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-responsibilities-of-each-team-member-during-production/"><u>Updated 2024 Approved Responsibilities of Each Team Member During Production</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-civi-3-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unveiling-the-top-8-accelerating-youtube-communities/"><u>2024 Approved  Unveiling the Top 8 Accelerating YouTube Communities</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-top-picks-simple-video-editors-for-beginners/"><u>New Top Picks Simple Video Editors for Beginners</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Motorola Moto G34 5G | Dr.fone</u></a></li>
+</ul></div>

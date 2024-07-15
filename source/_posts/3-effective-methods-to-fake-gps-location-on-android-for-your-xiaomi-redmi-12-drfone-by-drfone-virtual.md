@@ -1,7 +1,7 @@
 ---
 title: 3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi 12 | Dr.fone
-date: 2024-05-19T03:49:41.418Z
-updated: 2024-05-20T03:49:41.418Z
+date: 2024-07-14T02:50:36.783Z
+updated: 2024-07-15T02:50:36.783Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes 3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi 12
 excerpt: This article describes 3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi 12
 keywords: change gps location on android,fake gps location on android,change location on android,fake location on Redmi 12,fake location on android,change location on Redmi 12
-thumbnail: https://www.lifewire.com/thmb/OvgDF4DN2kQY2wqfN-oCDktYpM4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-time-of-day-to-instagram-3485858-1-5bb3cc9046e0fb002612537d.jpg
+thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00c96089d339b8e4537366b75.jpg
 ---
 
 ## 3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi 12
@@ -174,7 +174,7 @@ Fake GPS Go Location Spoofer is a premium tool, but most of its functions are fr
 
 **Price**: Free
 
-![ fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
+![fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
 
 Fake GPS Location Professional is another free tool to deceive your GPS on Android devices. However, whenever you want to use it, you will have to go through Settings and mock your location manually every time.
 
@@ -188,7 +188,7 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 **Step 1. Install** the [**Fake GPS location by Lexa app**](https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en) from the Google Play store.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
 
 **Step 2**. Go to the **Developer option** on an Android device (**refer to the FAQ section** to learn how to enable Developer options on an Android device).
 
@@ -196,18 +196,18 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 - **Click on the Select mock location app option** to view all the Fake GPS locations installed on your Xiaomi Redmi 12.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
 
 - Add **Fake GPS Location by Lexa.**
 
-![ mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
+![mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
 
 **Step 4.** Close the Settings after adding the Fake GPS location by Lexa in Developer options.
 
 - **Open the Fake GPS Location by Lexa app.**
 - And **choose the desired fake location**.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
 
 ### 1\. How To Enable Developer Options In Android?
 
@@ -218,22 +218,31 @@ Here’s how to enable the developer option:
 - Open
 - **Go to System.**
 
-![ fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
 
 - Navigate to **About Phone** and open it.
 
-![ fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
+![fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
 
 - Choose the **Software info**
 
-![ fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
+![fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
 
 - And click on **Build Number 7 times to see** the developer options screen.
 
-![ fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
 
 You can now access the Developer options directly in the Settings menu. Now, use the earlier method to set the location-spoofing app in the Developer options.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Can Fake GPS be detected?
 
 No. Most Fake GPS location apps aren’t detectable. However, if you are still unable to fake GPS location on Android using a third-party app, combine it with a VPN to also change your IP address.
@@ -325,7 +334,7 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Xiaomi  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Xiaomi ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Xiaomi](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Xiaomi Redmi 12 device.
 
@@ -353,7 +362,7 @@ There you go! After reading this guide, you would be able to mock GPS on your Xi
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -404,6 +413,9 @@ If you are using a corrupt or outdated Pokemon Go app, then you can get the GPS 
 
 If you still get the Pokemon Go GPS not found 11 error, then consider deleting the app first. Afterward, go to the App/Play Store again and install the app on your device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Reset the Location Settings on your phone
 
 Since this is a location-based error, you can also consider resetting the location services on your phone. For this, just go to the Location Services (GPS) settings and toggle it off (and on). You can also go to the notification center and tap on the GPS icon to turn the service off and on again.
@@ -432,6 +444,9 @@ If there is a network-related problem causing the GPS not found 11 error, then y
 
 This will automatically turn off its networks (like cellular data). Now, wait for a while, and turn off the Airplane mode to resolve the GPS not found 11 problems.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 7: Reset Network Settings on your Phone
 
 Lastly, if nothing else seems to work, then you can reset the network settings on your phone as well. To do this, you can go to its Settings > Backup & Reset and tap on the “Reset Network Settings” under the Reset section.
@@ -475,3 +490,49 @@ I’m sure that after reading this troubleshooting post, you would be able to fi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-unleash-your-creativity-best-free-and-paid-3d-video-makers/"><u>Updated In 2024, Unleash Your Creativity Best Free and Paid 3D Video Makers</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-mastering-youtube-to-mp3-conversion-essential-tips-and-reviews-for-2024/"><u>New Mastering YouTube to MP3 Conversion Essential Tips and Reviews for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-c51-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-narzo-60x-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-v30-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-narzo-n53-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-gt-5-240w-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-from-raw-to-ready-comparing-the-best-digital-audio-processors-on-the-market-for-2024/"><u>New From Raw to Ready Comparing the Best Digital Audio Processors on the Market for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/backup-and-organize-your-tons-of-footage-in-minutes/"><u>Backup and Organize Your Tons of Footage in Minutes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-one-click-video-creation-simplified-editing-of-multi-snaps/"><u>[Updated] 2024 Approved  One-Click Video Creation  Simplified Editing of Multi-Snaps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-constant-media-recording-specialists-for-2024/"><u>[New] Constant Media Recording Specialists for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-unified-iptv-streaming-framework/"><u>[Updated] 2024 Approved  Unified IPTV Streaming Framework</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-gt-neo-5-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-narzo-60-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-c67-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-c33-2023-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-narzo-60-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-c55-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-gt-neo-5-se-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-crafting-compelling-content-with-macootd-tiktoks/"><u>[New] Crafting Compelling Content with MacOOTD TikToks</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-zte-nubia-flip-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass ZTE Nubia Flip 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-8-plus-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On iPhone 8 Plus?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-renderer-resurgence-new-radeon-edition/"><u>[New] In 2024, Renderer Resurgence  New Radeon Edition</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-create-a-kickass-cod-warzone-thumbnail-for-free/"><u>New 2024 Approved Create a Kickass COD Warzone Thumbnail for Free</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-enhancing-youtube-videos-with-professional-techniques-using-wmm/"><u>2024 Approved  Enhancing YouTube Videos with Professional Techniques Using WMM</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-full-spectrum-review-of-obs-screen-recording-for-2024/"><u>[New] The Full Spectrum Review of OBS Screen Recording for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-samsung-galaxy-a05-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-c67-4g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-samsung-galaxy-a05s-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-note-50-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-gt-5-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/syncing-your-soundtrack-import-music-into-inshot-for-2024/"><u>Syncing Your Soundtrack  Import Music Into InShot for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-overview-of-installing-wm6/"><u>[New] Full Overview of Installing WM6</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-10-youtube-music-rippers-for-android-and-ios/"><u>[Updated] 2024 Approved  10 YouTube Music Rippers for Android and iOS</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-gt-5-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-v30t-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-oppo-find-x7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-shine-up-advanced-setups-to-make-your-clips-pop/"><u>2024 Approved  Shine Up  Advanced Setups to Make Your Clips Pop</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-gt-3-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-c53-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-narzo-n55-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-reversing-the-flow-a-comprehensive-list-of-advanced-audio-reversal-tools/"><u>Updated In 2024, Reversing the Flow A Comprehensive List of Advanced Audio Reversal Tools</u></a></li>
+</ul></div>

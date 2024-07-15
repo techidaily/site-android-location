@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Effective Methods to Fake GPS location on Android For your OnePlus 12R | Dr.fone
-date: 2024-05-19T03:49:49.039Z
-updated: 2024-05-20T03:49:49.039Z
+date: 2024-07-14T03:47:28.408Z
+updated: 2024-07-15T03:47:28.408Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes 3 Effective Methods to Fake GPS location on Android For your OnePlus 12R
 excerpt: This article describes 3 Effective Methods to Fake GPS location on Android For your OnePlus 12R
 keywords: fake gps location on android,change gps location on android,fake location on 12R,fake location on android,change location on android,change location on 12R
-thumbnail: https://www.lifewire.com/thmb/Kjjyyc_72u15QvgACgVI3pdI338=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_the-best-lgbt-movies-on-netflix-right-now-june-2022-5069913-8dbc370e568349c8a347c650353f17b1.jpg
+thumbnail: https://thmb.techidaily.com/6d644818f4603c573461e1572ce0a1a0270aa91bb3cb0a406132a63c5b84e5a5.jpg
 ---
 
 ## 3 Effective Methods to Fake GPS location on Android For your OnePlus 12R
@@ -70,6 +70,9 @@ You can check out this video for further instruction.
 
 - Click on **Move Here** to mock your location on Android.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 Once you select the Move Here option, your new location on the program’s map, as well as your OnePlus 12R, will show as Rome, Italy.
@@ -148,6 +151,9 @@ Read on to find out about fake GPS apps and use them independently or alongside 
 
 You can also use a dedicated fake GPS app on Android to change your GPS location. And while some tools require you to root the Android device, the ones suggested here do not necessitate any provisions; at most, you will have to tinker with developer options on Android (refer to the FAQ section for more on this).
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Fake GPS location by Lexa
 
 **Android App**:  [Fake GPS location by Lexa](https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en_IN&gl=US)
@@ -174,7 +180,7 @@ Fake GPS Go Location Spoofer is a premium tool, but most of its functions are fr
 
 **Price**: Free
 
-![ fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
+![fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
 
 Fake GPS Location Professional is another free tool to deceive your GPS on Android devices. However, whenever you want to use it, you will have to go through Settings and mock your location manually every time.
 
@@ -188,7 +194,7 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 **Step 1. Install** the [**Fake GPS location by Lexa app**](https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en) from the Google Play store.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
 
 **Step 2**. Go to the **Developer option** on an Android device (**refer to the FAQ section** to learn how to enable Developer options on an Android device).
 
@@ -196,18 +202,18 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 - **Click on the Select mock location app option** to view all the Fake GPS locations installed on your OnePlus 12R.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
 
 - Add **Fake GPS Location by Lexa.**
 
-![ mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
+![mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
 
 **Step 4.** Close the Settings after adding the Fake GPS location by Lexa in Developer options.
 
 - **Open the Fake GPS Location by Lexa app.**
 - And **choose the desired fake location**.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
 
 ### 1\. How To Enable Developer Options In Android?
 
@@ -218,19 +224,19 @@ Here’s how to enable the developer option:
 - Open
 - **Go to System.**
 
-![ fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
+![fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
 
 - Navigate to **About Phone** and open it.
 
-![ fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
+![fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
 
 - Choose the **Software info**
 
-![ fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
+![fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
 
 - And click on **Build Number 7 times to see** the developer options screen.
 
-![ fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
+![fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
 
 You can now access the Developer options directly in the Settings menu. Now, use the earlier method to set the location-spoofing app in the Developer options.
 
@@ -258,6 +264,9 @@ These three are the most effective methods to fake GPS locations on Android. How
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Easy Ways to Manage Your OnePlus 12R Location Settings
 
 Your **Android location settings** can be a handy tool in everyday life, ranging from finding your way around, knowing the weather, and searching for services offered around your area.
@@ -336,6 +345,9 @@ You can use Wi-Fi to connect the software to your iPhone once you've linked it t
 
 ![change android phone location](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Managing your android phone's location services can be super helpful to access specific applications and tracking activities. You can use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to change your location on your iPhone ideally. We have also discussed methods to toggle on or off your location services and how to manage Google location services.
@@ -409,7 +421,7 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your OnePlus  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your OnePlus ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your OnePlus](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the OnePlus 12R device.
 
@@ -437,7 +449,10 @@ There you go! After reading this guide, you would be able to mock GPS on your On
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -466,3 +481,43 @@ There you go! After reading this guide, you would be able to mock GPS on your On
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-a15-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-m14-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-pewdiepies-annual-net-worth-for-2024/"><u>Understanding PewDiePie's Annual Net Worth for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-youtube-video-mastery-seizing-the-seo-opportunity/"><u>[Updated] In 2024, YouTube Video Mastery  Seizing the SEO Opportunity</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-m34-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-captivating-audience-with-these-innovative-videos/"><u>2024 Approved  Captivating Audience with These Innovative Videos</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-f14-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-step-by-step-record-and-save-facebook-chats-effectively/"><u>In 2024, Step-By-Step  Record and Save Facebook Chats Effectively</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-a14-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-a14-4g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-s23-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-a54-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-cross-platform-video-sharing-tiktok-and-twitter/"><u>[New] Cross-Platform Video Sharing  TikTok & Twitter</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-m34-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-m54-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-picture-perfect-how-to-accurately-date-your-photos/"><u>[Updated] Picture Perfect  How to Accurately Date Your Photos</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-f04-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-exclusive-video-editing-software-just-for-vimeo-pros-for-2024/"><u>[Updated] Exclusive Video Editing Software Just For Vimeo Pros for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-f15-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-a24-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-f54-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-a05s-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-15-fun-filled-multiplayer-titles-for-friends/"><u>[Updated] 15 Fun-Filled Multiplayer Titles for Friends</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-a25-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-a34-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-f34-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-windows-78-pcs-with-easy-asus-bluetooth-installation/"><u>Enhance Windows 7/8 PCs with Easy ASUS Bluetooth Installation</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-motorola-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Motorola?</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-a15-4g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-m14-4g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-harmonizing-movement-with-melody-the-practical-approach-to-adding-music-to-mac-created-gifs/"><u>New Harmonizing Movement with Melody The Practical Approach to Adding Music to Mac-Created GIFs</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-a23-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-a05-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy A05 | Dr.fone</u></a></li>
+</ul></div>

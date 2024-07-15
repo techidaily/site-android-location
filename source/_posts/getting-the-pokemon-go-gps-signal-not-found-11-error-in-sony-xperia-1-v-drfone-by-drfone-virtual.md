@@ -1,7 +1,7 @@
 ---
 title: Getting the Pokemon Go GPS Signal Not Found 11 Error in Sony Xperia 1 V | Dr.fone
-date: 2024-05-19T03:49:45.410Z
-updated: 2024-05-20T03:49:45.410Z
+date: 2024-07-14T03:22:49.559Z
+updated: 2024-07-15T03:22:49.559Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes Getting the Pokemon Go GPS Signal Not Found 11 Error in Sony Xperia 1 V
 excerpt: This article describes Getting the Pokemon Go GPS Signal Not Found 11 Error in Sony Xperia 1 V
 keywords: change gps location on android,fake gps location on android,fake location on Xperia 1 V,change location on Xperia 1 V,fake location on android,change location on android
-thumbnail: https://www.lifewire.com/thmb/5dWfE2pdmNCU9qpfDVc7QhYieRw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/X-Logo-on-Phone-35c83db6a3c34b689ab069ff50b96bcc.jpg
+thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb59793bd9736b13ed221555fa6ea.jpg
 ---
 
 ## Getting the Pokemon Go GPS Signal Not Found 11 Error in Sony Xperia 1 V
@@ -43,6 +43,9 @@ As I have listed above, the Pokemon Go GPS not found 11 problem can arise due to
 
 The simplest way to fix the Pokemon Go GPS not found 11 issue is by restarting the game. If the app has not been loaded properly, then it would resolve this problem. All you need to do is tap on the app switcher button on your device to view all the apps running in the background. From here, swipe the Pokemon Go card to stop it from running. Afterward, restart the app and check if it would fix the GPS signal not found 11 Pokemon Go issue.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![close pokemon go app](https://images.wondershare.com/drfone/2020/close-pokemon-go-app.jpg)
 
 ### Fix 2: Update or Reinstall the Pokemon Go app
@@ -69,6 +72,9 @@ Android users get the feature to set mock location on their phones, but it can a
 
 At times, all it takes to fix an issue like Pokemon Go GPS not found 11 error is a simple restart of your phone. You can just long press the Power button on the side and choose to restart your phone from the power options.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android restart device](https://images.wondershare.com/drfone/2020/android-restart-device.jpg)
 
 Now, just wait for a while as your phone would restart and launch Pokemon Go afterward to check if you still get the GPS not found 11 error.
@@ -89,6 +95,9 @@ Lastly, if nothing else seems to work, then you can reset the network settings o
 
 In the end, you can choose to reset the network settings of your phone and wait for it to be restarted. This will erase the saved WiFi passwords and other network settings but might fix the GPS signal not found 11 errors on Android.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Fix the GPS Not Found 11 Error with a Location Spoofing Tool
 
 If you use an iOS device and are getting the Pokemon Go GPS signal not found 11 errors on iPhone, then you can use a spoofing tool. I would recommend using [Dr.Fone – Virtual Location (iOS)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) which can change the location of your iPhone to anywhere you like and fix these GPS-based errors.
@@ -105,6 +114,9 @@ If you use an iOS device and are getting the Pokemon Go GPS signal not found 11 
 
 I’m sure that after reading this troubleshooting post, you would be able to fix the Pokemon Go GPS signal not found 11 error on Android or iOS devices. I have included app and device-related solutions to resolve the GPS not found 11 issues. Though, if it still persists, then you can try [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) (iOS) to manually change the location of your iPhone without jailbreaking it.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fake Android Location without Rooting For Your Sony Xperia 1 V
 
 [![avatar](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
@@ -197,7 +209,7 @@ The VPN provider will assist you by serving a new IP address to mask your locati
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -334,6 +346,9 @@ At times, all it takes to fix an issue like Pokemon Go GPS not found 11 error is
 
 Now, just wait for a while as your phone would restart and launch Pokemon Go afterward to check if you still get the GPS not found 11 error.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 6: Toggle On and Off the Airplane Mode
 
 If there is a network-related problem causing the GPS not found 11 error, then you can just reset the Airplane mode. At first, just go to the Control Center or the Settings of your device to enable the Airplane mode.
@@ -383,3 +398,61 @@ I’m sure that after reading this troubleshooting post, you would be able to fi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-12-pro-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi Note 12 Pro 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-12t-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi Note 12T Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-xiaomi-14-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-asus-rog-phone-8-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-meeting-clarity-solutions-for-zoom-sound-glitches/"><u>Elevate Meeting Clarity  Solutions for Zoom Sound Glitches</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-comprehensive-directory-extracting-youtube-intros-for-2024/"><u>[Updated] Comprehensive Directory  Extracting Youtube Intros for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-asus-rog-phone-8-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-100-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-google-pixel-7a-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-google-pixel-8-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-13-proplus-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi Note 13 Pro+ 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/how-instagram-algorithm-update-will-affect-you/"><u>How Instagram Algorithm Update Will Affect You</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-90-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-mastering-online-tale-creation-fundamentals/"><u>[New] Mastering Online Tale Creation Fundamentals</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-gionee-f3-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/monitor-top-youtube-videos-select-rank-trackers-guide-for-2024/"><u>Monitor Top YouTube Videos - Select Rank Trackers Guide for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-xiaomi-redmi-12-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Xiaomi Redmi 12 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-the-best-of-the-best-professional-audio-editing-software/"><u>2024 Approved The Best of the Best Professional Audio Editing Software</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-8-plus-to-windows-10-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 8 Plus to Windows 10? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-13-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi Note 13 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-pro-gamers-fbx-filming-techniques/"><u>[Updated] Pro Gamers' FBX Filming Techniques</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-70-lite-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-zte-blade-a73-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on ZTE Blade A73 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-12r-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi Note 12R Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-zte-nubia-flip-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on ZTE Nubia Flip 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-asus-rog-phone-7-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-premiere-vocal-and-instrumental-works-to-enhance-wedding-visuals-in-the-new-year/"><u>New In 2024, Premiere Vocal and Instrumental Works to Enhance Wedding Visuals in the New Year</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-guerrilla-mic-guide-top-chip-selection-on-a-shoestring/"><u>[New] Guerrilla Mic Guide  Top Chip Selection on a Shoestring</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-100-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-13-pro-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi Note 13 Pro 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-12-pro-4g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi Note 12 Pro 4G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-zte-nubia-z60-ultra-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on ZTE Nubia Z60 Ultra Devices | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-blueprint-for-linking-your-youtube-account-to-tiktok/"><u>[New] The Ultimate Blueprint for Linking Your YouTube Account to TikTok</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-how-to-find-your-niche-and-style-a-starters-guide/"><u>In 2024, How to Find Your Niche and Style - a Starter's Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-12-proplus-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi Note 12 Pro+ 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-the-quintessential-quality-control-for-sound-customization/"><u>2024 Approved The Quintessential Quality Control for Sound Customization</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-google-pixel-8-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-12-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi Note 12 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-effortless-4k-video-editing-the-top-8-proxy-video-editors/"><u>Updated Effortless 4K Video Editing The Top 8 Proxy Video Editors</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-samsung-galaxy-a54-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Samsung Galaxy A54 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-m14-4g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy M14 4G Phone FRP Lock</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-zte-axon-40-lite-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on ZTE Axon 40 Lite Devices | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-top-ranked-internet-mp3-trimmer-and-merger-tool/"><u>Updated 2024 Approved Top-Ranked Internet MP3 Trimmer & Merger Tool</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-nokia-c12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-google-pixel-fold-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-honor-magic-6-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Honor Magic 6 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-90-lite-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-get-rid-of-tiktok-watermarks-best-free-online-removers-for-2024/"><u>Updated Get Rid of TikTok Watermarks Best Free Online Removers for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-90-gt-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-90-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor 90 Pro | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Fake Android Location without Rooting For Your OnePlus 11 5G | Dr.fone
-date: 2024-05-19T03:49:43.399Z
-updated: 2024-05-20T03:49:43.399Z
+date: 2024-07-14T03:07:05.119Z
+updated: 2024-07-15T03:07:05.119Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes Fake Android Location without Rooting For Your OnePlus 11 5G
 excerpt: This article describes Fake Android Location without Rooting For Your OnePlus 11 5G
 keywords: fake location on android,fake gps location on android,change gps location on android,change location on android,fake location on 11 5G,change location on 11 5G
-thumbnail: https://www.lifewire.com/thmb/7wWwLeV8KAaB-XqPIbKe8lIgaY4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/reddit-app-for-andoird-652f6fcd646245e9807afbac25a072ee.jpg
+thumbnail: https://thmb.techidaily.com/ca9ebd9e5568d283ff74716c5b52278ddfb01bff412fbb14fb93882fc8d1dc09.jpg
 ---
 
 ## Fake Android Location without Rooting For Your OnePlus 11 5G
@@ -58,6 +58,9 @@ Edit the images and post it accordingly on Instagram/Snapchat etc to divert your
 
 ![Instagram/Snapchat/Facebook location spoofing](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Dating apps like Tinder
 
 Tinder is a dating app mostly used by singles, college students, and committed ones too. Here the members get to know one another and go for a dating. Some members make use of this app just to make friends.
@@ -98,6 +101,9 @@ It is a Virtual Private Network and used for ages related to security needs. Thi
 
 The VPN provider will assist you by serving a new IP address to mask your location. The IP address (Internet Protocol) is a combination of numerals and alphabets separated by colon indicating the location of your device over the network. The original address is replaced with a new one directing to another location on the internet.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![IP address to mask your location](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-8.jpg)
 
 ### Difference between GPS Spoofing and VPN
@@ -106,7 +112,7 @@ The VPN provider will assist you by serving a new IP address to mask your locati
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -118,6 +124,9 @@ The VPN provider will assist you by serving a new IP address to mask your locati
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Part 3: How to fake Android location by GPS spoofing
 
 You must make some changes on your OnePlus 11 5G Phone before installing the Fake GPS location app.
@@ -154,6 +163,9 @@ Step 1: After successful installation of Lexa, tap the icon to trigger the app. 
 
 Step 2: Click the ‘Set Location’ option and drag the pointer on the map as per your desire
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drag the pointer on the map](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-15.jpg)
 
 Step 3: Save the changes and exit from App. Your OnePlus 11 5G phone will display the new location address in the notification window.
@@ -226,7 +238,7 @@ Download link: [https://play.google.com/store/apps/details?id=com.lexa.fakegps](
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -275,7 +287,7 @@ Download link: [https://play.google.com/store/apps/details?id=org.hola.gpslocati
 
 ![Fake GPS by Hola](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-4.jpg)
 
-### [Fake GPS Location Spoofer](https://drfone.wondershare.com/fake-location/fake-gps-location-spoofer.html)
+### Fake GPS Location Spoofer
 
 If you are looking for a lightweight, reliable, and user-friendly location spoofer, then you can give this app a try. It has been recently updated to provide support for most gaming and dating apps.
 
@@ -499,7 +511,7 @@ The VPN provider will assist you by serving a new IP address to mask your locati
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -531,6 +543,9 @@ Activate the Mock Location option in Android
 
 Step 1: Go to the ‘Settings’ option in your OnePlus 11 5G and choose ‘Developer Option’.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Activate the Mock Location option](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-12.jpg)
 
 Step 2: In the next screen enable the ‘Mock Location’ option to spoof the location details
@@ -592,3 +607,54 @@ This article has given you a basic knowledge related to the spoofing techniques 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-sony-xperia-5-v-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-p40-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel P40 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-f54-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-samsung-galaxy-m34-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Samsung Galaxy M34 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-the-art-of-loudness-in-windows-without-the-cost-exploring-2023s-top-techniques/"><u>New 2024 Approved The Art of Loudness in Windows Without the Cost - Exploring 2023S Top Techniques</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-mastering-photo-color-reversal-techniques-for-2024/"><u>[Updated] Mastering Photo Color Reversal Techniques for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-m34-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-s23-fe-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-tecno-camon-20-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on OnePlus Nord N30 5G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-realme-narzo-60-pro-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Realme Narzo 60 Pro 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-enhance-pc-sound-experience-with-these-5-recording-techniques-on-windows-11-for-2024/"><u>[New] Enhance PC Sound Experience with These 5 Recording Techniques on Windows 11 for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-m54-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-s23plus-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-m14-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-scouring-social-media-locating-facebook-videos-for-2024/"><u>[Updated] Scouring Social Media  Locating Facebook Videos for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-tecno-camon-20-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-nokia-g310-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Nokia G310 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-hasty-yet-stunning-the-quick-path-to-perfect-collage-pics/"><u>[Updated] Hasty, Yet Stunning  The Quick Path to Perfect Collage Pics</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-sony-xperia-1-v-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-s24-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-resolve-instagrams-video-problems-swiftly-for-2024/"><u>[Updated] Resolve Instagram's Video Problems Swiftly for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-complete-guide-to-itunes-podcast-upload/"><u>[New] The Complete Guide to iTunes Podcast Upload</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-f34-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-sony-xperia-10-v-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Motorola Moto G 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-s23-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-much-does-youtube-pay-for-1-million-views/"><u>In 2024, How Much Does YouTube Pay for 1 Million Views?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-deciphering-instagram-stories-what-youre-not-seeing-as-a-viewer/"><u>[Updated] In 2024, Deciphering Instagram Stories  What You're Not Seeing as a Viewer</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-m14-4g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-tecno-camon-30-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-tecno-camon-20-premier-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-m34-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-s24plus-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-iphone-15-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On iPhone 15 without Password?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/crafting-easy-youtube-animation-subscribe-bars-in-filmora/"><u>Crafting Easy YouTube Animation Subscribe Bars in Filmora</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-ignite-discussion-with-custom-creative-story-inquiries/"><u>[Updated] Ignite Discussion with Custom, Creative Story Inquiries</u></a></li>
+</ul></div>

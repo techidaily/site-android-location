@@ -1,7 +1,7 @@
 ---
 title: 10 Fake GPS Location Apps on Android Of your Vivo Y78+ (T1) Edition | Dr.fone
-date: 2024-07-08T04:18:27.138Z
-updated: 2024-07-09T04:18:27.138Z
+date: 2024-07-14T02:36:46.012Z
+updated: 2024-07-15T02:36:46.012Z
 tags: 
   - virtual location chang
   - location changer
@@ -389,6 +389,9 @@ The Fake GPS Android feature on social apps like Instagram/Facebook /Snapchat et
 
 Edit the images and post it accordingly on Instagram/Snapchat etc to divert your friend’s perception on your vacation plan. Create the images as if you are having fun on exciting islands across the globe using the mock location hash tags.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Instagram/Snapchat/Facebook location spoofing](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-4.jpg)
 
 ### Dating apps like Tinder
@@ -461,6 +464,9 @@ Step 1: In your Vivo Y78+ (T1) Edition Phone go to the ‘Settings’ option and
 
 Step 2: In the next window choose ‘Software Information’
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Software Information](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-10.jpg)
 
 Step 3: Tap on ‘Built Number’ in the preceding screen. This step allows you to access the ‘Developer option’ in the Vivo Y78+ (T1) Edition device
@@ -523,6 +529,18 @@ And guess what? Faking your GPS location on Android is simple. In case you are w
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/V0gNpNucOvA"></iframe>
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Before you start, the Pre-requisites for GPS Location Spoofing
 
 - You will have to unlock the bootloader to flash new images by going to Developer options if it’s locked. (**Tip**: run the **_fast boot flashing unlock_** command in Developer to unlock the bootloader).
@@ -565,6 +583,9 @@ You can check out this video for further instruction.
 - In the upper-left section, **type in the desired location**.
 - And click **Go**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![search a location on virtual location and go](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 **Step 5**. For instance, let’s say you wanted to spoof your location to Rome. Once you type in Rome in the teleport box, the program will show you a place in Rome with the **Move Here** option in the pop-up box.
@@ -701,6 +722,9 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 - Add **Fake GPS Location by Lexa.**
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
 
 **Step 4.** Close the Settings after adding the Fake GPS location by Lexa in Developer options.
@@ -776,3 +800,42 @@ These three are the most effective methods to fake GPS locations on Android. How
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-motorola-moto-g-stylus-5g-2023-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Motorola Moto G Stylus 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-procedure-of-ending-linkedin-services-and-deletion-process/"><u>In 2024, Procedure of Ending LinkedIn Services and Deletion Process</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-motorola-moto-g34-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-speedy-solutions-snapshots-of-slideshows/"><u>[Updated] 2024 Approved  Speedy Solutions  Snapshots of Slideshows</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-nokia-c12-plus-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-nokia-c110-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-motorola-razr-40-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-10-best-sites-to-download-bgm-music/"><u>In 2024, 10 Best Sites to Download BGM Music</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-motorola-moto-g24-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-motorola-moto-g73-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-unleash-your-creativity-drawing-faces-on-snapchat/"><u>[New] 2024 Approved  Unleash Your Creativity  Drawing Faces on Snapchat</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-motorola-moto-g13-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-nokia-c02-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simple-steps-restarting-bluetooth-on-windows-1111/"><u>Simple Steps: Restarting Bluetooth on Windows 11/11</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-nokia-c12-pro-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-nokia-105-classic-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-nokia-c12-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-aesthetics-unleashed-leading-enhancers/"><u>In 2024, Instagram Aesthetics Unleashed  Leading Enhancers</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-nokia-150-2023-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-motorola-moto-g84-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-best-online-fun-girl-games-for-kids-for-2024/"><u>[New] Best Online Fun Girl Games for Kids for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-xiaomi-redmi-k70e-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Xiaomi Redmi K70E online without jailbreak</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-motorola-razr-40-ultra-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-guide-to-productive-online-team-sessions-for-2024/"><u>[Updated] The Ultimate Guide to Productive Online Team Sessions for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/swiftly-overcome-video-send-errors-in-facebook-chat-for-iphones-android/"><u>Swiftly Overcome Video Send Errors in Facebook Chat for iPhones, Android</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-nokia-130-music-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hashtag-heroes-the-ultimate-list-for-popularizing-your-youtube-snippets/"><u>[New] In 2024, Hashtag Heroes  The Ultimate List for Popularizing Your YouTube Snippets</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-motorola-edge-40-pro-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Motorola Edge 40 Pro Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-transforming-youtube-content-advanced-strategies-to-perfect-videos-after-publishing/"><u>[New] Transforming YouTube Content  Advanced Strategies to Perfect Videos After Publishing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/evaluating-color-accuracy-the-srgb-alternative-to-rgb/"><u>Evaluating Color Accuracy  The Srgb Alternative to Rgb</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-master-plan-uniting-instagram-and-tiktok-platforms/"><u>2024 Approved  Master Plan  Uniting Instagram & TikTok Platforms</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-motorola-moto-g14-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-motorola-moto-g04-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-motorola-moto-g23-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Motorola Moto G23 | Dr.fone</u></a></li>
+</ul></div>

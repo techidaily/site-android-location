@@ -1,7 +1,7 @@
 ---
 title: In 2024, For People Wanting to Mock GPS on Motorola Defy 2 Devices | Dr.fone
-date: 2024-05-19T03:49:52.410Z
-updated: 2024-05-20T03:49:52.410Z
+date: 2024-07-14T04:13:30.853Z
+updated: 2024-07-15T04:13:30.853Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes For People Wanting to Mock GPS on Motorola Defy 2 Devices
 excerpt: This article describes For People Wanting to Mock GPS on Motorola Defy 2 Devices
 keywords: change gps location on android,fake location on Defy 2,fake gps location on android,change location on Defy 2,fake location on android,change location on android
-thumbnail: https://www.lifewire.com/thmb/td12YpTj-yP7iyxYOnjHj9dHoA4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/streamfreesportsonline-5b1994178023b900364a81e5.jpg
+thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f71196cdaae4af6176a3b33bf.jpg
 ---
 
 ## For People Wanting to Mock GPS on Motorola Defy 2 Devices
@@ -41,6 +41,9 @@ The mock GPS feature is not available in standard device settings. To access it,
 
 ![mock GPS feature](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Find the Best Tool to Mock GPS on Motorola Defy 2?
 
 If you look up on the Google Play Store, you will find a wide range of mock GPS apps readily available. Though, if you wish to mock GPS like a pro, then consider these things in mind while picking an app.
@@ -75,6 +78,9 @@ Last, but most importantly, check the feedback and the real-life experience of o
 
 ![affected apps](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Step by Step Guide to Mock GPS on Motorola Defy 2
 
 Now when you are all prepped-up, you can easily learn how to mock GPS on a Motorola  phone. As stated above, the fake or mock GPS feature is only enabled in Developer Options on the Motorola Defy 2 device. Thus, you need to first turn on your Motorola ’s Developer Options and later pick a mock GPS app to fake the current location on your device. Here’s how you can fake location or mock GPS on your Motorola  phone:
@@ -83,7 +89,7 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Motorola  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Motorola ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Motorola](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Motorola Defy 2 device.
 
@@ -111,7 +117,7 @@ There you go! After reading this guide, you would be able to mock GPS on your Mo
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -147,6 +153,9 @@ If you use an Android phone, you can turn on your location services following th
 
 Immediately you turn on your location services. You'd find many settings and options like high accuracy, phone/device only, battery-saving, emergency location services, and other Google services. Here are what each means and how you can manage your android location services.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **High Accuracy**
 
 When you select this mode for your location services on Android, you want the most precise location tracking possible. This mode will prompt many networks like GPS, Wi-Fi, Bluetooth, and cellular networks to work together and give you the best location tracking.
@@ -165,6 +174,9 @@ If you are in a place with poor Wi-Fi and Bluetooth networks, the best way to ma
 
 When you dial or text an emergency number like 911, your device's location is available to emergency responders through Emergency Location Services. Only if local emergency responders rely on location data is this setting relevant. Even if you don't want your location to be shared with emergency services, your mobile provider has the option to do so.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Change Location on Android/iPhone
 
 There are many reasons you might want to change your location on android/iPhone. It could be to get search results in a particular country, access online files, or access certain websites and applications. Whatever your reasons are, here are easy ways to change location on Android or iPhone:
@@ -249,7 +261,7 @@ Download link: [https://play.google.com/store/apps/details?id=com.lexa.fakegps](
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -277,6 +289,9 @@ Play Store Rating: 4.6
 
 Download link: [https://play.google.com/store/apps/details?id=com.rosteam.gpsemulator](https://play.google.com/store/apps/details?id=com.rosteam.gpsemulator)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![GPS Emulator](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-3.jpg)
 
 ### Fake GPS by Hola
@@ -298,7 +313,7 @@ Download link: [https://play.google.com/store/apps/details?id=org.hola.gpslocati
 
 ![Fake GPS by Hola](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-4.jpg)
 
-### [Fake GPS Location Spoofer](https://drfone.wondershare.com/fake-location/fake-gps-location-spoofer.html)
+### Fake GPS Location Spoofer
 
 If you are looking for a lightweight, reliable, and user-friendly location spoofer, then you can give this app a try. It has been recently updated to provide support for most gaming and dating apps.
 
@@ -447,3 +462,60 @@ This brings us to the end of this extensive post about the best GPS spoofer apps
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-infinix-smart-8-hd-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-itel-p55t-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Itel P55T to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-infinix-smart-8-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-itel-a60-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-itel-p55t-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-infinix-smart-8-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-from-camera-to-community-shared-videos-on-twtplustumble/"><u>[New] From Camera to Community  Shared Videos on Twt+Tumble</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-itel-p40plus-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/facebook-video-dimensions-decoded-a-step-by-step-guide/"><u>Facebook Video Dimensions Decoded A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-itel-a05s-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-infinix-note-30-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-efficient-recording-techniques-for-itunes-media-for-2024/"><u>[New] Efficient Recording Techniques for iTunes Media for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-itel-p55-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-itel-a70-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-top-picks-simple-video-editors-for-beginners/"><u>Updated Top Picks Simple Video Editors for Beginners</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-itel-p40-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-lava-blaze-2-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fusing-high-frame-rate-and-stunts-yi-hero-reviewed/"><u>[Updated] Fusing High Frame Rate and Stunts  Yi Hero Reviewed</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-infinix-zero-30-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-infinix-smart-7-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ing-a-viral-path-best-hashtags-for-youtube-riches-for-2024/"><u>Crafting a Viral Path  Best Hashtags for YouTube Riches for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-itel-p55-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-lava-blaze-2-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-ideal-5-safe-platforms-for-remote-work-in-startups/"><u>In 2024, Ideal 5 Safe Platforms for Remote Work in Startups</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-itel-p55plus-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-infinix-smart-7-hd-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-infinix-note-30-vip-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-infinix-note-30-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-infinix-hot-40i-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-reimagining-user-engagement-top-10-video-editors-outside-vimeo/"><u>In 2024, Reimagining User Engagement  Top 10 Video Editors Outside Vimeo</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-infinix-smart-8-plus-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-max-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS Max To Others devices? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-itel-s23plus-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-vivo-v29e-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Vivo V29e to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-elevate-engagement-youtube-seo-must-haves/"><u>[New] Elevate Engagement - YouTube SEO Must-Haves</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-itel-s23-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/aximizing-youtube-income-universal-studio-insights/"><u>[New] Maximizing YouTube Income  Universal Studio Insights</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ng-the-most-out-of-your-youtube-videos-thumbnails-extraction/"><u>Getting the Most Out of Your Youtube Videos  Thumbnails Extraction</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-infinix-note-30-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-itel-a60s-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-downloading-from-vimeo-made-simple-software-free-or-not/"><u>[New] In 2024, Downloading From Vimeo Made Simple  Software-Free or Not?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/how-to-fix-distorted-audio-using-different-methods-for-2024/"><u>How to Fix Distorted Audio Using Different Methods for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveil-the-power-leveraging-windows-11-and-zoom-maximum-for-2024/"><u>Unveil the Power  Leveraging Windows 11 and Zoom Maximum for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/embrace-the-future-of-tv-engage-with-fb-live-via-roku/"><u>Embrace the Future of TV  Engage with FB Live via Roku</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-lava-agni-2-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-lava-blaze-2-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/essential-tips-for-successful-home-based-podcasts-for-2024/"><u>Essential Tips for Successful Home-Based Podcasts for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-infinix-note-30i-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-calculating-total-vids-for-high-capacity-hardware-64128gb/"><u>2024 Approved  Calculating Total Vids for High-Capacity Hardware (64/128GB)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-pixelpilot-screen-recorder-critique-plus-backups/"><u>[New] 2024 Approved  PixelPilot Screen Recorder Critique + Backups</u></a></li>
+</ul></div>

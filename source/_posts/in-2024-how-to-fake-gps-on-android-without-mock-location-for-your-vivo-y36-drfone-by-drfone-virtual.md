@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fake GPS on Android without Mock Location For your Vivo Y36 | Dr.fone
-date: 2024-03-23 22:25:12
-updated: 2024-03-25 19:25:54
+date: 2024-07-14T04:31:01.803Z
+updated: 2024-07-15T04:31:01.803Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Fake GPS on Android without Mock Location For your Vivo Y36
 excerpt: This article describes How to Fake GPS on Android without Mock Location For your Vivo Y36
 keywords: fake location on android,fake location on Y36,change location on android,fake gps location on android,change location on Y36,change gps location on android
-thumbnail: https://www.lifewire.com/thmb/DAL-N3_Lno5FbRim9sd78EkulLA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/jens-kreuter-85328-c5ada5fb87224444a49aaa4ad1e16897.jpg
+thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5cc36ff257194dcf6821d1ac.jpg
 ---
 
 ## How to Fake GPS on Android without Mock Location For your Vivo Y36
@@ -34,7 +34,7 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both Android and iOS!
 
@@ -128,7 +128,7 @@ _**Tips:** Discover the most effective way to fake GPS on Android without using 
 
 
 
-_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html)_
+_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html) _
 
 ## Part 4: Mock Location Feature on Different Android Models
 
@@ -150,6 +150,9 @@ Another device you can access the mock location on again is the LG Smartphone de
 
 Xiaomi devices don’t use build numbers. They work with MIUI numbers. So to enable the mock location feature on your Xiaomi device, you must first tap on the MIUI number. You can locate this number by visiting ‘settings’ and selecting ‘About Phone’ on the list of options. Once you tap on the number, you will see the ‘Allow Mock Location Apk’ option.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![locate mock location on xiaomi](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-9.jpg)
 
 ### 4\. Huawei
@@ -174,11 +177,14 @@ If you think the way above is complicated for you, you can just use the easiest 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 There are varying purposes why you might want to fake your location. Luckily, several apps are available to **fake GPS on Android without mock location**. The best option for you would be the [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With this fake location app, you can access any third-party app and be in a whole different country from the comfort of your home. However, this article also provides you with other options you can explore.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo Y36
 
@@ -188,6 +194,9 @@ As I read this query posted on an online forum, I realized that so many Pokemon 
 
 ![pokemon gps signal 11 banner](https://images.wondershare.com/drfone/2020/pokemon-gps-signal-11-banner.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Common Reasons for the Pokemon Go GPS not found 11 issues?
 
 Before we troubleshoot the GPS signal not found 11 errors in Pokemon Go, let’s quickly consider some of its common reasons.
@@ -199,6 +208,9 @@ Before we troubleshoot the GPS signal not found 11 errors in Pokemon Go, let’s
 - The issue can also happen if you are using a mock location app on your device.
 - Any other changed settings or app-related issues on your phone can also cause this error.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pokemon gps signal 11](https://images.wondershare.com/drfone/2020/pokemon-gps-signal-11.jpg)
 
 ## Part 2: How to fix the GPS Signal Not Found 11 Issue in Pokemon Go?
@@ -296,6 +308,9 @@ The mock GPS feature is not available in standard device settings. To access it,
 - A mock GPS app would consume more battery and memory on your device as well.
 - Some apps would even become unavailable to you and you might not be able to install them from Google Play.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mock GPS feature](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-2.jpg)
 
 ## Part 3: How to Find the Best Tool to Mock GPS on Vivo Y36?
@@ -340,7 +355,7 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Vivo  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Vivo ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Vivo](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Vivo Y36 device.
 
@@ -368,7 +383,7 @@ There you go! After reading this guide, you would be able to mock GPS on your Vi
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -397,3 +412,59 @@ There you go! After reading this guide, you would be able to mock GPS on your Vi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/revolutionize-replies-enhancing-interaction-on-telegram-platforms/"><u>Revolutionize Replies  Enhancing Interaction on Telegram Platforms</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-realme-gt-3-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/popsocket-mounts-for-optimal-video-shooting-for-2024/"><u>PopSocket Mounts for Optimal Video Shooting for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-realme-c55-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-realme-narzo-60-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Honor X50 GT? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-realme-v30-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-realme-12-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-realme-c67-4g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-mini-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 mini to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-samsung-galaxy-a05-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/unbeatable-free-flv-video-editing-tools-for-2024/"><u>Unbeatable Free FLV Video Editing Tools for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-streamlined-system-for-scrutinizing-youtube-subscriber-profits-3-step-guide/"><u>[New] A Streamlined System for Scrutinizing YouTube Subscriber Profits  3-Step Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-realme-c53-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-realme-gt-5-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-erase-apple-iphone-12-pro-max-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone 12 Pro Max Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-the-complete-walkthrough-to-emoji-enriched-discord-statuses/"><u>[New] 2024 Approved  The Complete Walkthrough to Emoji-Enriched Discord Statuses</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-realme-v30t-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-art-of-auditory-transformation-replacing-audio-in-videos-step-by-step/"><u>New The Art of Auditory Transformation Replacing Audio in Videos Step by Step</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-realme-gt-5-240w-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-realme-12plus-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-realme-c67-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-realme-c51-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-realme-11x-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/premium-broadcasting-gear-top-rated-software-and-hardware-for-youtubers/"><u>Premium Broadcasting Gear  Top-Rated Software & Hardware for Youtubers</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-realme-narzo-60-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-realme-gt-neo-5-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-realme-gt-5-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-poco-m6-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Poco M6 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-guard-your-content-the-copyright-check-before-tiktok-publishing/"><u>[Updated] Guard Your Content  The Copyright Check Before TikTok Publishing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-vivo-y78plus-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Vivo Y78+ to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-xiaomi-redmi-12-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Xiaomi Redmi 12</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-the-journey-of-trust-a-guide-to-becoming-a-verified-discord-partner/"><u>[Updated] In 2024, The Journey of Trust  A Guide to Becoming a Verified Discord Partner</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-realme-c33-2023-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-video-to-picture-the-ultimate-list-of-10-conversion-tools/"><u>In 2024, Video to Picture The Ultimate List of 10 Conversion Tools</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-realme-narzo-60x-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-realme-note-50-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-samsung-galaxy-a05s-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-chromebook-hacks-running-windows-and-mac-video-editing-software-seamlessly/"><u>Updated 2024 Approved Chromebook Hacks Running Windows and Mac Video Editing Software Seamlessly</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-heroic-quests-ranking-gaming-epics-in-action-adventure/"><u>[New] In 2024, Heroic Quests  Ranking Gaming Epics in Action-Adventure</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-realme-narzo-n53-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-get-started-with-4k-video-editing-top-free-tools-and-software/"><u>New In 2024, Get Started with 4K Video Editing Top Free Tools and Software</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-comprehensive-guide-to-enhancing-facecam-movie-quality-for-2024/"><u>[New] Comprehensive Guide to Enhancing Facecam Movie Quality for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-discover-the-best-10-mac-screenshot-and-recording-apps-for-2024/"><u>[New] Discover the Best 10 Mac Screenshot and Recording Apps for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-realme-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-realme-12-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-realme-gt-neo-5-se-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tailor-your-own-memetic-masterpiece-now-for-2024/"><u>Tailor Your Own Memetic Masterpiece Now for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-free-to-create-top-14-watermark-free-video-editing-software-and-beyond/"><u>New In 2024, Free to Create Top 14 Watermark-Free Video Editing Software and Beyond</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-future-of-video-on-facebook-focusing-on-shorter-formats-for-2024/"><u>The Future of Video on Facebook  Focusing on Shorter Formats for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-realme-12-proplus-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-realme-narzo-n55-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Realme Narzo N55 | Dr.fone</u></a></li>
+</ul></div>

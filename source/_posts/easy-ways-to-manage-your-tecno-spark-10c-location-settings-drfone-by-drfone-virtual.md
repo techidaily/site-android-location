@@ -1,7 +1,7 @@
 ---
 title: Easy Ways to Manage Your Tecno Spark 10C Location Settings | Dr.fone
-date: 2024-05-19T03:49:42.995Z
-updated: 2024-05-20T03:49:42.995Z
+date: 2024-07-14T03:02:57.688Z
+updated: 2024-07-15T03:02:57.688Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes Easy Ways to Manage Your Tecno Spark 10C Location Settings
 excerpt: This article describes Easy Ways to Manage Your Tecno Spark 10C Location Settings
 keywords: change location on android,change gps location on android,change location on Spark 10C,fake location on android,fake location on Spark 10C,fake gps location on android
-thumbnail: https://www.lifewire.com/thmb/Kum5AgirtoV-H5HQXO5DDyzMKvY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/what-is-bluesky-social-fea29392009e4482b7fd8c5c526f69ab.jpg
+thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc156666a853f82f3e47dee0b.jpg
 ---
 
 ## Easy Ways to Manage Your Tecno Spark 10C Location Settings
@@ -82,6 +82,9 @@ You can use Wi-Fi to connect the software to your iPhone once you've linked it t
 
 **Step 3:** Activate the "teleport mode" by swiping up and down and then clicking on the 2nd icon (the top right). Click "Go" to teleport to your location of choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose destination](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 **Step 4:** The system now knows where you want to go. In the popup box, select "Move Here."
@@ -92,6 +95,9 @@ You can use Wi-Fi to connect the software to your iPhone once you've linked it t
 
 ![change android phone location](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Managing your android phone's location services can be super helpful to access specific applications and tracking activities. You can use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to change your location on your iPhone ideally. We have also discussed methods to toggle on or off your location services and how to manage Google location services.
@@ -106,6 +112,9 @@ It helps in protecting your privacy. In this article, we have discussed in detai
 
 Take a look!
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## #1 Dr. Fone – Virtual Location
 
 ![dr.fone virtual location app](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
@@ -138,7 +147,7 @@ It is compatible with almost all location-based apps, including Instagram, Snapc
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -240,6 +249,9 @@ With Fake GPS 360, you can choose any location of your choice on your Tecno Spar
 - It May does not work with some apps
 - Ineffective joystick
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## #5 Fake GPS Location by Lexa
 
 ![fake gps location by lexa](https://images.wondershare.com/drfone/article/2022/01/fake-gps-android-5.jpg)
@@ -301,6 +313,9 @@ You can also use the location changer to find new people on dating apps like Tin
 - In-app Ads
 - It can be detected by other apps
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## #7 Fake GPS Location Spoofer
 
 ![fake gps location spoofer](https://images.wondershare.com/drfone/article/2022/01/fake-gps-android-7.jpg)
@@ -500,7 +515,7 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Tecno  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Tecno ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Tecno](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Tecno Spark 10C device.
 
@@ -528,7 +543,7 @@ There you go! After reading this guide, you would be able to mock GPS on your Te
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -557,3 +572,64 @@ There you go! After reading this guide, you would be able to mock GPS on your Te
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-magic-v2-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-asus-rog-phone-8-pro-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-tecno-camon-20-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-magic-6-lite-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-magic-5-lite-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-spotlight-10-anonymous-story-gazers-for-2024/"><u>[New] Spotlight 10 Anonymous Story Gazers for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-12-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 12 After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-play-7t-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-play-40c-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-gionee-f3-pro-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-itel-p55-5g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Itel P55 5G</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-asus-rog-phone-8-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-boost-your-content-access-free-vocal-sfx/"><u>[New] 2024 Approved  Boost Your Content  Access Free Vocal SFX</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/uninterrupted-adventures-top-10-best-offline-ios-titles/"><u>Uninterrupted Adventures  Top 10 Best Offline iOS Titles</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-magic-5-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-90-pro-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-magic-5-pro-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/drones-to-dream-innovative-editing-approaches/"><u>Drones to Dream  Innovative Editing Approaches</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-infinix-note-30i-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Infinix Note 30i to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-vivo-y77t-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Vivo Y77t to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-magic-6-pro-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-asus-rog-phone-7-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-90-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-leading-rogue-adventures-10-game-compilation/"><u>2024 Approved  Leading Rogue Adventures  #10 Game Compilation</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-magic5-ultimate-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-google-pixel-fold-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-google-pixel-7a-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-legends-of-arcade-combat-nintendos-top-ten-on-switch-for-2024/"><u>[New] Legends of Arcade Combat  Nintendo's Top Ten on Switch for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/polishing-the-final-product-perfect-for-instagrams-audience-for-2024/"><u>Polishing the Final Product  Perfect for Instagram's Audience for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-100-pro-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-understanding-instagrams-reels-vs-stories-format/"><u>[New] 2024 Approved  Understanding Instagram’s Reels vs Stories Format</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-avs-video-editor-2023-a-detailed-review-of-its-capabilities-and-limitation/"><u>Updated 2024 Approved AVS Video Editor 2023 A Detailed Review of Its Capabilities and Limitation</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-google-pixel-8-pro-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-90-lite-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-step-by-step-instructions-for-capturing-high-quality-sounds-on-garageband/"><u>2024 Approved Step-By-Step Instructions for Capturing High-Quality Sounds on GarageBand</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-samsung-galaxy-a05-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Samsung Galaxy A05 FRP</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-asus-rog-phone-7-ultimate-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Asus ROG Phone 7 Ultimate Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-70-lite-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-v-purse-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-play-8t-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-script-to-screen-the-compreeved-guide-to-youtube-video-edits-for-2024/"><u>[New] From Script to Screen  The Compreeved Guide to YouTube Video Edits for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-100-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/omparative-content-crusade-analyzing-your-videos-against-others-for-2024/"><u>[New] Comparative Content Crusade  Analyzing Your Videos Against Others' For 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-transform-brainstorms-into-youtube-channel-names/"><u>[Updated] 2024 Approved  How To Transform Brainstorms Into YouTube Channel Names</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-stand-out-with-visual-flair-bordered-video-tutorials/"><u>[Updated] Stand Out with Visual Flair  Bordered Video Tutorials</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-90-gt-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-24-hour-heavyweights-top-10-most-watched-on-yt/"><u>[Updated] 24 Hour Heavyweights  Top 10 Most Watched on YT</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-15-best-free-online-image-enhancement-tools-for-2024/"><u>Unveiling the 15 Best Free Online Image Enhancement Tools for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-troubleshooting-streaming-issues-on-mac-with-mixer/"><u>[Updated] Troubleshooting Streaming Issues on Mac with Mixer</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-google-pixel-8-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-magic-6-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-pinnacle-10-battle-royale-experiences-for-2024/"><u>[Updated] Pinnacle 10 Battle Royale Experiences for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-inside-look-how-does-vr-headgear-work/"><u>[Updated] Inside Look  How Does VR Headgear Work?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-magic-vs-2-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/expert-analysis-top-ogg-converters-and-their-capabilities/"><u>Expert Analysis Top OGG Converters and Their Capabilities</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+</ul></div>

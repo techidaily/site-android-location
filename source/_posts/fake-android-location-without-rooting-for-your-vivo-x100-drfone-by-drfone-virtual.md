@@ -1,7 +1,7 @@
 ---
 title: Fake Android Location without Rooting For Your Vivo X100 | Dr.fone
-date: 2024-06-30T13:24:04.332Z
-updated: 2024-07-01T13:24:04.332Z
+date: 2024-07-14T03:10:13.310Z
+updated: 2024-07-15T03:10:13.310Z
 tags: 
   - virtual location chang
   - location changer
@@ -85,6 +85,9 @@ The basic concept in GPS spoofing is that you are going to mock GPS Android via 
 
 All these satellites emit signals continuously with unique coordinate parameters. The smart phones receive those signals along with coordinate details and the math algorithm calculates the location precisely. The coordinate details of the signals depend on the positioning of the satellites on the Earth’s orbit. Here in the GPS spoofing technique mock the coordinate detail of the signals thereby leading to the change in the location.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change in the location](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-7.jpg)
 
 ### What is a VPN?
@@ -150,6 +153,9 @@ Now it is the perfect time to Fake your GPS location using the below guidelines
 
 Step 1: After successful installation of Lexa, tap the icon to trigger the app. The home screen of this app displays a map
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![trigger the app](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-14.jpg)
 
 Step 2: Click the ‘Set Location’ option and drag the pointer on the map as per your desire
@@ -202,6 +208,9 @@ If you use an Android phone, you can turn on your location services following th
 4. Click on the location mode, and you'd see three different settings to select; High accuracy, Battery saving, and Phone only. Choose one mode. More details about which one to choose will be discussed below.
 5. If a screen shows location consent, click 'agree,' and that's all; you have now turned on your location services on Android and can start enjoying all benefits!
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to manage and understand Location services
 
 Immediately you turn on your location services. You'd find many settings and options like high accuracy, phone/device only, battery-saving, emergency location services, and other Google services. Here are what each means and how you can manage your android location services.
@@ -216,6 +225,18 @@ This mode comes in handy when navigating through streets searching for a particu
 
 As the name already hints, this mode is best if you want to save the phone battery. GPS, one of the location services, uses lots of power, and in a bid to save your battery, this mode will turn off the GPS and use other tracking networks like Wi-Fi and Bluetooth. Although this mode might not provide the most accurate tracking possible, it will direct you rightly.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Device only**
 
 If you are in a place with poor Wi-Fi and Bluetooth networks, the best way to manage your android location settings is to turn on the Vivo X100 device-only mode. This feature prioritizes the inbuilt GPS radio signals over other networks. It functions just like cars, but, minds you, it consumes more battery power than different modes and will perform best when you're outside.
@@ -342,6 +363,9 @@ This is another effective fake GPS app that you can use to fake GPS. It works as
 
 _**App Link:** <https://play.google.com/store/apps/details?id=com.marlon.floating.fake.location&hl=en>_
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Fake GPS Location with GPS Joystick
 
 ![use fake location with gps joystick](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-6.jpg)
@@ -449,3 +473,75 @@ There are varying purposes why you might want to fake your location. Luckily, se
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-find-x6-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo Find X6 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-disappointed-that-cant-use-pinnacle-studio-on-mac-weve-got-you-covered-check-out-our-list-below-for-some-great-alternatives-to-pinnacle-studio-for-m/"><u>Updated Disappointed that Cant Use Pinnacle Studio on Mac? Weve Got You Covered! Check Out Our List Below for some Great Alternatives to Pinnacle Studio for Mac Users</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-reno-11f-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo Reno 11F 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-reno-8t-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo Reno 8T 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-poco-c51-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Poco C51 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-poco-f5-pro-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Poco F5 Pro 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-a78-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo A78 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-proven-winners-the-top-5-tools-for-video-conference-recording/"><u>In 2024, Proven Winners  The Top 5 Tools for Video Conference Recording</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-mp3-kitty-acoustic-trick-for-2024/"><u>Updated MP3 Kitty Acoustic Trick for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-k11x-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo K11x Devices | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-navigating-the-social-sphere-of-tiktok-lives/"><u>[Updated] Navigating the Social Sphere of TikTok Lives</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-f23-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo F23 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-reno-9a-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo Reno 9A Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-find-n3-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo Find N3 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-a2-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo A2 Devices | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-secret-tips-and-tricks-to-use-in-filmora/"><u>New 2024 Approved Secret Tips & Tricks to Use in Filmora</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-reno-11-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo Reno 11 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-find-x7-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo Find X7 Devices | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/where-can-you-find-premium-soundtracks-from-instagram-and-how-to-create-a-superb-call-alert-for-2024/"><u>Where Can You Find Premium Soundtracks From Instagram & How to Create a Superb Call Alert for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-a58-4g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo A58 4G Devices | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-enhancing-obs-on-a-thrifty-computer/"><u>[New] 2024 Approved  Enhancing OBS on a Thrifty Computer</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-comprehensible-guide-to-updating-usernames-in-google-meet/"><u>[Updated] 2024 Approved  Comprehensible Guide to Updating Usernames in Google Meet</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/key-audio-equipment-for-content-creators/"><u>Key Audio Equipment for Content Creators</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-reno-11-pro-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo Reno 11 Pro 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-poco-c65-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Poco C65 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-a78-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo A78 Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-bone-chilling-image-builder/"><u>[New] Bone-Chilling Image Builder</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/step-by-step-borders-enhancing-images-with-style-on-social-platforms-for-2024/"><u>Step By Step Borders  Enhancing Images with Style on Social Platforms for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/premier-apple-products-mimicking-old-ps2-games-for-2024/"><u>Premier Apple Products Mimicking Old PS2 Games for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-executing-the-last-goodbye-to-your-instagram-account-for-2024/"><u>[New] Executing the Last Goodbye to Your Instagram Account for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-lava-yuva-3-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Lava Yuva 3 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-reno-10-proplus-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo Reno 10 Pro+ 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-swipe-tap-save-the-ultimate-guide-for-igtv-videos-on-devices-for-2024/"><u>[Updated] Swipe, Tap, Save  The Ultimate Guide for IGTV Videos on Devices for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-poco-m6-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Poco M6 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-poco-x5-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Poco X5 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-unparalleled-selection-of-8-android-multiparty-tools/"><u>2024 Approved  Unparalleled Selection of 8 Android Multiparty Tools</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-a38-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo A38 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-reno-8t-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo Reno 8T Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-a56s-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo A56s 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-a79-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo A79 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-f25-pro-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo F25 Pro 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-poco-f5-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Poco F5 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-retro-smile-captured-by-iphone-x-classic/"><u>[Updated] In 2024, Retro Smile Captured by iPhone X Classic</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-poco-m6-pro-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Poco M6 Pro 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-xiaomi-redmi-note-12-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Xiaomi Redmi Note 12 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unobstructed-movie-magic-erasing-youtube-borders/"><u>[New] Unobstructed Movie Magic  Erasing YouTube Borders</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-icons-unveiled-elevate-your-fame-and-followers-in-record-time-heres-how/"><u>In 2024, Instagram Icons Unveiled  Elevate Your Fame & Followers in Record Time – Here's How</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/discover-the-best-6-apps-to-supercharge-your-instagram-reels-for-2024/"><u>Discover the Best 6 Apps to Supercharge Your Instagram Reels for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-poco-m6-pro-4g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Poco M6 Pro 4G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-find-x7-ultra-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo Find X7 Ultra Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-find-x6-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo Find X6 Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ace-your-messaging-must-know-advanced-tricks-and-techniques-in-whatsapp-for-2024/"><u>Ace Your Messaging  Must-Know Advanced Tricks and Techniques in WhatsApp for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-poco-x5-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Poco X5 Devices | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovative-android-and-ios-face-altering-tools/"><u>[New] Innovative Android & iOS Face Altering Tools</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-a59-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo A59 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-reno-10-pro-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo Reno 10 Pro 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-the-ultimate-guide-to-economical-cloud-options/"><u>2024 Approved  The Ultimate Guide to Economical Cloud Options</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-poco-c50-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Poco C50 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-poco-x6-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Poco X6 Devices | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/achieve-clear-communication-in-discord-using-voicemod-techniques-for-2024/"><u>Achieve Clear Communication in Discord Using VoiceMod Techniques for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-find-n3-flip-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo Find N3 Flip Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-a-gamers-guide-to-seamless-ps4-recording-and-streaming-via-obs-for-2024/"><u>[Updated] A Gamer's Guide to Seamless PS4 Recording and Streaming via OBS for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-poco-c55-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Poco C55 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-k11-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo K11 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-reno-10-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo Reno 10 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-motorola-razr-40-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Motorola Razr 40 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-cataloging-spots-to-purchase-authentic-glass-bashing-noises/"><u>In 2024, Cataloging Spots to Purchase Authentic Glass-Bashing Noises</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-leading-9-movie-extractors-for-fb/"><u>[New] In 2024, Leading 9 Movie Extractors for FB</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fake GPS on Android without Mock Location For your Itel A05s | Dr.fone
-date: 2024-03-23 13:55:53
-updated: 2024-03-25 10:30:55
+date: 2024-07-14T04:26:20.325Z
+updated: 2024-07-15T04:26:20.325Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Fake GPS on Android without Mock Location For your Itel A05s
 excerpt: This article describes How to Fake GPS on Android without Mock Location For your Itel A05s
 keywords: change gps location on android,change location on A05s,fake gps location on android,fake location on A05s,change location on android,fake location on android
-thumbnail: https://www.lifewire.com/thmb/HEBDZLC1jMr1OKZ2CcKnILwP_lk=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sonyplaystation5-dc53869451d7416cbb32881a35c3fc32.jpg
+thumbnail: https://thmb.techidaily.com/c3ecdd732aca091f9e06be3caec567f3fcd17c056bf2dd14982465e8c7b5b6a1.jpg
 ---
 
 ## How to Fake GPS on Android without Mock Location For your Itel A05s
@@ -34,7 +34,7 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both Android and iOS!
 
@@ -52,6 +52,9 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 
 **Step 2:** The next step you have to take is to click "Virtual Location" on the homepage to launch the app, connect your smartphone to the PC and click on "Get Started".
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 **Step 3:** A world map with 5 modes at the side will appear; you can choose an option to proceed. There’s the teleport, two-stop, and multi-stop mode for you to choose from to fake location without developer options. Here we take the teleport mode as an example.
@@ -68,6 +71,9 @@ This would change your location automatically, and you’re ready to access thir
 
 ## Part 3: Using Fake Location Apps to Fake GPS Without Mock Location
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### 1\. Fake Location App
 
 Apart from Dr.Fone - Virtual Location, another app you can use to fake GPS without mock location-enabled is Fake GPS Location. This app is quite common as many people use it to [fake GPS Android](https://drfone.wondershare.com/virtual-location/fake-gps-android.html). Downloading this app is easy because you can get it from Google Play Store.
@@ -128,7 +134,7 @@ _**Tips:** Discover the most effective way to fake GPS on Android without using 
 
 
 
-_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html)_
+_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html) _
 
 ## Part 4: Mock Location Feature on Different Android Models
 
@@ -178,7 +184,7 @@ If you think the way above is complicated for you, you can just use the easiest 
 
 There are varying purposes why you might want to fake your location. Luckily, several apps are available to **fake GPS on Android without mock location**. The best option for you would be the [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With this fake location app, you can access any third-party app and be in a whole different country from the comfort of your home. However, this article also provides you with other options you can explore.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Easy Ways to Manage Your Itel A05s Location Settings
 
@@ -306,7 +312,7 @@ It is compatible with almost all location-based apps, including Instagram, Snapc
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -383,6 +389,9 @@ For rooted phones, you can fake locations without enabling "Allow mock locations
 
 ## #4 Fake GPS 360
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fake gps 360 app](https://images.wondershare.com/drfone/article/2022/01/fake-gps-android-4.jpg)
 
 **Rating - 3.3**
@@ -410,6 +419,9 @@ With Fake GPS 360, you can choose any location of your choice on your Itel A05s 
 
 ## #5 Fake GPS Location by Lexa
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fake gps location by lexa](https://images.wondershare.com/drfone/article/2022/01/fake-gps-android-5.jpg)
 
 **Rating – 4.6**
@@ -471,6 +483,14 @@ You can also use the location changer to find new people on dating apps like Tin
 
 ## #7 Fake GPS Location Spoofer
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fake gps location spoofer](https://images.wondershare.com/drfone/article/2022/01/fake-gps-android-7.jpg)
 
 **Rating – 3.8**
@@ -612,3 +632,44 @@ If you are looking for a safe and reliable location changer, then use [Dr.Fone -
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-transforming-footage-into-viral-content-on-tiktok-from-computer/"><u>[Updated] In 2024, Transforming Footage Into Viral Content on TikTok From Computer</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pushing-boundaries-advanced-iphone-silhouette-techniques/"><u>In 2024, Pushing Boundaries  Advanced iPhone Silhouette Techniques</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-comparing-messaging-services-discord-versus-skype-revealed/"><u>[New] Comparing Messaging Services  Discord Versus Skype Revealed</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-asus-rog-phone-7-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/harmony-color-calibrator/"><u>Harmony Color Calibrator</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/the-art-of-digital-expression-your-guide-to-sharing-animated-messages-on-snapchat/"><u>The Art of Digital Expression  Your Guide to Sharing Animated Messages on Snapchat</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-zte-nubia-flip-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-vivo-y02t-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Vivo Y02T Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-premium-hardware-hunt-cards-for-4k-editors/"><u>[New] 2024 Approved  Premium Hardware Hunt  Cards for 4K Editors</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-note-12r-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-motorola-moto-g-stylus-5g-2023-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Motorola Moto G Stylus 5G (2023) to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-quintessential-conclusion-to-vr-adventures/"><u>[New] Quintessential Conclusion to VR Adventures</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-professional-mac-gif-recording-top-10-picks/"><u>[Updated] In 2024, Professional Mac GIF Recording  Top 10 Picks</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-google-pixel-7a-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-zte-blade-a73-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-essential-guide-to-premium-discord-emoji-tools/"><u>The Essential Guide to Premium Discord Emoji Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-mobile-media-3-key-steps-to-stabilize-iphone-videos/"><u>In 2024, Mastering Mobile Media  3 Key Steps to Stabilize iPhone Videos</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-zte-axon-40-lite-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-revitalizing-a-frozen-obs-video-source-feed/"><u>[Updated] In 2024, Revitalizing a Frozen OBS Video Source Feed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-gopro-hero5-sessions-for-2024/"><u>Exploring the GoPro Hero5 Sessions for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-cost-free-screen-capture-for-windowsmacos-users/"><u>[New] 2024 Approved  Cost-Free Screen Capture for Windows/macOS Users</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-asus-rog-phone-8-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-asus-rog-phone-8-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/create-memes-with-kapwing-magic-tool-for-2024/"><u>Create Memes with Kapwing Magic Tool for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/best-ways-to-document-smartphone-use/"><u>Best Ways to Document Smartphone Use</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-zte-nubia-z60-ultra-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-gionee-f3-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Gionee F3 Pro | Dr.fone</u></a></li>
+</ul></div>

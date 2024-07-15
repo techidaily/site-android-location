@@ -1,7 +1,7 @@
 ---
 title: In 2024, For People Wanting to Mock GPS on Infinix Smart 8 Devices | Dr.fone
-date: 2024-05-19T03:49:52.345Z
-updated: 2024-05-20T03:49:52.345Z
+date: 2024-07-14T04:12:54.300Z
+updated: 2024-07-15T04:12:54.300Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes For People Wanting to Mock GPS on Infinix Smart 8 Devices
 excerpt: This article describes For People Wanting to Mock GPS on Infinix Smart 8 Devices
 keywords: fake location on Smart 8,change location on android,fake location on android,change gps location on android,change location on Smart 8,fake gps location on android
-thumbnail: https://www.lifewire.com/thmb/Upemm_83fheu5JnASUVL9rXiGqw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheOscarsStatue-33f6c30d7ffd4694a4dd1d1113de57f5.jpg
+thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6f572fe9945c7d91985d72b7.jpg
 ---
 
 ## For People Wanting to Mock GPS on Infinix Smart 8 Devices
@@ -83,16 +83,22 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Infinix  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Infinix ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Infinix](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Infinix Smart 8 device.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mock location field](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-5.jpg)
 
 Step 2: Install and Allow a Mock GPS App
 
 Now, go to the Play Store app on your phone and look for a mock GPS app. I have tried and tested the Fake GPS Location app by Lexa. If you want, you can install the same freely available mock GPS app or try any other app as well.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mock GPS app](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-6.jpg)
 
 After successfully installing the mock GPS apk on your Infinix , go back to its Settings > Developer Options > Mock Location app and select the fake GPS location app that you have recently downloaded. This will allow the mock GPS app to change the location of your device.
@@ -111,7 +117,10 @@ There you go! After reading this guide, you would be able to mock GPS on your In
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -167,7 +176,7 @@ Download link: [https://play.google.com/store/apps/details?id=com.lexa.fakegps](
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -216,7 +225,7 @@ Download link: [https://play.google.com/store/apps/details?id=org.hola.gpslocati
 
 ![Fake GPS by Hola](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-4.jpg)
 
-### [Fake GPS Location Spoofer](https://drfone.wondershare.com/fake-location/fake-gps-location-spoofer.html)
+### Fake GPS Location Spoofer
 
 If you are looking for a lightweight, reliable, and user-friendly location spoofer, then you can give this app a try. It has been recently updated to provide support for most gaming and dating apps.
 
@@ -342,6 +351,9 @@ Play Store Rating: 3.8
 
 Download link: [https://play.google.com/store/apps/details?id=com.pe.fakegps](https://play.google.com/store/apps/details?id=com.pe.fakegps)
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fake GPS 360](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-11.jpg)
 
 This brings us to the end of this extensive post about the best GPS spoofer apps. Now when you know about the top 10 location spoofer apps for Android, you can easily pick an ideal solution. For your convenience, we have only listed the fake GPS location spoofer free apps. Some of these apps are entirely free while others would need a premium subscription for their advanced features. Feel free to give some of them a try and pick the best GPS spoofer for your device.
@@ -417,7 +429,7 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Infinix  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Infinix ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Infinix](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Infinix Smart 8 device.
 
@@ -437,6 +449,9 @@ Step 3: Fake location on your Infinix
 
 That’s it! Once you have granted the needed permission to the mock GPS app, you can easily use it to change the location of your device. Just launch the app to get a map-like interface. You can zoom in and out the map or just look for any location on the search bar. In the end, drop the pin on any location and tap on the start button to fake your location.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![confirm to fake your location](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-8.jpg)
 
 Later, you can go back to the app and stop the fake location to switch back to your original location whenever you want.
@@ -445,7 +460,7 @@ There you go! After reading this guide, you would be able to mock GPS on your In
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -474,3 +489,45 @@ There you go! After reading this guide, you would be able to mock GPS on your In
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-c55-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-find-n3-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Find N3 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-10t-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-gt-5-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-12-pro-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-cutting-edge-chatbot-allies-discord-for-2024/"><u>[Updated] Cutting-Edge Chatbot Allies Discord for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-gt-5-240w-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-11-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-honor-90-pro-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Honor 90 Pro</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-xiaomi-14-ultra-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Xiaomi 14 Ultra? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-12-proplus-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-next-gen-platform-for-12-hourly-live-broadcasts/"><u>[New] Next-Gen Platform for 12 Hourly Live Broadcasts</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/10-best-free-music-recording-software-for-2024/"><u>10 Best Free Music Recording Software for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-c67-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-online-video-editing-on-chromebook-the-ultimate-guide/"><u>2024 Approved Online Video Editing on Chromebook The Ultimate Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-12-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-11-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-facebook-video-cover-sizing-made-easy-a-step-by-step-guide/"><u>Updated In 2024, Facebook Video Cover Sizing Made Easy A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-c33-2023-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-poco-x6-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-poco-x6-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-c67-4g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/imovie-why-does-it-alter-my-videos-in-2024/"><u>IMovie  Why Does It Alter My Videos, In 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-11-proplus-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-best-bites-outside-the-box-new-film-favorites/"><u>[Updated] Best Bites Outside the Box  New Film Favorites</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-cutting-edge-free-4k-video-editors-you-need-to-try/"><u>Updated Cutting-Edge Free 4K Video Editors You Need to Try</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-gt-3-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-gt-5-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-motorola-moto-g-stylus-5g-2023-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Motorola Moto G Stylus 5G (2023).</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-gt-neo-5-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-gamerecorder-gambit/"><u>In 2024, GameRecorder Gambit</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-c53-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-11x-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-12plus-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-8-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>iPhone 8 Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-nokia-c22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-c51-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme C51 | Dr.fone</u></a></li>
+</ul></div>

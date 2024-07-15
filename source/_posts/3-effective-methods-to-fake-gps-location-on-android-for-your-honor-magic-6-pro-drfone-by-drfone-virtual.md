@@ -1,7 +1,7 @@
 ---
 title: 3 Effective Methods to Fake GPS location on Android For your Honor Magic 6 Pro | Dr.fone
-date: 2024-06-15T13:06:53.629Z
-updated: 2024-06-16T13:06:53.629Z
+date: 2024-07-14T02:44:30.975Z
+updated: 2024-07-15T02:44:30.975Z
 tags: 
   - virtual location chang
   - location changer
@@ -164,6 +164,9 @@ Free to use, Fake GPS location by Lexa allows you to change your location to any
 
 **Price**: Free; Premium available
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fake gps go location spoofer](https://images.wondershare.com/drfone/article/2022/03/fake-gps-go-location-spoofer.jpg)
 
 Fake GPS Go Location Spoofer is a premium tool, but most of its functions are free to use. Therefore, you do not have to upgrade unless you want to play games on Android devices. Moreover, it works without root on Android 6.0 and above variants. However, you will have to root the Android device on earlier versions.
@@ -174,7 +177,7 @@ Fake GPS Go Location Spoofer is a premium tool, but most of its functions are fr
 
 **Price**: Free
 
-![ fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
+![fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
 
 Fake GPS Location Professional is another free tool to deceive your GPS on Android devices. However, whenever you want to use it, you will have to go through Settings and mock your location manually every time.
 
@@ -188,7 +191,7 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 **Step 1. Install** the [**Fake GPS location by Lexa app**](https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en) from the Google Play store.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
 
 **Step 2**. Go to the **Developer option** on an Android device (**refer to the FAQ section** to learn how to enable Developer options on an Android device).
 
@@ -196,18 +199,21 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 - **Click on the Select mock location app option** to view all the Fake GPS locations installed on your Honor Magic 6 Pro.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
 
 - Add **Fake GPS Location by Lexa.**
 
-![ mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
+![mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
 
 **Step 4.** Close the Settings after adding the Fake GPS location by Lexa in Developer options.
 
 - **Open the Fake GPS Location by Lexa app.**
 - And **choose the desired fake location**.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
 
 ### 1\. How To Enable Developer Options In Android?
 
@@ -218,19 +224,19 @@ Here’s how to enable the developer option:
 - Open
 - **Go to System.**
 
-![ fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
+![fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
 
 - Navigate to **About Phone** and open it.
 
-![ fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
+![fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
 
 - Choose the **Software info**
 
-![ fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
+![fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
 
 - And click on **Build Number 7 times to see** the developer options screen.
 
-![ fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
+![fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
 
 You can now access the Developer options directly in the Settings menu. Now, use the earlier method to set the location-spoofing app in the Developer options.
 
@@ -302,7 +308,7 @@ Download link: [https://play.google.com/store/apps/details?id=com.lexa.fakegps](
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -351,7 +357,7 @@ Download link: [https://play.google.com/store/apps/details?id=org.hola.gpslocati
 
 ![Fake GPS by Hola](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-4.jpg)
 
-### [Fake GPS Location Spoofer](https://drfone.wondershare.com/fake-location/fake-gps-location-spoofer.html)
+### Fake GPS Location Spoofer
 
 If you are looking for a lightweight, reliable, and user-friendly location spoofer, then you can give this app a try. It has been recently updated to provide support for most gaming and dating apps.
 
@@ -369,6 +375,9 @@ Download link: [https://play.google.com/store/apps/details?id=com.incorporateapp
 
 ![Fake GPS Go](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fake GPS Location
 
 This fake GPS location spoofer is developed by DG Smart Studio and has been updated recently in 2019. Users can access tons of additional features that the app offers without paying anything.
@@ -515,6 +524,18 @@ It is one of the finest and trending game app for the current generation kids. T
 
 Using the GPS spoofing techniques you can fake the GPS feature and play the game on your favourite place around the globe without travelling in reality. You can play the game on the American location by moving around in Japan. Thereby you can capture a lot of Pokemon in no time.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![GPS spoofing for Pokemon Go](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-3.jpg)
 
 ### Social apps like Instagram/Snapchat/Facebook
@@ -523,6 +544,9 @@ The Fake GPS Android feature on social apps like Instagram/Facebook /Snapchat et
 
 Edit the images and post it accordingly on Instagram/Snapchat etc to divert your friend’s perception on your vacation plan. Create the images as if you are having fun on exciting islands across the globe using the mock location hash tags.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Instagram/Snapchat/Facebook location spoofing](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-4.jpg)
 
 ### Dating apps like Tinder
@@ -573,7 +597,7 @@ The VPN provider will assist you by serving a new IP address to mask your locati
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -666,3 +690,44 @@ This article has given you a basic knowledge related to the spoofing techniques 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/streamlined-playback-import-tunes-into-inshot-for-2024/"><u>Streamlined Playback  Import Tunes Into InShot for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oneplus-12-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oneplus-nord-3-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-the-power-of-music-in-videos-plusfilmora-editing-tricks-for-2024/"><u>New The Power of Music in Videos (+Filmora Editing Tricks) for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oneplus-ace-2-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oneplus-nord-n30-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-zero-price-audio-excellence-ranking-of-top-10-desktop-tools-for-2024/"><u>[Updated] Zero-Price Audio Excellence  Ranking of Top 10 Desktop Tools for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-nubia-red-magic-9-proplus-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-camstudio-screen-recorder-complete-review/"><u>In 2024, CamStudio Screen Recorder Complete Review</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-udemy-alternatives-10-best-online-learning-sites-like-udemy/"><u>In 2024, Udemy Alternatives  10 Best Online Learning Sites Like Udemy</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-find-n3-bootloader-easily-by-drfone-android/"><u>How to Unlock Oppo Find N3 Bootloader Easily</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quick-tips-essential-techniques-for-adjusting-photo-colors/"><u>In 2024, Quick Tips  Essential Techniques for Adjusting Photo Colors</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oneplus-12r-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-nubia-z50-ultra-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/heroic-duel-noir-knights-vs-aurora-guardians/"><u>Heroic Duel  Noir Knights Vs Aurora Guardians</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tailored-titling-for-stellar-online-video-content/"><u>In 2024, Tailored Titling for Stellar Online Video Content</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-engaging-with-audio-attenuation-procedures-in-audacity/"><u>2024 Approved  Engaging with Audio Attenuation Procedures in Audacity</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-nubia-red-magic-9-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-nubia-z50s-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oneplus-11r-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-unlock-your-potential-one-thousand-new-likesmonth/"><u>2024 Approved  Unlock Your Potential  One Thousand New Likes/Month</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-professional-level-youtube-editing-techniques-you-need-to-know/"><u>2024 Approved  Professional-Level Youtube Editing Techniques You Need To Know</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-cut-avi-files-like-a-pro-best-video-editors-for-all-platforms/"><u>Updated Cut AVI Files Like a Pro Best Video Editors for All Platforms</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unlock-your-fb-potential-with-these-video-engagement-techniques-for-2024/"><u>[Updated] Unlock Your FB Potential with These Video Engagement Techniques for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oneplus-ace-2-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oneplus-nord-n30-se-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/orchestrating-peak-canon-temporal-scenes-for-2024/"><u>Orchestrating Peak Canon Temporal Scenes for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oneplus-11-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oneplus-open-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-essential-9-puzzle-and-adventure-titles-for-unplugged-android-gaming/"><u>[Updated] In 2024, Essential 9 Puzzle & Adventure Titles for Unplugged Android Gaming</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-split-between-panoramic-and-virtual-realities-for-2024/"><u>The Split Between Panoramic & Virtual Realities for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oneplus-ace-3-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-amplifying-visuals-expert-guide-to-snapchat-zoom/"><u>2024 Approved  Amplifying Visuals  Expert Guide to Snapchat Zoom</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oneplus-ace-2v-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your OnePlus Ace 2V | Dr.fone</u></a></li>
+</ul></div>

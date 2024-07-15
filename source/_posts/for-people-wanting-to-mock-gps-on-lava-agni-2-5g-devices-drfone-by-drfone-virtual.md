@@ -1,7 +1,7 @@
 ---
 title: For People Wanting to Mock GPS on Lava Agni 2 5G Devices | Dr.fone
-date: 2024-06-30T13:24:05.899Z
-updated: 2024-07-01T13:24:05.899Z
+date: 2024-07-14T03:12:44.462Z
+updated: 2024-07-15T03:12:44.462Z
 tags: 
   - virtual location chang
   - location changer
@@ -28,6 +28,9 @@ As the name suggests, mock location simply means changing the present location o
 
 The good thing about Android phones is that they let us change the present location of our device, which helps us unlock various location-based restrictions. For instance, you can use a mock GPS app to catch more Pokemons, unlock a restricted content on Netflix, or access more profiles on dating apps like Tinder.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Any Precaution or Preparation for Mocking GPS on Lava Agni 2 5G
 
 The mock GPS feature is not available in standard device settings. To access it, you first need to unlock Developer Options on your phone. This is because the mock GPS feature on Android is offered to developers to test the location of an app they are working on or any other need.
@@ -73,6 +76,9 @@ If you are trying to fake location for a particular app, then make sure the mock
 
 Last, but most importantly, check the feedback and the real-life experience of other users of the mock GPS app. If it has a lot of negative feedback, then you can skip the app and pick any other option.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![affected apps](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-3.jpg)
 
 ## Part 4: Step by Step Guide to Mock GPS on Lava Agni 2 5G
@@ -418,12 +424,18 @@ _**App Link:** <https://play.google.com/store/apps/details?id=com.lexa.fakegps&h
 
 ### 2\. Fake Location Using Floater
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use floater fake gps location](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-5.png)
 
 This is another effective fake GPS app that you can use to fake GPS. It works as a floating window above games and third-party apps. With Floater, you can change your location to a place globally. Additionally, you can save your favorite locations and test apps without locking onto a GPS signal. This feature is great for developers. Additionally, Floater can fake GPS location when you’re tagging pictures. It shows you any part of the world you want so you can pick where you want people to think you are.
 
 _**App Link:** <https://play.google.com/store/apps/details?id=com.marlon.floating.fake.location&hl=en>_
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Fake GPS Location with GPS Joystick
 
 ![use fake location with gps joystick](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-6.jpg)
@@ -472,6 +484,9 @@ Accessing the mock location feature on your Samsung or Moto device is relatively
 
 ![locate mock location on samsung](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. LG
 
 Another device you can access the mock location on again is the LG Smartphone device. On this device, you should also navigate to ‘Developer Options.’ Next, choose ‘allow mock location to continue.
@@ -531,3 +546,62 @@ There are varying purposes why you might want to fake your location. Luckily, se
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/tighten-up-your-timeline-youtube-video-trimming-techniques/"><u>Tighten Up Your Timeline  YouTube Video Trimming Techniques</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-motorola-razr-40-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nokia-130-music-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-motorola-moto-g14-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-motorola-moto-g-stylus-5g-2023-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Motorola Moto G Stylus 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nokia-c210-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nokia-c110-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-motorola-moto-g23-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-strategy-for-intertwining-gopro-footage-in-full-circle-cinematographic-works-for-2024/"><u>Expert Strategy for Intertwining GoPro Footage in Full-Circle Cinematographic Works for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nokia-g310-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/contemplating-if-video-selfies-need-validation-on-instagram-for-2024/"><u>Contemplating if Video Selfies Need Validation On Instagram for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oppo-a79-5g-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Oppo A79 5G support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-oneplus-11r-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-transform-your-footage-how-to-add-stunning-effects-in-fcp-x-3-steps/"><u>Updated 2024 Approved Transform Your Footage How to Add Stunning Effects in FCP X (3 Steps)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-exclusive-software-gamers-streaming-companions-for-2024/"><u>[Updated] Exclusive Software  Gamers' Streaming Companions for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-oneplus-12-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-sony-xperia-1-v-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-motorola-moto-g34-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nokia-105-classic-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-experience-the-magic-of-free-voice-change-for-valorant-gaming/"><u>2024 Approved  Experience the Magic of Free Voice Change for Valorant Gaming</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nokia-c22-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-convenient-techniques-for-customizing-your-own-short-videos/"><u>In 2024, Convenient Techniques for Customizing Your Own Short Videos</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nubia-z50-ultra-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nokia-xr21-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-motorola-moto-g04-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nokia-c02-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-motorola-moto-g84-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-essential-recorder-applications-for-educators/"><u>[Updated] In 2024, Essential Recorder Applications for Educators</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-se-2022-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix Apple iPhone SE (2022) Unavailable Issue With Ease</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-mini-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 mini Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-motorola-moto-g73-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-edible-imagery-stepwise-food-film-making/"><u>[New] 2024 Approved  Edible Imagery  Stepwise Food Film Making</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-motorola-razr-40-ultra-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nubia-red-magic-9-pro-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nokia-g22-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nubia-red-magic-9-proplus-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-ps5-gameplay-for-ultimate-enjoyment/"><u>Transforming PS5 Gameplay for Ultimate Enjoyment</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nokia-c12-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nokia-150-2023-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nubia-red-magic-8s-pro-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-complete-blueprint-for-implementing-and-analyzing-fb-in-stream-ads-for-2024/"><u>[New] The Complete Blueprint for Implementing & Analyzing FB In-Stream Ads for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nokia-g42-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nokia-c300-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-motorola-moto-g13-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-motorola-moto-g24-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nokia-c12-plus-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-htc-u23-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your HTC U23 Pro Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nokia-c12-pro-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nubia-z50s-pro-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-crafting-perfect-lines-in-digital-imagery/"><u>[Updated] In 2024, Crafting Perfect Lines in Digital Imagery</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nokia-c32-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-motorola-moto-e13-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-oneplus-11-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your OnePlus 11 5G | Dr.fone</u></a></li>
+</ul></div>

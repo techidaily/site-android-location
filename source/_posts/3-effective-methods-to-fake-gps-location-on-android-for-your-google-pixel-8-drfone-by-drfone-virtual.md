@@ -1,7 +1,7 @@
 ---
 title: 3 Effective Methods to Fake GPS location on Android For your Google Pixel 8 | Dr.fone
-date: 2024-05-19T03:49:40.243Z
-updated: 2024-05-20T03:49:40.243Z
+date: 2024-07-14T02:44:12.592Z
+updated: 2024-07-15T02:44:12.592Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes 3 Effective Methods to Fake GPS location on Android For your Google Pixel 8
 excerpt: This article describes 3 Effective Methods to Fake GPS location on Android For your Google Pixel 8
 keywords: fake gps location on android,change gps location on android,change location on Pixel 8,change location on android,fake location on android,fake location on Pixel 8
-thumbnail: https://www.lifewire.com/thmb/iVAserBnC6bUM-CQ2W6IX-_Wms0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-watch-taylor-swift-movies-in-order-a8e26851d3d94bf183a144766801c16c.jpg
+thumbnail: https://thmb.techidaily.com/e05f2d33f2fefb8dc7c06028c76750542668dde0166f66e5a57d5c818d2809aa.jpg
 ---
 
 ## 3 Effective Methods to Fake GPS location on Android For your Google Pixel 8
@@ -78,6 +78,9 @@ As mentioned, Dr. Fone Virtual Location program can do more than just mock your 
 
 That said, scroll down to discover other two methods to fake GPS location on Android devices, such as Samsung, [Xiaomi](https://drfone.wondershare.com/fake-location/how-to-fake-gps-location-on-xiaomi.html), etc.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solution 2: Change location on Android phone by VPNs
 
 Although all the VPNs claim to fake GPS on Android, only a few in the market can do it effectively.
@@ -144,6 +147,9 @@ By combining a VPN and fake GPS app on Android, you will be able to access the s
 
 Read on to find out about fake GPS apps and use them independently or alongside the best VPNs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solution 3: Get a Fake/mock GPS location Apps
 
 You can also use a dedicated fake GPS app on Android to change your GPS location. And while some tools require you to root the Android device, the ones suggested here do not necessitate any provisions; at most, you will have to tinker with developer options on Android (refer to the FAQ section for more on this).
@@ -168,13 +174,16 @@ Free to use, Fake GPS location by Lexa allows you to change your location to any
 
 Fake GPS Go Location Spoofer is a premium tool, but most of its functions are free to use. Therefore, you do not have to upgrade unless you want to play games on Android devices. Moreover, it works without root on Android 6.0 and above variants. However, you will have to root the Android device on earlier versions.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ### 3\. Fake GPS Location Professional
 
 **Android app**: [Fake GPS Location Professional](https://play.google.com/store/apps/details?id=com.just4funtools.fakegpslocationprofessional)
 
 **Price**: Free
 
-![ fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
+![fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
 
 Fake GPS Location Professional is another free tool to deceive your GPS on Android devices. However, whenever you want to use it, you will have to go through Settings and mock your location manually every time.
 
@@ -188,7 +197,7 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 **Step 1. Install** the [**Fake GPS location by Lexa app**](https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en) from the Google Play store.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
 
 **Step 2**. Go to the **Developer option** on an Android device (**refer to the FAQ section** to learn how to enable Developer options on an Android device).
 
@@ -196,18 +205,18 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 - **Click on the Select mock location app option** to view all the Fake GPS locations installed on your Google Pixel 8.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
 
 - Add **Fake GPS Location by Lexa.**
 
-![ mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
+![mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
 
 **Step 4.** Close the Settings after adding the Fake GPS location by Lexa in Developer options.
 
 - **Open the Fake GPS Location by Lexa app.**
 - And **choose the desired fake location**.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
 
 ### 1\. How To Enable Developer Options In Android?
 
@@ -218,19 +227,19 @@ Here’s how to enable the developer option:
 - Open
 - **Go to System.**
 
-![ fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
+![fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
 
 - Navigate to **About Phone** and open it.
 
-![ fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
+![fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
 
 - Choose the **Software info**
 
-![ fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
+![fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
 
 - And click on **Build Number 7 times to see** the developer options screen.
 
-![ fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
+![fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
 
 You can now access the Developer options directly in the Settings menu. Now, use the earlier method to set the location-spoofing app in the Developer options.
 
@@ -240,10 +249,16 @@ No. Most Fake GPS location apps aren’t detectable. However, if you are still u
 
 Dr. Fone’s Virtual Location is the best tool to prevent online services from detecting your actual location.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Can you Fake your location on Grindr?
 
 Yes. Dr. Fone's Virtual Location program is the best tool to fake your location on Grindr. It allows you to unlock several profiles at any desired location and discover more people.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Is it legal to fake GPS location on Android?
 
 Yes, as long as you are not using them to engage in criminal activities.
@@ -360,7 +375,7 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both Android and iOS!
 
@@ -454,7 +469,7 @@ _**Tips:** Discover the most effective way to fake GPS on Android without using 
 
 
 
-_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html)_
+_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html) _
 
 ## Part 4: Mock Location Feature on Different Android Models
 
@@ -504,7 +519,7 @@ If you think the way above is complicated for you, you can just use the easiest 
 
 There are varying purposes why you might want to fake your location. Luckily, several apps are available to **fake GPS on Android without mock location**. The best option for you would be the [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With this fake location app, you can access any third-party app and be in a whole different country from the comfort of your home. However, this article also provides you with other options you can explore.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 
 <ins class="adsbygoogle"
@@ -523,3 +538,38 @@ There are varying purposes why you might want to fake your location. Luckily, se
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-htc-u23-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your HTC U23 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-samsung-galaxy-f14-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Samsung Galaxy F14 5G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-seamless-video-editing-experiences-our-top-choices-for-2024/"><u>New Seamless Video Editing Experiences Our Top Choices for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-note-30-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Note 30 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-free-voice-overhaul-techniques-for-discord-users-top-picks-2023-for-2024/"><u>[Updated] Free Voice-Overhaul Techniques for Discord Users - Top Picks 2023 for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-gt-10-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix GT 10 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-huawei-p60-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Huawei P60 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-x9a-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor X9a Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-htc-u23-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your HTC U23 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-keep-it-hot-ideas-for-uninterrupted-snapchat-connections/"><u>[New] Keep It Hot - Ideas for Uninterrupted Snapchat Connections</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-x8b-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor X8b Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-hot-40-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Hot 40 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-hot-30-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Hot 30 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-hot-40-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Hot 40 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-streamline-your-online-learning-downloading-youtube-srt-subtitles-using-3-simple-methods/"><u>[Updated] Streamline Your Online Learning  Downloading YouTube SRT Subtitles Using 3 Simple Methods</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-essential-guide-free-and-trusted-vlc-downloads-for-mac-os-x/"><u>2024 Approved  The Essential Guide  Free & Trusted VLC Downloads for Mac OS X</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-infinix-hot-40-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Infinix Hot 40 Activity | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-step-by-step-guide-on-using-gaming-youtube-banner-templates/"><u>[New] 2024 Approved  Step-By-Step Guide on Using Gaming YouTube Banner Templates</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-top-quality-fb-picture-and-film-maker-gratis/"><u>[Updated] Top-Quality FB Picture & Film Maker (Gratis!)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-launch-strategies-for-fb-generosity-campaigns/"><u>[Updated] Launch Strategies for FB Generosity Campaigns</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-huawei-nova-y91-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Huawei Nova Y91 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-hot-40i-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Hot 40i Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-huawei-nova-y71-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Huawei Nova Y71 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-x9b-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor X9b Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-hot-30i-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Hot 30i Location Settings | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Infinix Hot 40i? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-note-30-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Note 30 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-note-30-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Note 30 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-note-30-vip-racing-edition-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Note 30 VIP Racing Edition Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-note-30-vip-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Note 30 VIP Location Settings | Dr.fone</u></a></li>
+</ul></div>

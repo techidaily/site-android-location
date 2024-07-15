@@ -1,7 +1,7 @@
 ---
 title: In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy A05s | Dr.fone
-date: 2024-05-19T03:49:53.448Z
-updated: 2024-05-20T03:49:53.448Z
+date: 2024-07-14T04:22:36.393Z
+updated: 2024-07-15T04:22:36.393Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy A05s
 excerpt: This article describes Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy A05s
 keywords: change gps location on android,fake location on Galaxy A05s,change location on android,fake gps location on android,fake location on android,change location on Galaxy A05s
-thumbnail: https://www.lifewire.com/thmb/iQjRSYdl3d8RlM-9oprGSEgt6gU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-667603173-fac0b8f4b1d9453c866d332dc73821f8.jpg
+thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fbb42dbd4e99eb8971ba63ab6.jpg
 ---
 
 ## Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy A05s
@@ -57,6 +57,9 @@ If you still get the Pokemon Go GPS not found 11 error, then consider deleting t
 
 Since this is a location-based error, you can also consider resetting the location services on your phone. For this, just go to the Location Services (GPS) settings and toggle it off (and on). You can also go to the notification center and tap on the GPS icon to turn the service off and on again.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android location option](https://images.wondershare.com/drfone/2020/android-location-option.jpg)
 
 ### Fix 4: Turn off the Mock Location feature
@@ -197,7 +200,7 @@ The VPN provider will assist you by serving a new IP address to mask your locati
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -223,6 +226,9 @@ Step 2: In the next window choose ‘Software Information’
 
 Step 3: Tap on ‘Built Number’ in the preceding screen. This step allows you to access the ‘Developer option’ in the Samsung Galaxy A05s device
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Developer option](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-11.jpg)
 
 Activate the Mock Location option in Android
@@ -233,6 +239,9 @@ Step 1: Go to the ‘Settings’ option in your Samsung Galaxy A05s and choose �
 
 Step 2: In the next screen enable the ‘Mock Location’ option to spoof the location details
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![spoof the location details](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-13.jpg)
 
 You have to install the Fake GPS App, which is available in the Google Play Store. In this article, Lexa Fake GPS app employed to explain the steps in detail.
@@ -344,7 +353,10 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Samsung  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Samsung ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Developer Options on your Samsung](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Samsung Galaxy A05s device.
 
@@ -358,6 +370,9 @@ Now, go to the Play Store app on your phone and look for a mock GPS app. I have 
 
 After successfully installing the mock GPS apk on your Samsung , go back to its Settings > Developer Options > Mock Location app and select the fake GPS location app that you have recently downloaded. This will allow the mock GPS app to change the location of your device.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change the location](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-7.jpg)
 
 Step 3: Fake location on your Samsung 
@@ -372,7 +387,7 @@ There you go! After reading this guide, you would be able to mock GPS on your Sa
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -401,3 +416,71 @@ There you go! After reading this guide, you would be able to mock GPS on your Sa
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Oppo K11 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-gopro-video-faceoff-expert-review-of-max-360-and-hero-11-capabilities/"><u>2024 Approved  GoPro Video Faceoff  Expert Review of Max 360 & Hero 11 Capabilities</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-f15-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy F15 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-c67-4g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme C67 4G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-narzo-n55-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme Narzo N55 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-a34-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy A34 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-c67-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme C67 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-capture-save-and-share-mastering-playstation-4-recordings/"><u>[Updated] In 2024, Capture, Save & Share  Mastering PlayStation 4 Recordings</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-v30t-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme V30T Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-narzo-60-pro-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme Narzo 60 Pro 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-12-proplus-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme 12 Pro+ 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-a14-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy A14 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-f14-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy F14 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-a05-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy A05 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/explaining-unpredictable-playback-in-instagram-videos/"><u>Explaining Unpredictable Playback in Instagram Videos</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-note-50-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme Note 50 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/step-by-step-guide-youtube-downloads-for-ios-devices/"><u>Step-by-Step Guide  YouTube Downloads for iOS Devices</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-gt-3-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme GT 3 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-a15-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy A15 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-a25-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy A25 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-c53-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme C53 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-f04-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy F04 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-best-of-the-best-top-mts-video-editing-software-2023-for-2024/"><u>New The Best of the Best Top MTS Video Editing Software 2023 for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-effortless-gopro-video-editing-a-beginners-guide/"><u>New 2024 Approved Effortless GoPro Video Editing A Beginners Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-gt-5-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme GT 5 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-a24-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy A24 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-invisible-edits-ensuring-confidentiality-in-media/"><u>[New] Invisible Edits  Ensuring Confidentiality in Media</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-12-pro-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme 12 Pro 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-7-energizing-youtube-exercise-challenges-for-viewers-participation/"><u>In 2024, 7 Energizing YouTube Exercise Challenges for Viewers' Participation</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-narzo-n53-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme Narzo N53 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-audacitys-guide-to-pristine-sound-by-removing-ambient-noise/"><u>2024 Approved  Audacity's Guide to Pristine Sound by Removing Ambient Noise</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/understanding-the-essence-of-luts-for-professional-photography/"><u>Understanding the Essence of LUTs for Professional Photography</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-gt-neo-5-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme GT Neo 5 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-gt-5-pro-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme GT 5 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-c55-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme C55 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-gt-neo-5-se-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme GT Neo 5 SE Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-12plus-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme 12+ 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-narzo-60x-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme Narzo 60x 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-poco-x5-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Poco X5 Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Vivo Y78 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-achieving-a-noiseless-presence-on-social-video-platforms/"><u>2024 Approved  Achieving a Noiseless Presence on Social Video Platforms</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-seamless-integration-with-picture-in-picture-mode/"><u>2024 Approved  Seamless Integration with Picture-In-Picture Mode</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-expert-tips-on-controlling-timeline-pace-in-videos-for-2024/"><u>[New] Expert Tips on Controlling Timeline Pace in Videos for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/alt-autoplay-youtube-recommendations/"><u>[New] Halt Autoplay YouTube Recommendations</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-v30-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme V30 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-a15-4g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy A15 4G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-a54-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy A54 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-c33-2023-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme C33 2023 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-achieving-visual-harmony-in-your-fb-videos-with-proper-ratio-adjustments/"><u>[Updated] Achieving Visual Harmony in Your FB Videos with Proper Ratio Adjustments</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/by-step-process-embedding-internet-video-in-ppt-decks-for-2024/"><u>Step-By-Step Process  Embedding Internet Video in PPT Decks for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-audio-immersion-in-imovie-techniques-for-beginners-to-master-for-2024/"><u>Updated Audio Immersion in iMovie Techniques for Beginners to Master for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-through-the-maze-creating-seamless-video-experienences-in-pixiz/"><u>2024 Approved  Navigating Through the Maze  Creating Seamless Video Experienences in Pixiz</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-a14-4g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy A14 4G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unboxing-titans-of-youtube-the-most-popular-for-2024/"><u>Unboxing Titans of YouTube - The Most Popular for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-12-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme 12 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-gt-5-240w-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme GT 5 (240W) Location Settings | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-podcast-xml-creating-rss-feeds-from-scratch/"><u>[Updated] Mastering Podcast XML  Creating RSS Feeds From Scratch</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-narzo-60-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme Narzo 60 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-a23-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy A23 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-professional-strategies-for-inshot-edits/"><u>2024 Approved  Professional Strategies for Inshot Edits</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/simplified-terms-for-users-today/"><u>Simplified Terms for Users Today</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-c51-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme C51 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-a05s-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy A05s Location Settings | Dr.fone</u></a></li>
+</ul></div>

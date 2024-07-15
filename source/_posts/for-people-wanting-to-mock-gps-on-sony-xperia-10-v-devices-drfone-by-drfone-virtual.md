@@ -1,7 +1,7 @@
 ---
 title: For People Wanting to Mock GPS on Sony Xperia 10 V Devices | Dr.fone
-date: 2024-05-19T03:49:44.632Z
-updated: 2024-05-20T03:49:44.632Z
+date: 2024-07-14T03:16:05.892Z
+updated: 2024-07-15T03:16:05.892Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes For People Wanting to Mock GPS on Sony Xperia 10 V Devices
 excerpt: This article describes For People Wanting to Mock GPS on Sony Xperia 10 V Devices
 keywords: fake location on android,fake location on Xperia 10 V,change gps location on android,change location on android,fake gps location on android,change location on Xperia 10 V
-thumbnail: https://www.lifewire.com/thmb/71reoJ08pe9fxU7SLDHBCk0MgVg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-remote-access-on-your-samsung-smart-tv-4688935-01-29c7de5dc77e4747a8070d12f0c3d84c.jpg
+thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641c77398dacbaad68cbaf2be6.jpg
 ---
 
 ## For People Wanting to Mock GPS on Sony Xperia 10 V Devices
@@ -83,16 +83,22 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Sony  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Sony ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Sony](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Sony Xperia 10 V device.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mock location field](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-5.jpg)
 
 Step 2: Install and Allow a Mock GPS App
 
 Now, go to the Play Store app on your phone and look for a mock GPS app. I have tried and tested the Fake GPS Location app by Lexa. If you want, you can install the same freely available mock GPS app or try any other app as well.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mock GPS app](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-6.jpg)
 
 After successfully installing the mock GPS apk on your Sony , go back to its Settings > Developer Options > Mock Location app and select the fake GPS location app that you have recently downloaded. This will allow the mock GPS app to change the location of your device.
@@ -111,7 +117,7 @@ There you go! After reading this guide, you would be able to mock GPS on your So
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -176,6 +182,9 @@ Android users get the feature to set mock location on their phones, but it can a
 
 ![disable mock location android](https://images.wondershare.com/drfone/2020/disable-mock-location-android.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Restart your Smartphone
 
 At times, all it takes to fix an issue like Pokemon Go GPS not found 11 error is a simple restart of your phone. You can just long press the Power button on the side and choose to restart your phone from the power options.
@@ -184,6 +193,9 @@ At times, all it takes to fix an issue like Pokemon Go GPS not found 11 error is
 
 Now, just wait for a while as your phone would restart and launch Pokemon Go afterward to check if you still get the GPS not found 11 error.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 6: Toggle On and Off the Airplane Mode
 
 If there is a network-related problem causing the GPS not found 11 error, then you can just reset the Airplane mode. At first, just go to the Control Center or the Settings of your device to enable the Airplane mode.
@@ -222,7 +234,7 @@ Have you ever wondered why Android monitor tools exist? Well, with the recent bo
 
 Also, to track the real location of kids/spouses/employees, phone monitoring Apps for Android come in handy. Android monitoring Apps help you spy on others’ smartphones, hack their photos, messages, call logs, Social App data, location, and browsing patterns. To know more, read and find out about the 9 best and free Android monitoring Apps.
 
-_You may be interested in: [Top 21 Mobile Device Spy Apps for iPhone/iPad/Android in 2022](https://drfone.wondershare.com/spy/best-mobile-spy-apps.html)_
+_You may be interested in: [Top 21 Mobile Device Spy Apps for iPhone/iPad/Android in 2022](https://drfone.wondershare.com/spy/best-mobile-spy-apps.html) _
 
 ## Part 1: mSpy
 
@@ -434,6 +446,9 @@ Automatic Call Recorder Android monitor can record the call of any type and henc
 
 To know more, visit <https://play.google.com/store/apps/details?id=com.appstar.callrecorder&hl=en>
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Free Android Monitoring App-Automatic Call Recorder](https://images.wondershare.com/drfone/article/2017/10/15081789819287.jpeg)
 
 **Features:**
@@ -503,3 +518,49 @@ We hope you find this guide useful. The tools listed above are the best phone mo
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-note-30-vip-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-smart-8-plus-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-huawei-nova-y91-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-note-30i-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-how-to-safeguard-your-videos-in-the-age-of-youtube/"><u>[Updated] In 2024, How to Safeguard Your Videos in the Age of YouTube</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cinematic-continuity-a-kinemaster-led-guide-for-2024/"><u>Cinematic Continuity  A Kinemaster-Led Guide for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-zoom-in-and-zoom-out-video-on-iphone-easily/"><u>[New] How to Zoom in and Zoom Out Video on iPhone Easily</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-oppo-reno-11-pro-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Oppo Reno 11 Pro 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-top-5-screen-selections-for-ps5-enthusiasts/"><u>In 2024, Top 5 Screen Selections for PS5 Enthusiasts</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/10-viral-tiktok-food-recipes/"><u>10 Viral Tiktok Food Recipes</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-huawei-p60-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-hot-40-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-htc-u23-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-is-higher-frame-rate-better-weighing-30-vs-60fps-in-video-for-2024/"><u>[New] Is Higher Frame Rate Better? Weighing 30 Vs. 60Fps in Video for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-hot-40-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-monetary-aspects-of-shopping-reviews-vlogs/"><u>[New] Monetary Aspects of Shopping Reviews Vlogs?</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/accessing-live-spaces-on-tiktok-your-pathway/"><u>Accessing Live Spaces on TikTok  Your Pathway</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-hot-30i-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-quick-ways-to-transfer-contacts-from-apple-iphone-se-2020-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Quick Ways to Transfer Contacts from Apple iPhone SE (2020) to iPhone With/Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-issues-with-tiktok-videos-finding-the-fixes/"><u>In 2024, Issues with TikTok Videos? Finding the Fixes</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-note-30-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-smart-7-hd-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Motorola Moto G14? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-professional-streaming-top-6-webcams-for-zoom-users/"><u>In 2024, Professional Streaming  Top 6 Webcams for Zoom Users</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-maximizing-revenue-with-youtubes-2024-partner-program/"><u>[New] Maximizing Revenue with YouTube's 2024 Partner Program</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-smart-7-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-hot-40i-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-smart-8-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-note-30-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-unleashing-the-power-of-fbx-for-in-game-capture/"><u>[New] In 2024, Unleashing the Power of FBX for In-Game Capture</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-note-30-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-essential-recommendations-for-maximum-data-keep/"><u>[Updated] In 2024, Essential Recommendations for Maximum Data Keep</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-htc-u23-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-screen-grab-king-macos-recorder-free-for-2024/"><u>[New] Screen Grab King  MacOS Recorder, Free for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-huawei-nova-y71-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-smart-8-hd-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-hot-30-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-gt-10-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/a-practical-approach-to-using-screencastify-for-video-capture/"><u>A Practical Approach to Using Screencastify for Video Capture</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-terminate-discord-access-dual-devices/"><u>[New] Terminate Discord Access - Dual Devices</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-art-of-tweaking-soundtracks-in-youtube-videos/"><u>2024 Approved  The Art of Tweaking Soundtracks in YouTube Videos</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Spark 10C | Dr.fone
-date: 2024-05-19T03:49:45.434Z
-updated: 2024-05-20T03:49:45.434Z
+date: 2024-07-14T03:23:08.584Z
+updated: 2024-07-15T03:23:08.584Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Spark 10C
 excerpt: This article describes Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Spark 10C
 keywords: change location on android,change gps location on android,fake location on android,change location on Spark 10C,fake location on Spark 10C,fake gps location on android
-thumbnail: https://www.lifewire.com/thmb/medNi2-ezQAi4chkGlIzs91_k0o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Watch-Ultra-2-23e8ec3e4ee04c6e98c9d654a35f59ec.jpg
+thumbnail: https://thmb.techidaily.com/ced37c54f6280b48c4cccd59bb3d4e6e75cf48a369ed52226c792a6ec4885ea2.jpg
 ---
 
 ## Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Spark 10C
@@ -59,6 +59,9 @@ Since this is a location-based error, you can also consider resetting the locati
 
 ![android location option](https://images.wondershare.com/drfone/2020/android-location-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Turn off the Mock Location feature
 
 Android users get the feature to set mock location on their phones, but it can also be a reason for getting the GPS not found 11 error. Therefore, if you are also getting the GPS signal not found 11 issue on your Android, then go to its Settings > Developer Options. From here, make sure that you have disabled any mock location app or settings on your phone.
@@ -99,6 +102,9 @@ If you use an iOS device and are getting the Pokemon Go GPS signal not found 11 
 - You can also use the application to simulate the movement of your phone between different spots at a preferred speed. A GPS joystick would also be included to customize your movement.
 - The tool can spoof your iPhone location without any jailbreak access or harm your device.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![virtual location 5](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen=""></iframe>
@@ -111,7 +117,7 @@ Have you ever wondered why Android monitor tools exist? Well, with the recent bo
 
 Also, to track the real location of kids/spouses/employees, phone monitoring Apps for Android come in handy. Android monitoring Apps help you spy on others’ smartphones, hack their photos, messages, call logs, Social App data, location, and browsing patterns. To know more, read and find out about the 9 best and free Android monitoring Apps.
 
-_You may be interested in: [Top 21 Mobile Device Spy Apps for iPhone/iPad/Android in 2022](https://drfone.wondershare.com/spy/best-mobile-spy-apps.html)_
+_You may be interested in: [Top 21 Mobile Device Spy Apps for iPhone/iPad/Android in 2022](https://drfone.wondershare.com/spy/best-mobile-spy-apps.html) _
 
 ## Part 1: mSpy
 
@@ -408,10 +414,16 @@ The simplest way to fix the Pokemon Go GPS not found 11 issue is by restarting t
 
 ![close pokemon go app](https://images.wondershare.com/drfone/2020/close-pokemon-go-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Update or Reinstall the Pokemon Go app
 
 If you are using a corrupt or outdated Pokemon Go app, then you can get the GPS not found 11 error as well. Firstly, you can just go to the App/Play Store, look for Pokemon Go, and update the app.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pokemon go update](https://images.wondershare.com/drfone/2020/pokemon-go-update.jpg)
 
 If you still get the Pokemon Go GPS not found 11 error, then consider deleting the app first. Afterward, go to the App/Play Store again and install the app on your device.
@@ -420,6 +432,9 @@ If you still get the Pokemon Go GPS not found 11 error, then consider deleting t
 
 Since this is a location-based error, you can also consider resetting the location services on your phone. For this, just go to the Location Services (GPS) settings and toggle it off (and on). You can also go to the notification center and tap on the GPS icon to turn the service off and on again.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android location option](https://images.wondershare.com/drfone/2020/android-location-option.jpg)
 
 ### Fix 4: Turn off the Mock Location feature
@@ -485,3 +500,61 @@ I’m sure that after reading this troubleshooting post, you would be able to fi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oneplus-ace-2-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/laugh-out-loud-and-weepy-instagrams-best-meme-communities/"><u>Laugh Out Loud & Weepy  Instagram's Best Meme Communities</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-reduce-audio-noise-in-video-recording-free-and-paid-for-2024/"><u>[Updated] Reduce Audio Noise in Video Recording [Free and Paid] for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oppo-a18-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-tailoring-meet-backdrop-for-enhanced-presentations/"><u>2024 Approved  Tailoring Meet Backdrop for Enhanced Presentations</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oneplus-ace-2-pro-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-10-catchy-pixel-art-wallpapers-and-how-to-custom-your-own-for-2024/"><u>New 10 Catchy Pixel Art Wallpapers and How to Custom Your Own for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oppo-find-n3-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-10-top-free-gif-background-remover-for-pc-and-online/"><u>Updated 2024 Approved 10 Top Free GIF Background Remover for PC and Online</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-mens-guide-to-leading-female-voices-with-technology/"><u>Updated In 2024, Mens Guide to Leading Female Voices with Technology</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oneplus-nord-3-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-gt-neo-5-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Realme GT Neo 5 Phone with Broken Screen</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oppo-a2-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oppo-a56s-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-mastering-the-airwaves-an-in-depth-look-at-the-leading-free-and-paid-podcast-to-text-conversion-applications/"><u>New Mastering the Airwaves An In-Depth Look at the Leading Free & Paid Podcast to Text Conversion Applications</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-poco-c51-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Poco C51 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oppo-a1-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oppo-a79-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oppo-a59-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-ace-your-screens-the-premium-guide-to-androids-top-8-capture-apps/"><u>[New] 2024 Approved  Ace Your Screens  The Premium Guide to Android’s Top 8 Capture Apps</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-say-goodbye-to-wmm-discover-13-better-video-editors/"><u>Updated 2024 Approved Say Goodbye to WMM Discover 13 Better Video Editors</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oneplus-nord-n30-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oppo-find-x6-pro-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-transform-your-footage-with-the-ideal-dimension-proportion/"><u>[Updated] In 2024, Transform Your Footage with the Ideal Dimension Proportion</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oneplus-nord-n30-se-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oppo-a38-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oppo-a58-4g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-poco-c55-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Poco C55</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-reign-supreme-on-facebook-mastering-keyword-seo-techniques/"><u>[Updated] 2024 Approved  Reign Supreme on Facebook  Mastering Keyword SEO Techniques</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oppo-a78-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-top-free-animation-tools-for-windows-and-mac-users-for-2024/"><u>Updated Top Free Animation Tools for Windows and Mac Users for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oppo-find-n3-flip-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-anymp4-screen-recorder-download-and-review/"><u>In 2024, AnyMP4 Screen Recorder Download and Review</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oppo-find-x6-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oppo-a1x-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-prime-selection-of-simple-effective-gamers-edit-tools/"><u>[Updated] Prime Selection of Simple, Effective Gamers' Edit Tools</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oppo-f25-pro-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-breaking-through-the-2023-fb-lockdown/"><u>In 2024, Breaking Through The 2023 FB Lockdown</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oppo-f23-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oppo-a78-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-from-iphone-xr-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock from iPhone XR</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oneplus-ace-2v-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-free-quicktime-video-editing-software-top-10-choices/"><u>New 2024 Approved Free QuickTime Video Editing Software Top 10 Choices</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/the-newest-tiktok-sensations-for-your-earseyes/"><u>The Newest TikTok Sensations for Your Ears/Eyes</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-do-you-want-to-know-about-the-davinci-resolve-adjustment-layer-read-this-article-to-learn-how-to-use-an-adjustment-layer-clip-in-davinci-resolve-to-/"><u>Updated Do You Want to Know About the DaVinci Resolve Adjustment Layer? Read This Article to Learn How to Use an Adjustment Layer (Clip) in DaVinci Resolve to Edit Videos</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-earnings-expansion-on-glamour-channels-for-2024/"><u>[Updated] Earnings Expansion on Glamour Channels for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-top-rated-aspect-ratio-changer-apps/"><u>Updated 2024 Approved Top-Rated Aspect Ratio Changer Apps</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-cultivate-a-thriving-igtv-community-5-key-increase-strategies/"><u>2024 Approved  Cultivate a Thriving IGTV Community  5 Key Increase Strategies</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oneplus-open-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oneplus-ace-3-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your OnePlus Ace 3 | Dr.fone</u></a></li>
+</ul></div>

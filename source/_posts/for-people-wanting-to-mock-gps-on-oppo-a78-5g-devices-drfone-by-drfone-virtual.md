@@ -1,7 +1,7 @@
 ---
 title: For People Wanting to Mock GPS on Oppo A78 5G Devices | Dr.fone
-date: 2024-05-19T03:49:44.387Z
-updated: 2024-05-20T03:49:44.387Z
+date: 2024-07-14T03:14:13.618Z
+updated: 2024-07-15T03:14:13.618Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes For People Wanting to Mock GPS on Oppo A78 5G Devices
 excerpt: This article describes For People Wanting to Mock GPS on Oppo A78 5G Devices
 keywords: fake gps location on android,change location on android,change location on A78 5G,fake location on A78 5G,fake location on android,change gps location on android
-thumbnail: https://www.lifewire.com/thmb/XF8XZEIjsJng0yh72ZnUp_8O804=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/young-muslim-woman-using-phone-1137305438-75947aa7fb484506bf9da8c38fc68a03.jpg
+thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913b07ba9cca730be764e6c410.jpg
 ---
 
 ## For People Wanting to Mock GPS on Oppo A78 5G Devices
@@ -41,6 +41,9 @@ The mock GPS feature is not available in standard device settings. To access it,
 
 ![mock GPS feature](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Find the Best Tool to Mock GPS on Oppo A78 5G?
 
 If you look up on the Google Play Store, you will find a wide range of mock GPS apps readily available. Though, if you wish to mock GPS like a pro, then consider these things in mind while picking an app.
@@ -83,7 +86,7 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Oppo  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Oppo ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Oppo](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Oppo A78 5G device.
 
@@ -103,6 +106,9 @@ Step 3: Fake location on your Oppo
 
 That’s it! Once you have granted the needed permission to the mock GPS app, you can easily use it to change the location of your device. Just launch the app to get a map-like interface. You can zoom in and out the map or just look for any location on the search bar. In the end, drop the pin on any location and tap on the start button to fake your location.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![confirm to fake your location](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-8.jpg)
 
 Later, you can go back to the app and stop the fake location to switch back to your original location whenever you want.
@@ -111,7 +117,7 @@ There you go! After reading this guide, you would be able to mock GPS on your Op
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -191,10 +197,16 @@ You can use Wi-Fi to connect the software to your iPhone once you've linked it t
 
 **Step 3:** Activate the "teleport mode" by swiping up and down and then clicking on the 2nd icon (the top right). Click "Go" to teleport to your location of choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose destination](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 **Step 4:** The system now knows where you want to go. In the popup box, select "Move Here."
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 **Step 5**: Rome has been selected as your new home base. Whether you use the "Center On" symbol or your Phone's GPS to find your current location, you will always be in Rome, Italy. Your location-based app's location is, of course, in the same area as well. So that's where it's going to be shown.
@@ -232,6 +244,9 @@ The mock GPS feature is not available in standard device settings. To access it,
 - A mock GPS app would consume more battery and memory on your device as well.
 - Some apps would even become unavailable to you and you might not be able to install them from Google Play.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mock GPS feature](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-2.jpg)
 
 ## Part 3: How to Find the Best Tool to Mock GPS on Oppo A78 5G?
@@ -276,7 +291,7 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Oppo  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Oppo ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Oppo](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Oppo A78 5G device.
 
@@ -304,7 +319,7 @@ There you go! After reading this guide, you would be able to mock GPS on your Op
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -333,3 +348,58 @@ There you go! After reading this guide, you would be able to mock GPS on your Op
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-14-ultra-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-cultivating-a-commercial-community-earnings-through-fb-engagement-for-2024/"><u>[New] Cultivating a Commercial Community  Earnings Through FB Engagement for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-civi-3-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-redmi-12-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-14-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-comprehensively-exploring-best-options-for-online-photo-edits-for-2024/"><u>[Updated] Comprehensively Exploring Best Options for Online Photo Edits for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-redmi-k70e-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-13-ultra-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-zte-nubia-flip-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-and-paid-iphone-photo-experience-top-app-lineup/"><u>In 2024, Free & Paid iPhone Photo Experience - Top App Lineup</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-zte-axon-40-lite-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-step-by-step-guide-how-to-translate-tiktok-videos/"><u>2024 Approved Step-by-Step Guide How to Translate TikTok Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-precision-portrait-display-review-of-lgs-27in-oled-tv/"><u>[New] Precision Portrait Display  Review of LG's 27in OLED TV</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-best-free-subtitle-generators-to-add-captions-to-your-videos/"><u>New 2024 Approved Best Free Subtitle Generators to Add Captions to Your Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-selecting-superior-gopro-casings-our-top-picks/"><u>In 2024, Selecting Superior GoPro Casings - Our Top Picks</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-13t-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-redmi-a2plus-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-redmi-a2-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-redmi-note-12r-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-14-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-6s-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 6s Without iTunes</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-vivo-y78t-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/how-to-turn-yourself-into-anime-character-for-2024/"><u>How To Turn Yourself Into Anime Character for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-redmi-12-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-13t-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-can-you-grow-without-buying-views-in-2024/"><u>How Can You Grow Without Buying Views, In 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-30-top-funny-tiktok-jokes-and-riddles/"><u>In 2024, 30 Top Funny TikTok Jokes & Riddles</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-6s-plus-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-redmi-k70-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-vivo-y17s-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Vivo Y17s Face Lock?</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-mix-fold-3-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-add-font-effect/"><u>How to Add Font Effect</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/full-disclosure-inside-djis-next-gen-drone-inspire-2-for-2024/"><u>Full Disclosure  Inside DJI's Next Gen Drone - Inspire 2 for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-redmi-13c-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-budget-friendly-video-recorder-sets-top-11-picks/"><u>[Updated] 2024 Approved  Budget-Friendly Video Recorder Sets  Top 11 Picks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-novice-to-expert-a-complete-guide-to-srt-creation-for-2024/"><u>From Novice to Expert  A Complete Guide to SRT Creation for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-oneplus-nord-ce-3-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your OnePlus Nord CE 3 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-zte-blade-a73-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+</ul></div>

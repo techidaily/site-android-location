@@ -1,7 +1,7 @@
 ---
 title: Getting the Pokemon Go GPS Signal Not Found 11 Error in Poco C55 | Dr.fone
-date: 2024-05-19T03:49:45.199Z
-updated: 2024-05-20T03:49:45.199Z
+date: 2024-07-14T03:21:24.811Z
+updated: 2024-07-15T03:21:24.811Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes Getting the Pokemon Go GPS Signal Not Found 11 Error in Poco C55
 excerpt: This article describes Getting the Pokemon Go GPS Signal Not Found 11 Error in Poco C55
 keywords: change gps location on android,fake location on android,change location on android,fake location on C55,change location on C55,fake gps location on android
-thumbnail: https://www.lifewire.com/thmb/sRg_08XfVq4XQxaZ8LbMjkBmMPo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-534572567-56facec43df78c784197b92d.jpg
+thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8ff0fa954ebc9cead95a6f721.jpg
 ---
 
 ## Getting the Pokemon Go GPS Signal Not Found 11 Error in Poco C55
@@ -39,6 +39,9 @@ Before we troubleshoot the GPS signal not found 11 errors in Pokemon Go, let’s
 
 As I have listed above, the Pokemon Go GPS not found 11 problem can arise due to all kinds of reasons. Therefore, let’s have a look at numerous ways to fix the GPS not found 11 error in the game.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Restart Pokemon Go on your phone
 
 The simplest way to fix the Pokemon Go GPS not found 11 issue is by restarting the game. If the app has not been loaded properly, then it would resolve this problem. All you need to do is tap on the app switcher button on your device to view all the apps running in the background. From here, swipe the Pokemon Go card to stop it from running. Afterward, restart the app and check if it would fix the GPS signal not found 11 Pokemon Go issue.
@@ -63,6 +66,9 @@ Since this is a location-based error, you can also consider resetting the locati
 
 Android users get the feature to set mock location on their phones, but it can also be a reason for getting the GPS not found 11 error. Therefore, if you are also getting the GPS signal not found 11 issue on your Android, then go to its Settings > Developer Options. From here, make sure that you have disabled any mock location app or settings on your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disable mock location android](https://images.wondershare.com/drfone/2020/disable-mock-location-android.jpg)
 
 ### Fix 5: Restart your Smartphone
@@ -149,7 +155,7 @@ Download link: [https://play.google.com/store/apps/details?id=com.lexa.fakegps](
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -198,7 +204,7 @@ Download link: [https://play.google.com/store/apps/details?id=org.hola.gpslocati
 
 ![Fake GPS by Hola](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-4.jpg)
 
-### [Fake GPS Location Spoofer](https://drfone.wondershare.com/fake-location/fake-gps-location-spoofer.html)
+### Fake GPS Location Spoofer
 
 If you are looking for a lightweight, reliable, and user-friendly location spoofer, then you can give this app a try. It has been recently updated to provide support for most gaming and dating apps.
 
@@ -328,6 +334,9 @@ Download link: [https://play.google.com/store/apps/details?id=com.pe.fakegps](ht
 
 This brings us to the end of this extensive post about the best GPS spoofer apps. Now when you know about the top 10 location spoofer apps for Android, you can easily pick an ideal solution. For your convenience, we have only listed the fake GPS location spoofer free apps. Some of these apps are entirely free while others would need a premium subscription for their advanced features. Feel free to give some of them a try and pick the best GPS spoofer for your device.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## For People Wanting to Mock GPS on Poco C55 Devices
 
 _“Hi! I'm Jack and I play Pokemon Go in between classes or whenever I get free time from school. A lot of my friends use mock GPS on their phones to catch more Pokemons, but somehow I can’t seem to do the same. Can I also fake my location or use the mock GPS feature on my Poco ?”_
@@ -342,6 +351,18 @@ As the name suggests, mock location simply means changing the present location o
 
 The good thing about Android phones is that they let us change the present location of our device, which helps us unlock various location-based restrictions. For instance, you can use a mock GPS app to catch more Pokemons, unlock a restricted content on Netflix, or access more profiles on dating apps like Tinder.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Any Precaution or Preparation for Mocking GPS on Poco C55
 
 The mock GPS feature is not available in standard device settings. To access it, you first need to unlock Developer Options on your phone. This is because the mock GPS feature on Android is offered to developers to test the location of an app they are working on or any other need.
@@ -397,7 +418,7 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Poco  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Poco ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Poco](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Poco C55 device.
 
@@ -425,7 +446,10 @@ There you go! After reading this guide, you would be able to mock GPS on your Po
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -456,3 +480,54 @@ There you go! After reading this guide, you would be able to mock GPS on your Po
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-magic-vs-2-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-magic-6-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-huawei-nova-y91-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/redefining-star-sounds-a-comprehensively-detailed-exploration-of-vocal-alteration-technology-and-alternative-solutions/"><u>Redefining Star Sounds A Comprehensively Detailed Exploration of Vocal Alteration Technology and Alternative Solutions</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-x50-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/top-video-rotators-for-online-editing-for-2024/"><u>Top Video Rotators for Online Editing for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-v-purse-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-premier-10-visual-effects-to-set-your-tiktok-apart/"><u>[Updated] Premier 10 Visual Effects to Set Your TikTok Apart</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/harmonizing-visuals-and-audio-the-impact-of-piano-compositions-in-film-production/"><u>Harmonizing Visuals and Audio The Impact of Piano Compositions in Film Production</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-magic-6-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-x50i-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-navigating-your-way-through-screen-recording-on-mac-os-x/"><u>In 2024, Navigating Your Way Through Screen Recording on Mac OS X</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-90-gt-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-x7b-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-magic-v2-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-x8b-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-x9a-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-100-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-x9b-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-play-8t-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-90-lite-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-huawei-nova-y71-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-find-glass-breaking-sound-effect/"><u>In 2024, Find Glass Breaking Sound Effect</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-magic-6-lite-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-x50-gt-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-90-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-play-7t-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-htc-u23-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Honor Magic V2? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/methodical-ways-to-delete-your-facebook-alerts/"><u>Methodical Ways to Delete Your Facebook Alerts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-7-best-free-online-youtube-tag-extractors-for-2024/"><u>[New] 7 Best Free Online YouTube Tag Extractors for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/exclusive-insight-choosing-among-the-top-3-leading-web-platforms-for-enhanced-media-sounds-for-2024/"><u>Exclusive Insight Choosing Among the Top 3 Leading Web Platforms for Enhanced Media Sounds for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-monetization-an-instagram-income-journey/"><u>Mastering Monetization  An Instagram Income Journey</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-magic-5-lite-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleash-your-potential-with-filmoras-loved-9-traits/"><u>[New] Unleash Your Potential with Filmora's Loved 9 Traits</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-magic-5-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-90-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-magic5-ultimate-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-magic-5-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-x50iplus-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-crafting-effective-teacher-videos-on-youtube-top-10-strategies/"><u>[New] 2024 Approved  Crafting Effective Teacher Videos on YouTube – Top 10 Strategies</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-70-lite-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/decoding-audio-cues-a-windows-and-os-x-guide-to-srt-files/"><u>Decoding Audio Cues  A Windows & OS X Guide to SRT Files</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-htc-u23-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-play-40c-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor Play 40C | Dr.fone</u></a></li>
+</ul></div>

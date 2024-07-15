@@ -1,7 +1,7 @@
 ---
 title: In 2024, Easy Ways to Manage Your Realme C51 Location Settings | Dr.fone
-date: 2024-05-19T03:49:50.921Z
-updated: 2024-05-20T03:49:50.921Z
+date: 2024-07-14T04:02:08.030Z
+updated: 2024-07-15T04:02:08.030Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes Easy Ways to Manage Your Realme C51 Location Settings
 excerpt: This article describes Easy Ways to Manage Your Realme C51 Location Settings
 keywords: change gps location on android,fake location on C51,change location on C51,fake gps location on android,change location on android,fake location on android
-thumbnail: https://www.lifewire.com/thmb/ir-tdkJhetInDNhHCkfbZa8f19M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Flack-6b3c3167132c467db22bae39689c44ef.jpg
+thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d114b5800bdb87d98b552aa6d.jpg
 ---
 
 ## Easy Ways to Manage Your Realme C51 Location Settings
@@ -34,6 +34,9 @@ If you use an Android phone, you can turn on your location services following th
 4. Click on the location mode, and you'd see three different settings to select; High accuracy, Battery saving, and Phone only. Choose one mode. More details about which one to choose will be discussed below.
 5. If a screen shows location consent, click 'agree,' and that's all; you have now turned on your location services on Android and can start enjoying all benefits!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to manage and understand Location services
 
 Immediately you turn on your location services. You'd find many settings and options like high accuracy, phone/device only, battery-saving, emergency location services, and other Google services. Here are what each means and how you can manage your android location services.
@@ -140,7 +143,7 @@ It is compatible with almost all location-based apps, including Instagram, Snapc
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -152,6 +155,9 @@ It is compatible with almost all location-based apps, including Instagram, Snapc
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## #2 Mock Locations
 
 ![mock locations fake gps app](https://images.wondershare.com/drfone/article/2022/01/fake-gps-android-2.jpg)
@@ -272,6 +278,9 @@ With this fake GPS app, you can set the movement of any location. It means you c
 - Location restores errors
 - Unattractive UI
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## #6 Fake GPS Joystick
 
 ![fake gps joystick](https://images.wondershare.com/drfone/article/2022/01/fake-gps-android-6.jpg)
@@ -492,6 +501,9 @@ Last, but most importantly, check the feedback and the real-life experience of o
 
 ![affected apps](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Step by Step Guide to Mock GPS on Realme C51
 
 Now when you are all prepped-up, you can easily learn how to mock GPS on a Realme  phone. As stated above, the fake or mock GPS feature is only enabled in Developer Options on the Realme C51 device. Thus, you need to first turn on your Realme ’s Developer Options and later pick a mock GPS app to fake the current location on your device. Here’s how you can fake location or mock GPS on your Realme  phone:
@@ -500,7 +512,10 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Realme  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Realme ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Developer Options on your Realme](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Realme C51 device.
 
@@ -528,7 +543,7 @@ There you go! After reading this guide, you would be able to mock GPS on your Re
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -557,3 +572,65 @@ There you go! After reading this guide, you would be able to mock GPS on your Re
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-poco-m6-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Poco M6 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-brighten-up-your-videos-best-editing-software-for-pc-and-online/"><u>New 2024 Approved Brighten Up Your Videos Best Editing Software for PC and Online</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-nubia-red-magic-8s-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Nubia Red Magic 8S Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oneplus-12r-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on OnePlus 12R Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oneplus-nord-n30-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on OnePlus Nord N30 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-ultimate-starters-manual-implementing-voicechanger-on-iphone/"><u>The Ultimate Starters Manual Implementing VoiceChanger on iPhone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oneplus-11-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on OnePlus 11 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-a1-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo A1 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-nokia-g42-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Nokia G42 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-ace-your-youtube-live-with-these-7-powerful-live-streaming-apps-iosandroid-os/"><u>[New] In 2024, Ace Your YouTube LIVE with These 7 Powerful Live Streaming Apps (iOS/Android OS)</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oneplus-ace-2v-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on OnePlus Ace 2V Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oneplus-ace-2-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on OnePlus Ace 2 Devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ugly-side-of-digital-video-profits/"><u>In 2024, The Ugly Side of Digital Video Profits</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-realme-c33-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oneplus-nord-ce-3-lite-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on OnePlus Nord CE 3 Lite 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-tiktok-video-upload-guide-chromeandroidios-strategies/"><u>[New] In 2024, TikTok Video Upload Guide  Chrome/Android/iOS Strategies</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-rotating-the-audio-and-video-files-is-quite-a-challenging-task-though-but-the-arrival-of-some-of-the-well-known-video-rotators-has-solved-th/"><u>Updated In 2024, Rotating the Audio and Video Files Is Quite a Challenging Task Though, but the Arrival of some of the Well Known Video Rotators Has Solved This Problem</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oneplus-ace-3-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on OnePlus Ace 3 Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-oneplus-11r-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best OnePlus 11R Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-a38-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo A38 Devices | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-from-motion-to-still-a-guide-to-converting-videos-to-photos-10-best-converters-for-2024/"><u>New From Motion to Still A Guide to Converting Videos to Photos 10 Best Converters for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-overwatch-video-preservation-techniques/"><u>[New] Mastering Overwatch  Video Preservation Techniques</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-a1x-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo A1x 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-collection-top-20-free-adobe-premiere-title-and-intro-templates/"><u>Updated The Ultimate Collection Top 20 Free Adobe Premiere Title and Intro Templates</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-a18-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo A18 Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-accessing-and-using-srt-audio-on-various-oses/"><u>[New] Accessing and Using SRT Audio on Various OSes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-cutting-edge-five-new-features-in-facebooks-sight/"><u>[Updated] The Cutting-Edge Five  New Features in Facebook's Sight</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-the-ultimate-guide-8-premium-rain-impact-noises-for-creative-projects/"><u>Updated 2024 Approved The Ultimate Guide 8 Premium Rain Impact Noises for Creative Projects</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oneplus-nord-ce-3-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on OnePlus Nord CE 3 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-nubia-z50s-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Nubia Z50S Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-stand-out-in-a-crowd-the-best-20-snapchat-filter-ideas/"><u>[Updated] Stand Out in a Crowd  The Best 20 Snapchat Filter Ideas</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-nokia-g42-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Nokia G42 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-nokia-g22-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Nokia G22 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oneplus-ace-2-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on OnePlus Ace 2 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/lilliputian-storyboard-outline/"><u>Lilliputian Storyboard Outline</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oneplus-11r-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on OnePlus 11R Devices | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-sony-xperia-10-v-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Sony Xperia 10 V FRP Without Computer</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-maximize-video-potential-a-complete-guide-to-youtube-thumbnail-dimensions/"><u>2024 Approved  Maximize Video Potential  A Complete Guide to YouTube Thumbnail Dimensions</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-nokia-xr21-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Nokia XR21 Devices | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-merge-multiple-mov-files-for-free-top-tools/"><u>Updated In 2024, Merge Multiple MOV Files for Free Top Tools</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-nokia-g310-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Nokia G310 Devices | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-detailed-instructions-mastering-the-art-of-uploading-vr-media-to-fb/"><u>[Updated] In 2024, Detailed Instructions  Mastering the Art of Uploading VR Media to FB</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-nubia-red-magic-9-proplus-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Nubia Red Magic 9 Pro+ Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-proven-techniques-to-follow-your-favorite-cricketers-live/"><u>[New] Proven Techniques to Follow Your Favorite Cricketers Live</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oneplus-nord-n30-se-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on OnePlus Nord N30 SE Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oneplus-nord-3-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on OnePlus Nord 3 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-streamline-your-tech-experience-with-top-10-free-mac-capture-apps/"><u>[Updated] Streamline Your Tech Experience with Top 10 FREE Mac Capture Apps</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oneplus-open-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on OnePlus Open Devices | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-enhancing-video-content-step-by-step-cropping-and-export-guide/"><u>In 2024, Enhancing Video Content  Step-by-Step Cropping & Export Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-oppo-reno-11-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Oppo Reno 11 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-nubia-red-magic-9-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Nubia Red Magic 9 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-a2-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo A2 Devices | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/iphone-15-plus-data-recovery-an-infographic-to-conquer-iphone-data-loss-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone 15 Plus Data Recovery – An Infographic to Conquer iPhone Data Loss | Stellar</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oneplus-12-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on OnePlus 12 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-nubia-red-magic-8s-proplus-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Nubia Red Magic 8S Pro+ Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-nubia-z50-ultra-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Nubia Z50 Ultra Devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-best-free-youtube-comment-finder-you-should-try/"><u>[New] In 2024, Best Free YouTube Comment Finder You Should Try</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-unlocking-your-cameras-screen-recording-features/"><u>[Updated] In 2024, Unlocking Your Camera's Screen Recording Features</u></a></li>
+</ul></div>

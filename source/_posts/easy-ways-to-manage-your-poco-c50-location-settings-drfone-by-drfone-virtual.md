@@ -1,7 +1,7 @@
 ---
 title: Easy Ways to Manage Your Poco C50 Location Settings | Dr.fone
-date: 2024-05-19T03:49:42.834Z
-updated: 2024-05-20T03:49:42.834Z
+date: 2024-07-14T03:01:11.849Z
+updated: 2024-07-15T03:01:11.849Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes Easy Ways to Manage Your Poco C50 Location Settings
 excerpt: This article describes Easy Ways to Manage Your Poco C50 Location Settings
 keywords: fake gps location on android,change gps location on android,fake location on android,change location on C50,change location on android,fake location on C50
-thumbnail: https://www.lifewire.com/thmb/BW2Lher3W3SF0AiM8EKoxi1zUQw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-597071115-37c5865742de421eafc8b7da4cc5a618.jpg
+thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0cd1ef1d90d54872beba93f1.jpg
 ---
 
 ## Easy Ways to Manage Your Poco C50 Location Settings
@@ -38,6 +38,9 @@ If you use an Android phone, you can turn on your location services following th
 
 Immediately you turn on your location services. You'd find many settings and options like high accuracy, phone/device only, battery-saving, emergency location services, and other Google services. Here are what each means and how you can manage your android location services.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **High Accuracy**
 
 When you select this mode for your location services on Android, you want the most precise location tracking possible. This mode will prompt many networks like GPS, Wi-Fi, Bluetooth, and cellular networks to work together and give you the best location tracking.
@@ -118,7 +121,7 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both Android and iOS!
 
@@ -136,6 +139,9 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 
 **Step 2:** The next step you have to take is to click "Virtual Location" on the homepage to launch the app, connect your smartphone to the PC and click on "Get Started".
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 **Step 3:** A world map with 5 modes at the side will appear; you can choose an option to proceed. There’s the teleport, two-stop, and multi-stop mode for you to choose from to fake location without developer options. Here we take the teleport mode as an example.
@@ -178,6 +184,9 @@ _**App Link:** <https://play.google.com/store/apps/details?id=com.marlon.floatin
 
 ### 3\. Fake GPS Location with GPS Joystick
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use fake location with gps joystick](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-6.jpg)
 
 Many people love this app because it doesn’t require users to root their devices. The app comes with a virtual joystick you can use to change location on the screen. However, if you want to get the best result with this app, you should set it to ‘High Accuracy.’ The joystick is available for instant changing of location, and this app is compatible with Android 4.0 and higher. It is the best option if you’re looking for a convenient app that gives the best of what you’re looking for.
@@ -212,8 +221,11 @@ _**Tips:** Discover the most effective way to fake GPS on Android without using 
 
 
 
-_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html)_
+_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html) _
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Mock Location Feature on Different Android Models
 
 Accessing the mock location feature on different Android models isn’t always easy. However, this section will provide insight into enabling mock location on your Poco C50.
@@ -262,7 +274,7 @@ If you think the way above is complicated for you, you can just use the easiest 
 
 There are varying purposes why you might want to fake your location. Luckily, several apps are available to **fake GPS on Android without mock location**. The best option for you would be the [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With this fake location app, you can access any third-party app and be in a whole different country from the comfort of your home. However, this article also provides you with other options you can explore.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## 10 Free Location Spoofers to Fake GPS Location on your Poco C50
 
@@ -308,7 +320,7 @@ Download link: [https://play.google.com/store/apps/details?id=com.lexa.fakegps](
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -357,7 +369,7 @@ Download link: [https://play.google.com/store/apps/details?id=org.hola.gpslocati
 
 ![Fake GPS by Hola](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-4.jpg)
 
-### [Fake GPS Location Spoofer](https://drfone.wondershare.com/fake-location/fake-gps-location-spoofer.html)
+### Fake GPS Location Spoofer
 
 If you are looking for a lightweight, reliable, and user-friendly location spoofer, then you can give this app a try. It has been recently updated to provide support for most gaming and dating apps.
 
@@ -411,6 +423,18 @@ Download link: [https://play.google.com/store/apps/details?id=com.blogspot.newap
 
 ![Fake GPS by ByteRev](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-7.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Location Changer by NetLinkd
 
 This free location spoofer app certainly lives up to its name and would let you change your location pretty easily. It works on every leading Android phone and supports most of the social and entertainment apps.
@@ -504,3 +528,62 @@ This brings us to the end of this extensive post about the best GPS spoofer apps
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-a56s-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-reclaim-your-spotlight-evading-tiktok-shadowbans-for-2024/"><u>[New] Reclaim Your Spotlight  Evading TikTok Shadowbans for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-transforming-video-capture-mastering-vimeos-tech/"><u>[New] 2024 Approved  Transforming Video Capture  Mastering Vimeo's Tech</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-a1-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-a18-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/leap-over-delays-in-your-gaming/"><u>Leap Over Delays in Your Gaming</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-f23-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-a2-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-free-easy-tag-extraction-compilation-of-7-best-no-cost-online-tools/"><u>2024 Approved  Free, Easy Tag Extraction  Compilation of 7 Best No-Cost Online Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-enrich-thumbnails-introducing-radiant-neon-elements-for-2024/"><u>[Updated] Enrich Thumbnails  Introducing Radiant Neon Elements for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oneplus-nord-n30-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-f25-pro-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-ace-your-online-presence-youtubes-studio-command-center/"><u>[Updated] Ace Your Online Presence  YouTube's Studio Command Center</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-essential-tips-for-replying-on-discord-desktopmobile/"><u>In 2024, Essential Tips for Replying on Discord Desktop/Mobile</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-mac-video-editing-made-easy-vn-editor-and-its-alternatives/"><u>New In 2024, Mac Video Editing Made Easy VN Editor and Its Alternatives</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-download-the-best-video-editor-for-mac-splice-video-editor/"><u>New In 2024, Download the Best Video Editor for Mac Splice Video Editor</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-smart-screenshot-assembly-leading-androidiphone-montage-aids/"><u>2024 Approved  Smart Screenshot Assembly  Leading Android/iPhone Montage Aids</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-best-youtube-video-reverser-online/"><u>[Updated] In 2024, Best YouTube Video Reverser Online</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oneplus-open-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-navigating-the-changing-landscape-of-instagram-stories/"><u>[New] Navigating the Changing Landscape of Instagram Stories</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-itel-p55-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fast-track-converting-your-srt-files-to-text-format-today/"><u>[New] Fast Track  Converting Your SRT Files to Text Format Today</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-transform-your-life-top-10-premium-yoga-streams-unleashed/"><u>In 2024, Transform Your Life  Top 10 Premium Yoga Streams Unleashed</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-find-n3-flip-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-a79-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-a1x-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-find-x7-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-great-growers-guide-the-best-farmer-games/"><u>[Updated] 2024 Approved  The Great Growers' Guide  The Best Farmer Games</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupted-video-files-of-motorola-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupted video files of Motorola</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-a78-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/navigating-to-your-digital-editing-oasis-on-youtube/"><u>Navigating to Your Digital Editing Oasis on YouTube</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-find-x7-ultra-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/illusion-of-empowerment-interfaces-and-your-choices/"><u>Illusion of Empowerment: Interfaces and Your Choices</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Detailed guide of ispoofer for pogo installation On Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-find-x6-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-find-n3-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-poco-x5-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Poco X5 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/hololens-review-pioneering-virtual-spacecraft/"><u>HoloLens Review  Pioneering Virtual Spacecraft</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fundamental-tactics-converting-pin-based-videos-to-mp3s/"><u>In 2024, Fundamental Tactics  Converting Pin-Based Videos To MP3s</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-a59-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-k11-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-a58-4g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-k11x-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-find-x6-pro-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-fresh-feasts-international-recipes-going-viral/"><u>[Updated] 2024 Approved  Fresh Feasts  International Recipes Going Viral</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-reno-10-pro-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-an-up-to-date-guide-to-social-media-aspect-ratio-for-2024/"><u>Updated An Up-to-Date Guide to Social Media Aspect Ratio for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-a78-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-a38-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-easy-guide-to-instagram-post-duplication/"><u>[New] In 2024, Easy Guide to Instagram Post Duplication</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-reno-10-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oneplus-nord-n30-se-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your OnePlus Nord N30 SE | Dr.fone</u></a></li>
+</ul></div>

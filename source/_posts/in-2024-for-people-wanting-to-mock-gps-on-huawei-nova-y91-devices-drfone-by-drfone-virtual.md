@@ -1,7 +1,7 @@
 ---
 title: In 2024, For People Wanting to Mock GPS on Huawei Nova Y91 Devices | Dr.fone
-date: 2024-05-19T03:49:52.322Z
-updated: 2024-05-20T03:49:52.322Z
+date: 2024-07-14T04:12:35.828Z
+updated: 2024-07-15T04:12:35.828Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes For People Wanting to Mock GPS on Huawei Nova Y91 Devices
 excerpt: This article describes For People Wanting to Mock GPS on Huawei Nova Y91 Devices
 keywords: fake location on Nova Y91,fake location on android,change location on Nova Y91,change location on android,change gps location on android,fake gps location on android
-thumbnail: https://www.lifewire.com/thmb/ynTHMRKHlmkgnPU-C-PjPaOI_vk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1345967858-4e7ba42433504ee899e05ceb500f3b68.jpg
+thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8d64ce0fc757b91844bd2888.jpg
 ---
 
 ## For People Wanting to Mock GPS on Huawei Nova Y91 Devices
@@ -20,6 +20,9 @@ _“Hi! I'm Jack and I play Pokemon Go in between classes or whenever I get free
 
 This is one of the many queries that we get from Huawei  users who wish to mock GPS on their phones. The good news is that on various Android phones, you can use a mock GPS apk to fake your location. Though, Huawei  users need to be a bit cautious since the company has so many security restrictions. Don’t worry – I’m here to help you use the best mock GPS app for your phone. Read on to clear your doubts and enable the mock GPS provider on your phone like a pro!
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![mock GPS on the map](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-1.jpg)
 
 ## Part 1: What is Mock GPS on Huawei Nova Y91?
@@ -83,7 +86,7 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Huawei  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Huawei ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Huawei](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Huawei Nova Y91 device.
 
@@ -111,7 +114,7 @@ There you go! After reading this guide, you would be able to mock GPS on your Hu
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -207,6 +210,9 @@ It is a Virtual Private Network and used for ages related to security needs. Thi
 
 The VPN provider will assist you by serving a new IP address to mask your location. The IP address (Internet Protocol) is a combination of numerals and alphabets separated by colon indicating the location of your device over the network. The original address is replaced with a new one directing to another location on the internet.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![IP address to mask your location](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-8.jpg)
 
 ### Difference between GPS Spoofing and VPN
@@ -215,7 +221,7 @@ The VPN provider will assist you by serving a new IP address to mask your locati
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -281,6 +287,9 @@ Step 2: Follow the Wizard and install the VPN Provider
 
 Step 3: Open the ‘VPN location Changer’ app
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![VPN location Changer](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-19.jpg)
 
 In the above screenshot, you can infer that there are three tabs displaying ‘Recommended, All and Favorites’ option. These tabs flash the names of the countries around the globe in a well-organized format.
@@ -313,7 +322,7 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both Android and iOS!
 
@@ -331,6 +340,9 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 
 **Step 2:** The next step you have to take is to click "Virtual Location" on the homepage to launch the app, connect your smartphone to the PC and click on "Get Started".
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 **Step 3:** A world map with 5 modes at the side will appear; you can choose an option to proceed. There’s the teleport, two-stop, and multi-stop mode for you to choose from to fake location without developer options. Here we take the teleport mode as an example.
@@ -365,6 +377,9 @@ _**App Link:** <https://play.google.com/store/apps/details?id=com.lexa.fakegps&h
 
 ### 2\. Fake Location Using Floater
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use floater fake gps location](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-5.png)
 
 This is another effective fake GPS app that you can use to fake GPS. It works as a floating window above games and third-party apps. With Floater, you can change your location to a place globally. Additionally, you can save your favorite locations and test apps without locking onto a GPS signal. This feature is great for developers. Additionally, Floater can fake GPS location when you’re tagging pictures. It shows you any part of the world you want so you can pick where you want people to think you are.
@@ -407,7 +422,7 @@ _**Tips:** Discover the most effective way to fake GPS on Android without using 
 
 
 
-_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html)_
+_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html) _
 
 ## Part 4: Mock Location Feature on Different Android Models
 
@@ -457,7 +472,7 @@ If you think the way above is complicated for you, you can just use the easiest 
 
 There are varying purposes why you might want to fake your location. Luckily, several apps are available to **fake GPS on Android without mock location**. The best option for you would be the [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With this fake location app, you can access any third-party app and be in a whole different country from the comfort of your home. However, this article also provides you with other options you can explore.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 
 <ins class="adsbygoogle"
@@ -476,3 +491,64 @@ There are varying purposes why you might want to fake your location. Luckily, se
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-motorola-edge-40-neo-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Motorola Edge 40 Neo Devices | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-revamp-your-google-group-chats-with-4-tips-for-2024/"><u>[New] Revamp Your Google Group Chats with 4 Tips for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-motorola-moto-e13-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Motorola Moto E13 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-motorola-moto-g04-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Motorola Moto G04 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-lava-yuva-2-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Lava Yuva 2 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-motorola-moto-g34-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Motorola Moto G34 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-immersion-guide-uncovering-the-top-10-pc-headsets-for-virtual-video/"><u>[New] The Ultimate Immersion Guide  Uncovering the Top 10 PC Headsets for Virtual Video</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/visionaries-inventing-new-marvel-worlds/"><u>Visionaries Inventing New Marvel Worlds</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-motorola-g24-power-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Motorola G24 Power Devices | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-7-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 7 with iTunes</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-lava-blaze-pro-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Lava Blaze Pro 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-cutting-edge-sound-management-the-top-5-android-audio-editors-every-professional-should-own/"><u>New In 2024, Cutting Edge Sound Management The Top 5 Android Audio Editors Every Professional Should Own</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unlocking-potential-the-ultimate-guide-to-whatsapp-hacks/"><u>[Updated] Unlocking Potential  The Ultimate Guide to WhatsApp Hacks</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-motorola-moto-g23-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Motorola Moto G23 Devices | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-motorola-moto-g14-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Motorola Moto G14 Devices | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-craft-your-channels-moniker-youtube-naming-tools-and-tips/"><u>[New] 2024 Approved  Craft Your Channel's Moniker  YouTube Naming Tools and Tips</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-motorola-moto-g73-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Motorola Moto G73 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-motorola-edge-2023-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Motorola Edge 2023 Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-achieve-high-quality-streams-youtube-and-twitch-via-obs/"><u>[New] 2024 Approved  Achieve High-Quality Streams  YouTube & Twitch via OBS</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-free-game-downloads-the-top-10plus-sites-you-need/"><u>New Free Game Downloads The Top 10+ Sites You Need</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-lava-blaze-2-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Lava Blaze 2 Devices | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-top-5-digital-audio-organizers-for-seamless-mp3-management/"><u>New 2024 Approved Top 5 Digital Audio Organizers for Seamless MP3 Management</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-motorola-moto-g13-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Motorola Moto G13 Devices | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-chart-wolfs-sonorous-call-pattern/"><u>Updated Chart Wolfs Sonorous Call Pattern</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-capture-your-feed-on-devices-using-obs-studio-for-2024/"><u>[New] How to Capture Your Feed on Devices Using OBS Studio for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-lava-yuva-2-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Lava Yuva 2 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-meizu-21-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Meizu 21 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-motorola-g54-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Motorola G54 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-poco-f5-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Poco F5 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-lava-storm-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Lava Storm 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-lava-blaze-2-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Lava Blaze 2 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-motorola-edge-40-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Motorola Edge 40 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-on-your-iphone-11-pro-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID On your iPhone 11 Pro without Security Questions?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-masterclass-in-timelapse-capture-via-gopro-studio/"><u>[New] Masterclass in Timelapse Capture via GoPro Studio</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-motorola-defy-2-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Motorola Defy 2 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-motorola-moto-g-stylus-2023-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Motorola Moto G Stylus (2023) Devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-10-best-youtube-keyword-tools-to-get-more-views/"><u>[Updated] 10 Best YouTube Keyword Tools to Get More Views</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-motorola-edge-40-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Motorola Edge 40 Devices | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-bridging-format-gaps-with-srt-transformations/"><u>[Updated] Bridging Format Gaps with SRT Transformations</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-lava-blaze-curve-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Lava Blaze Curve 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-elevate-your-channels-a-guide-to-youtube-metrics/"><u>[New] Elevate Your Channels  A Guide to YouTube Metrics</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-lava-blaze-2-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Lava Blaze 2 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-motorola-moto-g-stylus-5g-2023-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Motorola Moto G Stylus 5G (2023) Devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-charting-a-path-to-monthly-earnings-from-youtube/"><u>[New] Charting a Path to Monthly Earnings From YouTube</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-lava-yuva-3-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Lava Yuva 3 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/1715759912345-updated-how-to-record-audio-with-audacity-on-mac/"><u>[Updated] How to Record Audio with Audacity on Mac</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-lava-agni-2-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Lava Agni 2 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-lenovo-thinkphone-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Lenovo ThinkPhone Devices | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-list-mastering-youtubes-best-music-reaction-videos-for-2024/"><u>The Ultimate List  Mastering YouTube's Best Music Reaction Videos for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-motorola-moto-g24-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Motorola Moto G24 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-lava-yuva-3-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Lava Yuva 3 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-meizu-21-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Meizu 21 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/fast-format-transformation-youtube-for-mac-ratio-for-2024/"><u>Fast Format Transformation  YouTube for Mac Ratio for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/is-photoshops-shake-control-a-game-changer/"><u>Is Photoshop's Shake Control a Game Changer?</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-remove-filmora-logo-from-your-videos-easy-solutions/"><u>Updated 2024 Approved Remove Filmora Logo From Your Videos Easy Solutions</u></a></li>
+</ul></div>

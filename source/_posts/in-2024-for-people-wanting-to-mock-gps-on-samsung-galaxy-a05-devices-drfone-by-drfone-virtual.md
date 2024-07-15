@@ -1,7 +1,7 @@
 ---
 title: In 2024, For People Wanting to Mock GPS on Samsung Galaxy A05 Devices | Dr.fone
-date: 2024-05-19T03:49:52.668Z
-updated: 2024-05-20T03:49:52.668Z
+date: 2024-07-14T04:15:56.924Z
+updated: 2024-07-15T04:15:56.924Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes For People Wanting to Mock GPS on Samsung Galaxy A05 Devices
 excerpt: This article describes For People Wanting to Mock GPS on Samsung Galaxy A05 Devices
 keywords: fake gps location on android,change gps location on android,change location on Galaxy A05,fake location on Galaxy A05,change location on android,fake location on android
-thumbnail: https://www.lifewire.com/thmb/7xkPKaI2xi5sTbIeFjMPxaWn7Gc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apple-tvos_a-star-is-born_060319-b01aea7d8a1949609359d8d96b1a22e0.jpg
+thumbnail: https://thmb.techidaily.com/3a8d29dc752129bc6cecd890184a07ba60927370b95afc8af67003c49b108b72.jpg
 ---
 
 ## For People Wanting to Mock GPS on Samsung Galaxy A05 Devices
@@ -83,10 +83,13 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Samsung  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Samsung ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Samsung](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Samsung Galaxy A05 device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mock location field](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-5.jpg)
 
 Step 2: Install and Allow a Mock GPS App
@@ -103,6 +106,9 @@ Step 3: Fake location on your Samsung
 
 That’s it! Once you have granted the needed permission to the mock GPS app, you can easily use it to change the location of your device. Just launch the app to get a map-like interface. You can zoom in and out the map or just look for any location on the search bar. In the end, drop the pin on any location and tap on the start button to fake your location.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![confirm to fake your location](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-8.jpg)
 
 Later, you can go back to the app and stop the fake location to switch back to your original location whenever you want.
@@ -111,7 +117,7 @@ There you go! After reading this guide, you would be able to mock GPS on your Sa
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -129,7 +135,7 @@ Have you ever wondered why Android monitor tools exist? Well, with the recent bo
 
 Also, to track the real location of kids/spouses/employees, phone monitoring Apps for Android come in handy. Android monitoring Apps help you spy on others’ smartphones, hack their photos, messages, call logs, Social App data, location, and browsing patterns. To know more, read and find out about the 9 best and free Android monitoring Apps.
 
-_You may be interested in: [Top 21 Mobile Device Spy Apps for iPhone/iPad/Android in 2022](https://drfone.wondershare.com/spy/best-mobile-spy-apps.html)_
+_You may be interested in: [Top 21 Mobile Device Spy Apps for iPhone/iPad/Android in 2022](https://drfone.wondershare.com/spy/best-mobile-spy-apps.html) _
 
 ## Part 1: mSpy
 
@@ -393,6 +399,9 @@ Users complain that the App hangs and quits abruptly.
 
 We hope you find this guide useful. The tools listed above are the best phone monitoring Apps for Android. Carefully analyze the features, pros and cons of all the Android monitors and use them to suit your needs.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fake Android Location without Rooting For Your Samsung Galaxy A05
 
 [![avatar](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
@@ -485,7 +494,7 @@ The VPN provider will assist you by serving a new IP address to mask your locati
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -537,8 +546,14 @@ Step 2: Click the ‘Set Location’ option and drag the pointer on the map as p
 
 Step 3: Save the changes and exit from App. Your Samsung Galaxy A05 phone will display the new location address in the notification window.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![display the new location](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: How to fake Android location using VPN
 
 Step 1: Go to the Google Play store and choose an appropriate VPN provider compatible with your device
@@ -580,3 +595,68 @@ This article has given you a basic knowledge related to the spoofing techniques 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-exclusive-12-choice-of-offline-screen-recorders/"><u>[New] In 2024, Exclusive 12 Choice of Offline Screen Recorders</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/quick-recovery-methods-for-erased-reddit-topics/"><u>Quick Recovery Methods for Erased Reddit Topics</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-c33-2023-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-lightweight-champions-8-video-editing-tools-for-any-computer/"><u>Updated Lightweight Champions 8 Video Editing Tools for Any Computer</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-v30t-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-to-determine-or-change-the-video-aspect-ratio-online-use-a-ratio-calculator-to-calculate-pixel-dimensions-and-aspect-ratios-of-images-or-vid/"><u>Updated In 2024, To Determine or Change the Video Aspect Ratio Online. Use a Ratio Calculator to Calculate Pixel Dimensions and Aspect Ratios of Images or Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-voice-reinvention-with-technology-rankings-of-7-innovative-audio-tools/"><u>2024 Approved  Voice Reinvention with Technology  Rankings of 7 Innovative Audio Tools</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-11-proplus-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-12plus-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-after-deleting-from-recently-deleted-on-iphone-6-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover deleted photos after deleting from Recently Deleted on iPhone 6 | Stellar</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-a14-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-the-voyage-to-trustworthiness-becoming-a-confirmed-disco-partner/"><u>[New] In 2024, The Voyage to Trustworthiness  Becoming a Confirmed Disco Partner</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transform-every-moment-top-ideas-for-enriching-life-through-podcasts/"><u>Transform Every Moment  Top Ideas for Enriching Life Through Podcasts</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-gt-5-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-12-proplus-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-inventory-types-of-fb-video-ratios/"><u>[Updated] Inventory  Types of FB Video Ratios</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-handling-live-stream-halt-a-guide-for-fb-users/"><u>[Updated] In 2024, Handling Live Stream Halt  A Guide for FB Users</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-gt-5-240w-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-premium-pages-on-mobile-best-ig-covers-app/"><u>[Updated] In 2024, Premium Pages on Mobile  Best IG Covers App</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-blueprints-for-breaking-ground-in-edu-video-production-on-youtube-channels/"><u>[New] In 2024, Blueprints for Breaking Ground in Edu-Video Production on YouTube Channels</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-c51-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-12-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-narzo-60-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/macs-vanguard-in-audio-editing-the-ultimate-compilation-of-the-best-4-music-apps-for-2024/"><u>Macs Vanguard in Audio Editing The Ultimate Compilation of the Best 4 Music Apps for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/videoleap-zoom-hacks-for-detailed-video-insight/"><u>Videoleap Zoom Hacks for Detailed Video Insight</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-a05-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-honor-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Honor</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-v30-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-a05s-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-narzo-n53-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-gt-3-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-11x-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-narzo-60x-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-narzo-n55-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-a15-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-c67-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-a15-4g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-gt-neo-5-se-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/best-moba-games-on-android-top-10-selection/"><u>Best MOBA Games on Android - Top 10 Selection</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-c53-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-note-50-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-11-pro-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-10t-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/can-i-browse-through-all-my-contacts-shared-videos-and-photos/"><u>Can I Browse Through All My Contact's Shared Videos & Photos?</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-splice-video-editor-for-mac-free-download-and-start-creating/"><u>Updated Splice Video Editor for Mac Free Download and Start Creating</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-music-infused-video-editors-for-android-and-ios-best-picks/"><u>New In 2024, Music-Infused Video Editors for Android and iOS Best Picks</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-a14-4g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-narzo-60-pro-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-scrutinizing-success-identifying-the-top-10-most-subscribed-youtubers/"><u>[New] Scrutinizing Success  Identifying the Top 10 Most-Subscribed YouTubers</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-c55-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-guidelines-for-renaming-yourself-in-online-meetings/"><u>In 2024, Guidelines for Renaming Yourself in Online Meetings</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-gt-5-pro-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-gt-neo-5-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-virtual-venue-face-off-assessing-obs-and-twitch-studios/"><u>[New] In 2024, Virtual Venue Face-Off  Assessing OBS & Twitch Studios</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-c67-4g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/a-step-by-step-guide-for-sharing-camera-roll-pictures-on-snapchat/"><u>A Step by Step Guide for Sharing Camera Roll Pictures on Snapchat</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-11-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-12-pro-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-oppo-a18-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Oppo A18 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-5-emulated-game-boy-advance-games-a-comprehensive-guide-for-pc-users/"><u>[New] 2024 Approved  Top 5 Emulated Game Boy Advance Games - A Comprehensive Guide for PC Users</u></a></li>
+</ul></div>

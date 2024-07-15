@@ -1,7 +1,7 @@
 ---
 title: In 2024, Fake Android Location without Rooting For Your Oppo A78 | Dr.fone
-date: 2024-05-19T03:49:51.584Z
-updated: 2024-05-20T03:49:51.584Z
+date: 2024-07-14T04:08:01.605Z
+updated: 2024-07-15T04:08:01.605Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes Fake Android Location without Rooting For Your Oppo A78
 excerpt: This article describes Fake Android Location without Rooting For Your Oppo A78
 keywords: change location on android,fake location on android,change location on A78,fake location on A78,fake gps location on android,change gps location on android
-thumbnail: https://www.lifewire.com/thmb/0LHpu91V9jV229cdma0w0BAh3EI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apple-logo-steering-wheel-25522ee2c5664139948ebfd1cb1df653.jpg
+thumbnail: https://thmb.techidaily.com/74113c2d83645a48c9d2ad195371cc6a07bee43db8bd23e967a3613c122b6663.jpg
 ---
 
 ## Fake Android Location without Rooting For Your Oppo A78
@@ -33,6 +33,9 @@ What are the benefits of a fake Android location? There is a need to [fake the G
 - Fake GPS Android let you download all the interesting apps on the Google play despite location ban of certain games.
 - Divert your friends and mislead them to identify you in a stunning location and make jealous of you on your vacation trips
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fake GPS for Android location](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-2.jpg)
 
 The location-based apps are available below and learn how to make use of the spoofing techniques to establish a fake curtain on your location details.
@@ -106,7 +109,7 @@ The VPN provider will assist you by serving a new IP address to mask your locati
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -164,6 +167,9 @@ Step 3: Save the changes and exit from App. Your Oppo A78 phone will display the
 
 Step 1: Go to the Google Play store and choose an appropriate VPN provider compatible with your device
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose an appropriate VPN provider](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-17.jpg)
 
 Step 2: Follow the Wizard and install the VPN Provider
@@ -172,6 +178,9 @@ Step 2: Follow the Wizard and install the VPN Provider
 
 Step 3: Open the ‘VPN location Changer’ app
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![VPN location Changer](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-19.jpg)
 
 In the above screenshot, you can infer that there are three tabs displaying ‘Recommended, All and Favorites’ option. These tabs flash the names of the countries around the globe in a well-organized format.
@@ -251,7 +260,7 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Oppo  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Oppo ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Oppo](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Oppo A78 device.
 
@@ -271,6 +280,9 @@ Step 3: Fake location on your Oppo
 
 That’s it! Once you have granted the needed permission to the mock GPS app, you can easily use it to change the location of your device. Just launch the app to get a map-like interface. You can zoom in and out the map or just look for any location on the search bar. In the end, drop the pin on any location and tap on the start button to fake your location.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![confirm to fake your location](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-8.jpg)
 
 Later, you can go back to the app and stop the fake location to switch back to your original location whenever you want.
@@ -279,7 +291,7 @@ There you go! After reading this guide, you would be able to mock GPS on your Op
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -331,6 +343,9 @@ As the name already hints, this mode is best if you want to save the phone batte
 
 If you are in a place with poor Wi-Fi and Bluetooth networks, the best way to manage your android location settings is to turn on the Oppo A78 device-only mode. This feature prioritizes the inbuilt GPS radio signals over other networks. It functions just like cars, but, minds you, it consumes more battery power than different modes and will perform best when you're outside.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Emergency Location services**
 
 When you dial or text an emergency number like 911, your device's location is available to emergency responders through Emergency Location Services. Only if local emergency responders rely on location data is this setting relevant. Even if you don't want your location to be shared with emergency services, your mobile provider has the option to do so.
@@ -392,3 +407,54 @@ Managing your android phone's location services can be super helpful to access s
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-14-ultra-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi 14 Ultra Location Settings | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-oppo-reno-9a-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Oppo Reno 9A</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-y36i-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo Y36i Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-a2plus-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi A2+ Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-note-12-4g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi Note 12 4G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-the-network-of-youtube-multitasking-mastery/"><u>2024 Approved  Navigating The Network Of YouTube Multitasking Mastery</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/top-7-icloud-activation-bypass-tools-for-your-apple-iphone-se-2022-by-drfone-ios/"><u>Top 7 iCloud Activation Bypass Tools For your Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-definitive-guide-to-srt-editing-on-mac/"><u>[Updated] In 2024, The Definitive Guide to SRT Editing on Mac</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-k70e-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi K70E Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-civi-3-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Civi 3 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-14-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi 14 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-y27s-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo Y27s Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-13-ultra-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi 13 Ultra Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-y78t-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo Y78t Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-a2-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi A2 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-note-12-pro-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi Note 12 Pro 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-y36-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo Y36 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-zte-blade-a73-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your ZTE Blade A73 5G Is Unlocked</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-y78plus-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo Y78+ Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-k70-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi K70 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-note-12-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi Note 12 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-note-12-proplus-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi Note 12 Pro+ 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-y28-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo Y28 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-y55s-5g-2023-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo Y55s 5G (2023) Location Settings | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-honor-magic-6-lite-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Honor Magic 6 Lite</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-elevate-facebook-videos-with-synchronized-musical-charm/"><u>[Updated] 2024 Approved  Elevate Facebook Videos with Synchronized Musical Charm</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-y56-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo Y56 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-y78plus-t1-edition-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo Y78+ (T1) Edition Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-14-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi 14 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-k70-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi K70 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-mix-fold-3-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Mix Fold 3 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-13c-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi 13C 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-y78-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo Y78 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-civi-3-disney-100th-anniversary-edition-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Civi 3 Disney 100th Anniversary Edition Location Settings | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-animated-bouncing-text-2-ways/"><u>[Updated] 2024 Approved  How to Create Animated Bouncing Text [2 Ways]</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-poco-x6-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Poco X6 Pro to New Phone | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-note-12-pro-4g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi Note 12 Pro 4G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-13t-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi 13T Location Settings | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-20-hit-tiktok-rhymes-you-cant-miss-for-2024/"><u>[New] 20 Hit TikTok Rhymes You Can't Miss for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-12-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi 12 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-xiaomi-redmi-k70-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Xiaomi Redmi K70 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-13t-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi 13T Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-12-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi 12 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-note-12r-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi Note 12R Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-y77t-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo Y77t Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-13c-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi 13C Location Settings | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Honor 90 Lite? | Dr.fone</u></a></li>
+</ul></div>

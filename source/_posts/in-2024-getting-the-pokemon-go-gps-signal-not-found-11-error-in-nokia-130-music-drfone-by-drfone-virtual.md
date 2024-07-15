@@ -1,7 +1,7 @@
 ---
 title: In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Nokia 130 Music | Dr.fone
-date: 2024-05-19T03:49:53.183Z
-updated: 2024-05-20T03:49:53.183Z
+date: 2024-07-14T04:20:34.333Z
+updated: 2024-07-15T04:20:34.333Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes Getting the Pokemon Go GPS Signal Not Found 11 Error in Nokia 130 Music
 excerpt: This article describes Getting the Pokemon Go GPS Signal Not Found 11 Error in Nokia 130 Music
 keywords: change location on 130 Music,change location on android,fake location on 130 Music,fake gps location on android,fake location on android,change gps location on android
-thumbnail: https://www.lifewire.com/thmb/medNi2-ezQAi4chkGlIzs91_k0o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Watch-Ultra-2-23e8ec3e4ee04c6e98c9d654a35f59ec.jpg
+thumbnail: https://thmb.techidaily.com/ced37c54f6280b48c4cccd59bb3d4e6e75cf48a369ed52226c792a6ec4885ea2.jpg
 ---
 
 ## Getting the Pokemon Go GPS Signal Not Found 11 Error in Nokia 130 Music
@@ -45,6 +45,9 @@ The simplest way to fix the Pokemon Go GPS not found 11 issue is by restarting t
 
 ![close pokemon go app](https://images.wondershare.com/drfone/2020/close-pokemon-go-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Update or Reinstall the Pokemon Go app
 
 If you are using a corrupt or outdated Pokemon Go app, then you can get the GPS not found 11 error as well. Firstly, you can just go to the App/Play Store, look for Pokemon Go, and update the app.
@@ -63,6 +66,9 @@ Since this is a location-based error, you can also consider resetting the locati
 
 Android users get the feature to set mock location on their phones, but it can also be a reason for getting the GPS not found 11 error. Therefore, if you are also getting the GPS signal not found 11 issue on your Android, then go to its Settings > Developer Options. From here, make sure that you have disabled any mock location app or settings on your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disable mock location android](https://images.wondershare.com/drfone/2020/disable-mock-location-android.jpg)
 
 ### Fix 5: Restart your Smartphone
@@ -77,6 +83,9 @@ Now, just wait for a while as your phone would restart and launch Pokemon Go aft
 
 If there is a network-related problem causing the GPS not found 11 error, then you can just reset the Airplane mode. At first, just go to the Control Center or the Settings of your device to enable the Airplane mode.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android airplane mode](https://images.wondershare.com/drfone/2020/android-airplane-mode.jpg)
 
 This will automatically turn off its networks (like cellular data). Now, wait for a while, and turn off the Airplane mode to resolve the GPS not found 11 problems.
@@ -99,6 +108,9 @@ If you use an iOS device and are getting the Pokemon Go GPS signal not found 11 
 - You can also use the application to simulate the movement of your phone between different spots at a preferred speed. A GPS joystick would also be included to customize your movement.
 - The tool can spoof your iPhone location without any jailbreak access or harm your device.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![virtual location 5](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen=""></iframe>
@@ -210,6 +222,9 @@ Take a look!
 
 ## #1 Dr. Fone – Virtual Location
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone virtual location app](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen=""></iframe>
@@ -240,7 +255,7 @@ It is compatible with almost all location-based apps, including Instagram, Snapc
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -548,3 +563,54 @@ If you are looking for a safe and reliable location changer, then use [Dr.Fone -
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-s18-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo S18 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-s17t-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo S17t Location Settings | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-movie-magic-9-best-intro-makers-for-your-video-projects-for-2024/"><u>New Movie Magic 9 Best Intro Makers for Your Video Projects for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-from-basic-to-breathtaking-transforming-your-profile-pic-on-discord/"><u>[Updated] From Basic to Breathtaking  Transforming Your Profile Pic on Discord</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-oppo-reno-11-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Oppo Reno 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-v29e-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo V29e Location Settings | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premier-pros-pathway-to-perfect-sound-cutting-for-2024/"><u>Premier Pro's Pathway to Perfect Sound Cutting for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/beginners-guide-adding-text-overlays-on-youtube/"><u>Beginner's Guide  Adding Text Overlays on YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-secrets-to-amazing-photo-collages-for-2024/"><u>Unveiling Secrets to Amazing Photo Collages for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-spark-20-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Spark 20 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-top-win-friendly-art-programs-all-free-and-subscription-options/"><u>In 2024, Top Win-Friendly Art Programs  All-Free & Subscription Options</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-s17-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo S17 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-spark-10c-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Spark 10C Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-v27-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo V27 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-s18-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo S18 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-galaxy-s23-ultra-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Galaxy S23 Ultra has native HEVC support?</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-pova-5-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Pova 5 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-t2x-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo T2x 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-pova-5-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Pova 5 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-spark-10-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Spark 10 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-11-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 11</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-t2-pro-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo T2 Pro 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-unveiling-your-digital-destiny-the-art-of-creating-and-launching-a-youtube-chanel/"><u>[Updated] Unveiling Your Digital Destiny  The Art of Creating and Launching a YouTube Chanel</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-v27-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo V27 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-spark-20-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Spark 20 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-spark-20c-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Spark 20C Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-spark-10-4g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Spark 10 4G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-v27e-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo V27e Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-s18e-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo S18e Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-s17-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo S17 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-v29-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo V29 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-pova-6-pro-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Pova 6 Pro 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-fcpx-pro-tip-add-a-skin-smoother-effect-without-any-plugins/"><u>New In 2024, FCPX Pro Tip Add a Skin Smoother Effect Without Any Plugins</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-boost-your-buzz-telegram-tactics-for-impactful-promotion/"><u>2024 Approved  Boost Your Buzz  Telegram Tactics for Impactful Promotion</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-v29-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo V29 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-t2-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo T2 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-s17e-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo S17e Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-spark-20-proplus-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Spark 20 Pro+ Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-spark-10-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Spark 10 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-pop-8-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Pop 8 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tips-and-tricks-for-effortless-finding-exceptional-pexel-images-for-2024/"><u>Tips and Tricks for Effortless Finding Exceptional Pexel Images for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-spark-go-2023-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Spark Go (2023) Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-g2-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo G2 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-exploring-online-resources-for-listening-to-birds-melodies-as-mp3s/"><u>Updated 2024 Approved Exploring Online Resources for Listening to Birds Melodies as MP3s</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-podcasters-guide-to-premium-recorders/"><u>2024 Approved  Podcaster's Guide to Premium Recorders</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-v30-lite-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo V30 Lite 5G Location Settings | Dr.fone</u></a></li>
+</ul></div>

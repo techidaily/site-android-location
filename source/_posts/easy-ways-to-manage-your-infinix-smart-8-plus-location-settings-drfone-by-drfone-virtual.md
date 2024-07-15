@@ -1,7 +1,7 @@
 ---
 title: Easy Ways to Manage Your Infinix Smart 8 Plus Location Settings | Dr.fone
-date: 2024-05-19T03:49:42.588Z
-updated: 2024-05-20T03:49:42.588Z
+date: 2024-07-14T02:59:00.482Z
+updated: 2024-07-15T02:59:00.482Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes Easy Ways to Manage Your Infinix Smart 8 Plus Location Settings
 excerpt: This article describes Easy Ways to Manage Your Infinix Smart 8 Plus Location Settings
 keywords: change location on android,change gps location on android,fake gps location on android,fake location on android,change location on Smart 8 Plus,fake location on Smart 8 Plus
-thumbnail: https://www.lifewire.com/thmb/BEu1dTImTgj-gj19IMN4njOxWDE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/set-top-dvr-1130767-f2aa7f11e3d2442b966d53b8aa2d25fd.png
+thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f7257579ffa960f9e7a085032e4b04.png
 ---
 
 ## Easy Ways to Manage Your Infinix Smart 8 Plus Location Settings
@@ -102,6 +102,9 @@ _“What is the best free location spoofer app for Android? There are some songs
 
 From streaming unavailable content to catching more Pokemons, there are countless of reasons for using a location spoofer app on Android. Unlike an iPhone, it is pretty easy to fake your location on an Android. All you got to do is unlock developer options and use a fake GPS location spoofer app. Thankfully, there are so many fake GPS spoofer apps that you can download from the Play Store. In this guide, I have picked the 10 best GPS spoofer apps that you can try for free!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![location spoofers](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-1.jpg)
 
 ## Part 1: How to Select Reliable Location Spoofers for Android
@@ -140,7 +143,7 @@ Download link: [https://play.google.com/store/apps/details?id=com.lexa.fakegps](
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -189,7 +192,7 @@ Download link: [https://play.google.com/store/apps/details?id=org.hola.gpslocati
 
 ![Fake GPS by Hola](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-4.jpg)
 
-### [Fake GPS Location Spoofer](https://drfone.wondershare.com/fake-location/fake-gps-location-spoofer.html)
+### Fake GPS Location Spoofer
 
 If you are looking for a lightweight, reliable, and user-friendly location spoofer, then you can give this app a try. It has been recently updated to provide support for most gaming and dating apps.
 
@@ -262,6 +265,9 @@ Download link: [https://play.google.com/store/apps/details?id=com.locationchange
 
 ![Location Changer by NetLinkd](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Mock Locations by Dvaoru
 
 As the name suggests, this fake location spoofer free will let you mock the GPS feature on your phone. The app works with gaming apps like Pokemon Go as well.
@@ -299,6 +305,9 @@ Download link: [https://play.google.com/store/apps/details?id=com.pe.fakegpsrun]
 
 ![Fake GPS Run](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fake GPS 360
 
 Last, but not the least, this free fake GPS spoofer will provide a fast and simple solution to change your location. You can spoof your location to any place in the world by looking at its coordinates.
@@ -479,7 +488,7 @@ Fake GPS Go Location Spoofer is a premium tool, but most of its functions are fr
 
 **Price**: Free
 
-![ fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
+![fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
 
 Fake GPS Location Professional is another free tool to deceive your GPS on Android devices. However, whenever you want to use it, you will have to go through Settings and mock your location manually every time.
 
@@ -493,7 +502,7 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 **Step 1. Install** the [**Fake GPS location by Lexa app**](https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en) from the Google Play store.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
 
 **Step 2**. Go to the **Developer option** on an Android device (**refer to the FAQ section** to learn how to enable Developer options on an Android device).
 
@@ -501,18 +510,18 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 - **Click on the Select mock location app option** to view all the Fake GPS locations installed on your Infinix Smart 8 Plus.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
 
 - Add **Fake GPS Location by Lexa.**
 
-![ mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
+![mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
 
 **Step 4.** Close the Settings after adding the Fake GPS location by Lexa in Developer options.
 
 - **Open the Fake GPS Location by Lexa app.**
 - And **choose the desired fake location**.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
 
 ### 1\. How To Enable Developer Options In Android?
 
@@ -523,19 +532,34 @@ Here’s how to enable the developer option:
 - Open
 - **Go to System.**
 
-![ fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
 
 - Navigate to **About Phone** and open it.
 
-![ fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
+![fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
 
 - Choose the **Software info**
 
-![ fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
+![fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
 
 - And click on **Build Number 7 times to see** the developer options screen.
 
-![ fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
 
 You can now access the Developer options directly in the Settings menu. Now, use the earlier method to set the location-spoofing app in the Developer options.
 
@@ -580,3 +604,53 @@ These three are the most effective methods to fake GPS locations on Android. How
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-magic-vs-2-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-x8b-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-magic-5-lite-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-x50-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-affordable-asmr-microphones-with-peak-performance-quality-crest/"><u>[Updated] 2024 Approved  Affordable ASMR Microphones with Peak Performance, Quality Crest</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cannot-initialize-graphical-display/"><u>Cannot Initialize Graphical Display</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-magic-v2-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-edit-like-a-pro-best-gopro-video-editing-software-besides-gopro-studio/"><u>New Edit Like a Pro Best GoPro Video Editing Software (Besides GoPro Studio)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-twittify-your-snaps-seamless-tweeting-to-snapsharing/"><u>In 2024, Twittify Your Snaps  Seamless Tweeting-to-Snapsharing</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-90-lite-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-unseen-glimpse-of-fb-stories/"><u>[New] In 2024, Unseen Glimpse of FB Stories</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-90-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/make-your-grans-old-computer-senior-friendly-and-simple/"><u>Make Your Gran’s Old Computer Senior-Friendly & Simple</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-v-purse-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-play-40c-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-x50i-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-magic-6-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-skyrocketing-video-performance-on-vimeo/"><u>[Updated] In 2024, Skyrocketing Video Performance on Vimeo</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-magic-5-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-xs-max-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone XS Max in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-useful-guide-to-speed-updown-videos-in-vlc/"><u>Updated 2024 Approved Useful Guide to Speed Up/Down Videos in VLC</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-honor-x50-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Honor X50</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10-kids-friendly-drones-for-new-flyers/"><u>[New] Top 10 Kids' Friendly Drones - For New Flyers</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-play-7t-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-beginners-handbook-for-pc-users-initiating-a-tiktok-broadcast/"><u>2024 Approved  Beginner's Handbook for PC Users - Initiating a TikTok Broadcast</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-90-gt-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-x7b-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-androidiphone-the-best-selection-of-free-overlays-for-image-enhancement/"><u>[Updated] Android/iPhone  The Best Selection of Free Overlays for Image Enhancement</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-90-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-magic-6-lite-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-guaranteed-tiktok-footage-storage-phone-edition/"><u>[New] Guaranteed TikTok Footage Storage  Phone Edition</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-play-8t-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-magic-5-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719577485164-learn-japanese-numbers-in-just-10-minutes/"><u>Learn Japanese Numbers In Just 10 Minutes!</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-top-mac-device-for-seamless-auto-music-integration-for-2024/"><u>Updated Top Mac Device for Seamless Auto Music Integration for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/op-picks-for-professional-video-opening-tools/"><u>[New] Top Picks for Professional Video Opening Tools</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-x50iplus-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-magic-6-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-tool-for-video-cuts-full-review-of-vivacut-24-edition/"><u>[Updated] The Ultimate Tool for Video Cuts  Full Review of VivaCut '24 Edition</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-x50-gt-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-best-8-concealed-video-downloading-software-of-2023/"><u>[New] In 2024, Best 8 Concealed Video Downloading Software of 2023</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-cut-the-red-tape-simplify-xboxfb-broadcasting/"><u>[New] In 2024, Cut the Red Tape  Simplify Xbox/FB Broadcasting</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-navigating-the-world-of-youtube-titling-and-tagging/"><u>[New] Navigating the World of YouTube Titling and Tagging</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-magic5-ultimate-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor Magic5 Ultimate | Dr.fone</u></a></li>
+</ul></div>

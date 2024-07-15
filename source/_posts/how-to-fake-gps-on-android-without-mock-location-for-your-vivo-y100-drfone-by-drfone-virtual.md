@@ -1,7 +1,7 @@
 ---
 title: How to Fake GPS on Android without Mock Location For your Vivo Y100 | Dr.fone
-date: 2024-05-19T03:49:46.584Z
-updated: 2024-05-20T03:49:46.584Z
+date: 2024-07-14T03:30:29.394Z
+updated: 2024-07-15T03:30:29.394Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Fake GPS on Android without Mock Location For your Vivo Y100
 excerpt: This article describes How to Fake GPS on Android without Mock Location For your Vivo Y100
 keywords: fake gps location on android,fake location on Y100,change gps location on android,change location on Y100,fake location on android,change location on android
-thumbnail: https://www.lifewire.com/thmb/paxenpSCdfx6iq9NSGAW8vCuNEc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nightbooks-93aa15da6f37406fa34e8c155b1067b3.jpg
+thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5c304888c5062a8c04d6107f.jpg
 ---
 
 ## How to Fake GPS on Android without Mock Location For your Vivo Y100
@@ -34,7 +34,7 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both Android and iOS!
 
@@ -56,6 +56,9 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 
 **Step 3:** A world map with 5 modes at the side will appear; you can choose an option to proceed. There’s the teleport, two-stop, and multi-stop mode for you to choose from to fake location without developer options. Here we take the teleport mode as an example.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose destination](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 **Step 4:** After choosing an option, search for your preferred location in the search bar and press "Go" once you find it.
@@ -128,7 +131,7 @@ _**Tips:** Discover the most effective way to fake GPS on Android without using 
 
 
 
-_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html)_
+_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html) _
 
 ## Part 4: Mock Location Feature on Different Android Models
 
@@ -150,6 +153,9 @@ Another device you can access the mock location on again is the LG Smartphone de
 
 Xiaomi devices don’t use build numbers. They work with MIUI numbers. So to enable the mock location feature on your Xiaomi device, you must first tap on the MIUI number. You can locate this number by visiting ‘settings’ and selecting ‘About Phone’ on the list of options. Once you tap on the number, you will see the ‘Allow Mock Location Apk’ option.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![locate mock location on xiaomi](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-9.jpg)
 
 ### 4\. Huawei
@@ -178,7 +184,7 @@ If you think the way above is complicated for you, you can just use the easiest 
 
 There are varying purposes why you might want to fake your location. Luckily, several apps are available to **fake GPS on Android without mock location**. The best option for you would be the [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With this fake location app, you can access any third-party app and be in a whole different country from the comfort of your home. However, this article also provides you with other options you can explore.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Fake Android Location without Rooting For Your Vivo Y100
 
@@ -224,6 +230,9 @@ Edit the images and post it accordingly on Instagram/Snapchat etc to divert your
 
 ![Instagram/Snapchat/Facebook location spoofing](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Dating apps like Tinder
 
 Tinder is a dating app mostly used by singles, college students, and committed ones too. Here the members get to know one another and go for a dating. Some members make use of this app just to make friends.
@@ -272,7 +281,7 @@ The VPN provider will assist you by serving a new IP address to mask your locati
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -320,6 +329,9 @@ Step 1: After successful installation of Lexa, tap the icon to trigger the app. 
 
 Step 2: Click the ‘Set Location’ option and drag the pointer on the map as per your desire
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drag the pointer on the map](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-15.jpg)
 
 Step 3: Save the changes and exit from App. Your Vivo Y100 phone will display the new location address in the notification window.
@@ -358,6 +370,9 @@ From streaming unavailable content to catching more Pokemons, there are countles
 
 ![location spoofers](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to Select Reliable Location Spoofers for Android
 
 Before you get to know about the best fake GPS spoofer apps for Android, it is important to understand how to pick a suitable app yourself. Ideally, you should look for these parameters while downloading any fake location spoofer.
@@ -394,7 +409,7 @@ Download link: [https://play.google.com/store/apps/details?id=com.lexa.fakegps](
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -443,7 +458,7 @@ Download link: [https://play.google.com/store/apps/details?id=org.hola.gpslocati
 
 ![Fake GPS by Hola](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-4.jpg)
 
-### [Fake GPS Location Spoofer](https://drfone.wondershare.com/fake-location/fake-gps-location-spoofer.html)
+### Fake GPS Location Spoofer
 
 If you are looking for a lightweight, reliable, and user-friendly location spoofer, then you can give this app a try. It has been recently updated to provide support for most gaming and dating apps.
 
@@ -590,3 +605,53 @@ This brings us to the end of this extensive post about the best GPS spoofer apps
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-zte-nubia-z60-ultra-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-magic-5-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor Magic 5 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-gionee-f3-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Gionee F3 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-70-lite-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor 70 Lite 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-100-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor 100 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-begin-the-stream-an-introduction-to-instagram-lives/"><u>In 2024, Begin the Stream  An Introduction to Instagram Lives</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-80-pro-straight-screen-edition-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor 80 Pro Straight Screen Edition Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-google-pixel-fold-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Google Pixel Fold Location Settings | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-15-online-and-desktop-platforms-to-create-gifs/"><u>[Updated] Top 15 Online & Desktop Platforms to Create GIFs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-google-pixel-8-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Google Pixel 8 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-zte-nubia-flip-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-magic-6-lite-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor Magic 6 Lite Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-magic-v2-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor Magic V2 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-crafting-journeys-a-comprehensive-guide-for-aspiring-travel-content-creators/"><u>[Updated] Crafting Journeys  A Comprehensive Guide for Aspiring Travel Content Creators</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/powerful-techniques-including-yt-videos-in-slides/"><u>Powerful Techniques  Including YT Videos in Slides</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-asus-rog-phone-7-ultimate-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Asus ROG Phone 7 Ultimate Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-asus-rog-phone-7-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Asus ROG Phone 7 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-magic-5-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor Magic 5 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-90-gt-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor 90 GT Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-90-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor 90 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-magic-5-lite-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor Magic 5 Lite Location Settings | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/8-frame-rate-video-converters-you-must-try-for-2024/"><u>8 Frame Rate Video Converters You Must Try for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-maximizing-streaming-is-sub4sub-effective/"><u>[New] Maximizing Streaming  Is Sub4Sub Effective?</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-asus-rog-phone-8-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Asus ROG Phone 8 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-asus-rog-phone-8-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Asus ROG Phone 8 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-zte-blade-a73-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-unlock-final-cut-pro-at-a-steal-explore-education-discounts/"><u>In 2024, Unlock Final Cut Pro at a Steal Explore Education Discounts</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-100-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor 100 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-google-pixel-7a-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Google Pixel 7a Location Settings | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-google-pixel-7a-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Google Pixel 7a.</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-magic-6-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor Magic 6 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-lava-blaze-2-pro-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Lava Blaze 2 Pro FRP</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-magic-6-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor Magic 6 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-hybrid-graphics-problem-windows-11-compatibility/"><u>Fixed Hybrid Graphics Problem - Windows 11 Compatibility</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-a-detailed-comparison-vsdc-vs-other-recorders/"><u>[New] 2024 Approved  A Detailed Comparison  VSDC vs Other Recorders</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-artisans-guide-to-blending-visuals-and-melodies-in-canvas-videos-for-2024/"><u>The Artisan's Guide to Blending Visuals & Melodies in Canvas Videos for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-the-best-4-digital-solutions-to-supercharge-your-video-volume-and-clarity/"><u>Updated 2024 Approved The Best 4 Digital Solutions to Supercharge Your Video Volume and Clarity</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-90-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor 90 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-google-pixel-8-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Google Pixel 8 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-zte-axon-40-lite-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-achieve-fluent-fb-video-posting-windows-linux-ios-and-android-tips/"><u>[Updated] 2024 Approved  Achieve Fluent FB Video Posting  Windows, Linux, iOS & Android Tips</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-90-lite-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor 90 Lite Location Settings | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fake GPS on Android without Mock Location For your Sony Xperia 10 V | Dr.fone
-date: 2024-03-23 20:37:38
-updated: 2024-03-25 17:25:57
+date: 2024-07-14T04:29:53.782Z
+updated: 2024-07-15T04:29:53.782Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Fake GPS on Android without Mock Location For your Sony Xperia 10 V
 excerpt: This article describes How to Fake GPS on Android without Mock Location For your Sony Xperia 10 V
 keywords: fake location on Xperia 10 V,change location on Xperia 10 V,fake location on android,fake gps location on android,change location on android,change gps location on android
-thumbnail: https://www.lifewire.com/thmb/85rwStNr21lvFIjCfmY8ErdogYI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wimbledonlivestream-c22d5eefbf8f40e9b25ba4cab1734ece.jpg
+thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c12bd8c02f2b01f747786c25.jpg
 ---
 
 ## How to Fake GPS on Android without Mock Location For your Sony Xperia 10 V
@@ -34,7 +34,7 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both Android and iOS!
 
@@ -86,6 +86,9 @@ _**App Link:** <https://play.google.com/store/apps/details?id=com.lexa.fakegps&h
 
 ### 2\. Fake Location Using Floater
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use floater fake gps location](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-5.png)
 
 This is another effective fake GPS app that you can use to fake GPS. It works as a floating window above games and third-party apps. With Floater, you can change your location to a place globally. Additionally, you can save your favorite locations and test apps without locking onto a GPS signal. This feature is great for developers. Additionally, Floater can fake GPS location when you’re tagging pictures. It shows you any part of the world you want so you can pick where you want people to think you are.
@@ -94,6 +97,9 @@ _**App Link:** <https://play.google.com/store/apps/details?id=com.marlon.floatin
 
 ### 3\. Fake GPS Location with GPS Joystick
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use fake location with gps joystick](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-6.jpg)
 
 Many people love this app because it doesn’t require users to root their devices. The app comes with a virtual joystick you can use to change location on the screen. However, if you want to get the best result with this app, you should set it to ‘High Accuracy.’ The joystick is available for instant changing of location, and this app is compatible with Android 4.0 and higher. It is the best option if you’re looking for a convenient app that gives the best of what you’re looking for.
@@ -128,7 +134,7 @@ _**Tips:** Discover the most effective way to fake GPS on Android without using 
 
 
 
-_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html)_
+_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html) _
 
 ## Part 4: Mock Location Feature on Different Android Models
 
@@ -178,7 +184,10 @@ If you think the way above is complicated for you, you can just use the easiest 
 
 There are varying purposes why you might want to fake your location. Luckily, several apps are available to **fake GPS on Android without mock location**. The best option for you would be the [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With this fake location app, you can access any third-party app and be in a whole different country from the comfort of your home. However, this article also provides you with other options you can explore.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 
 
@@ -274,7 +283,7 @@ The VPN provider will assist you by serving a new IP address to mask your locati
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -292,6 +301,9 @@ You must make some changes on your Sony Xperia 10 V Phone before installing the 
 
 Step 1: In your Sony Xperia 10 V Phone go to the ‘Settings’ option and select ‘About Phone’
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Settings](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-9.jpg)
 
 Step 2: In the next window choose ‘Software Information’
@@ -356,6 +368,9 @@ _“Hi! I'm Jack and I play Pokemon Go in between classes or whenever I get free
 
 This is one of the many queries that we get from Sony  users who wish to mock GPS on their phones. The good news is that on various Android phones, you can use a mock GPS apk to fake your location. Though, Sony  users need to be a bit cautious since the company has so many security restrictions. Don’t worry – I’m here to help you use the best mock GPS app for your phone. Read on to clear your doubts and enable the mock GPS provider on your phone like a pro!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mock GPS on the map](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-1.jpg)
 
 ## Part 1: What is Mock GPS on Sony Xperia 10 V?
@@ -419,7 +434,7 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Sony  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Sony ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Sony](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Sony Xperia 10 V device.
 
@@ -447,7 +462,7 @@ There you go! After reading this guide, you would be able to mock GPS on your So
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -474,3 +489,44 @@ There you go! After reading this guide, you would be able to mock GPS on your So
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-complete-audio-editors-journey-through-garageband/"><u>2024 Approved  The Complete Audio Editor's Journey Through GarageBand</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Vivo V27? | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-1-audio-purification-kit-videos-elevate-visuals-to-the-next-level/"><u>New 2024 Approved 1 Audio Purification Kit Videos Elevate Visuals to the Next Level</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-tecno-spark-10-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-tecno-spark-10-4g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-the-ultimate-guide-to-fusing-high-fidelity-audio-into-mp4-filmmaking/"><u>New 2024 Approved The Ultimate Guide to Fusing High-Fidelity Audio Into MP4 Filmmaking</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-tecno-phantom-v-flip-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-tecno-pop-7-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-tecno-camon-30-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-top-eco-friendly-visual-effect-systems-a-beginners-guide/"><u>[Updated] In 2024, Top Eco-Friendly Visual Effect Systems  A Beginner's Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-tecno-spark-10c-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-tecno-pova-6-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-capture-your-conversations-top-rated-free-and-paid-techniques-windowsmac/"><u>[New] In 2024, Capture Your Conversations  Top-Rated Free and Paid Techniques (Windows/Mac)</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-15-pro-max-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-sony-xperia-5-v-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-simple-screen-recorder-for-windows-11/"><u>[New] 2024 Approved  Simple Screen Recorder for Windows 11</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-sony-xperia-10-v-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-tecno-camon-20-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-unconfident-to-impactful-embracing-youtube-blogging/"><u>[Updated] 2024 Approved  From Unconfident to Impactful  Embracing YouTube Blogging</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-rhythm-and-recording-in-snapchat/"><u>[New] Rhythm & Recording in Snapchat</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-sony-xperia-1-v-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-tecno-camon-20-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-elevating-your-tiktok-career-with-effective-monetization-strategies/"><u>[Updated] In 2024, Elevating Your TikTok Career with Effective Monetization Strategies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/vloggers-guide-to-top-5-game-microphones-for-2024/"><u>Vloggers’ Guide to Top 5 Game Microphones for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-tecno-pova-5-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-controller-utilization-a-ryujinx-emulation-blueprint/"><u>Efficient Controller Utilization: A Ryujinx Emulation Blueprint</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-tecno-pop-8-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-tecno-pova-5-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-wav-converter-mastery-tips-tricks-and-techniques/"><u>Updated 2024 Approved Wav Converter Mastery Tips, Tricks, and Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/audio-archiving-pc-noises-and-dialogue-storage-for-2024/"><u>Audio Archiving  PC Noises & Dialogue Storage for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On OnePlus 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-tecno-phantom-v-fold-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-confirming-youtube-pro-rated-earnings/"><u>[Updated] 2024 Approved  Confirming YouTube Pro-Rated Earnings</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-tecno-spark-10-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-tecno-camon-20-premier-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+</ul></div>

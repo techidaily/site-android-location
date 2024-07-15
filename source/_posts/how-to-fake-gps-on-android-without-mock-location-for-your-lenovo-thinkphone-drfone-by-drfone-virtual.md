@@ -1,7 +1,7 @@
 ---
 title: How to Fake GPS on Android without Mock Location For your Lenovo ThinkPhone | Dr.fone
-date: 2024-05-19T03:49:45.935Z
-updated: 2024-05-20T03:49:45.935Z
+date: 2024-07-14T03:26:24.989Z
+updated: 2024-07-15T03:26:24.989Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Fake GPS on Android without Mock Location For your Lenovo ThinkPhone
 excerpt: This article describes How to Fake GPS on Android without Mock Location For your Lenovo ThinkPhone
 keywords: change location on ThinkPhone,change gps location on android,fake location on android,fake location on ThinkPhone,fake gps location on android,change location on android
-thumbnail: https://www.lifewire.com/thmb/sujrBq1SN6zkmNgqHTSAbFbTvKk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/18-Hidden-Snapchat-Features-efa75dca521e4cf6bb321dc960276deb.jpg
+thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0bb65c23b15603692f6dffac9.jpg
 ---
 
 ## How to Fake GPS on Android without Mock Location For your Lenovo ThinkPhone
@@ -34,7 +34,7 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both Android and iOS!
 
@@ -76,6 +76,9 @@ This fake location app allows you to switch locations easily. Therefore, it is a
 
 **Step 1:** Download the Fake GPS Location app from the Google Play Store on your Lenovo ThinkPhone. Use the search bar, and it will pop up amongst the search results.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use fake gps location](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-4.jpg)
 
 **Step 2:** After installation, select this app as your mock location app on your phone by exploring your device settings. Go to developer options on your Lenovo ThinkPhone and tap on "Select mock location app". The next step is to choose Fake GPS Location from the displayed option.
@@ -84,6 +87,9 @@ This fake location app allows you to switch locations easily. Therefore, it is a
 
 _**App Link:** <https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en\_US>_
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Fake Location Using Floater
 
 ![use floater fake gps location](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-5.png)
@@ -128,7 +134,7 @@ _**Tips:** Discover the most effective way to fake GPS on Android without using 
 
 
 
-_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html)_
+_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html) _
 
 ## Part 4: Mock Location Feature on Different Android Models
 
@@ -178,7 +184,7 @@ If you think the way above is complicated for you, you can just use the easiest 
 
 There are varying purposes why you might want to fake your location. Luckily, several apps are available to **fake GPS on Android without mock location**. The best option for you would be the [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With this fake location app, you can access any third-party app and be in a whole different country from the comfort of your home. However, this article also provides you with other options you can explore.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Getting the Pokemon Go GPS Signal Not Found 11 Error in Lenovo ThinkPhone
 
@@ -209,6 +215,9 @@ As I have listed above, the Pokemon Go GPS not found 11 problem can arise due to
 
 The simplest way to fix the Pokemon Go GPS not found 11 issue is by restarting the game. If the app has not been loaded properly, then it would resolve this problem. All you need to do is tap on the app switcher button on your device to view all the apps running in the background. From here, swipe the Pokemon Go card to stop it from running. Afterward, restart the app and check if it would fix the GPS signal not found 11 Pokemon Go issue.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![close pokemon go app](https://images.wondershare.com/drfone/2020/close-pokemon-go-app.jpg)
 
 ### Fix 2: Update or Reinstall the Pokemon Go app
@@ -219,6 +228,9 @@ If you are using a corrupt or outdated Pokemon Go app, then you can get the GPS 
 
 If you still get the Pokemon Go GPS not found 11 error, then consider deleting the app first. Afterward, go to the App/Play Store again and install the app on your device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Reset the Location Settings on your phone
 
 Since this is a location-based error, you can also consider resetting the location services on your phone. For this, just go to the Location Services (GPS) settings and toggle it off (and on). You can also go to the notification center and tap on the GPS icon to turn the service off and on again.
@@ -293,7 +305,7 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both Android and iOS!
 
@@ -387,7 +399,7 @@ _**Tips:** Discover the most effective way to fake GPS on Android without using 
 
 
 
-_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html)_
+_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html) _
 
 ## Part 4: Mock Location Feature on Different Android Models
 
@@ -433,11 +445,14 @@ If you think the way above is complicated for you, you can just use the easiest 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 There are varying purposes why you might want to fake your location. Luckily, several apps are available to **fake GPS on Android without mock location**. The best option for you would be the [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With this fake location app, you can access any third-party app and be in a whole different country from the comfort of your home. However, this article also provides you with other options you can explore.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 
 <ins class="adsbygoogle"
@@ -456,3 +471,44 @@ There are varying purposes why you might want to fake your location. Luckily, se
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-realme-gt-5-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Realme GT 5 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-realme-narzo-n55-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Realme Narzo N55 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-2024-approved-5-foolproof-amazing-anime-text-to-speech-tips/"><u>Updated 2024 Approved 5 Foolproof Amazing Anime Text to Speech Tips</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-realme-narzo-60-pro-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Realme Narzo 60 Pro 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-samsung-galaxy-a05s-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Samsung Galaxy A05s Location Settings | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-prime-selections-the-leading-software-for-turning-tiktok-into-gif-for-2024/"><u>[New] Prime Selections  The Leading Software for Turning TikTok Into GIF for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mobile-magic-booster-free-high-quality-photo-amplification/"><u>[New] Mobile Magic Booster  Free, High-Quality Photo Amplification</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-realme-narzo-60x-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Realme Narzo 60x 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-realme-gt-neo-5-se-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Realme GT Neo 5 SE Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-realme-narzo-n53-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Realme Narzo N53 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-realme-c53-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Realme C53 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6s-plus-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6s Plus without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-capture-slow-motion-videos-with-gopro-hero-10/"><u>In 2024, How to Capture Slow Motion Videos with GoPro Hero 10?</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-realme-narzo-60-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Realme Narzo 60 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-perfect-cuts-on-demand-top-10-apps-for-youtube-short-edits/"><u>[Updated] Perfect Cuts on Demand  Top 10 Apps for Youtube Short Edits</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/reset-the-scene-fixing-your-facebook-for-2024/"><u>Reset the Scene  Fixing Your Facebook for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-samsung-galaxy-a14-4g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Samsung Galaxy A14 4G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-realme-v30t-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Realme V30T Location Settings | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-views-to-revenue-simplifying-the-process-with-a-3-step-framework-for-monitoring-youtube-income/"><u>[New] From Views to Revenue  Simplifying the Process with a 3-Step Framework for Monitoring YouTube Income</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-realme-c55-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Realme C55 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-realme-gt-neo-5-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Realme GT Neo 5 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-enhance-gameplay-the-ultimate-guide-to-using-steams-switch-controller-for-2024/"><u>[Updated] Enhance Gameplay  The Ultimate Guide to Using Steam's Switch Controller for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-harnessing-potential-how-to-excel-in-desktop-tiktok-videos/"><u>[Updated] 2024 Approved  Harnessing Potential  How to Excel in Desktop TikTok Videos</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/in-2024-unlock-cinematic-excellence-easy-tips-for-creating-stunning-videos/"><u>In 2024, Unlock Cinematic Excellence Easy Tips for Creating Stunning Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-complete-guide-to-prevent-and-repair-fb-video-issues/"><u>[Updated] The Complete Guide to Prevent and Repair FB Video Issues</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-realme-gt-5-240w-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Realme GT 5 (240W) Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-realme-note-50-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Realme Note 50 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-realme-gt-5-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Realme GT 5 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-realme-c67-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Realme C67 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-instagram-to-twitter-share-content-directly-no-rt/"><u>[New] Instagram to Twitter  Share Content Directly (No RT)</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-unlocking-your-library-the-ultimate-techniques-for-extracting-spotify-tracks/"><u>New 2024 Approved Unlocking Your Library The Ultimate Techniques for Extracting Spotify Tracks</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-average-gain-for-youtubers-per-ad-exposure/"><u>[Updated] Average Gain for YouTubers per Ad Exposure?</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-realme-c67-4g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Realme C67 4G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-demystifying-the-powerhouse-behind-youtube-creator-hub/"><u>In 2024, Demystifying the Powerhouse Behind YouTube Creator Hub</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-realme-v30-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Realme V30 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-realme-gt-3-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Realme GT 3 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-samsung-galaxy-a05-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Samsung Galaxy A05 Location Settings | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: For People Wanting to Mock GPS on Sony Xperia 5 V Devices | Dr.fone
-date: 2024-05-19T03:49:44.633Z
-updated: 2024-05-20T03:49:44.633Z
+date: 2024-07-14T03:16:06.992Z
+updated: 2024-07-15T03:16:06.992Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes For People Wanting to Mock GPS on Sony Xperia 5 V Devices
 excerpt: This article describes For People Wanting to Mock GPS on Sony Xperia 5 V Devices
 keywords: change gps location on android,fake gps location on android,change location on android,fake location on android,fake location on Xperia 5 V,change location on Xperia 5 V
-thumbnail: https://www.lifewire.com/thmb/Z0ZdjJb5nz4Ek2qcGOTaqnhoZ04=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1164718779-aa87dac78cd44ad7b71e76c27adc7e9a.jpg
+thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7f00706449676a59eeb923d9.jpg
 ---
 
 ## For People Wanting to Mock GPS on Sony Xperia 5 V Devices
@@ -39,6 +39,9 @@ The mock GPS feature is not available in standard device settings. To access it,
 - A mock GPS app would consume more battery and memory on your device as well.
 - Some apps would even become unavailable to you and you might not be able to install them from Google Play.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mock GPS feature](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-2.jpg)
 
 ## Part 3: How to Find the Best Tool to Mock GPS on Sony Xperia 5 V?
@@ -75,6 +78,9 @@ Last, but most importantly, check the feedback and the real-life experience of o
 
 ![affected apps](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Step by Step Guide to Mock GPS on Sony Xperia 5 V
 
 Now when you are all prepped-up, you can easily learn how to mock GPS on a Sony  phone. As stated above, the fake or mock GPS feature is only enabled in Developer Options on the Sony Xperia 5 V device. Thus, you need to first turn on your Sony ’s Developer Options and later pick a mock GPS app to fake the current location on your device. Here’s how you can fake location or mock GPS on your Sony  phone:
@@ -83,7 +89,10 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Sony  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Sony ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Developer Options on your Sony](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Sony Xperia 5 V device.
 
@@ -111,7 +120,7 @@ There you go! After reading this guide, you would be able to mock GPS on your So
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -129,7 +138,7 @@ Have you ever wondered why Android monitor tools exist? Well, with the recent bo
 
 Also, to track the real location of kids/spouses/employees, phone monitoring Apps for Android come in handy. Android monitoring Apps help you spy on others’ smartphones, hack their photos, messages, call logs, Social App data, location, and browsing patterns. To know more, read and find out about the 9 best and free Android monitoring Apps.
 
-_You may be interested in: [Top 21 Mobile Device Spy Apps for iPhone/iPad/Android in 2022](https://drfone.wondershare.com/spy/best-mobile-spy-apps.html)_
+_You may be interested in: [Top 21 Mobile Device Spy Apps for iPhone/iPad/Android in 2022](https://drfone.wondershare.com/spy/best-mobile-spy-apps.html) _
 
 ## Part 1: mSpy
 
@@ -307,6 +316,9 @@ Lacks features to track social media activities.
 
 Redundant when it comes to location tracking.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 7: iSpyoo
 
 iSpyoo is a good Android monitoring App to spy on target Android and its surroundings. Get access to photos, call logs, messages, location, etc using this App. It is a powerful app to track kids and employees. It can monitor Android remotely and stay invisible at all times token the spying process discrete.
@@ -413,7 +425,7 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both Android and iOS!
 
@@ -497,6 +509,9 @@ _**App Link:** <https://play.google.com/store/apps/details?id=com.rosteam.gpsemu
 
 ### 6\. Fake GPS Pro
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fake gps location app](https://images.wondershare.com/drfone/article/2023/05/how-to-fake-gps-android-without-mock-location.jpg)
 
 By utilizing the Fake GPS location, you can bypass the geographical restrictions imposed by your dating apps, effortlessly altering your location to discover new connections on any location-based social network. And you can also change the location to protect your privacy.
@@ -507,7 +522,7 @@ _**Tips:** Discover the most effective way to fake GPS on Android without using 
 
 
 
-_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html)_
+_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html) _
 
 ## Part 4: Mock Location Feature on Different Android Models
 
@@ -557,7 +572,7 @@ If you think the way above is complicated for you, you can just use the easiest 
 
 There are varying purposes why you might want to fake your location. Luckily, several apps are available to **fake GPS on Android without mock location**. The best option for you would be the [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With this fake location app, you can access any third-party app and be in a whole different country from the comfort of your home. However, this article also provides you with other options you can explore.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 
 
@@ -578,3 +593,50 @@ There are varying purposes why you might want to fake your location. Luckily, se
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/updated-rectifying-partial-muted-sounds-in-facebook-media-shows/"><u>[Updated] Rectifying Partial Muted Sounds in Facebook Media Shows</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-lava-blaze-curve-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-itel-a70-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-star-studded-whatsapp-profiles-a-zodiac-guide-to-crafting-bios/"><u>In 2024, Star-Studded WhatsApp Profiles  A Zodiac Guide to Crafting Bios</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-lava-agni-2-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-itel-p40plus-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-lava-blaze-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-best-routines-for-monitor-capturing-and-storing-television-streams/"><u>[New] 2024 Approved  Best Routines for Monitor Capturing and Storing Television Streams</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/xiaomis-new-smartphone-screenshot-tool-a-game-changer-in-recording-tech-for-2024/"><u>Xiaomi's New Smartphone Screenshot Tool  A Game Changer in Recording Tech for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-itel-p55t-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-11-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 11 When Its Locked Within Seconds</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-rapid-photovideo-resurrection-tactics/"><u>[New] In 2024, Rapid Photo/Video Resurrection Tactics</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-reveal-the-secrets-top-12-ways-to-bring-non-showing-fb-vids-into-view/"><u>2024 Approved  Reveal the Secrets  Top 12 Ways to Bring Non-Showing FB Vids Into View</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-transformative-power-of-augmented-vision/"><u>[New] The Transformative Power of Augmented Vision</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-pros-technique-for-consolidated-photo-and-video-upload-to-ig/"><u>The Pro's Technique for Consolidated Photo and Video Upload to IG</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-lava-blaze-2-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-lava-blaze-2-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-igniting-creativity-in-your-channel-top-youtube-video-ideas/"><u>[New] Igniting Creativity in Your Channel  Top YouTube Video Ideas</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-itel-a05s-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-your-podcast-potential-advanced-techniques-for-idevice-audio-recording/"><u>[New] Unlock Your Podcast Potential  Advanced Techniques for iDevice Audio Recording</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-itel-p55-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-itel-s23plus-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-visual-branding-in-small-business-marketing/"><u>In 2024, Visual Branding in Small Business Marketing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-optimize-visibility-choosing-the-right-hashtags-today-for-2024/"><u>[Updated] Optimize Visibility  Choosing the Right Hashtags Today for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/blueprinting-a-dynamic-tiktok-end-credits-rollout/"><u>Blueprinting a Dynamic TikTok End-Credits Rollout</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-open-source-musical-aid-for-playing-games/"><u>2024 Approved  Open Source Musical Aid for Playing Games</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-smart-8-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-itel-a60-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-lava-storm-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-itel-p40-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-here-is-a-list-of-top-five-free-wmv-video-editing-tools-which-feature-almost-all-sorts-of-casual-video-editing-needs/"><u>New 2024 Approved Here Is a List of Top Five Free WMV Video Editing Tools, Which Feature Almost All Sorts of Casual Video Editing Needs</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-apple-iphone-11-pro-max-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the Apple iPhone 11 Pro Max Without Previous Owner?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-itel-s23-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-masterful-tantalizing-titles-designer/"><u>In 2024, Masterful Tantalizing Titles Designer</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-essential-android-video-capture-the-best-5-picks-for-2024/"><u>[New] Essential Android Video Capture  The Best 5 Picks for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-enhance-your-contents-visibility-peak-days/"><u>[New] 2024 Approved  Enhance Your Content's Visibility - Peak Days</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-zero-30-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-itel-p55plus-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-top-budget-friendly-mac-audio-converter-tool-for-2024/"><u>New Top Budget-Friendly Mac Audio Converter Tool for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-lava-blaze-2-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-itel-a60s-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-itel-p55-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Itel P55 5G | Dr.fone</u></a></li>
+</ul></div>

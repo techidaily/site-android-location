@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Effective Methods to Fake GPS location on Android For your Oppo A18 | Dr.fone
-date: 2024-05-19T03:49:49.100Z
-updated: 2024-05-20T03:49:49.100Z
+date: 2024-07-14T03:47:41.818Z
+updated: 2024-07-15T03:47:41.818Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes 3 Effective Methods to Fake GPS location on Android For your Oppo A18
 excerpt: This article describes 3 Effective Methods to Fake GPS location on Android For your Oppo A18
 keywords: fake location on android,change location on android,change location on A18,fake gps location on android,change gps location on android,fake location on A18
-thumbnail: https://www.lifewire.com/thmb/bJZjivkvkiXSPidjAhZPdQz2Xu8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-545995058-58ed21243df78cadab023f3c.jpg
+thumbnail: https://thmb.techidaily.com/6a8b7b3cdb25a03e07ba1819bb3940ce3cb079bf3680cebd2f9e48a956c136d3.jpg
 ---
 
 ## 3 Effective Methods to Fake GPS location on Android For your Oppo A18
@@ -78,6 +78,9 @@ As mentioned, Dr. Fone Virtual Location program can do more than just mock your 
 
 That said, scroll down to discover other two methods to fake GPS location on Android devices, such as Samsung, [Xiaomi](https://drfone.wondershare.com/fake-location/how-to-fake-gps-location-on-xiaomi.html), etc.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solution 2: Change location on Android phone by VPNs
 
 Although all the VPNs claim to fake GPS on Android, only a few in the market can do it effectively.
@@ -174,7 +177,7 @@ Fake GPS Go Location Spoofer is a premium tool, but most of its functions are fr
 
 **Price**: Free
 
-![ fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
+![fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
 
 Fake GPS Location Professional is another free tool to deceive your GPS on Android devices. However, whenever you want to use it, you will have to go through Settings and mock your location manually every time.
 
@@ -188,7 +191,7 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 **Step 1. Install** the [**Fake GPS location by Lexa app**](https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en) from the Google Play store.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
 
 **Step 2**. Go to the **Developer option** on an Android device (**refer to the FAQ section** to learn how to enable Developer options on an Android device).
 
@@ -196,19 +199,22 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 - **Click on the Select mock location app option** to view all the Fake GPS locations installed on your Oppo A18.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
 
 - Add **Fake GPS Location by Lexa.**
 
-![ mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
+![mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
 
 **Step 4.** Close the Settings after adding the Fake GPS location by Lexa in Developer options.
 
 - **Open the Fake GPS Location by Lexa app.**
 - And **choose the desired fake location**.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. How To Enable Developer Options In Android?
 
 You will have to enable Developer options and incorporate the fake GPS location app to spoof your location on your Oppo A18.
@@ -218,19 +224,19 @@ Here’s how to enable the developer option:
 - Open
 - **Go to System.**
 
-![ fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
+![fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
 
 - Navigate to **About Phone** and open it.
 
-![ fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
+![fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
 
 - Choose the **Software info**
 
-![ fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
+![fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
 
 - And click on **Build Number 7 times to see** the developer options screen.
 
-![ fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
+![fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
 
 You can now access the Developer options directly in the Settings menu. Now, use the earlier method to set the location-spoofing app in the Developer options.
 
@@ -416,7 +422,7 @@ Fake GPS Go Location Spoofer is a premium tool, but most of its functions are fr
 
 **Price**: Free
 
-![ fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
+![fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
 
 Fake GPS Location Professional is another free tool to deceive your GPS on Android devices. However, whenever you want to use it, you will have to go through Settings and mock your location manually every time.
 
@@ -430,7 +436,7 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 **Step 1. Install** the [**Fake GPS location by Lexa app**](https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en) from the Google Play store.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
 
 **Step 2**. Go to the **Developer option** on an Android device (**refer to the FAQ section** to learn how to enable Developer options on an Android device).
 
@@ -438,18 +444,18 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 - **Click on the Select mock location app option** to view all the Fake GPS locations installed on your Oppo A18.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
 
 - Add **Fake GPS Location by Lexa.**
 
-![ mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
+![mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
 
 **Step 4.** Close the Settings after adding the Fake GPS location by Lexa in Developer options.
 
 - **Open the Fake GPS Location by Lexa app.**
 - And **choose the desired fake location**.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
 
 ### 1\. How To Enable Developer Options In Android?
 
@@ -460,19 +466,22 @@ Here’s how to enable the developer option:
 - Open
 - **Go to System.**
 
-![ fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
+![fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
 
 - Navigate to **About Phone** and open it.
 
-![ fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
+![fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
 
 - Choose the **Software info**
 
-![ fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
+![fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
 
 - And click on **Build Number 7 times to see** the developer options screen.
 
-![ fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
 
 You can now access the Developer options directly in the Settings menu. Now, use the earlier method to set the location-spoofing app in the Developer options.
 
@@ -590,7 +599,7 @@ The VPN provider will assist you by serving a new IP address to mask your locati
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -602,12 +611,18 @@ The VPN provider will assist you by serving a new IP address to mask your locati
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to fake Android location by GPS spoofing
 
 You must make some changes on your Oppo A18 Phone before installing the Fake GPS location app.
 
 Step 1: In your Oppo A18 Phone go to the ‘Settings’ option and select ‘About Phone’
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Settings](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-9.jpg)
 
 Step 2: In the next window choose ‘Software Information’
@@ -685,3 +700,45 @@ This article has given you a basic knowledge related to the spoofing techniques 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-reach-for-the-millennium-1000-youtube-supporters/"><u>2024 Approved  Reach for the Millennium  1,000 YouTube Supporters</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-vivo-x-fold-2-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Vivo X Fold 2 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-honor-x8b-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Honor X8b to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-15-pro-max-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 15 Pro Max Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-adventure-capturing-toolskit/"><u>In 2024, Adventure Capturing Toolskit</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-nokia-g310-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Nokia G310</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-samsung-galaxy-a05-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Samsung Galaxy A05 Devices | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-hidden-face-technique-for-anonymous-content-sharing-for-2024/"><u>The Hidden Face Technique for Anonymous Content Sharing for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-realme-v30t-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Realme V30T Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-samsung-galaxy-a23-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Samsung Galaxy A23 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-realme-note-50-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Realme Note 50 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-samsung-galaxy-a14-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Samsung Galaxy A14 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-taking-photos-steadily-on-one-leg/"><u>[Updated] Taking Photos Steadily on One Leg?</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-samsung-galaxy-a25-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Samsung Galaxy A25 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleash-creative-freedom-crafting-your-own-insta-tones-for-2024/"><u>Unleash Creative Freedom  Crafting Your Own Insta Tones for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-first-offset-guide-affordable-channel-buys-to-monetize/"><u>[New] 2024 Approved  First Offset Guide  Affordable Channel Buys to Monetize</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-samsung-galaxy-a34-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Samsung Galaxy A34 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-realme-narzo-n55-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Realme Narzo N55 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-vivo-s17-phone-by-drfone-android/"><u>How to Unlock a Network Locked Vivo S17 Phone?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-ultimate-compilation-best-tools-for-vimeo-files-for-2024/"><u>[Updated] Ultimate Compilation  Best Tools for Vimeo Files for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-realme-v30-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Realme V30 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-samsung-galaxy-f15-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Samsung Galaxy F15 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-samsung-galaxy-a05s-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Samsung Galaxy A05s Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-samsung-galaxy-a15-4g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Samsung Galaxy A15 4G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-samsung-galaxy-a15-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Samsung Galaxy A15 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-samsung-galaxy-f14-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Samsung Galaxy F14 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-vhs-nostalgia-made-easy-final-cut-pro-tutorials/"><u>2024 Approved VHS Nostalgia Made Easy Final Cut Pro Tutorials</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-fixed-eclipsed-youtube-short-video/"><u>[New] 2024 Approved  Fixed  Eclipsed YouTube Short Video</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-advanced-techniques-applying-luts-for-stunning-photos-for-2024/"><u>Mastering Advanced Techniques  Applying LUTs for Stunning Photos for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-samsung-galaxy-a24-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Samsung Galaxy A24 Devices | Dr.fone</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/how-to-reduce-gif-size-and-best-gif-resizers/"><u>How to Reduce GIF Size and Best GIF Resizers</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-make-time-lapse-video-on-macbook-complete-guide/"><u>New In 2024, Make Time-Lapse Video on MacBook Complete Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-how-can-i-share-videos-to-instagram/"><u>In 2024, How Can I Share Videos to Instagram?</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-realme-narzo-n53-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Realme Narzo N53 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-samsung-galaxy-a14-4g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Samsung Galaxy A14 4G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-samsung-galaxy-f04-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Samsung Galaxy F04 Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/steady-snaps-premier-tripods-for-mobile-cameras-for-2024/"><u>Steady Snaps  Premier Tripods for Mobile Cameras for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-samsung-galaxy-a54-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Samsung Galaxy A54 5G Devices | Dr.fone</u></a></li>
+</ul></div>

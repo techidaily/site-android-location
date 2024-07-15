@@ -1,7 +1,7 @@
 ---
 title: How to Fake GPS on Android without Mock Location For your Nokia C12 | Dr.fone
-date: 2024-07-08T04:18:16.814Z
-updated: 2024-07-09T04:18:16.814Z
+date: 2024-07-14T03:26:56.954Z
+updated: 2024-07-15T03:26:56.954Z
 tags: 
   - virtual location chang
   - location changer
@@ -86,6 +86,9 @@ _**App Link:** <https://play.google.com/store/apps/details?id=com.lexa.fakegps&h
 
 ### 2\. Fake Location Using Floater
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use floater fake gps location](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-5.png)
 
 This is another effective fake GPS app that you can use to fake GPS. It works as a floating window above games and third-party apps. With Floater, you can change your location to a place globally. Additionally, you can save your favorite locations and test apps without locking onto a GPS signal. This feature is great for developers. Additionally, Floater can fake GPS location when you’re tagging pictures. It shows you any part of the world you want so you can pick where you want people to think you are.
@@ -150,6 +153,9 @@ Another device you can access the mock location on again is the LG Smartphone de
 
 Xiaomi devices don’t use build numbers. They work with MIUI numbers. So to enable the mock location feature on your Xiaomi device, you must first tap on the MIUI number. You can locate this number by visiting ‘settings’ and selecting ‘About Phone’ on the list of options. Once you tap on the number, you will see the ‘Allow Mock Location Apk’ option.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![locate mock location on xiaomi](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-9.jpg)
 
 ### 4\. Huawei
@@ -199,6 +205,9 @@ What are the benefits of a fake Android location? There is a need to [fake the G
 - Fake GPS Android let you download all the interesting apps on the Google play despite location ban of certain games.
 - Divert your friends and mislead them to identify you in a stunning location and make jealous of you on your vacation trips
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fake GPS for Android location](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-2.jpg)
 
 The location-based apps are available below and learn how to make use of the spoofing techniques to establish a fake curtain on your location details.
@@ -284,6 +293,9 @@ The VPN provider will assist you by serving a new IP address to mask your locati
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to fake Android location by GPS spoofing
 
 You must make some changes on your Nokia C12 Phone before installing the Fake GPS location app.
@@ -320,6 +332,9 @@ Step 1: After successful installation of Lexa, tap the icon to trigger the app. 
 
 Step 2: Click the ‘Set Location’ option and drag the pointer on the map as per your desire
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drag the pointer on the map](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-15.jpg)
 
 Step 3: Save the changes and exit from App. Your Nokia C12 phone will display the new location address in the notification window.
@@ -476,3 +491,60 @@ There you go! After reading this guide, you would be able to mock GPS on your No
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-vivo-y78-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Vivo Y78 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unraveling-the-imovie-video-edge-policy-for-2024/"><u>Unraveling the iMovie Video Edge Policy for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-13-ultra-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi 13 Ultra Devices | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/spark-interest-on-snapchat-15-innovative-strategies/"><u>Spark Interest on Snapchat  15 Innovative Strategies</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-12-4g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi Note 12 4G Devices | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-social-media-showdown-which-platform-dominates-likes-or-tiktok/"><u>[Updated] In 2024, Social Media Showdown  Which Platform Dominates, Likes or TikTok?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-resize-flv-video-efficientlywindows-mac-android-iphone-and/"><u>New How to Resize FLV Video EfficientlyWindows, Mac, Android, iPhone &</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-14-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi 14 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-a2plus-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi A2+ Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-mix-fold-3-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Mix Fold 3 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-k70-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi K70 Devices | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-pureaiediting-refined-photo-craftsmanship-for-2024/"><u>[Updated] PureAiEditing  Refined Photo Craftsmanship for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-finding-high-quality-monstrous-soundscapes/"><u>Updated In 2024, Finding High-Quality Monstrous Soundscapes</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-14-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi 14 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-a2-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi A2 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-vivo-y78plus-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Vivo Y78+ Devices | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-exploring-and-expressing-a-comprehensible-guide-to-becoming-a-travel-videographer-for-2024/"><u>[New] Exploring & Expressing  A Comprehensible Guide to Becoming a Travel Videographer for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-vivo-y55s-5g-2023-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Vivo Y55s 5G (2023) Devices | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-from-live-to-recorded-a-skilled-approach-to-skype-chat-documentation/"><u>In 2024, From Live to Recorded  A Skilled Approach to Skype Chat Documentation</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-extracting-youtube-images-online-desktop-tools-and-terminal-tactics/"><u>[New] 2024 Approved  Extracting YouTube Images  Online, Desktop Tools & Terminal Tactics</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-vivo-y77t-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Vivo Y77t Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-vivo-y36-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Vivo Y36 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-14-ultra-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi 14 Ultra Devices | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-oppo-k11x-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Oppo K11x Devices</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-k70-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi K70 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-vivo-y78t-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Vivo Y78t Devices | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-vivo-s18-pro-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Vivo S18 Pro Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-the-art-of-captivating-tiktok-profile-pictures/"><u>[New] The Art of Captivating TikTok Profile Pictures</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-grab-free-video-profile-backgrounds-for-2024/"><u>[New] Grab Free Video Profile Backgrounds for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-civi-3-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Civi 3 Devices | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-12plus-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from 12+ 5G</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-the-rhythm-revolution-crafting-mesmerizing-tiktok-dances-with-mac/"><u>[Updated] 2024 Approved  The Rhythm Revolution  Crafting Mesmerizing TikTok Dances with Mac</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-revitalize-disappearing-watch-thumbnail/"><u>In 2024, Revitalize Disappearing Watch Thumbnail</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-adobe-premiere-pro-power-ups-the-best-plugins-free-and-paid/"><u>2024 Approved Adobe Premiere Pro Power-Ups The Best Plugins Free & Paid</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-13c-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi 13C Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-vivo-y56-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Vivo Y56 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-hotcapture-firefox-add-ons/"><u>[New] 2024 Approved  HotCapture FireFox Add-Ons</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-12-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi 12 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-13t-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi 13T Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-12-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi 12 Devices | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-iphone-15-pro-max-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From iPhone 15 Pro Max? How to Fix it?</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-vivo-y36i-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Vivo Y36i Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-13c-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi 13C 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/discovering-the-best-in-screen-recording/"><u>Discovering the Best in Screen Recording</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-civi-3-disney-100th-anniversary-edition-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Civi 3 Disney 100th Anniversary Edition Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-inbuilt-camera-functions-to-capture-screens-on-huaweis-matep-series-phones/"><u>[Updated] 2024 Approved  Inbuilt Camera Functions to Capture Screens on Huawei's Mate/P Series Phones</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-a-step-by-step-guide-to-embedding-timestamp-metadata/"><u>[New] In 2024, A Step-by-Step Guide to Embedding Timestamp Metadata</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-virtual-reality-archivists-handbook-for-game-recordings/"><u>[Updated] In 2024, The Virtual Reality Archivist's Handbook for Game Recordings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/strategies-for-effective-youtube-comment-engagement/"><u>Strategies for Effective YouTube Comment Engagement</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-vivo-y78plus-t1-edition-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Vivo Y78+ (T1) Edition Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-k70e-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi K70E Devices | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Motorola Edge 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-13t-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi 13T Devices | Dr.fone</u></a></li>
+</ul></div>

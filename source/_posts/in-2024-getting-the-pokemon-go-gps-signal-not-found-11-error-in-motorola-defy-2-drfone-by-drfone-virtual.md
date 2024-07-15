@@ -1,7 +1,7 @@
 ---
 title: In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Defy 2 | Dr.fone
-date: 2024-05-19T03:49:53.142Z
-updated: 2024-05-20T03:49:53.142Z
+date: 2024-07-14T04:20:10.101Z
+updated: 2024-07-15T04:20:10.101Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Defy 2
 excerpt: This article describes Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Defy 2
 keywords: fake location on android,change location on android,change gps location on android,fake gps location on android,fake location on Defy 2,change location on Defy 2
-thumbnail: https://www.lifewire.com/thmb/vPFd-AMhh9AKItKjaheXQPgowy4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SDC18_Keynote_OneUI-5be8d33f46e0fb002d108acf.jpg
+thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4e4c1c2d693991f9d3085553.jpg
 ---
 
 ## Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Defy 2
@@ -33,6 +33,9 @@ Before we troubleshoot the GPS signal not found 11 errors in Pokemon Go, let’s
 - The issue can also happen if you are using a mock location app on your device.
 - Any other changed settings or app-related issues on your phone can also cause this error.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pokemon gps signal 11](https://images.wondershare.com/drfone/2020/pokemon-gps-signal-11.jpg)
 
 ## Part 2: How to fix the GPS Signal Not Found 11 Issue in Pokemon Go?
@@ -45,6 +48,9 @@ The simplest way to fix the Pokemon Go GPS not found 11 issue is by restarting t
 
 ![close pokemon go app](https://images.wondershare.com/drfone/2020/close-pokemon-go-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Update or Reinstall the Pokemon Go app
 
 If you are using a corrupt or outdated Pokemon Go app, then you can get the GPS not found 11 error as well. Firstly, you can just go to the App/Play Store, look for Pokemon Go, and update the app.
@@ -63,6 +69,9 @@ Since this is a location-based error, you can also consider resetting the locati
 
 Android users get the feature to set mock location on their phones, but it can also be a reason for getting the GPS not found 11 error. Therefore, if you are also getting the GPS signal not found 11 issue on your Android, then go to its Settings > Developer Options. From here, make sure that you have disabled any mock location app or settings on your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disable mock location android](https://images.wondershare.com/drfone/2020/disable-mock-location-android.jpg)
 
 ### Fix 5: Restart your Smartphone
@@ -113,7 +122,7 @@ Have you ever wondered why Android monitor tools exist? Well, with the recent bo
 
 Also, to track the real location of kids/spouses/employees, phone monitoring Apps for Android come in handy. Android monitoring Apps help you spy on others’ smartphones, hack their photos, messages, call logs, Social App data, location, and browsing patterns. To know more, read and find out about the 9 best and free Android monitoring Apps.
 
-_You may be interested in: [Top 21 Mobile Device Spy Apps for iPhone/iPad/Android in 2022](https://drfone.wondershare.com/spy/best-mobile-spy-apps.html)_
+_You may be interested in: [Top 21 Mobile Device Spy Apps for iPhone/iPad/Android in 2022](https://drfone.wondershare.com/spy/best-mobile-spy-apps.html) _
 
 ## Part 1: mSpy
 
@@ -237,6 +246,14 @@ MobiStealth is an Android monitoring App to keep track of your kids/spouse/emplo
 
 To know more, visit <http://mobistealth.com/parental-control-software>
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Free Android Monitoring App-MobiStealth Android Monitoring Software](https://images.wondershare.com/drfone/article/2017/10/15081788729534.jpg)
 
 **Features:**
@@ -419,7 +436,7 @@ It is compatible with almost all location-based apps, including Instagram, Snapc
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -614,6 +631,9 @@ Its free version offers only limited features, but with the premium version, you
 - The free version has fewer features
 - Ads in free version
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## #8 Fake GPS Free
 
 ![fake gps free app](https://images.wondershare.com/drfone/article/2022/01/fake-gps-android-8.jpg)
@@ -727,3 +747,60 @@ If you are looking for a safe and reliable location changer, then use [Dr.Fone -
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-realme-12-proplus-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Realme 12 Pro+ 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-13-ultra-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-note-12r-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-14-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-regular-videos-to-vr-masterpieces-a-guide-to-the-best-converters/"><u>2024 Approved Regular Videos to VR Masterpieces A Guide to the Best Converters</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-harness-filmora-transforming-your-tiktok-react-videos-instantly/"><u>[New] 2024 Approved  Harness Filmora  Transforming Your TikTok React Videos Instantly</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/69518351-new-2024-approved-feast-your-eyes-on-9-whole-film-winter-wonders-no-charge/"><u>[New] 2024 Approved  Feast Your Eyes on 9 Whole-Film Winter Wonders  No Charge!</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-key-points-to-consider-when-navigating-tiktok-web-on-macos/"><u>[Updated] Key Points to Consider When Navigating TikTok Web on macOS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-guide-top-8-convertors-for-sub-to-srt-harmony/"><u>Ultimate Guide  Top 8 Convertors for Sub to Srt Harmony</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-14-pro-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-14-ultra-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-10-leading-cartoon-video-editing-apps-for-smartphones/"><u>Updated In 2024, 10 Leading Cartoon Video Editing Apps for Smartphones</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-culinary-carousel-international-delights-on-social-media-platforms/"><u>[New] Culinary Carousel  International Delights on Social Media Platforms</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-exploring-the-world-of-tiktok-markers-and-triggers/"><u>[Updated] In 2024, Exploring the World of TikTok Markers & Triggers</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-k70e-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-a2plus-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-12-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-leveraging-youtubes-cc-options-for-video-production/"><u>In 2024, Leveraging YouTube's CC Options for Video Production</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-k70-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-vivo-y100a-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-mix-fold-3-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-how-to-convert-youtube-videos-to-mp3-songs-on-mac/"><u>In 2024, How to Convert YouTube Videos to MP3 Songs on Mac</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-cut-the-chatter-capture-game-moments-easily/"><u>2024 Approved  Cut the Chatter  Capture Game Moments Easily</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-13t-pro-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/a-snapshot-into-effective-business-use-of-snapchat-for-2024/"><u>A Snapshot Into Effective Business Use of Snapchat for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/keeping-your-gopro-fogless-for-perfection-for-2024/"><u>Keeping Your GoPro Fogless for Perfection for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-initiate-interactive-storytelling-with-windows-11s-movie-maker/"><u>[Updated] Initiate Interactive Storytelling with Windows 11'S Movie Maker</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-civi-3-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-advice-getting-rid-of-stickers-on-videos/"><u>[Updated] Expert Advice  Getting Rid of Stickers on Videos</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-13c-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/venturing-solo-in-3d-printing-with-3dr-tech-review/"><u>Venturing Solo in 3D Printing with '3DR' Tech Review</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-13t-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-filmmakers-lounge-app-for-2024/"><u>[Updated] Filmmaker's Lounge App for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-nokia-c02-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Nokia C02 Activity | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-oneplus-ace-2-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From OnePlus Ace 2 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-insights-into-youtubes-content-policy-framework/"><u>[Updated] 2024 Approved  Essential Insights Into YouTube's Content Policy Framework</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-a2-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nveiling-how-you-can-profit-from-youtube-content/"><u>[New] Unveiling How You Can Profit From YouTube Content</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-honor-magic-6-pro-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Honor Magic 6 Pro Phone that is Locked?</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-12-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mobile-mastery-youtube-video-thumbnails-made-easy/"><u>In 2024, Mobile Mastery  YouTube Video Thumbnails Made Easy</u></a></li>
+</ul></div>

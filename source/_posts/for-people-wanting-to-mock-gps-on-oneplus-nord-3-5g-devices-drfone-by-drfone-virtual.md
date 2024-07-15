@@ -1,7 +1,7 @@
 ---
 title: For People Wanting to Mock GPS on OnePlus Nord 3 5G Devices | Dr.fone
-date: 2024-05-19T03:49:44.350Z
-updated: 2024-05-20T03:49:44.350Z
+date: 2024-07-14T03:13:57.377Z
+updated: 2024-07-15T03:13:57.377Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes For People Wanting to Mock GPS on OnePlus Nord 3 5G Devices
 excerpt: This article describes For People Wanting to Mock GPS on OnePlus Nord 3 5G Devices
 keywords: fake gps location on android,fake location on android,fake location on Nord 3 5G,change location on android,change location on Nord 3 5G,change gps location on android
-thumbnail: https://www.lifewire.com/thmb/IOefl4e_6Yr9ZAczXaVDoLd0G88=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1365158534-d6952b03afff43f7a1c5f0405f31dc92.jpg
+thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401fbcd66ce15df928f6be58b2.jpg
 ---
 
 ## For People Wanting to Mock GPS on OnePlus Nord 3 5G Devices
@@ -28,6 +28,9 @@ As the name suggests, mock location simply means changing the present location o
 
 The good thing about Android phones is that they let us change the present location of our device, which helps us unlock various location-based restrictions. For instance, you can use a mock GPS app to catch more Pokemons, unlock a restricted content on Netflix, or access more profiles on dating apps like Tinder.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Any Precaution or Preparation for Mocking GPS on OnePlus Nord 3 5G
 
 The mock GPS feature is not available in standard device settings. To access it, you first need to unlock Developer Options on your phone. This is because the mock GPS feature on Android is offered to developers to test the location of an app they are working on or any other need.
@@ -83,7 +86,7 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your OnePlus  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your OnePlus ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your OnePlus](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the OnePlus Nord 3 5G device.
 
@@ -103,6 +106,9 @@ Step 3: Fake location on your OnePlus
 
 That’s it! Once you have granted the needed permission to the mock GPS app, you can easily use it to change the location of your device. Just launch the app to get a map-like interface. You can zoom in and out the map or just look for any location on the search bar. In the end, drop the pin on any location and tap on the start button to fake your location.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![confirm to fake your location](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-8.jpg)
 
 Later, you can go back to the app and stop the fake location to switch back to your original location whenever you want.
@@ -111,7 +117,7 @@ There you go! After reading this guide, you would be able to mock GPS on your On
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -165,6 +171,9 @@ If you are in a place with poor Wi-Fi and Bluetooth networks, the best way to ma
 
 When you dial or text an emergency number like 911, your device's location is available to emergency responders through Emergency Location Services. Only if local emergency responders rely on location data is this setting relevant. Even if you don't want your location to be shared with emergency services, your mobile provider has the option to do so.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Change Location on Android/iPhone
 
 There are many reasons you might want to change your location on android/iPhone. It could be to get search results in a particular country, access online files, or access certain websites and applications. Whatever your reasons are, here are easy ways to change location on Android or iPhone:
@@ -238,6 +247,9 @@ The simplest way to fix the Pokemon Go GPS not found 11 issue is by restarting t
 
 ![close pokemon go app](https://images.wondershare.com/drfone/2020/close-pokemon-go-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Update or Reinstall the Pokemon Go app
 
 If you are using a corrupt or outdated Pokemon Go app, then you can get the GPS not found 11 error as well. Firstly, you can just go to the App/Play Store, look for Pokemon Go, and update the app.
@@ -246,6 +258,9 @@ If you are using a corrupt or outdated Pokemon Go app, then you can get the GPS 
 
 If you still get the Pokemon Go GPS not found 11 error, then consider deleting the app first. Afterward, go to the App/Play Store again and install the app on your device.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Reset the Location Settings on your phone
 
 Since this is a location-based error, you can also consider resetting the location services on your phone. For this, just go to the Location Services (GPS) settings and toggle it off (and on). You can also go to the notification center and tap on the GPS icon to turn the service off and on again.
@@ -315,3 +330,73 @@ I’m sure that after reading this troubleshooting post, you would be able to fi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-spark-20-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Spark 20 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-streamline-social-tweet-to-fb-guide-for-2024/"><u>[Updated] Streamline Social  Tweet to FB Guide for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-nubia-red-magic-9-proplus-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Nubia Red Magic 9 Pro+ to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-pova-6-pro-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Pova 6 Pro 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-s17-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo S17 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-guide-to-budget-friendly-4k-cameras/"><u>[Updated] Ultimate Guide to Budget-Friendly 4K Cameras</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-samsung-galaxy-s24plus-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Samsung Galaxy S24+ Location Settings | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/youtube-short-mastery-from-idea-to-final-product/"><u>YouTube Short Mastery  From Idea to Final Product</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-spark-10-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Spark 10 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-sony-xperia-5-v-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Sony Xperia 5 V Location Settings | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-explore-our-favorite-minecraft-houses-layouts/"><u>[New] 2024 Approved  Explore Our Favorite Minecraft Houses Layouts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-expand-your-knowledge-elite-15-sci-yt-channels-list/"><u>[Updated] In 2024, Expand Your Knowledge  Elite 15 Sci-YT Channels List</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-vivo-y200-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Vivo Y200 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-samsung-galaxy-xcover-7-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Samsung Galaxy XCover 7 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-samsung-galaxy-s24-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Samsung Galaxy S24 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-samsung-galaxy-s24-ultra-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Samsung Galaxy S24 Ultra Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-camon-20-premier-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Camon 20 Premier 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-chart-your-course-to-partner-status-via-a-rapid-10000-views-journey/"><u>[New] In 2024, Chart Your Course to Partner Status via a Rapid 10,000 Views Journey</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-spark-20c-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Spark 20C Location Settings | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-xiaomi-13t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-spark-10-4g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Spark 10 4G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-boost-your-productivity-mastering-macs-screen-record-with-shortcuts-for-2024/"><u>[Updated] Boost Your Productivity  Mastering Mac's Screen Record with Shortcuts for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-phantom-v-fold-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Phantom V Fold Location Settings | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/how-to-download-part-of-a-youtube-videos/"><u>How to Download Part of a YouTube Videos?</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-spark-10c-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Spark 10C Location Settings | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-realme-c67-4g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Realme C67 4G Without PUK Codes</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-sony-xperia-1-v-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Sony Xperia 1 V Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-pop-8-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Pop 8 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-camon-20-pro-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Camon 20 Pro 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-disable-igtv-feature-for-2024/"><u>[Updated] How to Disable IGTV Feature for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-shielding-imagery-best-practices-for-instagram-photowatermarking/"><u>[New] Shielding Imagery  Best Practices for Instagram Photowatermarking</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-sony-xperia-10-v-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Sony Xperia 10 V Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-pova-5-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Pova 5 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-key-sites-the-6-most-vital-platforms-for-b2b-relationships/"><u>2024 Approved  Key Sites  The 6 Most Vital Platforms for B2B Relationships</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-samsung-galaxy-s23plus-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Samsung Galaxy S23+ Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-spark-10-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Spark 10 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-samsung-galaxy-z-fold-5-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Samsung Galaxy Z Fold 5 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-pop-7-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Pop 7 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-pova-5-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Pova 5 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-vivo-y17s-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Vivo Y17s Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/irecorder-the-screen-recording-standard/"><u>IRecorder  The Screen Recording Standard</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-nokia-g22-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Nokia G22 Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/2024-approved-the-art-of-vertical-video-best-practices-for-smartphone-creators/"><u>2024 Approved The Art of Vertical Video Best Practices for Smartphone Creators</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-s17-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo S17 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-websites-to-find-3d-gold-text-effects/"><u>In 2024, Best Websites to Find 3D Gold Text Effects</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-select-a-premium-360-camera-today/"><u>How to Select a Premium 360 Camera Today</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-inside-instagrams-maximum-video-restriction-policy/"><u>[New] In 2024, Inside Instagram's Maximum Video Restriction Policy</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-samsung-galaxy-z-flip-5-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Samsung Galaxy Z Flip 5 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-spark-20-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Spark 20 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-spark-go-2023-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Spark Go (2023) Location Settings | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-infinix-zero-5g-2023-turbo-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-motorola-moto-g84-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Motorola Moto G84 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-phantom-v-flip-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Phantom V Flip Location Settings | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-strategy-to-seamlessly-upload-srt-subtitles-online/"><u>[New] The Ultimate Strategy to Seamlessly Upload SRT Subtitles Online</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-how-to-reverse-image-search-instagram/"><u>[Updated] In 2024, How To Reverse Image Search Instagram</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/10-trendy-free-logo-animation-templates-for-2024/"><u>10 Trendy Free Logo Animation Templates for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-spark-20-proplus-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Spark 20 Pro+ Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-realme-v30t-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Realme V30T</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-camon-30-pro-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Camon 30 Pro 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-2024-lists-high-quality-unboxers-on-youtube/"><u>Ultimate 2024 Lists - High-Quality Unboxers on YouTube</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-camon-20-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Camon 20 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-samsung-galaxy-xcover-6-pro-tactical-edition-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Samsung Galaxy XCover 6 Pro Tactical Edition Location Settings | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-essence-of-4k-super-hd-resolution/"><u>The Essence of 4K Super HD Resolution</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/mastering-effective-social-media-video-promos/"><u>Mastering Effective Social Media Video Promos</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoidance-of-memory-limitations-strategies-for-windows/"><u>Avoidance of Memory Limitations: Strategies for Windows</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-g2-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo G2 Location Settings | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Effective Methods to Fake GPS location on Android For your Motorola G54 5G | Dr.fone
-date: 2024-05-19T03:49:48.939Z
-updated: 2024-05-20T03:49:48.939Z
+date: 2024-07-14T03:46:43.721Z
+updated: 2024-07-15T03:46:43.721Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes 3 Effective Methods to Fake GPS location on Android For your Motorola G54 5G
 excerpt: This article describes 3 Effective Methods to Fake GPS location on Android For your Motorola G54 5G
 keywords: change location on G54 5G,change location on android,fake gps location on android,fake location on G54 5G,change gps location on android,fake location on android
-thumbnail: https://www.lifewire.com/thmb/wAMAGSxPA1Fx2QobaiyABiSggJ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-753288077-5bb0f9b2cff47e00261aa8fc.jpg
+thumbnail: https://thmb.techidaily.com/0004bab4ed76fb3b0e7b5e78faee5c8cd34739a5594338591ba06831ec971383.jpg
 ---
 
 ## 3 Effective Methods to Fake GPS location on Android For your Motorola G54 5G
@@ -29,6 +29,9 @@ And guess what? Faking your GPS location on Android is simple. In case you are w
 - Good Fake GPS app from Google Play Store (for effective location masking, use a VPN alongside this)
 - A USB cable
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solution 1: Fake Android GPS location via a Location Changer \[recommended\]
 
 Dr. Fone’s Virtual Location is the ultimate 1-Click location changer app for Android. You can use the Virtual Location to spoof your location in gaming applications, dating apps, social media platforms, and even real-time navigation apps like Life 360, Google Maps, or any walking app.
@@ -152,6 +155,9 @@ You can also use a dedicated fake GPS app on Android to change your GPS location
 
 **Android App**:  [Fake GPS location by Lexa](https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en_IN&gl=US)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to fake location by lexa](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-by-lexa.jpg)
 
 **Price**: Free
@@ -174,12 +180,15 @@ Fake GPS Go Location Spoofer is a premium tool, but most of its functions are fr
 
 **Price**: Free
 
-![ fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
+![fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
 
 Fake GPS Location Professional is another free tool to deceive your GPS on Android devices. However, whenever you want to use it, you will have to go through Settings and mock your location manually every time.
 
 For more information about Fake GPS Location Professional, you can check this [detailed review about Fake GPS Location Professional](https://drfone.wondershare.com/fake-location/fake-gps-location-pro-review-and-alternative.html)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to use Fake GPS Location to mock your location on Android devices?
 
 For example, let’s use the first recommended tool, i.e., Fake GPS location by Lexa.
@@ -188,7 +197,7 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 **Step 1. Install** the [**Fake GPS location by Lexa app**](https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en) from the Google Play store.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
 
 **Step 2**. Go to the **Developer option** on an Android device (**refer to the FAQ section** to learn how to enable Developer options on an Android device).
 
@@ -196,18 +205,18 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 - **Click on the Select mock location app option** to view all the Fake GPS locations installed on your Motorola G54 5G.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-9.jpg)
 
 - Add **Fake GPS Location by Lexa.**
 
-![ mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
+![mock gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-10.jpg)
 
 **Step 4.** Close the Settings after adding the Fake GPS location by Lexa in Developer options.
 
 - **Open the Fake GPS Location by Lexa app.**
 - And **choose the desired fake location**.
 
-![ fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
+![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
 
 ### 1\. How To Enable Developer Options In Android?
 
@@ -218,19 +227,19 @@ Here’s how to enable the developer option:
 - Open
 - **Go to System.**
 
-![ fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
+![fake gps location on android10](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-12.jpg)
 
 - Navigate to **About Phone** and open it.
 
-![ fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
+![fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
 
 - Choose the **Software info**
 
-![ fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
+![fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
 
 - And click on **Build Number 7 times to see** the developer options screen.
 
-![ fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
+![fake gps location on android7](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-15.jpg)
 
 You can now access the Developer options directly in the Settings menu. Now, use the earlier method to set the location-spoofing app in the Developer options.
 
@@ -268,6 +277,9 @@ Take a look!
 
 ## #1 Dr. Fone – Virtual Location
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone virtual location app](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen=""></iframe>
@@ -298,7 +310,7 @@ It is compatible with almost all location-based apps, including Instagram, Snapc
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -554,6 +566,9 @@ It allows you to create fake routes on the map as well.
 - Lack of advanced features
 - May get caught by some apps
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## #10 VPNa Fake GPS Location – Mock GPS Go
 
 ![VPNa fake gps](https://images.wondershare.com/drfone/article/2022/01/fake-gps-android-10.jpg)
@@ -699,3 +714,61 @@ I’m sure that after reading this troubleshooting post, you would be able to fi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-moto-g34-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-windowsstore-directory-secrets-for-users/"><u>Unveiling WindowsStore Directory Secrets for Users</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-dynamic-duo-how-to-automatically-manage-volume-levels-using-audio-ducking-in-adobe-premiere-pro-for-macos/"><u>New Dynamic Duo How to Automatically Manage Volume Levels Using Audio Ducking in Adobe Premiere Pro for macOS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guidelines-for-selecting-an-engaging-movie-trailer-song-for-2024/"><u>Guidelines for Selecting an Engaging Movie Trailer Song for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-best-free-avi-video-rotators-for-windows-mac-android-and-iphone-users-for-2024/"><u>Updated Best Free AVI Video Rotators for Windows, MAC, Android, and iPhone Users for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ts-for-top-audio-quality-no-need-for-a-microphone-for-2024/"><u>Secrets for Top Audio Quality, No Need for a Microphone for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-moto-g24-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-moto-g23-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-razr-40-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-how-to-make-gif-stickers-for-whatsapp-100-the-easy-way-for-2024/"><u>Updated How to Make GIF Stickers for WhatsApp 100 The Easy Way for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-moto-g13-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/from-passion-to-prominence-the-creators-quest-for-2024/"><u>From Passion to Prominence  The Creator's Quest for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-translate-live-videos-with-the-best-video-translator/"><u>New In 2024, Translate Live Videos With The Best Video Translator</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-numeric-adjustments-in-tiktok-videos/"><u>In 2024, Mastering Numeric Adjustments in TikTok Videos</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-moto-g-stylus-5g-2023-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Motorola Moto G Stylus 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-nokia-c12-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-moto-g04-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-the-ultimate-tiktok-boosting-playbook-strategies-to-grow-your-community/"><u>[New] 2024 Approved  The Ultimate TikTok Boosting Playbook  Strategies to Grow Your Community</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-moto-e13-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-se-2022-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone SE (2022) Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-mastering-authenticity-on-instagrams-platform/"><u>[Updated] In 2024, Mastering Authenticity on Instagram's Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-10-pricing-with-smart-key-acquisition/"><u>Mastering Windows 10 Pricing with Smart Key Acquisition</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-moto-g73-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-razr-40-ultra-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-nokia-g310-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-nokia-c110-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-nokia-105-classic-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-nokia-c02-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-oneplus-ace-2v-frp-bypass-by-drfone-android/"><u>In 2024, About OnePlus Ace 2V FRP Bypass</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-effortless-presentation-recording-with-modern-webcams/"><u>[New] In 2024, Effortless Presentation Recording with Modern Webcams</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-nokia-g22-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-nokia-c12-pro-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-the-editors-path-to-perfection-techniques-for-removing-ambient-noise-from-your-project/"><u>2024 Approved The Editors Path to Perfection Techniques for Removing Ambient Noise From Your Project</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-nokia-150-2023-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/eling-mukbang-the-art-of-feast-filled-vlogs/"><u>Unraveling Mukbang  The Art of Feast-Filled Vlogs</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-nokia-c32-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-enhance-your-online-presence-with-these-50-complimentary-banners/"><u>2024 Approved  Enhance Your Online Presence with These 50 Complimentary Banners</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-notes-from-iphone-7-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Notes from iPhone 7 Plus? | Stellar</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-nokia-c210-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-notebooks-excellent-in-media-post-production/"><u>[New] 2024 Approved  Essential Notebooks Excellent in Media Post-Production</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-nokia-c300-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-moto-g84-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-g24-power-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-essential-audio-techniques-capturing-clear-sound/"><u>[Updated] Essential Audio Techniques  Capturing Clear Sound</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-nokia-c22-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-nokia-130-music-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-moto-g14-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-high-flying-brain-games-top-11-knowledge-channels/"><u>[New] 2024 Approved  High-Flying Brain Games  Top 11 Knowledge Channels</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-edge-40-pro-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fifa-video-highlights-top-youtube-data-infographics/"><u>[Updated] In 2024, FIFA Video Highlights  Top YouTube Data Infographics</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-nokia-c12-plus-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-infinix-gt-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-g54-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+</ul></div>

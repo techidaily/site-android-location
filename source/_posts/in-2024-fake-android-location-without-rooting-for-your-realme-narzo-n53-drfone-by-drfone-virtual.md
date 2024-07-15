@@ -1,7 +1,7 @@
 ---
 title: In 2024, Fake Android Location without Rooting For Your Realme Narzo N53 | Dr.fone
-date: 2024-05-19T03:49:51.748Z
-updated: 2024-05-20T03:49:51.748Z
+date: 2024-07-14T04:09:07.253Z
+updated: 2024-07-15T04:09:07.253Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes Fake Android Location without Rooting For Your Realme Narzo N53
 excerpt: This article describes Fake Android Location without Rooting For Your Realme Narzo N53
 keywords: fake location on android,change gps location on android,change location on android,change location on Narzo N53,fake location on Narzo N53,fake gps location on android
-thumbnail: https://www.lifewire.com/thmb/LszZcaAEzHRXWm3K0xWEG-T8gus=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/handstypingonkeyboardCROPPED-6b13200ac0d24ef58817343cc4975ebd.jpg
+thumbnail: https://thmb.techidaily.com/984f643c4b4f7bae0c2654dd17f8e46d49464b1fbd02ad27cef488f7c4915f8e.jpg
 ---
 
 ## Fake Android Location without Rooting For Your Realme Narzo N53
@@ -106,7 +106,7 @@ The VPN provider will assist you by serving a new IP address to mask your locati
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -164,6 +164,9 @@ Step 3: Save the changes and exit from App. Your Realme Narzo N53 phone will dis
 
 Step 1: Go to the Google Play store and choose an appropriate VPN provider compatible with your device
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose an appropriate VPN provider](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-17.jpg)
 
 Step 2: Follow the Wizard and install the VPN Provider
@@ -172,6 +175,9 @@ Step 2: Follow the Wizard and install the VPN Provider
 
 Step 3: Open the ‘VPN location Changer’ app
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![VPN location Changer](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-19.jpg)
 
 In the above screenshot, you can infer that there are three tabs displaying ‘Recommended, All and Favorites’ option. These tabs flash the names of the countries around the globe in a well-organized format.
@@ -224,8 +230,14 @@ The Fake GPS Android feature on social apps like Instagram/Facebook /Snapchat et
 
 Edit the images and post it accordingly on Instagram/Snapchat etc to divert your friend’s perception on your vacation plan. Create the images as if you are having fun on exciting islands across the globe using the mock location hash tags.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Instagram/Snapchat/Facebook location spoofing](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Dating apps like Tinder
 
 Tinder is a dating app mostly used by singles, college students, and committed ones too. Here the members get to know one another and go for a dating. Some members make use of this app just to make friends.
@@ -274,7 +286,7 @@ The VPN provider will assist you by serving a new IP address to mask your locati
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -300,6 +312,9 @@ Step 2: In the next window choose ‘Software Information’
 
 Step 3: Tap on ‘Built Number’ in the preceding screen. This step allows you to access the ‘Developer option’ in the Realme Narzo N53 device
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Developer option](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-11.jpg)
 
 Activate the Mock Location option in Android
@@ -451,3 +466,76 @@ Managing your android phone's location services can be super helpful to access s
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-lava-blaze-2-devices-by-drfone-android/"><u>How to Reset Gmail Password on Lava Blaze 2 Devices</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oppo-f25-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oppo-find-n3-flip-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boosting-your-instagram-game-with-collage-tips-for-2024/"><u>Boosting Your Instagram Game with Collage Tips for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oppo-k11-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-win-10s-cc-troubleshooting/"><u>Essential Tips for Win 10'S CC Troubleshooting</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-poco-m6-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-realme-11-proplus-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-an-exclusive-guide-to-deck-to-deck-technology-durecorder/"><u>[Updated] 2024 Approved  An Exclusive Guide to Deck-to-Deck Technology  DuRecorder</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-vector-image-basics-unveiled-categories-types-and-tools-guide/"><u>[Updated] In 2024, Vector Image Basics Unveiled  Categories, Types & Tools Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-poco-f5-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oppo-reno-8t-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-recommendations-top-8-free-srt-apps-reviewed/"><u>2024 Approved  Expert Recommendations  Top 8 Free SRT Apps Reviewed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/saturation-perfection-tool-for-2024/"><u>Saturation Perfection Tool for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-free-photo-frame-video-downloads/"><u>2024 Approved  Mastering Free Photo Frame Video Downloads</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/fixed-final-cut-pro-x-crash-issues-for-2024/"><u>Fixed Final Cut Pro X Crash Issues for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-poco-x6-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-guide-to-premium-podcast-graphic-tools/"><u>A Guide to Premium Podcast Graphic Tools</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oppo-find-x7-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-optimally-apply-a-creative-commons-license/"><u>[Updated] 2024 Approved  How to Optimally Apply a Creative Commons License</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/learn-to-sharpen-images-blur-and-excise-background-edges-for-2024/"><u>Learn to Sharpen Images  Blur and Excise Background Edges for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oppo-reno-8t-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-realme-11-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-poco-x6-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-framefulness-selecting-the-top-websites-and-apps-for-photoshopping-for-2024/"><u>[Updated] Framefulness  Selecting the Top Websites & Apps for Photoshopping for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-eliminate-cacophony-perfecting-sound-quality-for-youtube/"><u>[New] 2024 Approved  Eliminate Cacophony  Perfecting Sound Quality for YouTube</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-honor-magic-vs-2-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Honor Magic Vs 2 Screen | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-poco-m6-pro-4g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-poco-m6-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-realme-10t-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-poco-x5-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-first-steps-into-facebook-data-analysis-for-new-users/"><u>2024 Approved  First Steps Into Facebook Data Analysis for New Users</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-enter-the-ispoofer-discord-server-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to enter the iSpoofer discord server On Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/digital-discipline-validity-in-banning-trump-short-term-measure/"><u>Digital Discipline: Validity in Banning Trump, Short-Term Measure</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-champion-steadicams-for-uav-filmmaking-excellence/"><u>In 2024, Champion Steadicams for UAV Filmmaking Excellence</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-capture-quality-in-nintendo-switch-life-for-2024/"><u>[Updated] Capture Quality in Nintendo Switch Life for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oppo-f23-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-poco-x5-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oppo-reno-11-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oppo-reno-11f-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-create-a-diy-green-screen-video-effect-for-2024/"><u>New How to Create a DIY Green Screen Video Effect for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-y100i-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo Y100i</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-poco-c65-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oppo-reno-11-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oppo-find-x6-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-green-screen-on-a-mac-which-software-reigns-supreme/"><u>New In 2024, Green Screen on a Mac Which Software Reigns Supreme?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-realme-11-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-crafting-effective-youtube-thumbnails-and-banners-for-2024/"><u>[New] Crafting Effective YouTube Thumbnails & Banners for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-a-2023-survival-guide-seeking-fb-videos-on-every-tab-for-2024/"><u>[Updated] A 2023 Survival Guide  Seeking FB Videos on Every Tab for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oppo-find-x6-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-poco-c50-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oppo-find-n3-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-free-and-easy-building-attractive-youtube-intros-without-expense/"><u>[Updated] In 2024, Free & Easy  Building Attractive YouTube Intros without Expense</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oppo-reno-10-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-tiktok-watermark-removal-tools-to-remove-logos-for-free-for-2024/"><u>Updated Top TikTok Watermark Removal Tools to Remove Logos for Free for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-motorola-g54-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Motorola G54 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oppo-find-x7-ultra-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/how-to-make-a-youtube-intro-video/"><u>2024 | How to Make a YouTube Intro Video？</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-customize-your-video-flow-a-camtasia-tutorial-on-speed-adjustment/"><u>Updated Customize Your Video Flow A Camtasia Tutorial on Speed Adjustment</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-poco-f5-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-poco-c55-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oppo-reno-10-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oppo-reno-9a-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-poco-m6-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Poco M6 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-authoritative-list-affordable-visuals-online/"><u>[Updated] Authoritative List  Affordable Visuals Online</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oppo-k11x-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-poco-c51-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-a-full-exploration-of-speech-to-text-features-within-gdoc/"><u>2024 Approved  A Full Exploration of Speech-to-Text Features Within GDoc</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo Y36i | Dr.fone
-date: 2024-05-19T03:49:53.671Z
-updated: 2024-05-20T03:49:53.671Z
+date: 2024-07-14T04:24:24.250Z
+updated: 2024-07-15T04:24:24.250Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo Y36i
 excerpt: This article describes Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo Y36i
 keywords: fake location on android,change location on android,fake location on Y36i,change gps location on android,change location on Y36i,fake gps location on android
-thumbnail: https://www.lifewire.com/thmb/1Rilb0YlbOjJJAdvvsoO0ipjdIY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mixed-race-woman-buying-christmas-presents-online-with-credit-card-84527986-582352235f9b58d5b1ea09cc.jpg
+thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701fee843146114a343a411d66.jpg
 ---
 
 ## Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo Y36i
@@ -144,6 +144,9 @@ If you are using a corrupt or outdated Pokemon Go app, then you can get the GPS 
 
 If you still get the Pokemon Go GPS not found 11 error, then consider deleting the app first. Afterward, go to the App/Play Store again and install the app on your device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Reset the Location Settings on your phone
 
 Since this is a location-based error, you can also consider resetting the location services on your phone. For this, just go to the Location Services (GPS) settings and toggle it off (and on). You can also go to the notification center and tap on the GPS icon to turn the service off and on again.
@@ -202,8 +205,14 @@ _“Hi! I'm Jack and I play Pokemon Go in between classes or whenever I get free
 
 This is one of the many queries that we get from Vivo  users who wish to mock GPS on their phones. The good news is that on various Android phones, you can use a mock GPS apk to fake your location. Though, Vivo  users need to be a bit cautious since the company has so many security restrictions. Don’t worry – I’m here to help you use the best mock GPS app for your phone. Read on to clear your doubts and enable the mock GPS provider on your phone like a pro!
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mock GPS on the map](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: What is Mock GPS on Vivo Y36i?
 
 As the name suggests, mock location simply means changing the present location of your device. A fake or mock GPS feature lets us select the present location of our device that would now act as its active location – instead of its actual one.
@@ -265,10 +274,13 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Vivo  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Vivo ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Vivo](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Vivo Y36i device.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mock location field](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-5.jpg)
 
 Step 2: Install and Allow a Mock GPS App
@@ -293,7 +305,10 @@ There you go! After reading this guide, you would be able to mock GPS on your Vi
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -324,3 +339,69 @@ There you go! After reading this guide, you would be able to mock GPS on your Vi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-11-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-google-pixel-7a-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Google Pixel 7a Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-gt-neo-5-se-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-unlock-smooth-editing-premiere-pro-system-requirements-explained/"><u>New In 2024, Unlock Smooth Editing Premiere Pro System Requirements Explained</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/1716169029842-2024-approved-how-to-get-more-instagram-video-views/"><u>2024 Approved  How to Get More Instagram Video Views?</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-11-proplus-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-11x-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/an-in-depth-exploration-of-discord-features-for-2024/"><u>An In-Depth Exploration of Discord Features for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-master-your-gaming-footage-top-5-techniques-for-windows-11-recorders/"><u>[New] In 2024, Master Your Gaming Footage  Top 5 Techniques for Windows 11 Recorders</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-elite-soundstage-storytelling-scripts-for-2024/"><u>[New] Elite Soundstage Storytelling Scripts for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-narzo-n55-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-narzo-n53-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-narzo-60-pro-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-elevate-your-snaps-techniques-for-captivating-marketing-visuals/"><u>[Updated] 2024 Approved  Elevate Your Snaps  Techniques for Captivating Marketing Visuals</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-proven-strategies-for-saving-your-digital-discussions-google-meets/"><u>In 2024, Proven Strategies for Saving Your Digital Discussions (Google Meets)</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-v30t-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-harmonic-avian-audio-repository/"><u>New In 2024, Harmonic Avian Audio Repository</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-smart-8-hd-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Smart 8 HD</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-infinix-smart-8-hd-phone-by-drfone-android/"><u>How to Reset a Locked Infinix Smart 8 HD Phone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-c67-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-12-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/audio-enhancement-for-videos-without-breaking-the-bank-exploring-three-free-approaches/"><u>Audio Enhancement for Videos Without Breaking the Bank Exploring Three Free Approaches</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-gt-5-pro-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-10t-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-12-proplus-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-best-free-video-rotation-software-for-windows-mac-and-mobile-devices/"><u>New 2024 Approved Best Free Video Rotation Software for Windows, Mac, and Mobile Devices</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-5-smart-tips-about-youtube-shorts-to-grow-your-business/"><u>New 5 Smart Tips About YouTube Shorts to Grow Your Business</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-gt-5-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Nokia C12? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-iphone-se-2020-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On iPhone SE (2020)</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-12plus-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-quality-guffaws-uncover-the-top-15-youtube-comedy-talents/"><u>In 2024, Quality Guffaws  Uncover the Top 15 YouTube Comedy Talents</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-note-50-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-poco-x6-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-c67-4g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-step-by-step-guide-to-watching-facebook-live-events/"><u>[Updated] In 2024, Step-by-Step Guide to Watching Facebook Live Events</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-mastering-profile-transformation-on-tiktok-a-guide-for-2024/"><u>[New] Mastering Profile Transformation on TikTok - A Guide for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/free-graphic-goldmine-a-roadmap-to-premium-visuals/"><u>Free Graphic Goldmine  A Roadmap to Premium Visuals</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-vivo-v30-lite-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Vivo V30 Lite 5G? Here is How | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-sound-senses-try-our-free-online-rhythm-analyzers/"><u>[New] Sound Senses  Try Our FREE Online Rhythm Analyzers</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-narzo-60-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-c53-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-c33-2023-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-narzo-60x-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-huawei-p60-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Huawei P60 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-swift-tweeting-solutions-with-video-conversion/"><u>2024 Approved  Swift Tweeting Solutions with Video Conversion</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-v30-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-elite-collection-the-best-11-streamers/"><u>2024 Approved  Elite Collection  The Best 11 Streamers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-lava-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Lava</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-poco-x6-pro-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-transform-into-a-toon-best-apps-for-cartooning-yourself/"><u>New 2024 Approved Transform Into a Toon Best Apps for Cartooning Yourself</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-c51-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-11-pro-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-gt-5-240w-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-c55-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-gt-3-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-steps-to-restore-obs-fullscreen/"><u>2024 Approved  Steps to Restore OBS Fullscreen</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/basics-in-the-realm-of-tale-construction-for-2024/"><u>Basics in the Realm of Tale Construction for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-12-pro-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-15-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 15 Pro Max without Passcode or Face ID</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-gt-neo-5-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme GT Neo 5 | Dr.fone</u></a></li>
+</ul></div>

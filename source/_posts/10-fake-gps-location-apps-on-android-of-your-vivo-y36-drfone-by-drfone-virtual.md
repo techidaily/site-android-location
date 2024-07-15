@@ -1,7 +1,7 @@
 ---
 title: 10 Fake GPS Location Apps on Android Of your Vivo Y36 | Dr.fone
-date: 2024-05-19T03:49:39.126Z
-updated: 2024-05-20T03:49:39.126Z
+date: 2024-07-14T02:36:38.246Z
+updated: 2024-07-15T02:36:38.246Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes 10 Fake GPS Location Apps on Android Of your Vivo Y36
 excerpt: This article describes 10 Fake GPS Location Apps on Android Of your Vivo Y36
 keywords: change location on Y36,fake location on Y36,fake gps location on android,fake location on android,change gps location on android,change location on android
-thumbnail: https://www.lifewire.com/thmb/RZ6a_Dm3h0STkAi4OwMdfZPBurY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DTS-Virtual-X-logo-w-illustration-xxbb-59403d7b3df78c537b1ef6b2.jpg
+thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f2d60ec5b3831dd32989cbba.jpg
 ---
 
 ## 10 Fake GPS Location Apps on Android Of your Vivo Y36
@@ -26,6 +26,9 @@ Take a look!
 
 ## #1 Dr. Fone – Virtual Location
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone virtual location app](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen=""></iframe>
@@ -56,7 +59,7 @@ It is compatible with almost all location-based apps, including Instagram, Snapc
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -219,6 +222,9 @@ You can also use the location changer to find new people on dating apps like Tin
 - In-app Ads
 - It can be detected by other apps
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## #7 Fake GPS Location Spoofer
 
 ![fake gps location spoofer](https://images.wondershare.com/drfone/article/2022/01/fake-gps-android-7.jpg)
@@ -361,6 +367,9 @@ However, **how do you manage your Vivo Y36 location settings**? How can you turn
 
 If you use an Android phone, you can turn on your location services following these easy steps:
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Change android phone location](https://images.wondershare.com/drfone/article/2022/05/android-location-settings.jpg)
 
 1. Head over to Settings on your android phone.
@@ -383,6 +392,9 @@ This mode comes in handy when navigating through streets searching for a particu
 
 As the name already hints, this mode is best if you want to save the phone battery. GPS, one of the location services, uses lots of power, and in a bid to save your battery, this mode will turn off the GPS and use other tracking networks like Wi-Fi and Bluetooth. Although this mode might not provide the most accurate tracking possible, it will direct you rightly.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Device only**
 
 If you are in a place with poor Wi-Fi and Bluetooth networks, the best way to manage your android location settings is to turn on the Vivo Y36 device-only mode. This feature prioritizes the inbuilt GPS radio signals over other networks. It functions just like cars, but, minds you, it consumes more battery power than different modes and will perform best when you're outside.
@@ -421,6 +433,9 @@ You can use Wi-Fi to connect the software to your iPhone once you've linked it t
 
 **Step 4:** The system now knows where you want to go. In the popup box, select "Move Here."
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 **Step 5**: Rome has been selected as your new home base. Whether you use the "Center On" symbol or your Phone's GPS to find your current location, you will always be in Rome, Italy. Your location-based app's location is, of course, in the same area as well. So that's where it's going to be shown.
@@ -500,7 +515,7 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Vivo  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Vivo ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Vivo](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Vivo Y36 device.
 
@@ -528,7 +543,7 @@ There you go! After reading this guide, you would be able to mock GPS on your Vi
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -557,3 +572,39 @@ There you go! After reading this guide, you would be able to mock GPS on your Vi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-s17t-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-g2-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-spark-20c-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-accelerating-instagram-videos-quick-tips-for-2024/"><u>[Updated] Accelerating Instagram Videos  Quick Tips for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-a-thorough-insight-into-obs-recording-technology/"><u>[New] 2024 Approved  A Thorough Insight Into OBS Recording Technology</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-spark-20-proplus-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-honor-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Honor ?</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-harmonizing-technology-and-tunes-the-leading-7-digital-audio-workstations-for-guitarists/"><u>Updated In 2024, Harmonizing Technology and Tunes The Leading 7 Digital Audio Workstations for Guitarists</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-s17e-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-spark-10-4g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-spark-10-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-motorola-moto-g84-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Motorola Moto G84 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-pop-8-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-evaluating-video-quality-the-impact-of-fps-on-recordings/"><u>2024 Approved  Evaluating Video Quality  The Impact of FPS on Recordings</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-spark-20-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/14-effective-methods-zero-budget-webinar-recording-tips-for-2024/"><u>14 Effective Methods  Zero Budget Webinar Recording Tips for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-tips-for-enabling-grid-on-google-meet/"><u>[Updated] 2024 Approved  Tips for Enabling Grid on Google Meet</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-pova-5-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-pova-5-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-spark-go-2023-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-pova-6-pro-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-s17-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-spark-10c-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-spark-20-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-your-ultimate-guide-to-accessing-facebook-content-on-applemedia-hub/"><u>[Updated] In 2024, Your Ultimate Guide to Accessing Facebook Content on AppleMedia Hub</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-spark-10-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-pop-7-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-top-6-must-have-apps-to-elevate-your-instagram-video-content-for-2024/"><u>[Updated] Top 6 Must-Have Apps to Elevate Your Instagram Video Content for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-panorama-pixels-cutting-edge-photo-assembler/"><u>2024 Approved  Panorama Pixels  Cutting-Edge Photo Assembler</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-efficiently-producing-high-quality-small-images/"><u>[New] In 2024, The Ultimate Guide to Efficiently Producing High-Quality Small Images</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-s17-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo S17 Pro | Dr.fone</u></a></li>
+</ul></div>

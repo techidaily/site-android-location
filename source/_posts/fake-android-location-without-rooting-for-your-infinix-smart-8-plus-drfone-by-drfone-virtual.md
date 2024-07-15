@@ -1,7 +1,7 @@
 ---
 title: Fake Android Location without Rooting For Your Infinix Smart 8 Plus | Dr.fone
-date: 2024-07-08T04:18:30.313Z
-updated: 2024-07-09T04:18:30.313Z
+date: 2024-07-14T03:05:43.136Z
+updated: 2024-07-15T03:05:43.136Z
 tags: 
   - virtual location chang
   - location changer
@@ -150,10 +150,16 @@ Now it is the perfect time to Fake your GPS location using the below guidelines
 
 Step 1: After successful installation of Lexa, tap the icon to trigger the app. The home screen of this app displays a map
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![trigger the app](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-14.jpg)
 
 Step 2: Click the ‘Set Location’ option and drag the pointer on the map as per your desire
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drag the pointer on the map](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-15.jpg)
 
 Step 3: Save the changes and exit from App. Your Infinix Smart 8 Plus phone will display the new location address in the notification window.
@@ -238,6 +244,9 @@ You can check out this video for further instruction.
 
 - Click on **Move Here** to mock your location on Android.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 Once you select the Move Here option, your new location on the program’s map, as well as your Infinix Smart 8 Plus, will show as Rome, Italy.
@@ -342,6 +351,9 @@ Fake GPS Go Location Spoofer is a premium tool, but most of its functions are fr
 
 **Price**: Free
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fake gps location professional](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-professional.jpg)
 
 Fake GPS Location Professional is another free tool to deceive your GPS on Android devices. However, whenever you want to use it, you will have to go through Settings and mock your location manually every time.
@@ -394,6 +406,9 @@ Here’s how to enable the developer option:
 
 - Choose the **Software info**
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fake gps location on android12](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-14.jpg)
 
 - And click on **Build Number 7 times to see** the developer options screen.
@@ -609,3 +624,40 @@ There are varying purposes why you might want to fake your location. Luckily, se
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-v27-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo V27 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-mastering-facebook-cover-videos-tips-and-configuration-guide-for-2024/"><u>[New] Mastering Facebook Cover Videos  Tips & Configuration Guide for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-unveiling-the-leaders-in-online-engagement/"><u>[New] Unveiling the Leaders in Online Engagement</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-s18e-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo S18e Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-v27-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo V27 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-v29-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo V29 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-spark-20c-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Spark 20C Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-s17t-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo S17t Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-t2x-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo T2x 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-s18-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo S18 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-spark-go-2023-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Spark Go (2023) Location Settings | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-adventure-awaits-discover-the-best-online-sites-for-boxes/"><u>[New] Adventure Awaits  Discover the Best Online Sites for Boxes</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-t2-pro-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo T2 Pro 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-leading-movie-trailer-software-for-windows-and-macos-for-2024/"><u>New Leading Movie Trailer Software for Windows and macOS for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-s17e-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo S17e Location Settings | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-understanding-and-controlling-safaris-pip-feature/"><u>[New] In 2024, Understanding and Controlling Safari's PIP Feature</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-exploring-youtubes-strategy-for-video-short-promotion/"><u>[New] Exploring YouTube's Strategy for Video Short Promotion</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-t2-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo T2 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-initiate-your-facebook-analysis-journey/"><u>2024 Approved  Initiate Your Facebook Analysis Journey</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-gt-5-pro-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme GT 5 Pro Device</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-v27e-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo V27e Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-v29-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo V29 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-s17-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo S17 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-s18-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo S18 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-v29e-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo V29e Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-g2-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo G2 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unveiling-history-watching-older-facebook-content-on-your-device/"><u>Unveiling History  Watching Older Facebook Content on Your Device</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Apple iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/auditory-delights-in-cinema-celebrating-the-best-8-film-soundscapes-for-2024/"><u>Auditory Delights in Cinema - Celebrating the Best 8 Film Soundscapes for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-haul-video-production-and-editing-techniques/"><u>[New] The Art of Haul Video Production and Editing Techniques</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-12-pro-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 12 Pro without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-s17-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo S17 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-10-games-just-like-stardew-valley/"><u>[Updated] Top 10 Games Just Like Stardew Valley</u></a></li>
+</ul></div>

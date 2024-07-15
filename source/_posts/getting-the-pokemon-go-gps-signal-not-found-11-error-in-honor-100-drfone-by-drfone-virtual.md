@@ -1,7 +1,7 @@
 ---
 title: Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor 100 | Dr.fone
-date: 2024-05-19T03:49:44.895Z
-updated: 2024-05-20T03:49:44.895Z
+date: 2024-07-14T03:18:12.511Z
+updated: 2024-07-15T03:18:12.511Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor 100
 excerpt: This article describes Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor 100
 keywords: change location on android,change location on 100,change gps location on android,fake location on 100,fake gps location on android,fake location on android
-thumbnail: https://www.lifewire.com/thmb/X0NLJA7wZWOmsgBrRlyzzPD7H5A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1065028028-8e770c58918e4cf8b0852e81cff60ed6.jpg
+thumbnail: https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff463421241eb49561be7ce4c.jpg
 ---
 
 ## Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor 100
@@ -43,6 +43,9 @@ As I have listed above, the Pokemon Go GPS not found 11 problem can arise due to
 
 The simplest way to fix the Pokemon Go GPS not found 11 issue is by restarting the game. If the app has not been loaded properly, then it would resolve this problem. All you need to do is tap on the app switcher button on your device to view all the apps running in the background. From here, swipe the Pokemon Go card to stop it from running. Afterward, restart the app and check if it would fix the GPS signal not found 11 Pokemon Go issue.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![close pokemon go app](https://images.wondershare.com/drfone/2020/close-pokemon-go-app.jpg)
 
 ### Fix 2: Update or Reinstall the Pokemon Go app
@@ -89,6 +92,9 @@ Lastly, if nothing else seems to work, then you can reset the network settings o
 
 In the end, you can choose to reset the network settings of your phone and wait for it to be restarted. This will erase the saved WiFi passwords and other network settings but might fix the GPS signal not found 11 errors on Android.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Fix the GPS Not Found 11 Error with a Location Spoofing Tool
 
 If you use an iOS device and are getting the Pokemon Go GPS signal not found 11 errors on iPhone, then you can use a spoofing tool. I would recommend using [Dr.Fone – Virtual Location (iOS)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) which can change the location of your iPhone to anywhere you like and fix these GPS-based errors.
@@ -150,8 +156,14 @@ If you still get the Pokemon Go GPS not found 11 error, then consider deleting t
 
 Since this is a location-based error, you can also consider resetting the location services on your phone. For this, just go to the Location Services (GPS) settings and toggle it off (and on). You can also go to the notification center and tap on the GPS icon to turn the service off and on again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android location option](https://images.wondershare.com/drfone/2020/android-location-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Turn off the Mock Location feature
 
 Android users get the feature to set mock location on their phones, but it can also be a reason for getting the GPS not found 11 error. Therefore, if you are also getting the GPS signal not found 11 issue on your Android, then go to its Settings > Developer Options. From here, make sure that you have disabled any mock location app or settings on your phone.
@@ -218,7 +230,7 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both Android and iOS!
 
@@ -312,7 +324,7 @@ _**Tips:** Discover the most effective way to fake GPS on Android without using 
 
 
 
-_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html)_
+_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html) _
 
 ## Part 4: Mock Location Feature on Different Android Models
 
@@ -324,6 +336,9 @@ Accessing the mock location feature on your Samsung or Moto device is relatively
 
 ![locate mock location on samsung](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. LG
 
 Another device you can access the mock location on again is the LG Smartphone device. On this device, you should also navigate to ‘Developer Options.’ Next, choose ‘allow mock location to continue.
@@ -362,7 +377,7 @@ If you think the way above is complicated for you, you can just use the easiest 
 
 There are varying purposes why you might want to fake your location. Luckily, several apps are available to **fake GPS on Android without mock location**. The best option for you would be the [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With this fake location app, you can access any third-party app and be in a whole different country from the comfort of your home. However, this article also provides you with other options you can explore.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 
 <ins class="adsbygoogle"
@@ -381,3 +396,64 @@ There are varying purposes why you might want to fake your location. Luckily, se
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-itel-p55plus-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-motorola-edge-40-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-meizu-21-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-lava-storm-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-lava-blaze-2-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-itel-p55t-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-best-free-luts-to-use/"><u>Updated Best Free LUTs to Use</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-mastering-the-science-proven-methods-for-effective-hashtagging-on-fb/"><u>[New] 2024 Approved  Mastering the Science  Proven Methods for Effective Hashtagging on FB</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-itel-s23-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-itel-a70-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-itel-a60-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-essential-list-of-free-rippers-for-video-conversion/"><u>[New] 2024 Approved  Essential List of Free Rippers For Video Conversion</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-lava-yuva-3-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-itel-p40plus-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-operational-handling-of-srt-in-oses/"><u>[Updated] Operational Handling of SRT in OSes</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-itel-p55-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-lava-yuva-3-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-magnifymaster-x7-resizing-photos-to-perfection/"><u>2024 Approved  MagnifyMaster X7  Resizing Photos to Perfection</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-motorola-edge-2023-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-bridging-the-gap-enhancing-your-edits-with-inshot-transitions/"><u>In 2024, Bridging the Gap  Enhancing Your Edits with Inshot Transitions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-go-live-with-google-meet-youtube-broadcasting-steps/"><u>[New] 2024 Approved  Go Live with Google Meet  YouTube Broadcasting Steps</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-oppo-find-n3-flip-frp-bypass-by-drfone-android/"><u>About Oppo Find N3 Flip FRP Bypass</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-a-time-travelers-guide-to-youtube-queue-watch-from-end-to-start/"><u>[New] 2024 Approved  A Time Traveler’s Guide to YouTube Queue  Watch From End to Start</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-lava-yuva-2-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-drones-for-gopro/"><u>In 2024, Best Drones for GoPro</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-lava-agni-2-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-your-guide-to-building-stylish-snapchat-filters/"><u>[Updated] 2024 Approved  Your Guide to Building Stylish Snapchat Filters</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-itel-p40-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-honor-90-pro-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Honor 90 Pro by Name | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/implement-intels-hardware-features/"><u>Implement Intel's Hardware Features</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-ultimate-guide-on-making-a-slideshow-video-for-2024/"><u>New Ultimate Guide on Making A Slideshow Video for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-the-cloud-stop-motion-handbook-tips-tricks-and-top-picks/"><u>In 2024, The Cloud Stop Motion Handbook Tips, Tricks, and Top Picks</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-itel-a60s-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-oneplus-nord-n30-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On OnePlus Nord N30 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-motorola-edge-40-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-motorola-edge-40-neo-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-infinix-gt-10-pro-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Infinix GT 10 Pro Face Lock?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-innovators-designing-online-marvel-experiences/"><u>[Updated] 2024 Approved  Innovators Designing Online Marvel Experiences</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-itel-a05s-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-itel-p55-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-lava-blaze-2-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-elevate-your-gaming-footage-fbx-edition/"><u>In 2024, Elevate Your Gaming Footage  FBX Edition</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-meizu-21-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-itel-s23plus-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-lava-blaze-curve-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-refinement-through-removal-advanced-techniques-for-enhancing-music-clarity-in-adobe-audition/"><u>Updated In 2024, Refinement Through Removal Advanced Techniques for Enhancing Music Clarity in Adobe Audition</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-poco-m6-pro-4g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Poco M6 Pro 4G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-motorola-defy-2-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-lava-blaze-2-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-lava-yuva-2-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-the-top-20-youtube-music-spaces-for-your-favorite-tunes/"><u>[New] Unveiling the Top 20 YouTube Music Spaces for Your Favorite Tunes</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-lenovo-thinkphone-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/seamless-incorporation-of-text-overlays-for-vimeo-films/"><u>Seamless Incorporation of Text Overlays for Vimeo Films</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-lava-blaze-pro-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-premium-portable-switch-game-clones/"><u>[New] 2024 Approved  Premium Portable Switch Game Clones</u></a></li>
+</ul></div>

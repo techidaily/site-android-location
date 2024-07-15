@@ -1,7 +1,7 @@
 ---
 title: Fake Android Location without Rooting For Your Tecno Spark 10C | Dr.fone
-date: 2024-05-19T03:49:43.775Z
-updated: 2024-05-20T03:49:43.775Z
+date: 2024-07-14T03:09:41.445Z
+updated: 2024-07-15T03:09:41.445Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes Fake Android Location without Rooting For Your Tecno Spark 10C
 excerpt: This article describes Fake Android Location without Rooting For Your Tecno Spark 10C
 keywords: fake gps location on android,fake location on Spark 10C,change location on android,fake location on android,change gps location on android,change location on Spark 10C
-thumbnail: https://www.lifewire.com/thmb/bJZjivkvkiXSPidjAhZPdQz2Xu8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-545995058-58ed21243df78cadab023f3c.jpg
+thumbnail: https://thmb.techidaily.com/6a8b7b3cdb25a03e07ba1819bb3940ce3cb079bf3680cebd2f9e48a956c136d3.jpg
 ---
 
 ## Fake Android Location without Rooting For Your Tecno Spark 10C
@@ -106,7 +106,7 @@ The VPN provider will assist you by serving a new IP address to mask your locati
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -124,6 +124,9 @@ You must make some changes on your Tecno Spark 10C Phone before installing the F
 
 Step 1: In your Tecno Spark 10C Phone go to the ‘Settings’ option and select ‘About Phone’
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Settings](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-9.jpg)
 
 Step 2: In the next window choose ‘Software Information’
@@ -132,6 +135,9 @@ Step 2: In the next window choose ‘Software Information’
 
 Step 3: Tap on ‘Built Number’ in the preceding screen. This step allows you to access the ‘Developer option’ in the Tecno Spark 10C device
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Developer option](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-11.jpg)
 
 Activate the Mock Location option in Android
@@ -142,6 +148,9 @@ Step 1: Go to the ‘Settings’ option in your Tecno Spark 10C and choose ‘De
 
 Step 2: In the next screen enable the ‘Mock Location’ option to spoof the location details
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![spoof the location details](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-13.jpg)
 
 You have to install the Fake GPS App, which is available in the Google Play Store. In this article, Lexa Fake GPS app employed to explain the steps in detail.
@@ -248,6 +257,9 @@ You can use Wi-Fi to connect the software to your iPhone once you've linked it t
 
 **Step 2**: You'll be taken to a new window where you can see a map of your current position. Click the "Center On" symbol in the lower right corner to see the proper place if it is not displayed correctly.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on get started button](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
 **Step 3:** Activate the "teleport mode" by swiping up and down and then clicking on the 2nd icon (the top right). Click "Go" to teleport to your location of choice.
@@ -274,6 +286,9 @@ This is one of the many queries that we get from Tecno  users who wish to mock G
 
 ![mock GPS on the map](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: What is Mock GPS on Tecno Spark 10C?
 
 As the name suggests, mock location simply means changing the present location of your device. A fake or mock GPS feature lets us select the present location of our device that would now act as its active location – instead of its actual one.
@@ -335,7 +350,7 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Tecno  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Tecno ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Tecno](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Tecno Spark 10C device.
 
@@ -363,7 +378,7 @@ There you go! After reading this guide, you would be able to mock GPS on your Te
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -392,3 +407,69 @@ There you go! After reading this guide, you would be able to mock GPS on your Te
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-htc-u23-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your HTC U23 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-bring-charisma-to-your-stories-mastery-of-custom-emoji-use-on-instagram/"><u>[New] Bring Charisma to Your Stories  Mastery of Custom Emoji Use on Instagram</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-design-principles-for-eye-catching-yt-previews/"><u>[New] 2024 Approved  Design Principles for Eye-Catching YT Previews</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-smart-8-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Smart 8 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-hot-30i-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Hot 30i Location Settings | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-videos-10-best-intro-creator-platforms-free-and-paid/"><u>Elevate Your Videos 10 Best Intro Creator Platforms (Free & Paid)</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-hot-40-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Hot 40 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-excel-2019-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a Excel 2019 document online</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-note-30-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Note 30 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-online-vide/"><u>Updated 2024 Approved Online Vide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-obs-studio-for-gamers-ps4-screenshots-and-recordings-guide/"><u>[New] In 2024, OBS Studio for Gamers  PS4 Screenshots & Recordings Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-reverse-action-flipping-your-iphone-video-footage/"><u>[New] In 2024, Reverse Action  Flipping Your iPhone Video Footage</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-zero-30-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Zero 30 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-huawei-nova-y91-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Huawei Nova Y91 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-note-30i-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Note 30i Location Settings | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-extract-audio-from-mp4-the-best-mp4-to-mp3-converters/"><u>2024 Approved Extract Audio From MP4 The Best MP4 to MP3 Converters</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-x9b-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor X9b Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-itel-a05s-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Itel A05s Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-itel-p55-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Itel P55 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-itel-p40plus-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Itel P40+ Location Settings | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-add-music-to-final-cut-pro/"><u>2024 Approved Add Music to Final Cut Pro</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-itel-a60s-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Itel A60s Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-note-30-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Note 30 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oppo-k11x-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-htc-u23-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your HTC U23 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-note-30-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Note 30 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-hot-40i-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Hot 40i Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-smart-8-plus-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Smart 8 Plus Location Settings | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-life360-on-windows-pc-for-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Honor Magic 5 Lite? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-ultimate-guide-to-spectacular-sound-art-ranking-the-top-5-visualizers/"><u>Updated In 2024, The Ultimate Guide to Spectacular Sound Art Ranking the Top 5 Visualizers</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-note-30-vip-racing-edition-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Note 30 VIP Racing Edition Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-smart-8-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Smart 8 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-oppo-a2-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Oppo A2? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-how-to-quickly-fix-audio-importing-issues-in-adobe-premiere-pro/"><u>2024 Approved How to Quickly Fix Audio Importing Issues in Adobe Premiere Pro</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-note-30-vip-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Note 30 VIP Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-itel-a60-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Itel A60 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-smart-8-hd-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Smart 8 HD Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-itel-a70-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Itel A70 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-gt-10-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix GT 10 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-hot-30-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Hot 30 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-x9a-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor X9a Location Settings | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xr-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XR to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-insights-for-successful-short-video-creation-for-2024/"><u>The Ultimate Insights for Successful Short Video Creation for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-modern-guide-to-mkv-audio-removal-update-users/"><u>2024 Approved Modern Guide to MKV Audio Removal Update Users</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-smart-7-hd-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Smart 7 HD Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-huawei-p60-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Huawei P60 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-distance-remote-podcast-broadcast-for-2024/"><u>[Updated] Mastering Distance  Remote Podcast Broadcast for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-apple-iphone-12-pro-max-in-3-ways-drfone-by-drfone-virtual-ios/"><u>In 2024, Edit and Send Fake Location on Telegram For your Apple iPhone 12 Pro Max in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-initiating-your-online-journey-a-step-by-step-guide-to-youtube/"><u>In 2024, Initiating Your Online Journey  A Step-by-Step Guide to YouTube</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-blaze-2-pro-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Blaze 2 Pro</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-best-aggregate-video-chat-and-multi-user-platforms/"><u>[Updated] In 2024, Best Aggregate Video Chat & Multi-User Platforms</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-building-a-billion-view-empire-your-step-by-step-youtube-strategy/"><u>[Updated] Building a Billion-View Empire  Your Step-by-Step Youtube Strategy</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-playstation-5-and-xbox-series-x-games-consoles-ranked-for-2024/"><u>Best PlayStation 5 & Xbox Series X Games Consoles Ranked for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-huawei-nova-y71-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Huawei Nova Y71 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-smart-7-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Smart 7 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-masterful-archive-of-twitter-animations-at-your-fingertips/"><u>[New] 2024 Approved  Masterful Archive of Twitter Animations at Your Fingertips</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-bite-sized-content-on-youtube/"><u>[New] Bite-Sized Content on YouTube</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-zero-5g-2023-turbo-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Zero 5G 2023 Turbo Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-itel-p40-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Itel P40 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-maximizing-display-youtube-video-upgrades/"><u>In 2024, Maximizing Display  YouTube Video Upgrades</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-hot-40-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Hot 40 Pro Location Settings | Dr.fone</u></a></li>
+</ul></div>

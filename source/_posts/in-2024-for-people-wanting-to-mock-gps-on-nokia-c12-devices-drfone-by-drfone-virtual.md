@@ -1,7 +1,7 @@
 ---
 title: In 2024, For People Wanting to Mock GPS on Nokia C12 Devices | Dr.fone
-date: 2024-05-19T03:49:52.474Z
-updated: 2024-05-20T03:49:52.474Z
+date: 2024-07-14T04:13:59.707Z
+updated: 2024-07-15T04:13:59.707Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes For People Wanting to Mock GPS on Nokia C12 Devices
 excerpt: This article describes For People Wanting to Mock GPS on Nokia C12 Devices
 keywords: fake location on C12,change location on C12,fake gps location on android,change location on android,fake location on android,change gps location on android
-thumbnail: https://www.lifewire.com/thmb/D7l9wVfRkR02O_cphLk2NQX7Fjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-12-08at3.04.00PM-5c0c23f6c9e77c00018eae4e.png
+thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a50648dc244def701160f50d9.png
 ---
 
 ## For People Wanting to Mock GPS on Nokia C12 Devices
@@ -75,6 +75,9 @@ Last, but most importantly, check the feedback and the real-life experience of o
 
 ![affected apps](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Step by Step Guide to Mock GPS on Nokia C12
 
 Now when you are all prepped-up, you can easily learn how to mock GPS on a Nokia  phone. As stated above, the fake or mock GPS feature is only enabled in Developer Options on the Nokia C12 device. Thus, you need to first turn on your Nokia ’s Developer Options and later pick a mock GPS app to fake the current location on your device. Here’s how you can fake location or mock GPS on your Nokia  phone:
@@ -83,7 +86,7 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Nokia  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Nokia ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Nokia](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Nokia C12 device.
 
@@ -97,6 +100,9 @@ Now, go to the Play Store app on your phone and look for a mock GPS app. I have 
 
 After successfully installing the mock GPS apk on your Nokia , go back to its Settings > Developer Options > Mock Location app and select the fake GPS location app that you have recently downloaded. This will allow the mock GPS app to change the location of your device.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change the location](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-7.jpg)
 
 Step 3: Fake location on your Nokia 
@@ -111,7 +117,7 @@ There you go! After reading this guide, you would be able to mock GPS on your No
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -146,6 +152,9 @@ Before you get to know about the best fake GPS spoofer apps for Android, it is i
 
 Without much ado, let’s get to know about some of the best fake location spoofer apps that you can use for free.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fake GPS Location by Lexa
 
 If you are looking for a reliable and lightweight fake GPS location spoofer free app, then give this one a go. The app works smoothly on most of the Android devices even if they are not rooted.
@@ -167,7 +176,7 @@ Download link: [https://play.google.com/store/apps/details?id=com.lexa.fakegps](
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -216,7 +225,7 @@ Download link: [https://play.google.com/store/apps/details?id=org.hola.gpslocati
 
 ![Fake GPS by Hola](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-4.jpg)
 
-### [Fake GPS Location Spoofer](https://drfone.wondershare.com/fake-location/fake-gps-location-spoofer.html)
+### Fake GPS Location Spoofer
 
 If you are looking for a lightweight, reliable, and user-friendly location spoofer, then you can give this app a try. It has been recently updated to provide support for most gaming and dating apps.
 
@@ -326,6 +335,9 @@ Download link: [https://play.google.com/store/apps/details?id=com.pe.fakegpsrun]
 
 ![Fake GPS Run](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fake GPS 360
 
 Last, but not the least, this free fake GPS spoofer will provide a fast and simple solution to change your location. You can spoof your location to any place in the world by looking at its coordinates.
@@ -367,6 +379,9 @@ Before we troubleshoot the GPS signal not found 11 errors in Pokemon Go, let’s
 - The issue can also happen if you are using a mock location app on your device.
 - Any other changed settings or app-related issues on your phone can also cause this error.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pokemon gps signal 11](https://images.wondershare.com/drfone/2020/pokemon-gps-signal-11.jpg)
 
 ## Part 2: How to fix the GPS Signal Not Found 11 Issue in Pokemon Go?
@@ -456,3 +471,61 @@ I’m sure that after reading this troubleshooting post, you would be able to fi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oneplus-12-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-audio-recording-101-from-youtube-playback-to-files/"><u>2024 Approved  Audio Recording 101  From YouTube Playback To Files</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-crafting-shareable-instagram-stories-that-spread-like-wildfire/"><u>2024 Approved  Crafting Shareable Instagram Stories That Spread Like Wildfire</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nokia-g310-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-blades-visual-journey-from-standard-to-stunning-4k/"><u>[Updated] In 2024, Blade's Visual Journey  From Standard to Stunning 4K</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nokia-c12-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nokia-c02-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oneplus-12r-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nokia-130-music-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nubia-z50-ultra-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-perfect-slideshow-software-for-iphone-fi-and-pro-max/"><u>[New] Perfect Slideshow Software For iPhone Fi & Pro Max</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oneplus-ace-3-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oneplus-ace-2-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-samsung-galaxy-a25-5g-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Samsung Galaxy A25 5G.</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-elevating-your-listening-experience-online-techniques-for-speed-and-pitch-alteration/"><u>New Elevating Your Listening Experience Online Techniques for Speed and Pitch Alteration</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nokia-g42-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nubia-red-magic-9-proplus-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nokia-c12-plus-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-get-your-tweets-right-comply-with-aspect-ratio-standards/"><u>In 2024, Get Your Tweets Right  Comply with Aspect Ratio Standards</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-change-text-in-premiere-pro/"><u>2024 Approved How To Change Text In Premiere Pro</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nokia-c210-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oneplus-ace-2v-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nokia-c110-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-sleep-optimal-asmr-experiences-and-picks/"><u>[New] Mastering Sleep  Optimal ASMR Experiences & Picks</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nokia-c300-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-13-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 To Others devices? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-ig-reel-secrets-pausing-time-for-creative-impact-for-2024/"><u>[Updated] IG Reel Secrets  Pausing Time for Creative Impact for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nokia-c12-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-c65-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from C65</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nubia-red-magic-8s-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unlocking-insta-success-when-to-share-your-content-for-2024/"><u>Unlocking Insta Success  When to Share Your Content for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-elevating-video-clarity-methods-for-eradicating-inaudible-roughness-in-soundtracks/"><u>New In 2024, Elevating Video Clarity Methods for Eradicating Inaudible Roughness in Soundtracks</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nubia-z50s-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-se-2020-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone SE (2020) Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-ultimate-zero-cost-fb-imagery-and-cinematic-builder-for-2024/"><u>[Updated] Ultimate Zero-Cost FB Imagery & Cinematic Builder for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-detailed-steps-for-a-flawless-ps3-gameplay-recording-process-for-2024/"><u>[Updated] Detailed Steps for a Flawless PS3 Gameplay Recording Process for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-poco-x5-pro-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oneplus-11-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nokia-c22-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oneplus-ace-2-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/unveiling-tiktoks-visual-makeover-techniques/"><u>Unveiling TikTok's Visual Makeover Techniques</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nokia-150-2023-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-premier-funny-photo-tool/"><u>[New] Premier Funny Photo Tool</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nokia-c32-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nubia-red-magic-9-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nokia-xr21-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nokia-105-classic-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-vivo-s17-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Vivo S17 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-navigating-tiktok-web-efficiently-as-a-mac-user/"><u>[Updated] In 2024, Navigating TikTok Web Efficiently as a Mac User</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-budget-planning-for-music-video-production/"><u>[Updated] Budget Planning for Music Video Production</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nokia-g22-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oneplus-11r-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-ultimate-list-10-best-android-apps-for-video-editing-for-2024/"><u>Updated The Ultimate List 10 Best Android Apps for Video Editing for 2024</u></a></li>
+</ul></div>

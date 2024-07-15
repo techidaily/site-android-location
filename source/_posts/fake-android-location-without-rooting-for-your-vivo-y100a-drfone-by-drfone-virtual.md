@@ -1,7 +1,7 @@
 ---
 title: Fake Android Location without Rooting For Your Vivo Y100A | Dr.fone
-date: 2024-05-19T03:49:43.839Z
-updated: 2024-05-20T03:49:43.839Z
+date: 2024-07-14T03:10:20.064Z
+updated: 2024-07-15T03:10:20.064Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes Fake Android Location without Rooting For Your Vivo Y100A
 excerpt: This article describes Fake Android Location without Rooting For Your Vivo Y100A
 keywords: change location on android,change location on Y100A,fake gps location on android,fake location on Y100A,fake location on android,change gps location on android
-thumbnail: https://www.lifewire.com/thmb/21o2y5NdnwK9g8j7z_eUWi12JAw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-504331578-cheering-football-on-tv-5a231ffdaad52b00372ae2a6.jpg
+thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde2fed4f7c2aee477f6b93402.jpg
 ---
 
 ## Fake Android Location without Rooting For Your Vivo Y100A
@@ -24,6 +24,9 @@ You can make use of certain apps in the digital market only if you grant permiss
 
 ![GPS spoofing](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Why fake Android GPS/location?
 
 What are the benefits of a fake Android location? There is a need to [fake the GPS location on your Vivo Y100A](https://drfone.wondershare.com/virtual-location/top-fake-gps-apps-for-android.html) for various reasons as follows
@@ -58,6 +61,9 @@ Edit the images and post it accordingly on Instagram/Snapchat etc to divert your
 
 ![Instagram/Snapchat/Facebook location spoofing](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Dating apps like Tinder
 
 Tinder is a dating app mostly used by singles, college students, and committed ones too. Here the members get to know one another and go for a dating. Some members make use of this app just to make friends.
@@ -106,7 +112,7 @@ The VPN provider will assist you by serving a new IP address to mask your locati
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -150,6 +156,18 @@ Now it is the perfect time to Fake your GPS location using the below guidelines
 
 Step 1: After successful installation of Lexa, tap the icon to trigger the app. The home screen of this app displays a map
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![trigger the app](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-14.jpg)
 
 Step 2: Click the ‘Set Location’ option and drag the pointer on the map as per your desire
@@ -160,6 +178,9 @@ Step 3: Save the changes and exit from App. Your Vivo Y100A phone will display t
 
 ![display the new location](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-16.jpg)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## Part 4: How to fake Android location using VPN
 
 Step 1: Go to the Google Play store and choose an appropriate VPN provider compatible with your device
@@ -251,7 +272,7 @@ Step 1: Enable Mock Location under Developer Options
 
 To start with, you need to enable the Developer Options on your Vivo  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
-![Developer Options on your Vivo ](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+![Developer Options on your Vivo](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Vivo Y100A device.
 
@@ -279,7 +300,7 @@ There you go! After reading this guide, you would be able to mock GPS on your Vi
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -337,7 +358,7 @@ Download link: [https://play.google.com/store/apps/details?id=com.lexa.fakegps](
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -386,7 +407,7 @@ Download link: [https://play.google.com/store/apps/details?id=org.hola.gpslocati
 
 ![Fake GPS by Hola](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-4.jpg)
 
-### [Fake GPS Location Spoofer](https://drfone.wondershare.com/fake-location/fake-gps-location-spoofer.html)
+### Fake GPS Location Spoofer
 
 If you are looking for a lightweight, reliable, and user-friendly location spoofer, then you can give this app a try. It has been recently updated to provide support for most gaming and dating apps.
 
@@ -422,6 +443,9 @@ Download link: [https://play.google.com/store/apps/details?id=com.gsmartstudio.f
 
 ![Fake GPS Location](https://images.wondershare.com/drfone/article/2019/09/best-location-spoofers-android-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fake GPS by ByteRev
 
 This is another reliable location spoofer app that would let you change your location to any other place in the world. Just be sure that you have allowed the mock location feature on your Vivo Y100A to make it work.
@@ -533,3 +557,56 @@ This brings us to the end of this extensive post about the best GPS spoofer apps
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-12-proplus-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi Note 12 Pro+ 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-12-4g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi Note 12 4G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-12-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi Note 12 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-asus-rog-phone-8-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-oppo-a38-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-beginners-blueprint-to-free-youtube-audio-to-text/"><u>2024 Approved  The Beginner's Blueprint to Free YouTube Audio to Text</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-google-pixel-7a-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-top-discord-recording-apps-for-mobile-and-desktop/"><u>[Updated] 2024 Approved  Top Discord Recording Apps for Mobile & Desktop</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamlining-content-delivery-the-definitive-youtube-video-upload-guide/"><u>In 2024, Streamlining Content Delivery  The Definitive YouTube Video Upload Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-zte-nubia-flip-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on ZTE Nubia Flip 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-google-pixel-8-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-google-pixel-8-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-lava-blaze-curve-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Lava Blaze Curve 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-migrating-from-spotify-to-a-personalized-youtube-music-list/"><u>[Updated] Migrating From Spotify to a Personalized YouTube Music List</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-13-pro-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi Note 13 Pro 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-obs-recording-tech-breakdown-comparing-leading-screen-recorders/"><u>[Updated] In 2024, OBS Recording Tech Breakdown  Comparing Leading Screen Recorders</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-zte-axon-40-lite-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on ZTE Axon 40 Lite Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-13-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi Note 13 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-asus-rog-phone-8-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-honor-play-8t-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Honor Play 8T Phones? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-choices-360-video-equipment-for-livestreaming-platforms/"><u>2024 Approved  Top Choices  360° Video Equipment for Livestreaming Platforms</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-13-proplus-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi Note 13 Pro+ 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-lore-of-roguelites-amidst-classic-rpgs-for-2024/"><u>[Updated] The Lore of Roguelites Amidst Classic RPGs for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfecting-film-grading-a-deep-dive-into-cg-centrals-look-up-tables-for-2024/"><u>Perfecting Film Grading  A Deep Dive Into CG Central's Look-Up Tables for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-12r-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi Note 12R Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-12t-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi Note 12T Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-flagship-firefox-screenshot-tools/"><u>[Updated] Flagship Firefox Screenshot Tools</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Ultimate guide to get the meltan box pokemon go For Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-90-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-12-pro-4g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi Note 12 Pro 4G Devices | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-become-a-zen-master-learn-to-quiet-down-distractions-in-gmeet-for-2024/"><u>[Updated] Become a Zen Master  Learn to Quiet Down Distractions in GMeet for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-studyhistory-10-essential-youtube-historical-channels/"><u>2024 Approved  StudyHistory  10 Essential YouTube Historical Channels</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-google-pixel-fold-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-12-pro-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi Note 12 Pro 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-huawei-nova-y91-to-mac-drfone-by-drfone-android/"><u>How to Mirror Huawei Nova Y91 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-mastering-mac-the-guide-to-dancing-tiktok-videos/"><u>[New] Mastering Mac  The Guide to Dancing TikTok Videos</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/10-best-free-green-screen-editors-for-android-and-ios-users-for-2024/"><u>10 Best Free Green Screen Editors for Android and iOS Users for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-gionee-f3-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-100-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-zte-nubia-z60-ultra-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on ZTE Nubia Z60 Ultra Devices | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-how-to-send-videos-on-discord/"><u>[New] 2024 Approved  How to Send Videos on Discord</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-how-to-screen-record-instagram-story/"><u>In 2024, How to Screen Record Instagram Story</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-asus-rog-phone-7-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-zte-blade-a73-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on ZTE Blade A73 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-100-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-70-lite-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-essentials-of-creating-share-worthy-instagram-videos/"><u>[Updated] 2024 Approved  Essentials of Creating Share-Worthy Instagram Videos</u></a></li>
+</ul></div>

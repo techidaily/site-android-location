@@ -1,7 +1,7 @@
 ---
 title: "Upcoming PCI-SIG Announcement: CooperLink Cables Enable PCIe Gen5 & Gen6 Connectivity - Anticipating Release of PCIe Gen7"
-date: 2024-08-15T19:32:35.030Z
-updated: 2024-08-16T19:32:35.030Z
+date: 2024-09-05T03:44:15.190Z
+updated: 2024-09-06T03:44:15.190Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://thmb.techidaily.com/d009fff2d2f1ae33a60244be6a10e60fe9a4c6152d14b10a6c314e65ab841263.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Experience a Blend of Vintage and Cutting Edge: Ayaneo's AMD AM01 Classic Inspired Desktop Goes On Sale Now
 
 Ayaneo is officially selling its retro mini PC, the AM01, outside of its crowdfunding campaign via its[website](https://ayaneo.com/goods/8451695378677?) . The AM01 mini PC is reminiscent of the Macintosh Classic and is available in multiple configurations. The AM01 is much smaller than the Macintosh Classic, but it's packed with features and can be purchased with a memory configuration of between 8 and 32GB and primary SSD storage options of up to 1TB.
@@ -46,6 +58,12 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 ![Ayaneo AM01 Mini PC](https://cdn.mos.cms.futurecdn.net/WGEpGR8Pts2g8USJ2KBFfh-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Ayaneo)
 
  The pricing is fairly attractive, with the highest-spec options retailing at $449 including shipping, though customs charges may vary depending on country. Also, you may not receive full warranty support, depending on country. There are, of course, other mini PCs to consider — the main selling point of the AM01 is its Macintosh-themed design. If you're just looking for a mini PC,[Asus' NUCs](https://www.tomshardware.com/desktops/mini-pcs/asus-reveals-pricing-for-its-new-nucs-nuc-14-pro-starts-at-dollar394-and-nuc-14-pro-at-dollar869) are a local option.
@@ -54,6 +72,12 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -126,7 +150,3 @@ __Ayaneo Retro Mini PC AM01 Specification__
 <li><a href="https://technical-tips.techidaily.com/secure-your-browsing-experience-fixing-connection-not-secure-errors-easily/"><u>Secure Your Browsing Experience – Fixing ‘Connection Not Secure’ Errors Easily</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/updated-essential-audio-recorders-the-top-mp3-software-compatible-with-pc-and-mac-os/"><u>Updated Essential Audio Recorders The Top MP3 Software Compatible with PC & Mac OS</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->

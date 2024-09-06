@@ -1,7 +1,7 @@
 ---
 title: "ASROCK'S AMRY ZEN Driven DeskMini X600 Series: Available Internationally Starting May 24"
-date: 2024-08-15T19:32:41.503Z
-updated: 2024-08-16T19:32:41.503Z
+date: 2024-09-05T03:44:15.079Z
+updated: 2024-09-06T03:44:15.079Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895e91d61d746d246092f66e50.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## NZXT's Game-Changing Monthly Offers: Immerse in High-Quality Gaming with Core I5 & RTX 4060 PC for $59 or Unleash Ultimate Power W/Core I7 + RTX 4070 Ti Package at an Extraordinary Price of $169
 
 NZXT has initiated a new subscription plan —[NZXT Flex](https://shareasale.com/r.cfm?b=755373&u=4338022&m=60525&afftrack=techidaily&urllink=https%3A%2F%2Fsilver-cuisine.pxf.io%2Fnlgolx) — that enables gamers to rent a pre-built NZXT gaming system for a monthly fee. With NZXT Flex, customers can rent a gaming PC for as little as $59 monthly with guaranteed component upgrades every two years.
@@ -19,6 +25,18 @@ NZXT has initiated a new subscription plan —[NZXT Flex](https://shareasale.com
 
 ![NZXT Flex Subscription Tiers](https://cdn.mos.cms.futurecdn.net/xHzgMBCkYAYYHmc6iPETgK-320-80.png)
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 (Image credit: NZXT)
 
  Flex was made to improve PC gaming accessibility. According to Bryan De Zayas, NZXT's Head of Marketing: "At NZXT, we believe everyone should be able to play the games they love," "In the past, that meant buying a pre-built PC or building your own. Our new Flex subscription service offers gamers more flexibility and choice, so they can focus on what really matters – playing the games they love." NZXT's subscription service gives gamers access to a modern gaming PC when they otherwise couldn't afford one.
@@ -29,6 +47,12 @@ NZXT has initiated a new subscription plan —[NZXT Flex](https://shareasale.com
 
  Flex won't be for everyone, but for gamers who need a modern gaming PC in a pinch and don't want to buy a new system on a credit card (which can add interest to the system's total cost), NZXT's Flex subscription service is a solution.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -106,7 +130,3 @@ NZXT has initiated a new subscription plan —[NZXT Flex](https://shareasale.com
 <li><a href="https://sim-unlock.techidaily.com/unlock-your-iphone-8-plus-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>Unlock Your iPhone 8 Plus in Minutes with ICCID Code Everything You Need to Know</u></a></li>
 <li><a href="https://facebook-record-videos.techidaily.com/yt-treasure-hunt-accessing-previously-deleted-content-for-2024/"><u>YT Treasure Hunt  Accessing Previously Deleted Content for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->

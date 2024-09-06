@@ -1,7 +1,7 @@
 ---
 title: IBUYPOWER Pays Tribute with Deep Discounts on New Game PCs - Don't Miss the Memorial Sale
-date: 2024-08-15T19:32:22.320Z
-updated: 2024-08-16T19:32:22.320Z
+date: 2024-09-05T03:44:15.433Z
+updated: 2024-09-06T03:44:15.433Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/6395a405feac0920efaceeee04a9b0803cb7c1fce78f830a62381ffd05e1b2e3.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## IBUYPOWER Pays Tribute with Deep Discounts on New Game PCs - Don't Miss the Memorial Sale
 
 iBUYPOWER has a range of discounts this Memorial Day weekend with savings to be made on a selection of their RDY prebuilt gaming PCs continuing until the end of the month (May, 31). If you're in the market for a new gaming rig, this could be the perfect time to pull the trigger and pick up a powerful gaming computer at a great price. Plus, if you combine the deals with one of our[iBUYPOWER coupons](https://www.tomshardware.com/coupons/ibuypower.com) you could save even more.
@@ -170,7 +176,3 @@ _**Storage:**_   _2TB M.2 NVMe SSD_
 <li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oppo-a58-4g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Oppo A58 4G Phones with/without a PC</u></a></li>
 <li><a href="https://extra-guidance.techidaily.com/in-2024-photo-editing-mastery-with-polarr-a-comprehensive-guide/"><u>In 2024, Photo Editing Mastery with Polarr  A Comprehensive Guide</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->

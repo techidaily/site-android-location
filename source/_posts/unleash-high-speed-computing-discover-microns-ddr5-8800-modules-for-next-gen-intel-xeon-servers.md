@@ -1,7 +1,7 @@
 ---
 title: "Unleash High-Speed Computing: Discover Micron's DDR5-8800 Modules for Next-Gen Intel Xeon Servers"
-date: 2024-08-15T19:32:21.244Z
-updated: 2024-08-16T19:32:21.244Z
+date: 2024-09-05T03:44:15.445Z
+updated: 2024-09-06T03:44:15.445Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/8acacdc22230e6f80289d91bcd880583b7cb15e9e01a6f044249c64c2e7db27f.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Next-Level Computing On Demand: Portable 256-Core Servers With Giant Storage and RAM in Fly-Away Kits
 
 Next Computing has[unveiled two edge computing "fly-away kits"](https://solutions.nextcomputing.com/nextcomputing-and-ampere-cpus/) powered by high-core count[Ampere Altra](https://www.tomshardware.com/news/ampere-altra-max-128-core-priced) processors. These servers cater to Packet Capture, Telco Edge, and Open-RAN applications (to name a few), all of which require high-performance servers that can be easily transported to different locations quickly.
@@ -27,6 +33,12 @@ Next Computing has[unveiled two edge computing "fly-away kits"](https://solution
 
  Both of these units will be great for businesses that utilize[edge computing](https://www.tomshardware.com/pc-components/cpus/intel-crams-meteor-lake-laptop-chips-into-a-socket-for-edge-computing-includes-arc-graphics-and-npu-for-ai-workloads) . Edge computing is a growing computing strategy that allocates some (or most) of a business's computing power on-site rather than from a cloud solution alone. It significantly reduces internet bandwidth requirements, saving resources and time. The computing strategy has become incredibly popular over the past few years, especially for AI workloads. Reports confirm that data consumption is growing substantially more than internet services can handle worldwide, forcing businesses to switch to edge-based methods for computing.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -94,7 +106,3 @@ Next Computing has[unveiled two edge computing "fly-away kits"](https://solution
 <li><a href="https://youtube-data.techidaily.com/24-mastering-the-location-of-youtubes-creator-dashboard/"><u>In 2024, Mastering the Location of YouTube's Creator Dashboard</u></a></li>
 <li><a href="https://mondly-stories.techidaily.com/mastering-weekdays-in-korea-comprehensive-tutorials/"><u>Mastering Weekdays in Korea: Comprehensive Tutorials</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

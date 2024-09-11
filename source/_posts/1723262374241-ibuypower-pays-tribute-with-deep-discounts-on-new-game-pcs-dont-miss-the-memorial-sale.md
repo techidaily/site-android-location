@@ -1,7 +1,7 @@
 ---
 title: IBUYPOWER Pays Tribute with Deep Discounts on New Game PCs - Don't Miss the Memorial Sale
-date: 2024-09-05T03:44:15.433Z
-updated: 2024-09-06T03:44:15.433Z
+date: 2024-09-10T11:04:43.686Z
+updated: 2024-09-11T11:04:43.686Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/6395a405feac0920efaceeee04a9b0803cb7c1fce78f830a62381ffd05e1b2e3.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## IBUYPOWER Pays Tribute with Deep Discounts on New Game PCs - Don't Miss the Memorial Sale
 
 iBUYPOWER has a range of discounts this Memorial Day weekend with savings to be made on a selection of their RDY prebuilt gaming PCs continuing until the end of the month (May, 31). If you're in the market for a new gaming rig, this could be the perfect time to pull the trigger and pick up a powerful gaming computer at a great price. Plus, if you combine the deals with one of our[iBUYPOWER coupons](https://www.tomshardware.com/coupons/ibuypower.com) you could save even more.

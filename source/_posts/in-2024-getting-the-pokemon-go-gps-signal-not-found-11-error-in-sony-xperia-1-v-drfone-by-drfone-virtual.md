@@ -1,7 +1,7 @@
 ---
 title: In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Sony Xperia 1 V | Dr.fone
-date: 2024-08-15T19:29:37.373Z
-updated: 2024-08-16T19:29:37.373Z
+date: 2024-09-24T18:28:47.063Z
+updated: 2024-10-01T20:38:37.312Z
 tags: 
   - virtual location chang
   - location changer
@@ -79,6 +79,13 @@ If there is a network-related problem causing the GPS not found 11 error, then y
 
 ![android airplane mode](https://images.wondershare.com/drfone/2020/android-airplane-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 This will automatically turn off its networks (like cellular data). Now, wait for a while, and turn off the Airplane mode to resolve the GPS not found 11 problems.
 
 ### Fix 7: Reset Network Settings on your Phone
@@ -88,6 +95,19 @@ Lastly, if nothing else seems to work, then you can reset the network settings o
 ![reset network settings android](https://images.wondershare.com/drfone/2020/reset-network-settings-android.jpg)
 
 In the end, you can choose to reset the network settings of your phone and wait for it to be restarted. This will erase the saved WiFi passwords and other network settings but might fix the GPS signal not found 11 errors on Android.
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Fix the GPS Not Found 11 Error with a Location Spoofing Tool
 
@@ -105,7 +125,12 @@ If you use an iOS device and are getting the Pokemon Go GPS signal not found 11 
 
 I’m sure that after reading this troubleshooting post, you would be able to fix the Pokemon Go GPS signal not found 11 error on Android or iOS devices. I have included app and device-related solutions to resolve the GPS not found 11 issues. Though, if it still persists, then you can try [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) (iOS) to manually change the location of your iPhone without jailbreaking it.
 
-
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10 Fake GPS Location Apps on Android Of your Sony Xperia 1 V
 
@@ -116,6 +141,13 @@ Whatever the reason is, fake GPS is something that you can try to hide your curr
 It helps in protecting your privacy. In this article, we have discussed in detail the 10 Fake spoofing apps for Android phones that you can use.
 
 Take a look!
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## #1 Dr. Fone – Virtual Location
 
@@ -147,7 +179,12 @@ It is compatible with almost all location-based apps, including Instagram, Snapc
 
 - Premium version is paid
 
-
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Virtual Location
 
@@ -162,8 +199,12 @@ It is compatible with almost all location-based apps, including Instagram, Snapc
 **3981454** people have downloaded it
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## #2 Mock Locations
 
 ![mock locations fake gps app](https://images.wondershare.com/drfone/article/2022/01/fake-gps-android-2.jpg)
@@ -200,9 +241,6 @@ The best part about this application is that you can use it without the "allow m
 
 ## #3 Fake GPS Run
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fake gps run app](https://images.wondershare.com/drfone/article/2022/01/fake-gps-android-3.jpg)
 
 **Rating - 3.9**
@@ -232,9 +270,6 @@ For rooted phones, you can fake locations without enabling "Allow mock locations
 
 ## #4 Fake GPS 360
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fake gps 360 app](https://images.wondershare.com/drfone/article/2022/01/fake-gps-android-4.jpg)
 
 **Rating - 3.3**
@@ -447,8 +482,6 @@ Now, you know various types of fake GPS apps for Android phones. Choose the one 
 
 If you are looking for a safe and reliable location changer, then use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) . It is the best fake GPS spoofing app to change the location in no time.
 
-
-
 ## Getting the Pokemon Go GPS Signal Not Found 11 Error in Sony Xperia 1 V
 
 _**“Every time I launch Pokemon Go, I get the GPS Signal not found 11 error on my Android. Can someone tell me how to troubleshoot the GPS not found 11 problems?”**_
@@ -488,9 +521,6 @@ If you are using a corrupt or outdated Pokemon Go app, then you can get the GPS 
 
 If you still get the Pokemon Go GPS not found 11 error, then consider deleting the app first. Afterward, go to the App/Play Store again and install the app on your device.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Reset the Location Settings on your phone
 
 Since this is a location-based error, you can also consider resetting the location services on your phone. For this, just go to the Location Services (GPS) settings and toggle it off (and on). You can also go to the notification center and tap on the GPS icon to turn the service off and on again.
@@ -502,6 +532,13 @@ Since this is a location-based error, you can also consider resetting the locati
 Android users get the feature to set mock location on their phones, but it can also be a reason for getting the GPS not found 11 error. Therefore, if you are also getting the GPS signal not found 11 issue on your Android, then go to its Settings > Developer Options. From here, make sure that you have disabled any mock location app or settings on your phone.
 
 ![disable mock location android](https://images.wondershare.com/drfone/2020/disable-mock-location-android.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Restart your Smartphone
 
@@ -515,12 +552,16 @@ Now, just wait for a while as your phone would restart and launch Pokemon Go aft
 
 If there is a network-related problem causing the GPS not found 11 error, then you can just reset the Airplane mode. At first, just go to the Control Center or the Settings of your device to enable the Airplane mode.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android airplane mode](https://images.wondershare.com/drfone/2020/android-airplane-mode.jpg)
 
 This will automatically turn off its networks (like cellular data). Now, wait for a while, and turn off the Airplane mode to resolve the GPS not found 11 problems.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Reset Network Settings on your Phone
 
@@ -546,7 +587,6 @@ If you use an iOS device and are getting the Pokemon Go GPS signal not found 11 
 
 I’m sure that after reading this troubleshooting post, you would be able to fix the Pokemon Go GPS signal not found 11 error on Android or iOS devices. I have included app and device-related solutions to resolve the GPS not found 11 issues. Though, if it still persists, then you can try [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) (iOS) to manually change the location of your iPhone without jailbreaking it.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -559,11 +599,24 @@ I’m sure that after reading this troubleshooting post, you would be able to fi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-anonymous-story-consumption-navigating-through-instagram-stories-on-desktopmobile-free/"><u>[Updated] In 2024, Anonymous Story Consumption Navigating Through Instagram Stories on Desktop/Mobile [Free]</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-ultimate-io-scanner-insiders-handbook/"><u>[Updated] The Ultimate IO Scanner Insider's Handbook</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-v30-lite-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/dissecting-acid-pro-performance-and-alternatives/"><u>Dissecting ACID Pro Performance & Alternatives</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-honor-magic-6-lite-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-oppo-reno-10-proplus-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Oppo Reno 10 Pro+ 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-8-drfone-by-drfone-ios/"><u>How to Unlock iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-reno-10-pro-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo Reno 10 Pro 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-v27-pro-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo V27 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-xiaomi-redmi-note-12-pro-4g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Xiaomi Redmi Note 12 Pro 4G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-infinix-note-30-vip-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-oneplus-nord-n30-se-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-tecno-camon-20-premier-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-it-possible-for-chatgpt-to-create-custom-secure-exercise-routines-tailored-just-for-you/"><u>Is It Possible for ChatGPT to Create Custom, Secure Exercise Routines Tailored Just For You?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tips-and-tricks-for-effective-cd-handling-with-wmp/"><u>Tips & Tricks for Effective CD Handling with WMP</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-6-ineffective-chatgpt-tools-to-skip-in-your-projects/"><u>Top 6 Ineffective ChatGPT Tools to Skip in Your Projects</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/upgrade-to-the-newest-amd-radeon-rx-vega-series-drivers-on-your-windows-pc/"><u>Upgrade to the Newest AMD Radeon RX Vega Series Drivers on Your Windows PC</u></a></li>
+</ul></div>
 

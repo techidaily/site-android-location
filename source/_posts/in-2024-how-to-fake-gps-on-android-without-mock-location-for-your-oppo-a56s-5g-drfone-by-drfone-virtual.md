@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fake GPS on Android without Mock Location For your Oppo A56s 5G | Dr.fone
-date: 2024-09-22T16:18:11.397Z
-updated: 2024-09-26T18:02:47.428Z
+date: 2024-09-28T16:27:00.068Z
+updated: 2024-10-01T16:01:54.823Z
 tags: 
   - virtual location chang
   - location changer
@@ -28,13 +28,6 @@ This mock location feature has many benefits when you use it to fake your locati
 - It enables you to access several third-party apps not accessible to your location.
 - Finally, you can access location-based networking apps and interact with people beyond your locality.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Using Location Spoofer to Fake GPS Without Mock Location and Root
 
 One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) by Wondershare. This app will enable you to spoof your location on iOS and Android, and it is pretty easy to use. Below are a few crucial steps to follow if you want to fake a location without developer options or mock location.
@@ -60,34 +53,34 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3:** A world map with 5 modes at the side will appear; you can choose an option to proceed. There’s the teleport, two-stop, and multi-stop mode for you to choose from to fake location without developer options. Here we take the teleport mode as an example.
 
 ![choose destination](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4:** After choosing an option, search for your preferred location in the search bar and press "Go" once you find it.
 
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 This would change your location automatically, and you’re ready to access third-party apps without compromising your location.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Using Fake Location Apps to Fake GPS Without Mock Location
 
@@ -111,13 +104,6 @@ _**App Link:** <https://play.google.com/store/apps/details?id=com.lexa.fakegps&h
 
 ![use floater fake gps location](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 This is another effective fake GPS app that you can use to fake GPS. It works as a floating window above games and third-party apps. With Floater, you can change your location to a place globally. Additionally, you can save your favorite locations and test apps without locking onto a GPS signal. This feature is great for developers. Additionally, Floater can fake GPS location when you’re tagging pictures. It shows you any part of the world you want so you can pick where you want people to think you are.
 
 _**App Link:** <https://play.google.com/store/apps/details?id=com.marlon.floating.fake.location&hl=en>_
@@ -130,13 +116,6 @@ Many people love this app because it doesn’t require users to root their devic
 
 _**App Link:** <https://play.google.com/store/apps/details?id=com.theappninjas.fakegpsjoystick&hl=en>_
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Mock Locations (fake GPS path)
 
 ![mock locations app](https://images.wondershare.com/drfone/article/2023/05/how-to-fake-gps-android-without-mock-location-01.jpg)
@@ -146,10 +125,10 @@ Mock Locations is a mobile app that allows you to simulate a different location 
 _**App Link:** <https://play.google.com/store/apps/details?id=ru.gavrikov.mocklocations&hl=en>_
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. GPS Emulator
@@ -159,6 +138,13 @@ GPS Emulator is a mobile app that allows users to simulate GPS locations on thei
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/XDfb5P12yMI"></iframe>
 
 _**App Link:** <https://play.google.com/store/apps/details?id=com.rosteam.gpsemulator&hl=en\_US>_
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Fake GPS Pro
 
@@ -175,6 +161,13 @@ _You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https:
 ## Part 4: Mock Location Feature on Different Android Models
 
 Accessing the mock location feature on different Android models isn’t always easy. However, this section will provide insight into enabling mock location on your Oppo A56s 5G.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Samsung and Moto
 
@@ -201,23 +194,23 @@ Huawei devices are easy to navigate. Like the Xiaomi devices, they have an EMUI 
 ![locate mock location on huawei](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus Tip: How to Change GPS on Android without Root?
@@ -240,6 +233,13 @@ There are varying purposes why you might want to fake your location. Luckily, se
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -249,24 +249,24 @@ There are varying purposes why you might want to fake your location. Luckily, se
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-capturing-games-like-a-pro-app-rundown/"><u>[New] 2024 Approved Capturing Games Like a Pro – App Rundown</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-direct-lineup-for-iphone-images-flawless-snapchat-backup-for-2024/"><u>[New] Direct Lineup for iPhone Images Flawless Snapchat Backup for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-crafting-captivating-stories-15-best-snapchat-techniques/"><u>[Updated] Crafting Captivating Stories 15 Best Snapchat Techniques</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-facebook-hack-get-your-account-back/"><u>[Updated] In 2024, Facebook Hack? Get Your Account Back</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premiere-pro-vanishing-art/"><u>[Updated] Premiere Pro Vanishing Art</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-honor-90-gt-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Honor 90 GT | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-realme-11-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bluescreen-dxgkrnlsys-crash-in-windows/"><u>BlueScreen: dxgkrnl.sys Crash in Windows</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-lava-yuva-2-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Lava Yuva 2 Devices | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-samsung-galaxy-f15-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy F15 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-8-plus-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock iPhone 8 Plus Passcode without Computer? | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-infinix-hot-40-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-assessing-the-best-platform-for-individual-use-tiktok-vs-shorts/"><u>In 2024, Assessing the Best Platform for Individual Use TikTok vs Shorts</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-infinix-note-30-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Infinix Note 30 5G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-vivo-y200-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Vivo Y200 Devices | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-xiaomi-13t-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/securely-wiping-sensitive-info-discover-stellar-eraser-for-iosmac-standard-protocol/"><u>Securely Wiping Sensitive Info: Discover Stellar Eraser for iOS/Mac Standard Protocol</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722991384504-starcraft-2-pc-stability-issues-resolved-no-more-unexpected-shutdowns/"><u>Starcraft 2 PC Stability Issues Resolved - No More Unexpected Shutdowns</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-ghoul-gags-generator/"><u>[New] 2024 Approved Ghoul Gags Generator</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-ai-assisted-creativity-the-best-name-makers-for-pods/"><u>[New] In 2024, AI-Assisted Creativity The Best Name Makers for Pods</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-minimca-homes-the-ultimate-guide-for-entry-level-builders/"><u>[New] MiniMCA Homes The Ultimate Guide for Entry-Level Builders</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-reanimated-warfare-gameplay-excellence-in-the-undead-genre/"><u>[Updated] In 2024, Reanimated Warfare Gameplay Excellence in the Undead Genre</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-nokia-g42-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fine-tune-video-playback-pace-in-instagram-stories/"><u>2024 Approved Fine-Tune Video Playback Pace in Instagram Stories</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-iphone-image-editing-learn-to-change-resolution/"><u>2024 Approved IPhone Image Editing Learn to Change Resolution</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-gt-5-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-y78plus-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-motorola-edge-2023-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Motorola Edge 2023 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-vivo-y36-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-v-purse-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nubia-z50s-pro-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-oneplus-ace-2-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-tecno-spark-20c-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-the-smooth-art-of-mov-saving-a-win10-insight/"><u>In 2024, The Smooth Art of MOV Saving A Win10 Insight</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-how-to-fix-not-functioning-world-of-warcraft-voice-communication/"><u>Troubleshooting: How to Fix 'Not Functioning' World of Warcraft Voice Communication</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-infinix-note-30i-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Infinix Note 30i to Gmail | Dr.fone</u></a></li>
 </ul></div>
 

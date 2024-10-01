@@ -1,7 +1,7 @@
 ---
 title: In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy S23 | Dr.fone
-date: 2024-08-15T19:29:23.924Z
-updated: 2024-08-16T19:29:23.924Z
+date: 2024-09-26T16:02:40.333Z
+updated: 2024-10-01T17:07:24.466Z
 tags: 
   - virtual location chang
   - location changer
@@ -39,6 +39,13 @@ Before we troubleshoot the GPS signal not found 11 errors in Pokemon Go, let’s
 
 As I have listed above, the Pokemon Go GPS not found 11 problem can arise due to all kinds of reasons. Therefore, let’s have a look at numerous ways to fix the GPS not found 11 error in the game.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart Pokemon Go on your phone
 
 The simplest way to fix the Pokemon Go GPS not found 11 issue is by restarting the game. If the app has not been loaded properly, then it would resolve this problem. All you need to do is tap on the app switcher button on your device to view all the apps running in the background. From here, swipe the Pokemon Go card to stop it from running. Afterward, restart the app and check if it would fix the GPS signal not found 11 Pokemon Go issue.
@@ -59,6 +66,13 @@ Since this is a location-based error, you can also consider resetting the locati
 
 ![android location option](https://images.wondershare.com/drfone/2020/android-location-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Turn off the Mock Location feature
 
 Android users get the feature to set mock location on their phones, but it can also be a reason for getting the GPS not found 11 error. Therefore, if you are also getting the GPS signal not found 11 issue on your Android, then go to its Settings > Developer Options. From here, make sure that you have disabled any mock location app or settings on your phone.
@@ -71,11 +85,21 @@ At times, all it takes to fix an issue like Pokemon Go GPS not found 11 error is
 
 ![android restart device](https://images.wondershare.com/drfone/2020/android-restart-device.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now, just wait for a while as your phone would restart and launch Pokemon Go afterward to check if you still get the GPS not found 11 error.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ### Fix 6: Toggle On and Off the Airplane Mode
 
 If there is a network-related problem causing the GPS not found 11 error, then you can just reset the Airplane mode. At first, just go to the Control Center or the Settings of your device to enable the Airplane mode.
@@ -179,6 +203,13 @@ To start with, you need to enable the Developer Options on your Samsung  phone. 
 
 ![Developer Options on your Samsung](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Samsung Galaxy S23 device.
 
 ![mock location field](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-5.jpg)
@@ -189,11 +220,15 @@ Now, go to the Play Store app on your phone and look for a mock GPS app. I have 
 
 ![mock GPS app](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After successfully installing the mock GPS apk on your Samsung , go back to its Settings > Developer Options > Mock Location app and select the fake GPS location app that you have recently downloaded. This will allow the mock GPS app to change the location of your device.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change the location](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-7.jpg)
 
 Step 3: Fake location on your Samsung 
@@ -205,8 +240,6 @@ That’s it! Once you have granted the needed permission to the mock GPS app, yo
 Later, you can go back to the app and stop the fake location to switch back to your original location whenever you want.
 
 There you go! After reading this guide, you would be able to mock GPS on your Samsung  phone pretty easily. Apart from the Fake GPS Location by Lexa, there are tons of other reliable apps that you can use as well. Feel free to explore these apps and let us know about your experience of faking location on your Samsung . If you use any other mock GPS app that you wish to recommend our readers, then drop its name in the comments below!
-
-
 
 ### Dr.Fone - Virtual Location
 
@@ -228,14 +261,18 @@ Location services on your Samsung Galaxy S23 or iPhone are one you'd find helpfu
 
 However, **how do you manage your Samsung Galaxy S23 location settings**? How can you turn on/off GPS on Android and change phone location on Android? That's precisely the purpose of this guide! So let's get started on how you can manage your Samsung Galaxy S23 location settings!
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Part 1: How to enable location services on Android**
 
 If you use an Android phone, you can turn on your location services following these easy steps:
 
 ![Change android phone location](https://images.wondershare.com/drfone/article/2022/05/android-location-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Head over to Settings on your android phone.
 2. Click on “**Location**.”
@@ -266,8 +303,18 @@ If you are in a place with poor Wi-Fi and Bluetooth networks, the best way to ma
 When you dial or text an emergency number like 911, your device's location is available to emergency responders through Emergency Location Services. Only if local emergency responders rely on location data is this setting relevant. Even if you don't want your location to be shared with emergency services, your mobile provider has the option to do so.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: How to Change Location on Android/iPhone
 
 There are many reasons you might want to change your location on android/iPhone. It could be to get search results in a particular country, access online files, or access certain websites and applications. Whatever your reasons are, here are easy ways to change location on Android or iPhone:
@@ -282,9 +329,6 @@ First, you need to download and install **Dr.Fone - Virtual Location**, then run
 
 **Step 1**: Select "Virtual Location" from the drop-down menu, and connect your iPhone or Android phone to your computer through a USB cable. To begin, click "Get Started."
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Turn on the "virtual location" functionality.
@@ -307,12 +351,16 @@ You can use Wi-Fi to connect the software to your iPhone once you've linked it t
 
 ![change android phone location](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Managing your android phone's location services can be super helpful to access specific applications and tracking activities. You can use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to change your location on your iPhone ideally. We have also discussed methods to toggle on or off your location services and how to manage Google location services.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -326,11 +374,22 @@ Managing your android phone's location services can be super helpful to access s
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-explore-affordable-cross-platform-video-chat-platforms-for-windowsmac/"><u>[New] 2024 Approved Explore Affordable, Cross-Platform Video Chat Platforms for Windows/Mac</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-streamline-your-youtube-experience-shareable-playlists/"><u>[Updated] 2024 Approved Streamline Your YouTube Experience Shareable Playlists</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-top-5-best-ps3-emulator-for-pc-2023/"><u>2024 Approved Top 5 Best Ps3 Emulator For PC 2023</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-itel-a60-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Itel A60 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oneplus-open-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-realme-11x-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-samsung-galaxy-z-fold-5-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy Z Fold 5</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-honor-90-lite-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-infinix-note-30-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Infinix Note 30 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/missing-hevc-encoding-on-windows-ebr-secure-your-free-solution-today/"><u>Missing HEVC Encoding on Windows Ebr? Secure Your Free Solution Today!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solutions-for-non-functional-mic-on-the-popular-steelseries-arctis-prime/"><u>Solutions for Non-Functional Mic on the Popular SteelSeries Arctis Prime</u></a></li>
+<li><a href="https://games-able.techidaily.com/struggle-your-way-through-frustrating-fiddly-games/"><u>Struggle Your Way Through Frustrating Fiddly Games</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Nokia C210? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723964471029-top-redux-masterpieces-of-2016-were-accepting-entries-now/"><u>Top Redux Masterpieces of 2016 - We're Accepting Entries Now</u></a></li>
+</ul></div>
 

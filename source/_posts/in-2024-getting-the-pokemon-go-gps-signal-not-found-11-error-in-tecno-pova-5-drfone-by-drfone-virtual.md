@@ -1,7 +1,7 @@
 ---
 title: In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Pova 5 | Dr.fone
-date: 2024-08-15T19:29:49.319Z
-updated: 2024-08-16T19:29:49.319Z
+date: 2024-09-25T16:35:02.516Z
+updated: 2024-10-01T19:25:56.339Z
 tags: 
   - virtual location chang
   - location changer
@@ -45,9 +45,6 @@ The simplest way to fix the Pokemon Go GPS not found 11 issue is by restarting t
 
 ![close pokemon go app](https://images.wondershare.com/drfone/2020/close-pokemon-go-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update or Reinstall the Pokemon Go app
 
 If you are using a corrupt or outdated Pokemon Go app, then you can get the GPS not found 11 error as well. Firstly, you can just go to the App/Play Store, look for Pokemon Go, and update the app.
@@ -74,6 +71,13 @@ At times, all it takes to fix an issue like Pokemon Go GPS not found 11 error is
 
 ![android restart device](https://images.wondershare.com/drfone/2020/android-restart-device.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now, just wait for a while as your phone would restart and launch Pokemon Go afterward to check if you still get the GPS not found 11 error.
 
 ### Fix 6: Toggle On and Off the Airplane Mode
@@ -88,10 +92,14 @@ This will automatically turn off its networks (like cellular data). Now, wait fo
 
 Lastly, if nothing else seems to work, then you can reset the network settings on your phone as well. To do this, you can go to its Settings > Backup & Reset and tap on the “Reset Network Settings” under the Reset section.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reset network settings android](https://images.wondershare.com/drfone/2020/reset-network-settings-android.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In the end, you can choose to reset the network settings of your phone and wait for it to be restarted. This will erase the saved WiFi passwords and other network settings but might fix the GPS signal not found 11 errors on Android.
 
@@ -156,6 +164,19 @@ Since this is a location-based error, you can also consider resetting the locati
 
 ![android location option](https://images.wondershare.com/drfone/2020/android-location-option.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Turn off the Mock Location feature
 
 Android users get the feature to set mock location on their phones, but it can also be a reason for getting the GPS not found 11 error. Therefore, if you are also getting the GPS signal not found 11 issue on your Android, then go to its Settings > Developer Options. From here, make sure that you have disabled any mock location app or settings on your phone.
@@ -169,6 +190,13 @@ At times, all it takes to fix an issue like Pokemon Go GPS not found 11 error is
 ![android restart device](https://images.wondershare.com/drfone/2020/android-restart-device.jpg)
 
 Now, just wait for a while as your phone would restart and launch Pokemon Go afterward to check if you still get the GPS not found 11 error.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Toggle On and Off the Airplane Mode
 
@@ -202,8 +230,6 @@ If you use an iOS device and are getting the Pokemon Go GPS signal not found 11 
 
 I’m sure that after reading this troubleshooting post, you would be able to fix the Pokemon Go GPS signal not found 11 error on Android or iOS devices. I have included app and device-related solutions to resolve the GPS not found 11 issues. Though, if it still persists, then you can try [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) (iOS) to manually change the location of your iPhone without jailbreaking it.
 
-
-
 ## For People Wanting to Mock GPS on Tecno Pova 5 Devices
 
 _“Hi! I'm Jack and I play Pokemon Go in between classes or whenever I get free time from school. A lot of my friends use mock GPS on their phones to catch more Pokemons, but somehow I can’t seem to do the same. Can I also fake my location or use the mock GPS feature on my Tecno ?”_
@@ -212,6 +238,13 @@ This is one of the many queries that we get from Tecno  users who wish to mock G
 
 ![mock GPS on the map](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: What is Mock GPS on Tecno Pova 5?
 
 As the name suggests, mock location simply means changing the present location of your device. A fake or mock GPS feature lets us select the present location of our device that would now act as its active location – instead of its actual one.
@@ -219,8 +252,12 @@ As the name suggests, mock location simply means changing the present location o
 The good thing about Android phones is that they let us change the present location of our device, which helps us unlock various location-based restrictions. For instance, you can use a mock GPS app to catch more Pokemons, unlock a restricted content on Netflix, or access more profiles on dating apps like Tinder.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: Any Precaution or Preparation for Mocking GPS on Tecno Pova 5
 
 The mock GPS feature is not available in standard device settings. To access it, you first need to unlock Developer Options on your phone. This is because the mock GPS feature on Android is offered to developers to test the location of an app they are working on or any other need.
@@ -268,9 +305,6 @@ Last, but most importantly, check the feedback and the real-life experience of o
 
 ![affected apps](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Step by Step Guide to Mock GPS on Tecno Pova 5
 
 Now when you are all prepped-up, you can easily learn how to mock GPS on a Tecno  phone. As stated above, the fake or mock GPS feature is only enabled in Developer Options on the Tecno Pova 5 device. Thus, you need to first turn on your Tecno ’s Developer Options and later pick a mock GPS app to fake the current location on your device. Here’s how you can fake location or mock GPS on your Tecno  phone:
@@ -285,18 +319,35 @@ Once the Developer Options feature is enabled, go to your phone’s settings and
 
 ![mock location field](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-5.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2: Install and Allow a Mock GPS App
 
 Now, go to the Play Store app on your phone and look for a mock GPS app. I have tried and tested the Fake GPS Location app by Lexa. If you want, you can install the same freely available mock GPS app or try any other app as well.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![mock GPS app](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-6.jpg)
 
 After successfully installing the mock GPS apk on your Tecno , go back to its Settings > Developer Options > Mock Location app and select the fake GPS location app that you have recently downloaded. This will allow the mock GPS app to change the location of your device.
 
 ![change the location](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3: Fake location on your Tecno 
 
@@ -307,8 +358,6 @@ That’s it! Once you have granted the needed permission to the mock GPS app, yo
 Later, you can go back to the app and stop the fake location to switch back to your original location whenever you want.
 
 There you go! After reading this guide, you would be able to mock GPS on your Tecno  phone pretty easily. Apart from the Fake GPS Location by Lexa, there are tons of other reliable apps that you can use as well. Feel free to explore these apps and let us know about your experience of faking location on your Tecno . If you use any other mock GPS app that you wish to recommend our readers, then drop its name in the comments below!
-
-
 
 ### Dr.Fone - Virtual Location
 
@@ -322,7 +371,6 @@ There you go! After reading this guide, you would be able to mock GPS on your Te
 
 **3981454** people have downloaded it
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -335,11 +383,24 @@ There you go! After reading this guide, you would be able to mock GPS on your Te
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-high-speed-film-gatherer-for-timelapse-top5-for-2024/"><u>[New] High-Speed Film Gatherer for Timelapse #Top5 for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-pc-games-memory-freeze-and-capture-6-ways-to-win/"><u>[Updated] In 2024, PC Games Memory - Freeze and Capture 6 Ways to Win</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-recollection-runway-your-easy-path-to-story-archives/"><u>[Updated] Recollection Runway Your Easy Path to Story Archives</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-art-of-color-grading-utilizing-luts-in-ae/"><u>[Updated] The Art of Color Grading Utilizing LUTs in AE</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-google-pixel-8-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-motorola-moto-g14-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-poco-m6-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Poco M6 5G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-honor-play-40c-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y27s-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-samsung-galaxy-a15-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-nokia-c22-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-realme-11-proplus-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-youtube-loop-mastery-unlock-the-art-of-endless-viewing/"><u>In 2024, YouTube Loop Mastery Unlock the Art of Endless Viewing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/slash-battery-drain-on-your-winning-pc-with-simple-tweaks-for-longer-life/"><u>Slash Battery Drain on Your Winning PC with Simple Tweaks for Longer Life!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-nubia-red-magic-8s-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Nubia Red Magic 8S Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Honor Magic 6 Pro | Dr.fone</u></a></li>
+</ul></div>
 

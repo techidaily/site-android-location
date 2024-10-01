@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fake GPS on Android without Mock Location For your Vivo Y02T | Dr.fone
-date: 2024-09-23T16:52:14.135Z
-updated: 2024-09-26T18:02:24.508Z
+date: 2024-09-30T19:46:53.783Z
+updated: 2024-10-01T20:54:18.455Z
 tags: 
   - virtual location chang
   - location changer
@@ -52,16 +52,16 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** A world map with 5 modes at the side will appear; you can choose an option to proceed. There’s the teleport, two-stop, and multi-stop mode for you to choose from to fake location without developer options. Here we take the teleport mode as an example.
 
 ![choose destination](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4:** After choosing an option, search for your preferred location in the search bar and press "Go" once you find it.
 
@@ -81,18 +81,18 @@ This fake location app allows you to switch locations easily. Therefore, it is a
 
 ![use fake gps location](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** After installation, select this app as your mock location app on your phone by exploring your device settings. Go to developer options on your Vivo Y02T and tap on "Select mock location app". The next step is to choose Fake GPS Location from the displayed option.
 
 **Step 3:** To spoof your location, launch the app and search for the location you would like. When it pops up, select it, and automatically, the app will change your location to the new location.
 
 _**App Link:** <https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en\_US>_
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Fake Location Using Floater
 
@@ -131,16 +131,10 @@ _**App Link:** <https://play.google.com/store/apps/details?id=com.rosteam.gpsemu
 ![fake gps location app](https://images.wondershare.com/drfone/article/2023/05/how-to-fake-gps-android-without-mock-location.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 By utilizing the Fake GPS location, you can bypass the geographical restrictions imposed by your dating apps, effortlessly altering your location to discover new connections on any location-based social network. And you can also change the location to protect your privacy.
@@ -155,6 +149,19 @@ _You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https:
 
 Accessing the mock location feature on different Android models isn’t always easy. However, this section will provide insight into enabling mock location on your Vivo Y02T.
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Samsung and Moto
 
 Accessing the mock location feature on your Samsung or Moto device is relatively easy. First, you have to visit the ‘Developer Options’ page and navigate the ‘debugging’ option.
@@ -162,10 +169,10 @@ Accessing the mock location feature on your Samsung or Moto device is relatively
 ![locate mock location on samsung](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. LG
@@ -220,6 +227,19 @@ If you use an Android phone, you can turn on your location services following th
 
 ![Change android phone location](https://images.wondershare.com/drfone/article/2022/05/android-location-settings.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Head over to Settings on your android phone.
 2. Click on “**Location**.”
 3. You'd see a toggle in a location where you can turn on and off GPS on Android. So toggle it to the right to turn it on.
@@ -236,16 +256,22 @@ When you select this mode for your location services on Android, you want the mo
 
 This mode comes in handy when navigating through streets searching for a particular location, as it gives a more accurate address than others.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Battery saving**
 
 As the name already hints, this mode is best if you want to save the phone battery. GPS, one of the location services, uses lots of power, and in a bid to save your battery, this mode will turn off the GPS and use other tracking networks like Wi-Fi and Bluetooth. Although this mode might not provide the most accurate tracking possible, it will direct you rightly.
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Device only**
 
@@ -323,13 +349,6 @@ The location-based apps are available below and learn how to make use of the spo
 - Dating apps like tinder
 - Bypass media blackouts
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Pokemon Go
 
 It is one of the finest and trending game app for the current generation kids. This game is a favorite one for all age groups. Capturing Pokemon by moving around wisely is the foremost goal of this game. The Pokemons were scattered around the globe and you can get hold of the Pokemons residing nearby your location.
@@ -374,13 +393,6 @@ The basic concept in GPS spoofing is that you are going to mock GPS Android via 
 All these satellites emit signals continuously with unique coordinate parameters. The smart phones receive those signals along with coordinate details and the math algorithm calculates the location precisely. The coordinate details of the signals depend on the positioning of the satellites on the Earth’s orbit. Here in the GPS spoofing technique mock the coordinate detail of the signals thereby leading to the change in the location.
 
 ![change in the location](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What is a VPN?
 
@@ -445,16 +457,16 @@ Step 1: After successful installation of Lexa, tap the icon to trigger the app. 
 
 ![trigger the app](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2: Click the ‘Set Location’ option and drag the pointer on the map as per your desire
 
 ![drag the pointer on the map](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-15.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3: Save the changes and exit from App. Your Vivo Y02T phone will display the new location address in the notification window.
 
@@ -496,22 +508,18 @@ This article has given you a basic knowledge related to the spoofing techniques 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-the-strategic-approach-to-changing-your-tiktok-handle-seamlessly/"><u>[New] In 2024, The Strategic Approach to Changing Your TikTok Handle Seamlessly</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-s17-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo S17 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-creative-potential-with-pexels-visuals/"><u>2024 Approved Unlocking Creative Potential with Pexels Visuals</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-honor-magic-6-lite-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Honor Magic 6 Lite | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-vivo-v30-pro-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Vivo V30 Pro to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-g310-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on G310</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-htc-u23-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fast-fixes-for-flawless-bluetooth-sound-say-goodbye-to-latency/"><u>Fast Fixes for Flawless Bluetooth Sound - Say Goodbye to Latency</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oneplus-nord-ce-3-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on OnePlus Nord CE 3 5G Devices | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-s24plus-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-f14-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy F14 5G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-y100i-power-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo Y100i Power 5G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-samsung-galaxy-f34-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Samsung Galaxy F34 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Google Pixel 8? | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-pro-audios-essential-guide-to-top-10-free-luts/"><u>In 2024, Pro Audio's Essential Guide to Top 10 Free LUTs</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-10-video-rotation-tools-for-seamless-playback-for-2024/"><u>Updated Top 10 Video Rotation Tools for Seamless Playback for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/vanishing-acts-how-to-blur-faces-and-objects-online-for-2024/"><u>Vanishing Acts How to Blur Faces and Objects Online for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-the-impact-of-luts-on-professional-photography/"><u>[New] In 2024, The Impact of LUTs on Professional Photography</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-xiaomi-redmi-13c-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-nubia-red-magic-9-proplus-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-building-striking-soundbite-trailers-for-podcasts/"><u>2024 Approved Building Striking Soundbite Trailers for Podcasts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-tecno-camon-20-premier-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Tecno Camon 20 Premier 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-lava-storm-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Lava Storm 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-realme-narzo-60-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nokia-c12-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-meizu-21-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Meizu 21 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-rated-video-converter-for-avchd-to-hevc-h265-files-free-download-options/"><u>Top Rated Video Converter for AVCHD to HEVC H.265 Files - Free Download Options!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-new-enhancements-for-abbyy-apps-202-insights-and-updates-from-the-abbyy-newsroom/"><u>Unveiling the New Enhancements for ABBYY Apps (202#) | Insights & Updates From the ABBYY Newsroom</u></a></li>
 </ul></div>
 

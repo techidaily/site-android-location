@@ -1,7 +1,7 @@
 ---
 title: 6 Effective Solutions When Your iPhone Only Displays SOS on Status Bar
-date: 2024-09-22T17:59:46.210Z
-updated: 2024-09-26T17:04:09.414Z
+date: 2024-09-29T16:52:40.122Z
+updated: 2024-10-01T16:08:42.685Z
 tags:
   - iphone
   - apple
@@ -30,13 +30,6 @@ Close
 
  Head into**Settings > Cellular** . It should be already on, so turn the**Cellular Data** switch off. Give it a few seconds, then turn**Cellular Data** back on. It may have just needed a quick reset, but if there is still no luck, move on to our next suggestion.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Enable Data Roaming
 
  You may need to turn Data Roaming on, especially if you're traveling internationally. This allows your iPhone to connect to another network in a different country without having to sign up for a new service. Beware that turning this on can come with additional fees on your phone bill.
@@ -46,20 +39,13 @@ Close
 ![iPhone cellular settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-cellular-data-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![iPhone cellular data options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-data-roaming.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -71,19 +57,20 @@ Close
 
 ![iPhone settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-cellular-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![iPhone cellular data options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-cellular-data-options-voice-data-settings.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![iPhone 5G and LTE options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-voice-data-5g-settings.jpg)
@@ -92,6 +79,13 @@ Close
 
  Go to**Settings > Cellular > Cellular Data Options** like before, but this time tap**Voice & Data** . If**5G On** or**5G Auto** is selected, choose**LTE** and see if that gets rid of the SOS Only status.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Restart Your iPhone
 
 ![iPhone user trying to force restart their device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-user-trying-to-force-restart-their-device.jpg)
@@ -99,6 +93,13 @@ Close
  Of course, we have to mention the good old reboot technique. If you haven't yet tried turning your iPhone off and on again, let's go ahead and test it out. You'd be surprised how many little annoyances a quick restart can resolve.
 
 [The steps to restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) are different depending on which model you have, but it's pretty easy nonetheless.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Check for Carrier Settings Update
 
@@ -111,13 +112,6 @@ Close
 Close
 
  If your device needs a carrier settings update, you'll get a pop-up on this screen. If you don't see one, you're up-to-date already.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Contact Your Carrier
 
@@ -146,18 +140,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-scoreboard-the-best-video-to-mp3-convertors/"><u>[New] 2024 Approved Scoreboard The Best Video to Mp3 Convertors</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-streamline-visual-content-expert-mac-tips-for-instagram-video-size/"><u>[New] 2024 Approved Streamline Visual Content Expert Mac Tips for Instagram Video Size</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/cutting-corners-not-with-quality-square-video-creation-techniques-for-2024/"><u>Cutting Corners? Not with Quality Square Video Creation Techniques for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-redmi-k70-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi Redmi K70 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oneplus-ace-2-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on OnePlus Ace 2 Pro Devices | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-infinix-smart-7-hd-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Infinix Smart 7 HD Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-15-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 15 when Phone is Broken? | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-realme-10t-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-lava-storm-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-honor-x7b-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/proactive-backup-recovery-application/"><u>Proactive Backup Recovery Application</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ratatouille/"><u>Ratatouille</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/revive-your-ipad-with-a-fresh-battery-a-how-to-article/"><u>Revive Your iPad with a Fresh Battery: A How-To Article</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-the-essentials-understanding-whatsapp-calls/"><u>[New] In 2024, The Essentials Understanding WhatsApp Calls</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-delving-into-vlc-screenshot-technology-for-2024/"><u>[Updated] Delving Into VLC Screenshot Technology for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-ideas-for-creating-sequences-of-iphone-burst-images/"><u>[Updated] In 2024, Ideas for Creating Sequences of iPhone Burst Images</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-radial-blur-made-easy-pro-techniques-in-adobe-ps-for-2024/"><u>[Updated] Radial Blur Made Easy Pro Techniques in Adobe PS for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/accessible-alternatives-googles-simplicity-versus-samsungs-innovation-for-2024/"><u>Accessible Alternatives Google's Simplicity Versus Samsung's Innovation for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/facesave-quickly-grab-facebook-media-for-2024/"><u>FaceSave Quickly Grab Facebook Media for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-nubia-red-magic-9-proplus-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-v30-lite-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-11x-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme 11X 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-xiaomi-14-ultra-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-innovation-hub-for-youtube-gurus/"><u>In 2024, Innovation Hub for YouTube Gurus</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-firms-driving-the-evolution-of-the-metaverse-a-deep-dive-by-zdnet/"><u>Top Firms Driving the Evolution of the Metaverse - A Deep Dive by ZDNet</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/unique-ways-to-document-your-console-games-for-2024/"><u>Unique Ways to Document Your Console Games for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Lenovo ThinkPhone | Dr.fone
-date: 2024-08-23T01:11:33.749Z
-updated: 2024-08-24T01:11:33.749Z
+date: 2024-10-02T21:11:13.544Z
+updated: 2024-10-06T22:51:49.534Z
 tags: 
   - virtual location chang
   - location changer
@@ -46,8 +46,12 @@ The simplest way to fix the Pokemon Go GPS not found 11 issue is by restarting t
 ![close pokemon go app](https://images.wondershare.com/drfone/2020/close-pokemon-go-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Update or Reinstall the Pokemon Go app
 
 If you are using a corrupt or outdated Pokemon Go app, then you can get the GPS not found 11 error as well. Firstly, you can just go to the App/Play Store, look for Pokemon Go, and update the app.
@@ -82,22 +86,37 @@ If there is a network-related problem causing the GPS not found 11 error, then y
 
 ![android airplane mode](https://images.wondershare.com/drfone/2020/android-airplane-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 This will automatically turn off its networks (like cellular data). Now, wait for a while, and turn off the Airplane mode to resolve the GPS not found 11 problems.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 7: Reset Network Settings on your Phone
 
 Lastly, if nothing else seems to work, then you can reset the network settings on your phone as well. To do this, you can go to its Settings > Backup & Reset and tap on the “Reset Network Settings” under the Reset section.
 
 ![reset network settings android](https://images.wondershare.com/drfone/2020/reset-network-settings-android.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In the end, you can choose to reset the network settings of your phone and wait for it to be restarted. This will erase the saved WiFi passwords and other network settings but might fix the GPS signal not found 11 errors on Android.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Fix the GPS Not Found 11 Error with a Location Spoofing Tool
 
 If you use an iOS device and are getting the Pokemon Go GPS signal not found 11 errors on iPhone, then you can use a spoofing tool. I would recommend using [Dr.Fone – Virtual Location (iOS)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) which can change the location of your iPhone to anywhere you like and fix these GPS-based errors.
@@ -108,10 +127,14 @@ If you use an iOS device and are getting the Pokemon Go GPS signal not found 11 
 - You can also use the application to simulate the movement of your phone between different spots at a preferred speed. A GPS joystick would also be included to customize your movement.
 - The tool can spoof your iPhone location without any jailbreak access or harm your device.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![virtual location 5](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen=""></iframe>
 
@@ -178,6 +201,13 @@ Last, but most importantly, check the feedback and the real-life experience of o
 
 ![affected apps](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: Step by Step Guide to Mock GPS on Lenovo ThinkPhone
 
 Now when you are all prepped-up, you can easily learn how to mock GPS on a Lenovo  phone. As stated above, the fake or mock GPS feature is only enabled in Developer Options on the Lenovo ThinkPhone device. Thus, you need to first turn on your Lenovo ’s Developer Options and later pick a mock GPS app to fake the current location on your device. Here’s how you can fake location or mock GPS on your Lenovo  phone:
@@ -187,6 +217,13 @@ Step 1: Enable Mock Location under Developer Options
 To start with, you need to enable the Developer Options on your Lenovo  phone. To do this, go to its Settings > About Phone > Software Info and tap on the “Build Number” feature 7 consecutive times. In some phone models, the Build Number is listed under Settings > About Device as well.
 
 ![Developer Options on your Lenovo](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once the Developer Options feature is enabled, go to your phone’s settings and visit it. Turn on the Developer Options feature (if it isn’t enabled) from here and allow the mock location field on the Lenovo ThinkPhone device.
 
@@ -211,8 +248,6 @@ That’s it! Once you have granted the needed permission to the mock GPS app, yo
 Later, you can go back to the app and stop the fake location to switch back to your original location whenever you want.
 
 There you go! After reading this guide, you would be able to mock GPS on your Lenovo  phone pretty easily. Apart from the Fake GPS Location by Lexa, there are tons of other reliable apps that you can use as well. Feel free to explore these apps and let us know about your experience of faking location on your Lenovo . If you use any other mock GPS app that you wish to recommend our readers, then drop its name in the comments below!
-
-
 
 ### Dr.Fone - Virtual Location
 
@@ -263,6 +298,13 @@ If you are using a corrupt or outdated Pokemon Go app, then you can get the GPS 
 
 ![pokemon go update](https://images.wondershare.com/drfone/2020/pokemon-go-update.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If you still get the Pokemon Go GPS not found 11 error, then consider deleting the app first. Afterward, go to the App/Play Store again and install the app on your device.
 
 ### Fix 3: Reset the Location Settings on your phone
@@ -311,26 +353,11 @@ If you use an iOS device and are getting the Pokemon Go GPS signal not found 11 
 - You can also use the application to simulate the movement of your phone between different spots at a preferred speed. A GPS joystick would also be included to customize your movement.
 - The tool can spoof your iPhone location without any jailbreak access or harm your device.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![virtual location 5](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen=""></iframe>
 
 I’m sure that after reading this troubleshooting post, you would be able to fix the Pokemon Go GPS signal not found 11 error on Android or iOS devices. I have included app and device-related solutions to resolve the GPS not found 11 issues. Though, if it still persists, then you can try [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) (iOS) to manually change the location of your iPhone without jailbreaking it.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -344,11 +371,24 @@ I’m sure that after reading this troubleshooting post, you would be able to fi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-inexpensive-sky-explorers-the-least-expensive-drones/"><u>[New] Inexpensive Sky Explorers The Least Expensive Drones</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-edu-stream-100-cutting-edge-learning-yt-for-2024/"><u>[Updated] Edu-Stream 100 Cutting-Edge Learning YT for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-key-elements-in-achieving-proficient-interview-performance/"><u>[Updated] The Key Elements in Achieving Proficient Interview Performance</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-how-to-record-a-voice-over-for-a-video/"><u>2024 Approved How To Record A Voice Over For A Video</u></a></li>
+<li><a href="https://android-location.techidaily.com/1723262369742-ayaneos-am01-your-gateway-to-the-iconic-classic-macintosh-charm-in-a-cutting-edge-amd-mini-pc/"><u>Ayaneo's AM01 – Your Gateway to the Iconic Classic Macintosh Charm in a Cutting-Edge AMD Mini PC!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beat-the-wait-efficient-iphone-time-lapse-tricks-for-2024/"><u>Beat the Wait Efficient iPhone Time-Lapse Tricks for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beyond-reality-comparing-metaverse-and-multiverse/"><u>Beyond Reality Comparing Metaverse & Multiverse</u></a></li>
+<li><a href="https://android-location.techidaily.com/expert-hardware-analysis-by-tom-in-depth-comparisons-and-advice/"><u>Expert Hardware Analysis by Tom - In-Depth Comparisons & Advice</u></a></li>
+<li><a href="https://android-location.techidaily.com/futureproof-powerhouses-leading-gaming-pcs-for-the-new-year/"><u>Futureproof Powerhouses: Leading Gaming PCs for the New Year</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-z270-gaming-powerhouse-up-and-running-free-motherboard-driver-software/"><u>Get Your Z270 Gaming Powerhouse Up and Running - FREE Motherboard Driver Software</u></a></li>
+<li><a href="https://android-location.techidaily.com/going-back-to-the-roots-experience-classic-power-ranger-colors-with-sibolans-budget-friendly-ryzen-mini-pc/"><u>Going Back to the Roots: Experience Classic Power Ranger Colors with Sibolan's Budget-Friendly Ryzen Mini PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-creating-a-visual-statement-with-stellar-podcast-artwork/"><u>In 2024, Creating a Visual Statement with Stellar Podcast Artwork</u></a></li>
+<li><a href="https://android-location.techidaily.com/inside-out-with-tom-decoding-advanced-computing-equipment/"><u>Inside Out with Tom: Decoding Advanced Computing Equipment</u></a></li>
+<li><a href="https://android-location.techidaily.com/navigating-through-toms-hardware-expert-analysis-on-electronics-and-devices/"><u>Navigating Through Tom's Hardware - Expert Analysis on Electronics and Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-art-of-animated-text-in-video-landscapes/"><u>The Art of Animated Text in Video Landscapes</u></a></li>
+<li><a href="https://android-location.techidaily.com/1723262392577-unleash-the-beast-high-end-gaming-and-creativity-on-a-compact-platform-amds-nuc-mini-featuring-4k-screen-hexa-core-cpu-ram-galore-and-ssd-blitz/"><u>Unleash the Beast: High-End Gaming & Creativity on a Compact Platform - AMD's NUC Mini Featuring 4K Screen, Hexa-Core CPU, RAM Galore & SSD Blitz!</u></a></li>
+<li><a href="https://android-location.techidaily.com/upcoming-pci-sig-announcement-cooperlink-cables-enable-pcie-gen5-and-gen6-connectivity-anticipating-release-of-pcie-gen7/"><u>Upcoming PCI-SIG Announcement: CooperLink Cables Enable PCIe Gen5 & Gen6 Connectivity - Anticipating Release of PCIe Gen7</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Huawei P20 Pro Revealed: Stellar Photography Performance on a Noteworthy Mobile Device"
-date: 2024-10-28T06:52:38.238Z
-updated: 2024-10-30T07:48:20.671Z
+date: 2024-10-28T17:43:22.946Z
+updated: 2024-11-04T20:22:21.095Z
 categories:
   - BestProducts
 description: "This Article Describes The Huawei P20 Pro Revealed: Stellar Photography Performance on a Noteworthy Mobile Device"
@@ -37,6 +37,13 @@ Lifewire / Hayley Prokos
 [View On Amazon](https://www.amazon.com/MacBook-13-inch-Feather-Light-Rugged-Military/dp/B01N2WBO24/?tag=lifewire-onsite-prod-20&ascsubtag=4689954%7Cne33448c113cd493c9d279e510369ac2000%7CB01N2WBO24) [View On Best Buy $80](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fuag-top-and-rear-cover-for-apple-macbook-pro-13-3-transparent-ice%2F5711963.p%3Fcmp%3DRMX%26skuId%3D5711963) [View On B&H Photo Video $80](https://www.bhphotovideo.com/c/product/1314774-REG/uag%5Fmbp13%5F4g%5Fl%5Fic%5Fmacbook%5Fpro%5F13%5Flate.html)
 
 5
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Urban Armor Gear UAG MacBook Pro 13-inch Laptop Case
 
@@ -85,21 +92,7 @@ Lifewire / Hayley Prokos
 
 ![Urban Armor Gear MacBook Pro 13-inch Laptop Case](https://www.lifewire.com/thmb/8sq4AYsbhOuB90hMOUtdeXMcaFg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4153328-2-5987a4064c7a4932a172493350ec5000.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Hayley Prokos
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Setup Process: A one-time deal**
 
@@ -109,6 +102,13 @@ Lifewire / Hayley Prokos
 
  Beware of the fact that getting the case off is much harder than getting it on the computer. This product is for those who are sure they want something with this kind of protection and who love the rugged design, and for those who aren’t inclined to take the case off regularly.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Performance: Tough and reliable**
 
  Once you’ve installed the UAG MacBook Pro 13-inch[Laptop Case](https://www.lifewire.com/best-laptop-cases-and-sleeves-to-buy-4074109) , the case is, by all appearances, impervious and impact-resistant. The sturdy appearance is backed by a military drop test rating (the case is advertised to have endured 25 drops from 4 feet high with no damage). The extra protection neither compromises the ventilation nor access to the ports.
@@ -117,27 +117,7 @@ Lifewire / Hayley Prokos
 
 ![Urban Armor Gear MacBook Pro 13-inch Laptop Case](https://www.lifewire.com/thmb/9Y7LLmqrhHo_Pbzks49nRtjt4ws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4153328-4-49105513ae5d4a97ac284ce462185b5d.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Hayley Prokos
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Durability: As tough as it gets**
 
@@ -147,9 +127,23 @@ Lifewire / Hayley Prokos
 
  We dropped the case from standing height on a variety of surfaces … and it sustained virtually no damage (a few superficial scratches at most).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: A small sum to pay to protect such expensive hardware**
 
  The Urban Armor Gear MacBook Pro 13-Inch Laptop Case retails for $79.95, which is definitely on the more expensive end of the spectrum for a laptop case. But if you are taking your laptop into rugged conditions or you’re simply accident-prone, we think $80 seems a fair amount to pay to keep your far-more-pricey MacBook safe.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Competition: Lacks in quality of materials used and overall sturdiness**
 
@@ -165,18 +159,18 @@ Lifewire / Hayley Prokos
 
  The Under Armor Gear (UAG) MacBook Pro 13-inch Laptop Case is an excellent option for those seeking maximum protection. This case may not be for you if you’ll need to remove and reinstall it regularly, which is both a hassle and a potential risk for damage.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Similar Products We've Reviewed
 
 * [ProCase MacBook Pro 13 Case](https://www.lifewire.com/procase-macbook-pro-13-case-review-4689945)
 * [Twelve South BookBook V2 MacBook Case](https://www.lifewire.com/twelve-south-bookbook-v2-macbook-case-review-4689949)
 * [Fintie Protective Case for MacBook Pro 13](https://www.lifewire.com/fintie-protective-case-for-macbook-pro-13-review-4689944)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -205,17 +199,22 @@ Lifewire / Hayley Prokos
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-transition-trails-your-pathway-to-macos-11-big-sur/"><u>[Updated] Transition Trails Your Pathway to macOS 11 Big Sur</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-reno-11f-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/cutting-edge-quest-for-affordable-cpus-in-202e-deals-on-amd-and-intel-inside/"><u>Cutting Edge Quest for Affordable CPUs in 202E: Deals on AMD and Intel Inside</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-infinix-smart-8-plus-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Infinix Smart 8 Plus Devices | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-lava-yuva-2-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-v27e-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-smart-8-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/swift-visualizer-windows-high-speed-image-viewer/"><u>Swift Visualizer - Windows High-Speed Image Viewer</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/outube-creator-summit-a-getaway-for-youtubes-top-talent-for-2024/"><u>The YouTube Creator Summit - A Getaway for YouTube's Top Talent for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-15-herramenos-de-cativacao-screen-livre-movavi/"><u>Top 15 Herramenos De Cativação Screen Livre - Movavi</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-mastering-manycam-features-for-professional-live-streaming/"><u>Ultimate Guide: Mastering ManyCam Features for Professional Live Streaming</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ate-livestream-setup-reviews-on-the-top-livestream-tools-and-devices/"><u>Ultimate Livestream Setup Reviews on the Top Livestream Tools and Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-how-to-crop-photo-online-for-2024/"><u>[New] How To Crop Photo Online for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-top-tools-for-capturing-call-of-duty-warzone/"><u>[Updated] Top Tools for Capturing Call of Duty Warzone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-xiaomi-14-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y200-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-x90s-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/best-of-the-best-8-cameras-for-top-streaming-experience-for-2024/"><u>Best of the Best 8 Cameras for Top Streaming Experience for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/elite-mac-options-surpassing-bandicams-video-capabilities/"><u>Elite Mac Options Surpassing Bandicam's Video Capabilities</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/extend-your-wifi-reach-the-definitive-list-of-superior-range-routers-for-2n-24/"><u>Extend Your WiFi Reach: The Definitive List of Superior Range Routers for 2N 24</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-a58-4g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo A58 4G Devices | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Samsung Galaxy S24+? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-x100-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-tecno-spark-10-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-infinix-hot-30-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Infinix Hot 30 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-vivo-s18-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Vivo S18 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/obs-vs-shadowplay-the-ultimate-showdown-for-gamers-for-2024/"><u>OBS vs ShadowPlay The Ultimate Showdown for Gamers for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/proactive-policies-for-ai-ceos-insights-and-advocacy/"><u>Proactive Policies for AI: CEO's Insights and Advocacy</u></a></li>
 </ul></div>
 

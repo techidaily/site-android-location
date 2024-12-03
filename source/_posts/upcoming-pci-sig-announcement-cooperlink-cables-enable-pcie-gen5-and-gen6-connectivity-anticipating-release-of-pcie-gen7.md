@@ -1,7 +1,7 @@
 ---
 title: "Upcoming PCI-SIG Announcement: CooperLink Cables Enable PCIe Gen5 & Gen6 Connectivity - Anticipating Release of PCIe Gen7"
-date: 2024-11-21T18:58:42.911Z
-updated: 2024-11-24T16:53:52.584Z
+date: 2024-11-28T09:06:05.646Z
+updated: 2024-12-03T10:12:11.954Z
 tags:
   - desktop
 categories:
@@ -55,7 +55,7 @@ __Ayaneo Retro Mini PC AM01 Specification__
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -81,19 +81,18 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-premium-memory-device-for-sony-a7s-cameras/"><u>[New] 2024 Approved Premium Memory Device for Sony A7S Cameras</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-perfecting-picture-pizzazz-with-illustrators-motion-blur/"><u>[New] Perfecting Picture Pizzazz with Illustrator's Motion Blur</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-the-mystery-of-non-existent-videos-insight-into-fb-feed-absence-for-2024/"><u>[New] The Mystery of Non-Existent Videos Insight Into FB Feed Absence for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-virtual-reality-lgs-360-degree-experience/"><u>[Updated] Exploring Virtual Reality LG's 360-Degree Experience</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-visual-victory-top-10-online-apps-to-sharpen-your-snaps/"><u>[Updated] In 2024, Visual Victory Top 10 Online Apps to Sharpen Your Snaps</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-indie-developer-gaming-channels-to-follow/"><u>[Updated] Indie Developer Gaming Channels To Follow</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-visual-perfection-through-quantum-hdr-techniques/"><u>[Updated] Visual Perfection Through Quantum HDR Techniques</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-honor-v-purse-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oneplus-nord-3-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on OnePlus Nord 3 5G Devices | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-90-gt-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor 90 GT | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-your-hardware-drivers-on-windows-11-and-10-by-drivereasy-guide/"><u>How to use Device Manager to reinstall your hardware drivers on Windows 11 & 10</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-htc-u23-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your HTC U23 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oneplus-12r-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on OnePlus 12R Devices | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-12-proplus-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-snapscreen-videorecorder-tool/"><u>[New] 2024 Approved SnapScreen Videorecorder Tool</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/oosting-engagement-interpreting-youtube-video-data/"><u>[New] Boosting Engagement Interpreting YouTube Video Data</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-creative-curator-essential-zero-price-text-psds/"><u>[New] The Creative Curator Essential, Zero-Price Text PSDS</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-oppo-reno-10-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-prime-cyberspace-sources-ringtones-downloading-guide/"><u>2024 Approved Prime Cyberspace Sources Ringtones Downloading Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/frame-by-frame-focus-high-quality-video-devices-for-2024/"><u>Frame by Frame Focus High-Quality Video Devices for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/views-to-revenue-simplifying-the-process-with-a-3-step-framework-for-monitoring-youtube-income-for-2024/"><u>From Views to Revenue Simplifying the Process with a 3-Step Framework for Monitoring YouTube Income for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-a59-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-v30-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo V30 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-elevate-your-film-edits-with-final-cuts-top-10-tools/"><u>In 2024, Elevate Your Film Edits with Final Cut’s Top 10 Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expertly-edit-your-imagery-with-top-androidios-montage-apps/"><u>In 2024, Expertly Edit Your Imagery with Top Android/iOS Montage Apps</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nokia-c300-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/trouble-connecting-to-psn-how-to-tell-if-its-a-global-issue-or-user-specific/"><u>Trouble Connecting to PSN? How to Tell if It's a Global Issue or User-Specific</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Crossbreed Connection Breakthrough: DisplayPort Meets HDMI Within the Defunct Piston-Xi3 Gaming Rig"
-date: 2024-11-17T18:03:59.107Z
-updated: 2024-11-24T18:25:58.232Z
+date: 2024-11-30T14:15:20.826Z
+updated: 2024-12-03T06:47:32.363Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,17 +78,17 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-snaptweet-transporter-swiftly-grab-social-media-vids/"><u>[New] 2024 Approved SnapTweet Transporter Swiftly Grab Social Media Vids</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-effortless-conversions-selecting-the-10-prime-flv-to-youtubes-options-for-2024/"><u>[New] Effortless Conversions Selecting the 10 Prime Flv to YouTubes Options for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-choosing-the-right-medium-audio-vs-video-based-platforms/"><u>[Updated] Choosing the Right Medium Audio vs Video-Based Platforms</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-10-user-friendly-free-tools-to-create-professional-video-thumbnails/"><u>[Updated] In 2024, 10 User-Friendly Free Tools to Create Professional Video Thumbnails</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-note-30-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/chromebooks-best-capture-tools-no-cost-for-2024/"><u>Chromebook's Best Capture Tools (No Cost) for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/ideal-ios-options-the-finest-selector-of-emulators-for-playing-psp-games-for-2024/"><u>Ideal iOS Options The Finest Selector of Emulators for Playing PSP Games for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-z-fold-5-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy Z Fold 5 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-motorola-moto-e13-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-realme-narzo-60-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862704811-toms-tech-reviews-in-depth-hardware-evaluations/"><u>Tom's Tech Reviews - In-Depth Hardware Evaluations</u></a></li>
-<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-on-your-apple-iphone-12-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled On your Apple iPhone 12? How to Fix</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-navigating-google-translate-for-superior-speech-to-text/"><u>[New] Navigating Google Translate for Superior Speech-to-Text</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-navigating-the-path-to-wealthy-video-creators-via-vimeos-revenue-streams-for-2024/"><u>[New] Navigating the Path to Wealthy Video Creators via Vimeo's Revenue Streams for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-perfecting-your-snap-zoom-levels-unveiled-in-insta-stories-for-2024/"><u>[New] Perfecting Your Snap Zoom Levels Unveiled in Insta Stories for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-huawei-nova-y91-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-lava-yuva-2-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-note-50-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oppo-find-x6-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Oppo Find X6 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/discovering-and-demystifying-tiktoks-pfp-symbol/"><u>Discovering and Demystifying TikTok's PFP Symbol</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-tecno-camon-20-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-oppo-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Oppo .</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-tecno-pop-8-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Oppo A59 5G? | Dr.fone</u></a></li>
 </ul></div>
 

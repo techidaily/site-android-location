@@ -1,7 +1,7 @@
 ---
 title: Ayaneo's AM01 – Your Gateway to the Iconic Classic Macintosh Charm in a Cutting-Edge AMD Mini PC!
-date: 2024-12-01T07:55:19.906Z
-updated: 2024-12-02T23:31:22.819Z
+date: 2024-12-06T17:10:27.046Z
+updated: 2024-12-09T19:01:40.195Z
 tags:
   - desktop
 categories:
@@ -25,16 +25,16 @@ Damn Small Linux is a lightweight Linux distro aimed at older and lower spec PCs
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## For this project you will need
 
 * A USB stick (1GB or greater)
 * An old PC with 4GB or greater HDD / SSD
 * 1GB or more RAM
 * Internet connection (Ethernet or Wi-Fi)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Creating a Damn Small Linux 2024 boot USB
 
@@ -43,10 +43,6 @@ Damn Small Linux is a lightweight Linux distro aimed at older and lower spec PCs
  1.**Download the latest ISO version of** [**Damn Small Linux 2024**](https://www.damnsmalllinux.org/2024-download.html) **to your computer.**
 
  2.**Download and install** [**Rufus.**](https://rufus.ie/en/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -63,7 +59,7 @@ Damn Small Linux is a lightweight Linux distro aimed at older and lower spec PCs
 ![Damn Small Linux](https://cdn.mos.cms.futurecdn.net/baQXPzYCDw9eq9wf9YrQXA-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -82,6 +78,10 @@ Damn Small Linux is a lightweight Linux distro aimed at older and lower spec PCs
 
  7. **Remove the USB stick from the computer and insert it into the recycled machine.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Installing Damn Small Linux 2024
 
  Now that we have a bootable USB stick, our focus moves to the old PC that we wish to reuse. We will first boot from the USB stick and ensure that it reaches the Damn Small Linux 2024 desktop.
@@ -99,7 +99,7 @@ Damn Small Linux is a lightweight Linux distro aimed at older and lower spec PCs
 ![Damn Small Linux](https://cdn.mos.cms.futurecdn.net/8ruHFaJdsNupjFtvbQehm9-320-80.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -108,11 +108,19 @@ Damn Small Linux is a lightweight Linux distro aimed at older and lower spec PCs
 
 ![Damn Small Linux](https://cdn.mos.cms.futurecdn.net/PvyNXHHvZqzg9U2xzwU9CA-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  5.**Set your keyboard layout and click Next when ready.**
 
 ![Damn Small Linux](https://cdn.mos.cms.futurecdn.net/pyrBdYG3Uqu4UxbURuo5U9-320-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -132,19 +140,11 @@ Damn Small Linux is a lightweight Linux distro aimed at older and lower spec PCs
 
 ![Damn Small Linux](https://cdn.mos.cms.futurecdn.net/2zBeZ2Ezr6diBMHTuYQZ39-320-80.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  9. **Next setup your unprivileged user, and optionally a root user account. Click Next to move on.** Your unprivileged user is automatically added to the sudo group and so can temporarily elevate their privileges. But often, having a root admin user is an extra level of[security](https://www.tomshardware.com/tag/security) should you accidentally break the main user account.
 
 ![Damn Small Linux](https://cdn.mos.cms.futurecdn.net/bwm3cbDBvEeMPW7bFSGe3A-320-80.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -153,7 +153,7 @@ Damn Small Linux is a lightweight Linux distro aimed at older and lower spec PCs
 ![Damn Small Linux](https://cdn.mos.cms.futurecdn.net/vVszmiobWW4GyN9D2xCLu8-320-80.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -167,10 +167,6 @@ Damn Small Linux is a lightweight Linux distro aimed at older and lower spec PCs
  2. **At the login prompt, enter your username and press Enter to move to the password box. Enter the password and press Enter to login.** Typically we would use TAB to navigate between the lines, but this did not work with Damn Small Linux.
 
 ![Damn Small Linux](https://cdn.mos.cms.futurecdn.net/ZFdWZ4QpfABaJ9bbULSrk8-320-80.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -224,6 +220,10 @@ geany
 
 ![Damn Small Linux](https://cdn.mos.cms.futurecdn.net/fpp3uEkLvKHzjMDdGUpkr7-320-80.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Damn Small Linux 2024 is a fun way to resurrect an older machine. We wouldn’t spend our entire work day using such an old machine, but it can be useful to have a spare machine for the kids to hack on. It can also be useful when we need focus, a low-spec machine will struggle to run multiple applications, forcing us to complete a task.
@@ -243,24 +243,17 @@ geany
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-critical-acclaim-top-9-web-recording-microphones-of-the-year-23/"><u>[New] Critical Acclaim Top 9 Web Recording Microphones of the Year ('23)</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-smartphone-browser-showdown-youtube-app-analysis-for-2024/"><u>[Updated] Smartphone Browser Showdown YouTube App Analysis for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-unleash-growth-potential-simple-strategies-for-video-success-for-2024/"><u>[Updated] Unleash Growth Potential Simple Strategies for Video Success for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-tecno-phantom-v-fold-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y100-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-13t-pro-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-local-lsa-deactivated-warning/"><u>Bypassing 'Local LSA Deactivated' Warning</u></a></li>
-<li><a href="https://extra-information.techidaily.com/dissecting-android-image-alterations-does-pickup-shine-above-others/"><u>Dissecting Android Image Alterations Does PickUp Shine Above Others?</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-itel-p55-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Itel P55 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-v27-pro-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Vivo V27 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-meizu-21-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-xiaomi-redmi-k70-pro-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Xiaomi Redmi K70 Pro Location Settings | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-y27-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-xiaomi-14-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-vivo-y02t-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Vivo Y02T Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/instant-transcription-with-whisper-voice-to-text-guide/"><u>Instant Transcription with Whisper: Voice to Text Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/revolutionary-marketing-tactics-keyword-essentials-for-2024/"><u>Revolutionary Marketing Tactics Keyword Essentials for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-a-swift-fix-to-windows-update-error-8007000e/"><u>Troubleshooting Tips for a Swift Fix to Windows Update Error 8007000E</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-xiaomi-redmi-a2-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Xiaomi Redmi A2 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-unveiling-the-efficiency-of-screencastify-recorder-for-2024/"><u>[New] Unveiling the Efficiency of Screencastify Recorder for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-make-your-mark-stand-out-with-youtube-studio-editing/"><u>[Updated] Make Your Mark Stand Out with YouTube Studio Editing</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-note-30-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/asuschromebookflipc302ca-unveiled-budget-friendly-dual-mode-marvel-that-delivers-top-performance/"><u>AsusChromebookFlipC302CA Unveiled: Budget-Friendly, Dual-Mode Marvel That Delivers Top Performance</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/clonezillanvme-ssd/"><u>Clonezillaを使った安全なNVMe SSD移行：データ保持方法</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-nokia-c32-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Nokia C32 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/get-started-with-video-editing-best-tools-for-newcomers-for-2024/"><u>Get Started with Video Editing Best Tools for Newcomers for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-infinix-smart-7-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-honor-magic-vs-2-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Honor Magic Vs 2 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-tecno-camon-20-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Tecno Camon 20 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-honor-x9a-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/understanding-emeditors-inbuilt-character-encoding-in-version-10/"><u>Understanding EmEditor's Inbuilt Character Encoding in Version 10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Hidden Cost of AI: How a Single Advanced GPU Can Consume as Much Energy As 1.3M Homes in One Year"
-date: 2024-12-01T04:50:17.838Z
-updated: 2024-12-03T11:32:06.408Z
+date: 2024-12-09T12:32:18.313Z
+updated: 2024-12-10T09:56:41.518Z
 tags:
   - desktop
 categories:
@@ -55,7 +55,7 @@ __Ayaneo Retro Mini PC AM01 Specification__
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -81,14 +81,22 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-tecno-camon-20-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Tecno Camon 20 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y77t-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-x9a-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-future-of-oneplus-with-latest-updates-on-model-10-costs-and-prospect-revealed/"><u>Discover the Future of OnePlus with Latest Updates on Model 10: Costs & Prospect Revealed</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-samsung-galaxy-a34-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy A34 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-photo-distortion-techniques-in-ps-for-2024/"><u>Mastering Photo Distortion Techniques in PS for 2024</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/metodi-infallibili-per-burn-e-archiviare-i-tuoi-filmati-dvd-su-sistemi-operativi-windowsmacos/"><u>Metodi Infallibili per Burn E Archiviare I Tuoi Filmati DVD Su Sistemi Operativi Windows/macOS</u></a></li>
-<li><a href="https://article-posts.techidaily.com/tomtom-gopro-challenger-review-2023-update/"><u>TomTom GoPro Challenger Review – 2023 Update</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/winning-with-windows-videos-tips-for-enhancing-vimeo-feeds/"><u>Winning with Windows Videos Tips for Enhancing Vimeo Feeds</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-youtube-video-trapping-best-practices-explored/"><u>[New] In 2024, YouTube Video Trapping Best Practices Explored</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-understanding-haul-content-production-and-post-production-techniques/"><u>[New] Understanding Haul Content Production & Post-Production Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-immersive-stories-that-keep-you-watching-within-limit/"><u>2024 Approved Immersive Stories That Keep You Watching (Within Limit)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-maximize-impact-strategies-for-successful-instagram/"><u>2024 Approved Maximize Impact Strategies for Successful Instagram</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-lava-blaze-2-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-y200e-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo Y200e 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-nokia-c300-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-nokia-c32-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-y200-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-itel-s23-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Itel S23 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-infinix-smart-8-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Infinix Smart 8 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-htc-u23-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210823607-9781394208609-knowledge-and-ideation/"><u>Knowledge and Ideation | Free Book</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/restaurer-les-prises-de-vues-perdues-4-methodes-pour-retrouver-vos-anciennes-videos-a-partir-dun-dslrmirrorless/"><u>Restaurer Les Prises De Vues Perdues : 4 Méthodes Pour Retrouver Vos Anciennes Vidéos À Partir D'un DSLR/Mirrorless</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/securing-your-files-a-step-by-step-guide-to-protecting-windows-folders-with-passwords-tech-solutions-by-your-name/"><u>Securing Your Files: A Step-by-Step Guide to Protecting Windows Folders with Passwords - Tech Solutions by [Your Name]</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Realme 11 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-xiaomi-redmi-12-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Xiaomi Redmi 12 5G without Him Knowing | Dr.fone</u></a></li>
 </ul></div>
 

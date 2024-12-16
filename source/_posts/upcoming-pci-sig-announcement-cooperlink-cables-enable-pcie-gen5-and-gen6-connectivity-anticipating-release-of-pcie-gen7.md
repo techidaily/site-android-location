@@ -1,7 +1,7 @@
 ---
 title: "Upcoming PCI-SIG Announcement: CooperLink Cables Enable PCIe Gen5 & Gen6 Connectivity - Anticipating Release of PCIe Gen7"
-date: 2024-12-06T02:56:18.541Z
-updated: 2024-12-10T13:54:33.993Z
+date: 2024-12-09T16:49:19.415Z
+updated: 2024-12-16T16:34:20.075Z
 tags:
   - desktop
 categories:
@@ -55,7 +55,7 @@ __Ayaneo Retro Mini PC AM01 Specification__
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -81,18 +81,20 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-niche-marketing-through-periscope-broadcasts/"><u>[New] In 2024, Niche Marketing Through Periscope Broadcasts</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-pay-attention-focus-fully-on-the-speaker-avoid-distractions-and-show-interest-in-what-theyre-saying/"><u>[New] In 2024, Pay Attention Focus Fully on the Speaker, Avoid Distractions, and Show Interest in What They're Saying</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-captivating-cinematic-experience-elevate-video-quality-with-filters-pc-and-mobile-for-2024/"><u>[Updated] Captivating Cinematic Experience Elevate Video Quality with Filters (PC & Mobile) for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ace-your-photo-collection-best-android-collage-hacks/"><u>Ace Your Photo Collection – Best Android Collage Hacks</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-vivo-s17t-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/forgot-your-infinix-lock-screen-pattern-pin-or-password-heres-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Infinix lock screen pattern, PIN or password? Here’s what to do</u></a></li>
-<li><a href="https://discover-data.techidaily.com/from-technical-manuals-to-captivating-ereaders-turning-chm-pages-into-compelling-ebooks-using-flipbuildercom/"><u>From Technical Manuals to Captivating eReaders: Turning CHM Pages Into Compelling eBooks Using FlipBuilder.com</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-note-50-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-capture-the-airwaves-a-beginners-internet-radio-guide/"><u>In 2024, Capture the Airwaves A Beginner's Internet Radio Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-enhance-your-films-innovative-kinemaster-transitions/"><u>In 2024, Enhance Your Films Innovative Kinemaster Transitions</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-samsung-galaxy-s23-tactical-edition-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Samsung Galaxy S23 Tactical Edition IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-cost-conscious-aerial-assistants-top-5-drones/"><u>[New] Cost-Conscious Aerial Assistants Top 5 Drones</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-font-powerhouses-for-captivating-youtube-thumbnails/"><u>[Updated] Font Powerhouses for Captivating YouTube Thumbnails</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-the-essential-tutorial-for-stunning-hdr-portraits/"><u>2024 Approved The Essential Tutorial for Stunning HDR Portraits</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/automated-marketing-with-cookiebot-enhance-your-digital-campaigns/"><u>Automated Marketing with Cookiebot: Enhance Your Digital Campaigns</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-nokia-150-2023-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Nokia 150 (2023) Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-nokia-g22-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Nokia G22 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-nokia-c02-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Nokia C02 Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-on-hold-charging-glitches-on-your-iphone-8-methods-explored/"><u>How to Fix 'On Hold' Charging Glitches on Your iPhone - 8 Methods Explored</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-google-pixel-8-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Google Pixel 8 to Protect Your Individual Information</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-oppo-reno-11-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-constraints-a-guide-to-gpts-restrictions/"><u>Mastering Constraints: A Guide to GPT's Restrictions</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-slideshow-magic-on-mac-easy-video-editing-with-ezvid/"><u>New Slideshow Magic on Mac Easy Video Editing with Ezvid</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/simplified-strategies-for-google-voice-call-records-for-2024/"><u>Simplified Strategies for Google Voice Call Records for 2024</u></a></li>
 </ul></div>
 

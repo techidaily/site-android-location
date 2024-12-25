@@ -1,7 +1,7 @@
 ---
 title: "The Hidden Cost of AI: How a Single Advanced GPU Can Consume as Much Energy As 1.3M Homes in One Year"
-date: 2024-12-09T17:08:33.375Z
-updated: 2024-12-16T16:26:22.973Z
+date: 2024-12-22T21:38:23.096Z
+updated: 2024-12-25T01:12:51.911Z
 tags:
   - desktop
 categories:
@@ -55,7 +55,7 @@ __Ayaneo Retro Mini PC AM01 Specification__
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -81,22 +81,22 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-secrets-of-seamless-zoom-communication-hacks-for-productive-remote-engagement/"><u>[New] 2024 Approved The Secrets of Seamless ZOOM Communication Hacks for Productive Remote Engagement</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-mastering-the-art-of-video-to-audio-conversion-on-insta/"><u>[New] Mastering the Art of Video-to-Audio Conversion on Insta</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtubers-essential-camera-guidebook/"><u>[New] YouTubers' Essential Camera Guidebook</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/convert-your-porntube-downloads-into-different-file-types-mp4-mov-flv-avi-wmv-mkv-instructions/"><u>Convert Your PornTube Downloads Into Different File Types - MP4, MOV, FLV, AVI, WMV, MKV Instructions</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-nokia-c110-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Nokia C110</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-nokia-c12-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Nokia C12 Pro Location Settings | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-nvidia-shield-tv-pros-features-the-perfect-gaming-media-player/"><u>Exploring Nvidia Shield TV Pro's Features: The Perfect Gaming Media Player</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-honor-magic-5-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-xiaomi-14-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-change-photo-color-like-a-pro-for-2024/"><u>How to Change Photo Color Like A Pro for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-iphone-se-2022-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On iPhone SE (2022) without Password?</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-razr-40-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-11x-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-honor-x7b-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Honor X7b Devices | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-y100a-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-expert-insights-on-hardware-and-software/"><u>Tom's Tech Reviews: Expert Insights on Hardware and Software</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-chromebook-screenshot-hacks-in-four-steps/"><u>[New] 2024 Approved Chromebook Screenshot Hacks in Four Steps</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-top-tier-mkv-players-macos-edition/"><u>[New] 2024 Approved Top-Tier MKV Players MacOS Edition</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-expertise-for-changing-meet-usernames-laptopmobile-for-2024/"><u>[New] Expertise for Changing Meet Usernames (Laptop/Mobile) for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-pilots-toolkit-top-drones-must-have-gear-and-replacements/"><u>[Updated] 2024 Approved Pilot's Toolkit Top Drones Must-Have Gear and Replacements</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-nokia-150-2023-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/affinity-photo-expertise-review-guide-for-2024/"><u>Affinity Photo Expertise Review Guide for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-itel-p55plus-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Itel P55+ Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-realme-c67-4g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oppo-find-n3-flip-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y56-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-realme-11x-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-vivo-y27-4g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Vivo Y27 4G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-spark-10c-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/inside-look-at-lenovos-130s-laptop-model-balancing-low-end-performance-with-surprising-ease-of-use/"><u>Inside Look at Lenovo's 130S Laptop Model: Balancing Low-End Performance with Surprising Ease of Use</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/unveiling-mastery-the-ultimate-animoji-guide-for-iphone-x-for-2024/"><u>Unveiling Mastery The Ultimate Animoji Guide for iPhone X for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Oppo F23 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-updating-your-google-chrome-browser-this-weekend-is-essential-a-guide-by-zdnet/"><u>Why Updating Your Google Chrome Browser This Weekend Is Essential: A Guide by ZDNet</u></a></li>
 </ul></div>
 

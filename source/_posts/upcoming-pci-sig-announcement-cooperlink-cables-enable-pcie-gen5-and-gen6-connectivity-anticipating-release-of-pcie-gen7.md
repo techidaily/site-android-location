@@ -1,7 +1,7 @@
 ---
 title: "Upcoming PCI-SIG Announcement: CooperLink Cables Enable PCIe Gen5 & Gen6 Connectivity - Anticipating Release of PCIe Gen7"
-date: 2024-12-09T16:49:19.415Z
-updated: 2024-12-16T16:34:20.075Z
+date: 2024-12-17T17:10:12.090Z
+updated: 2024-12-25T02:08:07.484Z
 tags:
   - desktop
 categories:
@@ -55,7 +55,7 @@ __Ayaneo Retro Mini PC AM01 Specification__
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -81,20 +81,22 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-cost-conscious-aerial-assistants-top-5-drones/"><u>[New] Cost-Conscious Aerial Assistants Top 5 Drones</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-font-powerhouses-for-captivating-youtube-thumbnails/"><u>[Updated] Font Powerhouses for Captivating YouTube Thumbnails</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-the-essential-tutorial-for-stunning-hdr-portraits/"><u>2024 Approved The Essential Tutorial for Stunning HDR Portraits</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/automated-marketing-with-cookiebot-enhance-your-digital-campaigns/"><u>Automated Marketing with Cookiebot: Enhance Your Digital Campaigns</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-nokia-150-2023-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Nokia 150 (2023) Location Settings | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-nokia-g22-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Nokia G22 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-nokia-c02-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Nokia C02 Devices | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-on-hold-charging-glitches-on-your-iphone-8-methods-explored/"><u>How to Fix 'On Hold' Charging Glitches on Your iPhone - 8 Methods Explored</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-google-pixel-8-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Google Pixel 8 to Protect Your Individual Information</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-oppo-reno-11-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-constraints-a-guide-to-gpts-restrictions/"><u>Mastering Constraints: A Guide to GPT's Restrictions</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-slideshow-magic-on-mac-easy-video-editing-with-ezvid/"><u>New Slideshow Magic on Mac Easy Video Editing with Ezvid</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/simplified-strategies-for-google-voice-call-records-for-2024/"><u>Simplified Strategies for Google Voice Call Records for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-x100-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claudio-vs-generative-genius-everyday-excellence/"><u>Claudio Vs. Generative Genius: Everyday Excellence</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/essential-questions-for-acquiring-a-video-recorder/"><u>Essential Questions for Acquiring a Video Recorder</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-ultimate-sound-experience-free-behringer-driver-software/"><u>Get the Ultimate Sound Experience - Free [Behringer Driver] Software</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-nokia-c32-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-poco-c50-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-zte-blade-a73-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-motorola-moto-g34-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-reno-8t-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo Reno 8T Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-samsung-galaxy-a15-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-motorola-moto-g24-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-vivo-v29-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Vivo V29 online without jailbreak</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/navigate-to-the-driver-tab-and-select-either-update-driver-or-roll-back-driver-if-you-see-the-roll-back-option-this-indicates-that-a-recent-update-may-have-211/"><u>Navigate to the Driver Tab and Select Either Update Driver or Roll Back Driver. If You See the Roll Back Option, This Indicates that a Recent Update May Have Caused the Problem, so Try Rolling Back First.</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ate-youtubes-studio-editor-to-master-videography/"><u>Navigate YouTube's Studio Editor to Master Videography</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/d-and-repeat-mastering-youtube-inversion/"><u>Rewind and Repeat Mastering YouTube Inversion</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/sky-drones-their-genres/"><u>Sky Drones Their Genres</u></a></li>
+<li><a href="https://win-able.techidaily.com/wrc-10-fixes-how-to-play-the-fifa-2018-world-rally-game-without-issues-on-your-computer/"><u>WRC 10 Fixes: How to Play the FIFA 2018 World Rally Game Without Issues on Your Computer</u></a></li>
 </ul></div>
 

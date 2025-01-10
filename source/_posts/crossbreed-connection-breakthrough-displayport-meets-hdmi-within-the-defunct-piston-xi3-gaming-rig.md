@@ -1,7 +1,7 @@
 ---
 title: "Crossbreed Connection Breakthrough: DisplayPort Meets HDMI Within the Defunct Piston-Xi3 Gaming Rig"
-date: 2024-12-27T18:46:51.351Z
-updated: 2025-01-03T18:15:33.721Z
+date: 2025-01-03T03:51:30.161Z
+updated: 2025-01-10T00:28:39.683Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,20 +78,17 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-concept-to-reality-top-7-gadgets-for-metaverse-success/"><u>[New] From Concept to Reality Top 7 Gadgets for Metaverse Success</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-step-by-step-guide-on-using-gaming-youtube-banner-templates/"><u>[Updated] 2024 Approved Step-By-Step Guide on Using Gaming YouTube Banner Templates</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-for-lenovo-screen-recording-enthusiasts/"><u>[Updated] 2024 Approved The Ultimate Guide for Lenovo Screen Recording Enthusiasts</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-effortless-techniques-to-record-and-edit-with-screencastify/"><u>[Updated] In 2024, Effortless Techniques to Record and Edit with Screencastify</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-unlocking-the-secrets-of-perfect-aspect-ratios-for-2024/"><u>[Updated] Unlocking the Secrets of Perfect Aspect Ratios for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-xiaomi-redmi-13c-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-motorola-moto-g-stylus-5g-2023-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Motorola Moto G Stylus 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-hot-40-pro-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-zero-30-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Zero 30 5G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-organize-a-virtual-gathering-using-zoom-on-android-for-2024/"><u>How to Organize a Virtual Gathering Using Zoom on Android for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-vivo-y78plus-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Vivo Y78+ Devices | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nokia-c12-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-oppo-a58-4g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Oppo A58 4G Device</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/top-30-inspirational-ideas-fusing-animated-themes-and-social-media/"><u>Top 30 Inspirational Ideas Fusing Animated Themes and Social Media</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-expedite-your-experience-quick-iphone-time-lapse-for-2024/"><u>[New] Expedite Your Experience Quick iPhone Time-Lapse for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-and-efficient-topmate-c302-ultimate-cooling-pad-guide/"><u>Affordable & Efficient TopMate C302 - Ultimate Cooling Pad Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/aural-and-visual-summary-synthesizer/"><u>Aural and Visual Summary Synthesizer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cyberpunk-2077-black-screen-resolved-a-comprehensive-guide-to-fixing-game-crashes/"><u>Cyberpunk 2077 Black Screen Resolved - A Comprehensive Guide to Fixing Game Crashes</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-realme-c55-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Realme C55 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expertly-reviewed-top-pc-case-selections-of-2024-to-elevate-your-personal-computer-setup/"><u>Expertly Reviewed Top PC Case Selections of 2024 to Elevate Your Personal Computer Setup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/gpd-reveals-teaser-innovative-dual-display-oled-laptop-set-to-challenge-asus-zenbook-duo/"><u>GPD Reveals Teaser: Innovative Dual-Display OLED Laptop Set to Challenge ASUS ZenBook Duo</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-a14-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-zte-nubia-flip-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-vivo-v29e-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nubia-red-magic-9-proplus-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-tech-trends-wisdom-from-toms-hardware/"><u>Navigating Tech Trends: Wisdom From Tom's Hardware</u></a></li>
 </ul></div>
 

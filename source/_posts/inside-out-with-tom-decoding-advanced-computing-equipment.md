@@ -1,7 +1,7 @@
 ---
 title: "Inside Out with Tom: Decoding Advanced Computing Equipment"
-date: 2024-12-30T19:31:20.689Z
-updated: 2025-01-03T18:01:15.965Z
+date: 2025-01-03T13:19:37.501Z
+updated: 2025-01-09T20:57:32.877Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,22 +66,14 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-navigating-through-the-codec-complexity-av1-vs-vp9/"><u>[New] 2024 Approved Navigating Through the Codec Complexity AV1 Vs. VP9</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-discover-best-android-picture-tools/"><u>[Updated] 2024 Approved Discover Best Android Picture Tools</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-facebooks-new-era-select-addons-and-browser-plugins-to-optimize-video-viewing-in-firefox/"><u>[Updated] 2024 Approved Facebook's New Era Select Addons & Browser Plugins to Optimize Video Viewing in Firefox</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-accurate-ranking-top-10-gratuitous-srt-file-tools/"><u>[Updated] In 2024, Accurate Ranking Top 10 Gratuitous Srt File Tools</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-sony-xperia-10-v-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-meizu-21-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-crystal-clear-viewing-evaluating-the-best-8k-monitors/"><u>2024 Approved Crystal Clear Viewing Evaluating the Best 8K Monitors</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-photograph-entire-screen-area/"><u>2024 Approved Photograph Entire Screen Area</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/all-about-sonys-plans-for-tomorrow-a-deep-dive-into-their-2024-state-of-play-reveals/"><u>All About Sony's Plans for Tomorrow: A Deep Dive Into Their 2024 State of Play Reveals</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-k70e-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi K70E Devices | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-s18-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo S18 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-motorola-defy-2-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-realme-c67-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-y100-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo Y100 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-xiaomi-redmi-a2-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Xiaomi Redmi A2 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722888490575-mastering-the-art-of-screenshots-on-a-logitech-keyboard-quick-and-simple-steps-inside/"><u>Mastering the Art of Screenshots on a Logitech Keyboard – Quick and Simple Steps Inside!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/review-of-the-ugreen-nexode-pro-65w-slender-beast-power-in-a-compact-form/"><u>Review of the Ugreen Nexode Pro 65W Slender Beast - Power in a Compact Form</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-the-ultimate-guide-to-facebooks-in-stream-ad-conversion-strategies/"><u>[Updated] 2024 Approved The Ultimate Guide to Facebook's In-Stream Ad Conversion Strategies</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-digitally-sign-docx-file-online-free-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Digitally Sign .docx file online free - (Tutorial)</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-honor-x50i-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-nokia-c12-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-tecno-pova-5-pro-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-cut-to-the-chase-reliable-filmora-promo-codes-here/"><u>New 2024 Approved Cut to the Chase Reliable Filmora Promo Codes Here</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-parallel-line-distortions-a-guide-to-correcting-horizontal-lines-displayed-on-your-pc/"><u>Resolving Parallel Line Distortions: A Guide to Correcting Horizontal Lines Displayed On Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-your-windows-passwords-the-top-11-access-routes-in-win11/"><u>Securing Your Windows Passwords: The Top 11 Access Routes in Win11</u></a></li>
 </ul></div>
 

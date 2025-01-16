@@ -1,7 +1,7 @@
 ---
 title: "Inside Out with Tom: Decoding Advanced Computing Equipment"
-date: 2025-01-03T13:19:37.501Z
-updated: 2025-01-09T20:57:32.877Z
+date: 2025-01-11T01:50:59.517Z
+updated: 2025-01-16T00:56:06.054Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,14 +66,19 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-the-ultimate-guide-to-facebooks-in-stream-ad-conversion-strategies/"><u>[Updated] 2024 Approved The Ultimate Guide to Facebook's In-Stream Ad Conversion Strategies</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-digitally-sign-docx-file-online-free-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Digitally Sign .docx file online free - (Tutorial)</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-honor-x50i-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-nokia-c12-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-tecno-pova-5-pro-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-cut-to-the-chase-reliable-filmora-promo-codes-here/"><u>New 2024 Approved Cut to the Chase Reliable Filmora Promo Codes Here</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-parallel-line-distortions-a-guide-to-correcting-horizontal-lines-displayed-on-your-pc/"><u>Resolving Parallel Line Distortions: A Guide to Correcting Horizontal Lines Displayed On Your PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/securing-your-windows-passwords-the-top-11-access-routes-in-win11/"><u>Securing Your Windows Passwords: The Top 11 Access Routes in Win11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-decoding-the-complexities-in-fpv-drone-propeller-selection/"><u>[New] In 2024, Decoding the Complexities in FPV Drone Propeller Selection</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-streamlined-methods-for-saving-videos-on-desktops-tablets-and-phones-for-2024/"><u>[Updated] Streamlined Methods for Saving Videos on Desktops, Tablets & Phones for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oppo-a1x-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-covert-community-top-5-anonymous-viewers/"><u>2024 Approved The Covert Community Top 5 Anonymous Viewers</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-zte-nubia-flip-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-phantom-v-fold-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Phantom V Fold Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-x100-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo X100 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/425674-9781101042533-ghost-hunters/"><u>Ghost Hunters | Free Book</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-honor-magic-6-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Honor Magic 6 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-oppo-find-n3-flip-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-reno-11-pro-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Oppo Reno 11 Pro 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-lifetime-of-memories-elevated-in-the-cloud-free-and-paid-storage-compared/"><u>In 2024, Lifetime of Memories, Elevated in the Cloud Free & Paid Storage Compared</u></a></li>
+<li><a href="https://win-community.techidaily.com/step-by-step-guide-unlocking-your-windows-firewall-settings-tips-from-yl-computing/"><u>Step-by-Step Guide: Unlocking Your Windows Firewall Settings - Tips From YL Computing</u></a></li>
+<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Vivo V27? | Dr.fone</u></a></li>
 </ul></div>
 

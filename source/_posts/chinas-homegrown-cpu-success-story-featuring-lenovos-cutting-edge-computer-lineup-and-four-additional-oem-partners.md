@@ -1,7 +1,7 @@
 ---
 title: China's Homegrown CPU Success Story - Featuring Lenovo's Cutting-Edge Computer Lineup and Four Additional OEM Partners
-date: 2025-01-05T12:22:31.853Z
-updated: 2025-01-10T02:24:12.233Z
+date: 2025-01-13T21:00:02.013Z
+updated: 2025-01-15T20:32:45.735Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,19 +78,20 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-elevate-your-snap-game-15-must-try-tactics-for-2024/"><u>[New] Elevate Your Snap Game 15 Must-Try Tactics for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-immersive-teaching-transformative-learning/"><u>[New] In 2024, Immersive Teaching, Transformative Learning</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/download-your-favorite-cartoons-in-high-quality-how-to-convert-and-save-from-kimcartoon-as-mp4-or-avi/"><u>Download Your Favorite Cartoons in High Quality: How to Convert & Save From KIMCartoon as MP4 or AVI</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-poco-f5-pro-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Poco F5 Pro 5G Devices | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-x50-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-itel-p55plus-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-xcover-7-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy XCover 7 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-vivo-x90s-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Vivo X90S Devices | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-samsung-galaxy-a25-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-the-activation-lock-on-your-ipad-and-iphone-8-plus-without-apple-account-by-drfone-ios/"><u>In 2024, How to Remove the Activation Lock On your iPad and iPhone 8 Plus without Apple Account</u></a></li>
-<li><a href="https://facebook.techidaily.com/off-the-grid-erase-facebook-from-android-screen/"><u>Off the Grid: Erase Facebook From Android Screen</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-fixes-tackling-silent-playthroughs-of-fallout-ebuilding-a-solar-panel-system/"><u>Quick Fixes: Tackling Silent Playthroughs of Fallout Ebuilding a Solar Panel System</u></a></li>
-<li><a href="https://extra-support.techidaily.com/recommendation-best-websites-to-download-funny-ringtones-for-2024/"><u>Recommendation Best Websites to Download Funny Ringtones for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/techniques-and-tools-for-fast-quality-image-reductions/"><u>Techniques and Tools for Fast, Quality Image Reductions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-fives-finest-tools-for-rapid-video-frame-capturing/"><u>[New] In 2024, Five's Finest Tools for Rapid Video Frame Capturing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-ultimate-guide-to-digital-audio-streaming-and-recording/"><u>[New] The Ultimate Guide to Digital Audio Streaming & Recording</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-understanding-vectors-first-steps-and-essential-apps/"><u>[New] Understanding Vectors First Steps and Essential Apps</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-understanding-apples-audio-content-guidelines/"><u>[Updated] 2024 Approved Understanding Apple’s Audio Content Guidelines</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-oppo-a2-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-magic-5-lite-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/android-mac-video-archiving-a-snap-solution-guide/"><u>Android-Mac Video Archiving A Snap Solution Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-literary-skills-using-the-top-5-ai-writing-assistants-today/"><u>Enhance Your Literary Skills Using the Top 5 AI Writing Assistants Today</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-vivo-s18-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-oppo-reno-11-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/switch-to-night-mode-your-facebook-guide/"><u>Switch to Night Mode: Your Facebook Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/verified-identities-meta-gold-or-twitters-silver-tie/"><u>Verified Identities: Meta Gold or Twitter's Silver Tie?</u></a></li>
+<li><a href="https://win-able.techidaily.com/winning-against-wowla-errors-in-lol-a-step-by-step-fixing-manual/"><u>Winning Against WoWLA Errors in LoL: A Step-by-Step Fixing Manual</u></a></li>
 </ul></div>
 

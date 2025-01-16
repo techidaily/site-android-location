@@ -1,7 +1,7 @@
 ---
 title: "Upcoming PCI-SIG Announcement: CooperLink Cables Enable PCIe Gen5 & Gen6 Connectivity - Anticipating Release of PCIe Gen7"
-date: 2025-01-06T10:42:28.629Z
-updated: 2025-01-10T04:53:29.150Z
+date: 2025-01-14T22:02:58.007Z
+updated: 2025-01-15T22:23:59.664Z
 tags:
   - desktop
 categories:
@@ -55,7 +55,7 @@ __Ayaneo Retro Mini PC AM01 Specification__
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -81,15 +81,22 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-chucklechain-master-the-art-of-memes-at-home/"><u>[New] 2024 Approved ChuckleChain Master the Art of Memes at Home</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-civi-3-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/chrome-stuck-heres-how-you-can-resolve-non-loading-webpages/"><u>Chrome Stuck? Here's How You Can Resolve Non-Loading Webpages</u></a></li>
-<li><a href="https://facebook.techidaily.com/germany-cracks-down-on-facebooks-data-collection-from-whatsapp-userbase/"><u>Germany Cracks Down on Facebook's Data Collection From WhatsApp Userbase</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-infinix-smart-8-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-motorola-g24-power-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-asus-rog-phone-8-pro-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Asus ROG Phone 8 Pro Location Settings | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-realme-narzo-60-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-today-qualcomms-top-notch-atheros-ar3011-bluetooth-30-support-software/"><u>Install Today: Qualcomm's Top-Notch Atheros AR3011 Bluetooth 3.0 Support Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-hp-laptop-webcam-malfunctions-on-windows-10-a-comprehensive-fix-guide/"><u>Overcoming HP Laptop Webcam Malfunctions on Windows 10: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-link-zoom-calls-to-iphoneandroid-events-seamlessly/"><u>[New] 2024 Approved Link Zoom Calls to iPhone/Android Events Seamlessly</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-the-novices-route-to-revenue-in-the-youtube-realm/"><u>[New] 2024 Approved The Novice's Route to Revenue in the YouTube Realm</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-assessing-free2x-recording-software-quality-for-2024/"><u>[New] Assessing Free2X Recording Software Quality for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-transforming-raw-footage-into-youtube-gold-via-sony-vegas/"><u>[Updated] 2024 Approved Transforming Raw Footage Into YouTube Gold via Sony Vegas</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-100-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-k70e-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ensure-smooth-graphics-access-the-newest-geforce-rtx-3090-drivers-for-windows-ages-1087-secure-download-links-here/"><u>Ensure Smooth Graphics: Access the Newest GeForce RTX 3090 Drivers for Windows Ages (10/8/7) - Secure Download Links Here</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-k70-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi K70 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-12plus-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-honor-magic-6-lite-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-motorola-edge-40-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Motorola Edge 40 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-a14-4g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96330070-9780893894191-mystics-magicians-and-medicine-people/"><u>Mystics, Magicians and Medicine People | Free Book</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-step-by-step-guide-to-overcoming-packet-loss-on-discord/"><u>Resolved: Step-by-Step Guide to Overcoming Packet Loss on Discord</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-new-dawn-of-creativity-spotlight-on-six-visionary-nftos-for-2024/"><u>The New Dawn of Creativity Spotlight on Six Visionary NFTOs for 2024</u></a></li>
 </ul></div>
 

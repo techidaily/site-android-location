@@ -1,7 +1,7 @@
 ---
 title: 10 Fake GPS Location Apps on Android Of your Sony Xperia 5 V | Dr.fone
-date: 2024-07-29T18:06:56.966Z
-updated: 2024-07-30T18:06:56.966Z
+date: 2025-01-13T08:01:19.522Z
+updated: 2025-01-15T17:30:50.907Z
 tags: 
   - virtual location chang
   - location changer
@@ -24,9 +24,6 @@ It helps in protecting your privacy. In this article, we have discussed in detai
 
 Take a look!
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## #1 Dr. Fone – Virtual Location
 
 ![dr.fone virtual location app](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
@@ -56,8 +53,6 @@ It is compatible with almost all location-based apps, including Instagram, Snapc
 **Cons**
 
 - Premium version is paid
-
-
 
 ### Dr.Fone - Virtual Location
 
@@ -161,6 +156,10 @@ With Fake GPS 360, you can choose any location of your choice on your Sony Xperi
 - It May does not work with some apps
 - Ineffective joystick
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## #5 Fake GPS Location by Lexa
 
 ![fake gps location by lexa](https://images.wondershare.com/drfone/article/2022/01/fake-gps-android-5.jpg)
@@ -223,8 +222,9 @@ You can also use the location changer to find new people on dating apps like Tin
 - It can be detected by other apps
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## #7 Fake GPS Location Spoofer
 
 ![fake gps location spoofer](https://images.wondershare.com/drfone/article/2022/01/fake-gps-android-7.jpg)
@@ -257,9 +257,6 @@ Its free version offers only limited features, but with the premium version, you
 - The free version has fewer features
 - Ads in free version
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## #8 Fake GPS Free
 
 ![fake gps free app](https://images.wondershare.com/drfone/article/2022/01/fake-gps-android-8.jpg)
@@ -325,6 +322,10 @@ It allows you to create fake routes on the map as well.
 
 ![VPNa fake gps](https://images.wondershare.com/drfone/article/2022/01/fake-gps-android-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Rating – 3.4**
 
 VPNa is another best spoofing app that helps in sharing false locations with other apps on your Sony Xperia 5 V. Smartphones with or without root can avail of the benefits of this fantastic application.
@@ -353,10 +354,6 @@ VPNa is another best spoofing app that helps in sharing false locations with oth
 Now, you know various types of fake GPS apps for Android phones. Choose the one that suits your need and budget. First, you need to install the app on your device and need to grant permission if needed to allow access. By using the fake GPS apps Android, you can easily spoof your location and can protect your privacy from unwanted apps.
 
 If you are looking for a safe and reliable location changer, then use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) . It is the best fake GPS spoofing app to change the location in no time.
-
-
-
-
 
 ## 3 Effective Methods to Fake GPS location on Android For your Sony Xperia 5 V
 
@@ -415,6 +412,10 @@ You can check out this video for further instruction.
 - Click on **Move Here** to mock your location on Android.
 
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once you select the Move Here option, your new location on the program’s map, as well as your Sony Xperia 5 V, will show as Rome, Italy.
 
@@ -498,6 +499,10 @@ You can also use a dedicated fake GPS app on Android to change your GPS location
 
 ![how to fake location by lexa](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-by-lexa.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Price**: Free
 
 Free to use, Fake GPS location by Lexa allows you to change your location to anywhere in the world with just two clicks. Although exceptional, it does not work effectively on the newer Android 12 variants (rubber banding on the Google Play store). Plus, you will have to turn off your “Google location accuracy” and “Google location sharing” features for this to work.
@@ -534,6 +539,10 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 ![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2**. Go to the **Developer option** on an Android device (**refer to the FAQ section** to learn how to enable Developer options on an Android device).
 
 **Step 3**. In the Developer options:
@@ -553,9 +562,6 @@ For example, let’s use the first recommended tool, i.e., Fake GPS location by 
 
 ![fake gps location on android](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. How To Enable Developer Options In Android?
 
 You will have to enable Developer options and incorporate the fake GPS location app to spoof your location on your Sony Xperia 5 V.
@@ -569,10 +575,11 @@ Here’s how to enable the developer option:
 
 - Navigate to **About Phone** and open it.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fake gps location on android11](https://images.wondershare.com/drfone/article/2022/03/fake-gps-location-on-android-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Choose the **Software info**
 
@@ -593,6 +600,10 @@ Dr. Fone’s Virtual Location is the best tool to prevent online services from d
 ### 3\. Can you Fake your location on Grindr?
 
 Yes. Dr. Fone's Virtual Location program is the best tool to fake your location on Grindr. It allows you to unlock several profiles at any desired location and discover more people.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Is it legal to fake GPS location on Android?
 
@@ -667,6 +678,14 @@ Last, but most importantly, check the feedback and the real-life experience of o
 
 ![affected apps](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Step by Step Guide to Mock GPS on Sony Xperia 5 V
 
 Now when you are all prepped-up, you can easily learn how to mock GPS on a Sony  phone. As stated above, the fake or mock GPS feature is only enabled in Developer Options on the Sony Xperia 5 V device. Thus, you need to first turn on your Sony ’s Developer Options and later pick a mock GPS app to fake the current location on your device. Here’s how you can fake location or mock GPS on your Sony  phone:
@@ -701,8 +720,6 @@ Later, you can go back to the app and stop the fake location to switch back to y
 
 There you go! After reading this guide, you would be able to mock GPS on your Sony  phone pretty easily. Apart from the Fake GPS Location by Lexa, there are tons of other reliable apps that you can use as well. Feel free to explore these apps and let us know about your experience of faking location on your Sony . If you use any other mock GPS app that you wish to recommend our readers, then drop its name in the comments below!
 
-
-
 ### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
@@ -714,7 +731,6 @@ There you go! After reading this guide, you would be able to mock GPS on your So
 - Work with location-based apps, like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Snapchat](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc.
 
 **3981454** people have downloaded it
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -728,11 +744,22 @@ There you go! After reading this guide, you would be able to mock GPS on your So
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-scene-stealers-archive-responses-await/"><u>[New] 2024 Approved Scene Stealers Archive Responses Await</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-3-tactics-to-enhance-your-instagram-films-look/"><u>[New] 3 Tactics to Enhance Your Instagram Film's Look</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-ideal-imagery-best-google-meet-screen-savers-for-2024/"><u>[New] Ideal Imagery Best Google Meet Screen Savers for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-crafting-cinematic-projects-utilizing-movie-maker-on-windows-8-pcs/"><u>[Updated] 2024 Approved Crafting Cinematic Projects Utilizing Movie Maker on Windows 8 PCs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-advanced-editing-guide-for-creating-compelling-360-degree-videos-using-premiere-pro/"><u>[Updated] In 2024, Advanced Editing Guide for Creating Compelling 360-Degree Videos Using Premiere Pro</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-f15-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-zte-nubia-flip-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For ZTE Nubia Flip 5G</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-realme-c51-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-oneplus-ace-2-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-infinix-note-30-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Infinix Note 30 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-m34-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-tecno-spark-20-proplus-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-leverage-audience-engagement-through-strategic-posting/"><u>In 2024, Leverage Audience Engagement Through Strategic Posting</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-stumble-upon-substantial-comment-sections/"><u>In 2024, Stumble upon Substantial Comment Sections</u></a></li>
+<li><a href="https://program-issues.techidaily.com/launch-lost-ark-successfully-updated-troubleshooting-steps/"><u>Launch Lost Ark Successfully: Updated Troubleshooting Steps</u></a></li>
+</ul></div>
 

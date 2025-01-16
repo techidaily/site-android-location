@@ -1,7 +1,7 @@
 ---
 title: Exploring the Exceptional Combination of Beauty and Versatility in the Dell XPS 13 7390 2-in-1 Laptop Review
-date: 2025-01-08T06:22:41.753Z
-updated: 2025-01-09T21:01:30.766Z
+date: 2025-01-09T22:17:52.926Z
+updated: 2025-01-16T01:40:27.185Z
 categories:
   - BestProducts
 description: This Article Describes Exploring the Exceptional Combination of Beauty and Versatility in the Dell XPS 13 7390 2-in-1 Laptop Review
@@ -12,6 +12,10 @@ thumbnail: https://www.lifewire.com/thmb/UBWVgDMY_2jwPREuMsZw9yednD8=/400x300/fi
 ## Delivering Premium TV Reception at a Great Value - In-Depth Review of the 30 Mohu Leaf Antenna
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Mohu Leaf 30
 
@@ -64,6 +68,10 @@ Lifewire / Jonno Hill
 
  Mohu might not be breaking new ground with this antenna, but it’s more than sufficient for most city dwellers and perhaps even a few buyers in the suburbs with a relatively unobstructed path to the broadcast source.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Basic but effective**
 
  You can find a dozen identical versions of this unpowered antenna by doing a quick search for TV antennas online, and not for no reason. It’s a very uncomplicated design, doesn’t take up too much space, and doesn’t have a lot of points of failure. The 9x11.5-inch rectangular antenna surface is thin, pliable, and features two small punch-holes towards the top which can be used to pin the antenna to an appropriate surface.
@@ -71,16 +79,12 @@ Lifewire / Jonno Hill
  The matte surface is white on one side and black on the other, which could be useful for helping blend the device in with your surroundings. The Mohu Leaf 30 TV Antenna is neither the thickest or the thinnest version of this design that we’ve seen. Some are closer to paper thin and extremely flexible, and others were more rigid. If you need to be able to bend the antenna quite a bit to fit it where you need to, this might not be the right one for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Setup: Dead simple**
 
  Setup of the Mohu Leaf 30 TV Antenna is as easy as it gets with antennas. Since there is no external power to connect, you only need to worry about connecting the included coaxial cable to the device and to your TV and using the included pins or adhesive tabs to affix the device to a surface. Ease of setup is one of the benefits of a non-amplified antenna such as the Mohu Leaf.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Performance: Acceptable but not incredible**
 
@@ -88,16 +92,12 @@ Lifewire / Jonno Hill
 
  My apartment is located within city limits and doesn’t provide too much of a challenge for antennas, but I was able to reliably get as many as 76 channels from other devices. Nonetheless, the Leaf still provided a clear picture of all the major network stations without any issue. The only channels that I couldn’t pick up with the Leaf were pretty obscure, such as an audio-only station from a Korean Christian church. I think I’ll be okay without that one.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Range: Fairly limited**
 
  The Mohu Leaf 30 TV Antenna is rated, as its name implies, for up to 30 miles of range. This is about what I would expect from an unpowered antenna. This device is clearly designed for buyers who live within close proximity to their local TV broadcast source, and not for those further out into the suburbs and beyond.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: Excellent for the performance**
@@ -107,7 +107,7 @@ Lifewire / Jonno Hill
  Buyers probably wouldn’t be wise to spend more money unless they live a bit further from their signal source and have had trouble with similar antennas in the past. I think that for most people living in cities, the Mohu Leaf 30 TV Antenna should be more than enough.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Mohu Leaf 30 TV Antenna vs Mohu Blade TV Antenna**
@@ -146,18 +146,19 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-4k-clarity-redefined-an-intensive-overview-of-the-dell-p2715q-screen/"><u>[New] In 2024, 4K Clarity Redefined An Intensive Overview of the Dell P2715Q Screen</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-instavid-angle-mystery-vertical-reversals-on-the-rise/"><u>[New] InstaVid Angle Mystery Vertical Reversals on the Rise</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-grand-revelations-in-cinema-trailers/"><u>[Updated] In 2024, Grand Revelations in Cinema Trailers</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-vivo-y78plus-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-limitations-exposed-5-compelling-reasons-against-using-chatgpt-for-health-consultations/"><u>AI Limitations Exposed: 5 Compelling Reasons Against Using ChatGPT for Health Consultations</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-honor-100-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-realme-narzo-n53-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-tecno-spark-20c-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Tecno Spark 20C is off? | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-engaging-audiences-writing-compelling-titles-and-descriptions-for-youtube/"><u>In 2024, Engaging Audiences Writing Compelling Titles and Descriptions for YouTube</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-smart-7-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-samsung-galaxy-a54-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Samsung Galaxy A54 5G Devices | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-winters-chill-and-your-videos-selecting-heated-backdrops/"><u>In 2024, Winter's Chill & Your Videos Selecting Heated Backdrops</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-wallpapers-for-each-windows-11-workspace-element/"><u>Step-by-Step Wallpapers for Each Windows 11 Workspace Element</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-ultimate-combo-visual-and-audio-recorders-for-artists/"><u>[Updated] Ultimate Combo Visual & Audio Recorders for Artists</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-pushing-the-boundaries-with-sony-discovering-4k-on-smartphones/"><u>2024 Approved Pushing the Boundaries with Sony - Discovering 4K on Smartphones</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-poco-x5-pro-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-x8b-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ing-down-the-secrets-of-impactful-asmr-video-creation-for-2024/"><u>Breaking Down the Secrets of Impactful ASMR Video Creation for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-horizontal-lines-on-laptop-screen-quickly-and-easily/"><u>How To Fix Horizontal Lines On Laptop Screen. Quickly & Easily</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-a14-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy A14 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-m34-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-tecno-spark-10-4g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-xiaomi-civi-3-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Xiaomi Civi 3 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-infinix-hot-40-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Infinix Hot 40 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastered-moments-top-tunes-from-googles-platform-for-2024/"><u>Mastered Moments Top Tunes From Google's Platform for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-vivo-y27-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Vivo Y27 5G</u></a></li>
 </ul></div>
 

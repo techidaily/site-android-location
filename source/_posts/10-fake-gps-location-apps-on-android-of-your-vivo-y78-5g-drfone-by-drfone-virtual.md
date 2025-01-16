@@ -1,7 +1,7 @@
 ---
 title: 10 Fake GPS Location Apps on Android Of your Vivo Y78 5G | Dr.fone
-date: 2024-07-29T18:07:53.048Z
-updated: 2024-07-30T18:07:53.048Z
+date: 2025-01-09T04:16:05.744Z
+updated: 2025-01-15T22:47:15.978Z
 tags: 
   - virtual location chang
   - location changer
@@ -54,7 +54,9 @@ It is compatible with almost all location-based apps, including Instagram, Snapc
 
 - Premium version is paid
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Virtual Location
 
@@ -68,9 +70,17 @@ It is compatible with almost all location-based apps, including Instagram, Snapc
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## #2 Mock Locations
 
 ![mock locations fake gps app](https://images.wondershare.com/drfone/article/2022/01/fake-gps-android-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Rating - 3.9**
 
@@ -101,6 +111,10 @@ The best part about this application is that you can use it without the "allow m
 - Can be complicated
 - Incompatible with low-end devices
 - Too basic UI
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## #3 Fake GPS Run
 
@@ -158,9 +172,6 @@ With Fake GPS 360, you can choose any location of your choice on your Vivo Y78 5
 - It May does not work with some apps
 - Ineffective joystick
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## #5 Fake GPS Location by Lexa
 
 ![fake gps location by lexa](https://images.wondershare.com/drfone/article/2022/01/fake-gps-android-5.jpg)
@@ -348,10 +359,6 @@ Now, you know various types of fake GPS apps for Android phones. Choose the one 
 
 If you are looking for a safe and reliable location changer, then use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) . It is the best fake GPS spoofing app to change the location in no time.
 
-
-
-
-
 ## Fake Android Location without Rooting For Your Vivo Y78 5G
 
 [![avatar](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
@@ -361,6 +368,10 @@ Do you like to share your location details to the strangers and unauthenticated 
 You can make use of certain apps in the digital market only if you grant permission to access your location details. In case, if those apps are not reliable then you require an alternative to handle this scenario. GPS spoofing is the right choice to get rid of location accessing issues. In this article, a complete guide on the spoofing techniques discussed after detailed research.
 
 ![GPS spoofing](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Why fake Android GPS/location?
 
@@ -410,6 +421,10 @@ Some websites, which handle media, ban on certain countries for a specific reaso
 
 ![Bypass media blackouts](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: VPN vs. GPS spoofing: Which you need?
 
 It is high time to explore unique effective ways to mock your location on the network. You can establish this strategy in two ways
@@ -424,6 +439,10 @@ The basic concept in GPS spoofing is that you are going to mock GPS Android via 
 All these satellites emit signals continuously with unique coordinate parameters. The smart phones receive those signals along with coordinate details and the math algorithm calculates the location precisely. The coordinate details of the signals depend on the positioning of the satellites on the Earth’s orbit. Here in the GPS spoofing technique mock the coordinate detail of the signals thereby leading to the change in the location.
 
 ![change in the location](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What is a VPN?
 
@@ -441,8 +460,6 @@ The VPN provider will assist you by serving a new IP address to mask your locati
 ### Difference between GPS Spoofing and VPN
 
 <table><tbody><tr><td><strong>Elements to compare</strong></td><td><strong>GPS Spoofing</strong></td><td><strong>VPN</strong></td></tr><tr><td><strong>Tracks location</strong></td><td>Using radio signals</td><td>IP address</td></tr><tr><td><strong>Make use of</strong></td><td>Satellite signals</td><td>Data with letters and numbers</td></tr><tr><td><strong>Spots the Vivo Y78 5G device address</strong></td><td>The signal’s coordinate details</td><td>With unique combinations of numbers and letters</td></tr><tr><td><strong>Spoofing strategy</strong></td><td>Register wrong coordinate details</td><td>VPN provider offers a different set of IP address instead of the original data</td></tr><tr><td><strong>Other features</strong></td><td>Threatens the security systems on the internet and give access to restricted apps and WebPages</td><td>Encrypt data and mask the location details for security purpose.</td></tr></tbody></table>
-
-
 
 ### Dr.Fone - Virtual Location
 
@@ -470,9 +487,6 @@ Step 2: In the next window choose ‘Software Information’
 
 Step 3: Tap on ‘Built Number’ in the preceding screen. This step allows you to access the ‘Developer option’ in the Vivo Y78 5G device
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Developer option](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-11.jpg)
 
 Activate the Mock Location option in Android
@@ -484,6 +498,10 @@ Step 1: Go to the ‘Settings’ option in your Vivo Y78 5G and choose ‘Develo
 Step 2: In the next screen enable the ‘Mock Location’ option to spoof the location details
 
 ![spoof the location details](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You have to install the Fake GPS App, which is available in the Google Play Store. In this article, Lexa Fake GPS app employed to explain the steps in detail.
 
@@ -509,16 +527,10 @@ Step 1: Go to the Google Play store and choose an appropriate VPN provider compa
 
 Step 2: Follow the Wizard and install the VPN Provider
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![install the VPN Provider](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-18.jpg)
 
 Step 3: Open the ‘VPN location Changer’ app
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![VPN location Changer](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-19.jpg)
 
 In the above screenshot, you can infer that there are three tabs displaying ‘Recommended, All and Favorites’ option. These tabs flash the names of the countries around the globe in a well-organized format.
@@ -536,6 +548,10 @@ _**“Every time I launch Pokemon Go, I get the GPS Signal not found 11 error on
 As I read this query posted on an online forum, I realized that so many Pokemon Go players encounter a similar issue. The Pokemon Go GPS not found 11 errors can occur on any Android or iOS device. Since it is a location-based error, there are a couple of ways to fix it without harming your phone. In this post, I will help you overcome the GPS signal not found 11 errors on Android and iOS devices in detail.
 
 ![pokemon gps signal 11 banner](https://images.wondershare.com/drfone/2020/pokemon-gps-signal-11-banner.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Common Reasons for the Pokemon Go GPS not found 11 issues?
 
@@ -560,6 +576,10 @@ The simplest way to fix the Pokemon Go GPS not found 11 issue is by restarting t
 
 ![close pokemon go app](https://images.wondershare.com/drfone/2020/close-pokemon-go-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update or Reinstall the Pokemon Go app
 
 If you are using a corrupt or outdated Pokemon Go app, then you can get the GPS not found 11 error as well. Firstly, you can just go to the App/Play Store, look for Pokemon Go, and update the app.
@@ -568,9 +588,6 @@ If you are using a corrupt or outdated Pokemon Go app, then you can get the GPS 
 
 If you still get the Pokemon Go GPS not found 11 error, then consider deleting the app first. Afterward, go to the App/Play Store again and install the app on your device.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Reset the Location Settings on your phone
 
 Since this is a location-based error, you can also consider resetting the location services on your phone. For this, just go to the Location Services (GPS) settings and toggle it off (and on). You can also go to the notification center and tap on the GPS icon to turn the service off and on again.
@@ -623,7 +640,6 @@ If you use an iOS device and are getting the Pokemon Go GPS signal not found 11 
 
 I’m sure that after reading this troubleshooting post, you would be able to fix the Pokemon Go GPS signal not found 11 error on Android or iOS devices. I have included app and device-related solutions to resolve the GPS not found 11 issues. Though, if it still persists, then you can try [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) (iOS) to manually change the location of your iPhone without jailbreaking it.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -636,11 +652,24 @@ I’m sure that after reading this troubleshooting post, you would be able to fi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-best-webcams-on-windows-10-top-applications-reviewed/"><u>[New] 2024 Approved Best Webcams on Windows 10 Top Applications Reviewed</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-nanocapture-screen-video-review/"><u>[New] 2024 Approved NanoCapture Screen Video Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-samsungs-ue590-4k-gamer-monitor/"><u>[New] Exploring Samsung's UE590 4K Gamer Monitor</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-streamline-your-surf-tips-for-multiple-youtube-views/"><u>[Updated] Streamline Your Surf Tips for Multiple Youtube Views</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-tutorial-for-recording-your-fb-chat-history/"><u>[Updated] The Ultimate Tutorial for Recording Your FB Chat History</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-a15-4g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y56-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oppo-find-n3-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-realme-v30t-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Realme V30T Devices | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-download-and-install-the-best-compatible-canon-mp280-drivers-for-modern-windows-os/"><u>How to Download & Install the Best Compatible Canon MP280 Drivers for Modern Windows OS</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-nokia-105-classic-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-htc-u23-pro-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-f15-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-nokia-105-classic-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Nokia 105 Classic Devices | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-honor-magic-vs-2-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Honor Magic Vs 2?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-ch340g-chip-driver-download-and-update-guide-for-windows-10/"><u>Latest CH340G Chip Driver Download & Update Guide for Windows 10</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-what-is-an-ai-art-generator/"><u>Updated What Is an AI Art Generator?</u></a></li>
+</ul></div>
 

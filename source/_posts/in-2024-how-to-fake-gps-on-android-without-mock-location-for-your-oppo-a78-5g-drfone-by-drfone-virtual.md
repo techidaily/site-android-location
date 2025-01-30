@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fake GPS on Android without Mock Location For your Oppo A78 5G | Dr.fone
-date: 2025-01-17T22:41:50.688Z
-updated: 2025-01-22T05:50:32.905Z
+date: 2025-01-25T23:13:20.525Z
+updated: 2025-01-29T19:27:30.555Z
 tags: 
   - virtual location chang
   - location changer
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 Almost all Android phones feature an application that allows third-party apps to track your exact GPS location. However, for some reason, users usually don’t like this feature because they don’t want apps to reveal their precise location. Sometimes, users want to stop sharing any location on apps, or you might want to access an unavailable app in your country. This is a common reason why most people want to fake their location. While there’s a mock location feature on most devices, you can also **fake GPS without mock location**. This simple guide teaches you exactly how to do that with different methods.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: What Is the Mock Location?
@@ -64,17 +64,13 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 This would change your location automatically, and you’re ready to access third-party apps without compromising your location.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: Using Fake Location Apps to Fake GPS Without Mock Location
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Fake Location App
 
@@ -87,7 +83,7 @@ This fake location app allows you to switch locations easily. Therefore, it is a
 ![use fake gps location](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2:** After installation, select this app as your mock location app on your phone by exploring your device settings. Go to developer options on your Oppo A78 5G and tap on "Select mock location app". The next step is to choose Fake GPS Location from the displayed option.
@@ -100,21 +96,17 @@ _**App Link:** <https://play.google.com/store/apps/details?id=com.lexa.fakegps&h
 
 ![use floater fake gps location](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 This is another effective fake GPS app that you can use to fake GPS. It works as a floating window above games and third-party apps. With Floater, you can change your location to a place globally. Additionally, you can save your favorite locations and test apps without locking onto a GPS signal. This feature is great for developers. Additionally, Floater can fake GPS location when you’re tagging pictures. It shows you any part of the world you want so you can pick where you want people to think you are.
 
 _**App Link:** <https://play.google.com/store/apps/details?id=com.marlon.floating.fake.location&hl=en>_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Fake GPS Location with GPS Joystick
 
 ![use fake location with gps joystick](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Many people love this app because it doesn’t require users to root their devices. The app comes with a virtual joystick you can use to change location on the screen. However, if you want to get the best result with this app, you should set it to ‘High Accuracy.’ The joystick is available for instant changing of location, and this app is compatible with Android 4.0 and higher. It is the best option if you’re looking for a convenient app that gives the best of what you’re looking for.
 
@@ -152,6 +144,10 @@ _You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https:
 
 Accessing the mock location feature on different Android models isn’t always easy. However, this section will provide insight into enabling mock location on your Oppo A78 5G.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Samsung and Moto
 
 Accessing the mock location feature on your Samsung or Moto device is relatively easy. First, you have to visit the ‘Developer Options’ page and navigate the ‘debugging’ option.
@@ -169,10 +165,6 @@ Another device you can access the mock location on again is the LG Smartphone de
 Xiaomi devices don’t use build numbers. They work with MIUI numbers. So to enable the mock location feature on your Xiaomi device, you must first tap on the MIUI number. You can locate this number by visiting ‘settings’ and selecting ‘About Phone’ on the list of options. Once you tap on the number, you will see the ‘Allow Mock Location Apk’ option.
 
 ![locate mock location on xiaomi](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Huawei
 
@@ -194,15 +186,15 @@ Rooting devices have an increased susceptibility to malware attacks. Modifying t
 
 If you think the way above is complicated for you, you can just use the easiest way: using Dr.Fone - Virtual Location (GPS Changer) as introduced in [Part 2](https://drfone.wondershare.com/fake-location/fake-gps-android-without-mock-location.html#Part2).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 There are varying purposes why you might want to fake your location. Luckily, several apps are available to **fake GPS on Android without mock location**. The best option for you would be the [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With this fake location app, you can access any third-party app and be in a whole different country from the comfort of your home. However, this article also provides you with other options you can explore.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo A78 5G
 
@@ -337,7 +329,7 @@ To know more, visit <http://mobistealth.com/parental-control-software>
 ![Free Android Monitoring App-MobiStealth Android Monitoring Software](https://images.wondershare.com/drfone/article/2017/10/15081788729534.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Features:**
@@ -458,10 +450,6 @@ To know more, visit <https://www.myfonemate.com>
 
 ![Free Android Monitoring App-The TruthSpy](https://images.wondershare.com/drfone/article/2017/10/15081790103122.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Features:**
 
 Easy to configure and set up.
@@ -481,6 +469,10 @@ Access App data including Facebook and WhatsApp.
 Users complain that the App hangs and quits abruptly.
 
 We hope you find this guide useful. The tools listed above are the best phone monitoring Apps for Android. Carefully analyze the features, pros and cons of all the Android monitors and use them to suit your needs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo A78 5G
 
@@ -512,6 +504,10 @@ As I have listed above, the Pokemon Go GPS not found 11 problem can arise due to
 The simplest way to fix the Pokemon Go GPS not found 11 issue is by restarting the game. If the app has not been loaded properly, then it would resolve this problem. All you need to do is tap on the app switcher button on your device to view all the apps running in the background. From here, swipe the Pokemon Go card to stop it from running. Afterward, restart the app and check if it would fix the GPS signal not found 11 Pokemon Go issue.
 
 ![close pokemon go app](https://images.wondershare.com/drfone/2020/close-pokemon-go-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update or Reinstall the Pokemon Go app
 
@@ -548,6 +544,10 @@ If there is a network-related problem causing the GPS not found 11 error, then y
 ![android airplane mode](https://images.wondershare.com/drfone/2020/android-airplane-mode.jpg)
 
 This will automatically turn off its networks (like cellular data). Now, wait for a while, and turn off the Airplane mode to resolve the GPS not found 11 problems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Reset Network Settings on your Phone
 
@@ -587,22 +587,16 @@ I’m sure that after reading this troubleshooting post, you would be able to fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-transitioning-from-fbx-to-advanced-gametime-loggers/"><u>[Updated] 2024 Approved Transitioning From FBX to Advanced Gametime Loggers</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-motorola-g54-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-motorola-moto-g84-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-realme-gt-5-240w-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Realme GT 5 (240W) | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-x90s-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-poco-c55-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/comment-recuperer-et-restaurer-les-fichiers-endommages-sur-votre-playstation-4/"><u>Comment Récupérer Et Restaurer Les Fichiers Endommagés Sur Votre PlayStation 4 ?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722974925461-download-amd-radeon-hd-graphics-driver-for-windows-7-latest-version-available/"><u>Download AMD Radeon HD Graphics Driver for Windows 7 - Latest Version Available</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-most-recent-canon-mg3022-printer-drivers-for-optimal-performance/"><u>Get the Most Recent Canon MG3022 Printer Drivers for Optimal Performance</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-sony-xperia-1-v-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-tecno-spark-20-pro-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Tecno Spark 20 Pro Location Settings | Dr.fone</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/resolving-the-grey-screen-error-while-editing-pages-on-flipprogram-expert-solutions/"><u>Resolving the Grey Screen Error While Editing Pages on FlipProgram - Expert Solutions</u></a></li>
-<li><a href="https://ai-video.techidaily.com/toms-tech-gear-expert-insights-on-computer-hardware/"><u>Tom's Tech Gear: Expert Insights on Computer Hardware</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1727792471288-top-rated-childrens-tablets-as-endorsed-by-parents-insights-from-zdnet/"><u>Top-Rated Children’s Tablets as Endorsed by Parents - Insights From ZDNet</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unleashing-the-power-of-subtitles-discover-the-top-8-efficient-convertors-to-srt-on-windowsmacosx/"><u>Unleashing the Power of Subtitles - Discover The Top 8 Efficient Convertors to SRT on Windows/MacOSX</u></a></li>
-<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-elevate-your-chat-with-discord-recording-techniques/"><u>[New] 2024 Approved Elevate Your Chat with Discord Recording Techniques</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-ultimate-gameplay-modifications-in-terraria/"><u>[New] In 2024, Ultimate Gameplay Modifications in Terraria</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-xiaomi-13t-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-guide-to-the-best-10-cost-free-photo-hosters/"><u>2024 Approved Ultimate Guide to the Best 10 Cost-Free Photo Hosters</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mp3-3gp-movavi/"><u>免費直接下載 MP3 到 3GP 格式 - 使用Movavi傳送機</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-v29-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-note-12r-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-tecno-spark-20c-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-oppo-a78-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/innovative-windows-10-cameras-unveiled-for-2024/"><u>Innovative Windows 10 Cameras Unveiled for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/online-free-converter-convert-aifc-to-m4a-format-with-movavi/"><u>Online Free Converter - Convert AIFC to M4A Format with Movavi</u></a></li>
 </ul></div>
 

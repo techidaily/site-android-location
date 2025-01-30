@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fake GPS on Android without Mock Location For your Nokia 105 Classic | Dr.fone
-date: 2025-01-17T23:15:00.760Z
-updated: 2025-01-22T03:23:53.170Z
+date: 2025-01-22T22:30:05.667Z
+updated: 2025-01-29T22:55:52.571Z
 tags: 
   - virtual location chang
   - location changer
@@ -52,10 +52,6 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** A world map with 5 modes at the side will appear; you can choose an option to proceed. There’s the teleport, two-stop, and multi-stop mode for you to choose from to fake location without developer options. Here we take the teleport mode as an example.
 
 ![choose destination](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
@@ -63,6 +59,10 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 **Step 4:** After choosing an option, search for your preferred location in the search bar and press "Go" once you find it.
 
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This would change your location automatically, and you’re ready to access third-party apps without compromising your location.
 
@@ -83,10 +83,6 @@ This fake location app allows you to switch locations easily. Therefore, it is a
 **Step 3:** To spoof your location, launch the app and search for the location you would like. When it pops up, select it, and automatically, the app will change your location to the new location.
 
 _**App Link:** <https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en\_US>_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Fake Location Using Floater
 
@@ -112,6 +108,10 @@ Mock Locations is a mobile app that allows you to simulate a different location 
 
 _**App Link:** <https://play.google.com/store/apps/details?id=ru.gavrikov.mocklocations&hl=en>_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. GPS Emulator
 
 GPS Emulator is a mobile app that allows users to simulate GPS locations on their device. The app is designed for developers to test location-based applications or for users to spoof their location for privacy reasons. It allows users to set a custom location or follow a pre-defined path, and supports multiple GPS signals for increased accuracy. The app is available for both Android and iOS devices, and can be used without rooting or jailbreaking the Nokia 105 Classic device. It's important to use the app responsibly and not to violate any laws or regulations, as it can be misused for malicious purposes such as cheating in games or misrepresenting your location on dating apps.
@@ -135,10 +135,6 @@ _You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https:
 ## Part 4: Mock Location Feature on Different Android Models
 
 Accessing the mock location feature on different Android models isn’t always easy. However, this section will provide insight into enabling mock location on your Nokia 105 Classic.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Samsung and Moto
 
@@ -177,6 +173,10 @@ Rooting devices have an increased susceptibility to malware attacks. Modifying t
 - **7\. Test the New Location:** Open any location-based app or service that relies on GPS, such as a dating app or mapping app, to see if the new location is being used. The app should display the spoofed location instead of your actual GPS location.
 
 If you think the way above is complicated for you, you can just use the easiest way: using Dr.Fone - Virtual Location (GPS Changer) as introduced in [Part 2](https://drfone.wondershare.com/fake-location/fake-gps-android-without-mock-location.html#Part2).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -230,10 +230,14 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This would change your location automatically, and you’re ready to access third-party apps without compromising your location.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Using Fake Location Apps to Fake GPS Without Mock Location
@@ -247,6 +251,10 @@ This fake location app allows you to switch locations easily. Therefore, it is a
 **Step 1:** Download the Fake GPS Location app from the Google Play Store on your Nokia 105 Classic. Use the search bar, and it will pop up amongst the search results.
 
 ![use fake gps location](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** After installation, select this app as your mock location app on your phone by exploring your device settings. Go to developer options on your Nokia 105 Classic and tap on "Select mock location app". The next step is to choose Fake GPS Location from the displayed option.
 
@@ -265,10 +273,6 @@ _**App Link:** <https://play.google.com/store/apps/details?id=com.marlon.floatin
 ### 3\. Fake GPS Location with GPS Joystick
 
 ![use fake location with gps joystick](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Many people love this app because it doesn’t require users to root their devices. The app comes with a virtual joystick you can use to change location on the screen. However, if you want to get the best result with this app, you should set it to ‘High Accuracy.’ The joystick is available for instant changing of location, and this app is compatible with Android 4.0 and higher. It is the best option if you’re looking for a convenient app that gives the best of what you’re looking for.
 
@@ -291,16 +295,12 @@ GPS Emulator is a mobile app that allows users to simulate GPS locations on thei
 _**App Link:** <https://play.google.com/store/apps/details?id=com.rosteam.gpsemulator&hl=en\_US>_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Fake GPS Pro
 
 ![fake gps location app](https://images.wondershare.com/drfone/article/2023/05/how-to-fake-gps-android-without-mock-location.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 By utilizing the Fake GPS location, you can bypass the geographical restrictions imposed by your dating apps, effortlessly altering your location to discover new connections on any location-based social network. And you can also change the location to protect your privacy.
 
@@ -315,7 +315,7 @@ _You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https:
 Accessing the mock location feature on different Android models isn’t always easy. However, this section will provide insight into enabling mock location on your Nokia 105 Classic.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Samsung and Moto
@@ -323,10 +323,6 @@ Accessing the mock location feature on different Android models isn’t always e
 Accessing the mock location feature on your Samsung or Moto device is relatively easy. First, you have to visit the ‘Developer Options’ page and navigate the ‘debugging’ option.
 
 ![locate mock location on samsung](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. LG
 
@@ -481,10 +477,6 @@ For rooted phones, you can fake locations without enabling "Allow mock locations
 - Contains ads
 - Lack of advanced features
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## #4 Fake GPS 360
 
 ![fake gps 360 app](https://images.wondershare.com/drfone/article/2022/01/fake-gps-android-4.jpg)
@@ -515,6 +507,10 @@ With Fake GPS 360, you can choose any location of your choice on your Nokia 105 
 ## #5 Fake GPS Location by Lexa
 
 ![fake gps location by lexa](https://images.wondershare.com/drfone/article/2022/01/fake-gps-android-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Rating – 4.6**
 
@@ -572,6 +568,10 @@ You can also use the location changer to find new people on dating apps like Tin
 
 - In-app Ads
 - It can be detected by other apps
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## #7 Fake GPS Location Spoofer
 
@@ -713,24 +713,17 @@ If you are looking for a safe and reliable location changer, then use [Dr.Fone -
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-kinja-celebs-chatting-via-snapchat/"><u>[New] 2024 Approved Kinja Celebs Chatting via Snapchat</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-explore-the-finest-cost-free-videocalling-platforms/"><u>[New] In 2024, Explore the Finest Cost-Free Videocalling Platforms</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-maximizing-video-clarity-in-twitter-feed/"><u>[New] In 2024, Maximizing Video Clarity in Twitter Feed</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-smallscope-snag-watch-reviews/"><u>[Updated] In 2024, SmallScope Snag Watch Reviews</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-a25-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-xiaomi-redmi-a2plus-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-androids-prime-collage-app-selection-overview/"><u>2024 Approved Android's Prime Collage App Selection Overview</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/eate-content-to-maximize-youtube-follower-count-for-2024/"><u>Co-Create Content to Maximize YouTube Follower Count for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-motorola-edge-40-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-poco-x6-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oneplus-11r-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-find-x7-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-best-on-the-water-fishings-top-5-action-cameras/"><u>In 2024, Best on the Water Fishing's Top 5 Action Cameras</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-discovering-the-immersive-world-of-lg-27ud68/"><u>In 2024, Discovering the Immersive World of LG 27UD68</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-vivo-y55s-5g-2023-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-itel-p40-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Itel P40 Devices | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-samsung-galaxy-s23-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-how-to-translate-tiktok-videos-all-you-want-to-know/"><u>In 2024, How to Translate TikTok Videos? All You Want to Know</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-online-dailymotion-converter-convert-videos-in-seconds/"><u>Updated 2024 Approved Online Dailymotion Converter Convert Videos in Seconds</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-innovating-interaction-beyond-vidcon-conclaves-for-2024/"><u>[Updated] Innovating Interaction Beyond VidCon Conclaves for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oppo-a78-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-magic-6-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor Magic 6 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-the-error-when-cygwin1dll-file-is-absent-or-undetected/"><u>Fixing The Error When Cygwin1.dll File Is Absent or Undetected</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-lava-yuva-2-pro-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-samsung-galaxy-m34-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Samsung Galaxy M34 online without jailbreak</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Ways to Change Spotify Location On Your Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-y36i-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo Y36i Location Settings | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-the-ultimate-10-step-plan-thriving-in-social-media-management/"><u>In 2024, The Ultimate 10-Step Plan Thriving in Social Media Management</u></a></li>
+<li><a href="https://driver-install.techidaily.com/maximize-performance-windows-10-thinkpad-driver-upgrade/"><u>Maximize Performance: Windows 10 Thinkpad Driver Upgrade</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/solutions-facilement-accessibles-pour-les-difficultes-de-lecture-des-dvd-et-disques-sur-votre-playstation-4/"><u>Solutions Facilement Accessibles Pour Les Difficultés De Lecture Des DVD Et Disques Sur Votre PlayStation 4</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tips-for-writing-irresistible-podcast-intros/"><u>Tips for Writing Irresistible Podcast Intros</u></a></li>
 </ul></div>
 

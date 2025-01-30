@@ -1,7 +1,7 @@
 ---
 title: China's Homegrown CPU Success Story - Featuring Lenovo's Cutting-Edge Computer Lineup and Four Additional OEM Partners
-date: 2025-01-18T11:39:59.138Z
-updated: 2025-01-22T01:05:19.639Z
+date: 2025-01-26T00:27:42.130Z
+updated: 2025-01-29T20:32:22.843Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,16 +78,14 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-boosting-earning-potential-on-youtube-shorts/"><u>[New] Boosting Earning Potential on YouTube Shorts</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-a-step-by-step-guide-to-dominating-the-youtube-viewership-game/"><u>[New] In 2024, A Step-by-Step Guide to Dominating the YouTube Viewership Game</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-taking-your-reels-up-a-notch-with-these-top-editors/"><u>[New] In 2024, Taking Your Reels Up a Notch with These Top Editors</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-premier-windows-8-audio-shows/"><u>[Updated] Premier Windows 8 Audio Shows</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y56-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo Y56 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-advice-best-mobile-melody-crafters/"><u>2024 Approved Expert Advice Best Mobile Melody Crafters</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nokia-xr21-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-motorola-moto-g-stylus-5g-2023-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Moto G Stylus 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-honor-magic5-ultimate-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-samsung-galaxy-a14-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Samsung Galaxy A14 5G Phone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-vivo-y100-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flixfusion-the-ultimate-gaming-channel-mix-for-2024/"><u>[New] FlixFusion The Ultimate Gaming Channel Mix for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-peak-performance-packages-best-converters-for-srt-systems-on-macwin-for-2024/"><u>[New] Peak Performance Packages Best Converters for SRT Systems on Mac/Win for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-sunshine-strategies-enhancing-indoor-luminary-quality-for-2024/"><u>[Updated] Sunshine Strategies Enhancing Indoor Luminary Quality for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oneplus-nord-3-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-tecno-camon-20-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oneplus-ace-2-pro-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-editing-techniques-for-final-cut-pro-professionals/"><u>In 2024, Ultimate Editing Techniques for Final Cut Pro Professionals</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-beginners-guide-to-amazonbasics-tripods/"><u>The Ultimate Beginner's Guide to AmazonBasics Tripods</u></a></li>
 </ul></div>
 

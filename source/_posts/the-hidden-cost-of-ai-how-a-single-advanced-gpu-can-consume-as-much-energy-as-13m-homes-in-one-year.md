@@ -1,7 +1,7 @@
 ---
 title: "The Hidden Cost of AI: How a Single Advanced GPU Can Consume as Much Energy As 1.3M Homes in One Year"
-date: 2025-01-16T11:33:33.598Z
-updated: 2025-01-21T19:49:38.239Z
+date: 2025-01-25T20:59:39.748Z
+updated: 2025-01-29T21:29:14.966Z
 tags:
   - desktop
 categories:
@@ -55,7 +55,7 @@ __Ayaneo Retro Mini PC AM01 Specification__
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -81,22 +81,20 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-counteract-fake-views-boosting-genuine-audience-size-for-2024/"><u>[New] Counteract Fake Views Boosting Genuine Audience Size for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-monetizing-mastery-harness-the-power-of-your-youtube-content-on-mobile/"><u>[New] Monetizing Mastery Harness the Power of Your YouTube Content on Mobile</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-sony-xperia-5-v-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-a05-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy A05 | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/aligning-backups-fix-desktop-upside-down/"><u>Aligning Backups: Fix Desktop Upside Down</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/capture-and-save-the-essentials-of-pc-display-recordings/"><u>Capture & Save The Essentials of PC Display Recordings</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-meizu-21-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Meizu 21 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-oneplus-nord-ce-3-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your OnePlus Nord CE 3 5G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-poco-x6-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-v30-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-samsung-galaxy-s24-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-itel-a05s-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Itel A05s Location Settings | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/learn-how-to-optimize-your-screen-record-with-screencastify-for-2024/"><u>Learn How to Optimize Your Screen Record with Screencastify for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/monitor-doesnt-recognize-full-screen-windows-11/"><u>Monitor Doesn't Recognize Full-Screen Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/whats-new-in-mozilla-thunderbird-update-discover-version-nkib/"><u>What's New in Mozilla Thunderbird Update - Discover Version Nkib</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-beginner-friendly-approach-to-iphone-screen-casts-for-2024/"><u>[New] Beginner-Friendly Approach to Iphone Screen Casts for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-link-zoom-calls-to-iphoneandroid-events-seamlessly/"><u>[New] Link Zoom Calls to iPhone/Android Events Seamlessly</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-honor-magic-6-lite-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/compreenasive-look-the-new-era-of-vr-cams-by-samsung-for-2024/"><u>Compreenasive Look The New Era of VR Cams by Samsung for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-13t-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-hp-wireless-button-driver-issues-on-windows-11/"><u>Fixed: HP Wireless Button Driver Issues on Windows 11</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oneplus-ace-3-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on OnePlus Ace 3 Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-honor-play-8t-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Honor Play 8T Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-s24plus-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-honor-magic-5-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-y100-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-nokia-c12-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP on Nokia C12 Pro?</u></a></li>
+<li><a href="https://facebook.techidaily.com/leveraging-facebook-for-professional-engagement-and-growth/"><u>Leveraging Facebook for Professional Engagement & Growth</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/shooting-through-the-cosmos-unveiling-the-outer-worlds-engaging-science-fiction-tale/"><u>Shooting Through the Cosmos: Unveiling The Outer Worlds - Engaging Science Fiction Tale</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/wtv-a-avi-conversione-gratuita-e-on-line-con-convertitore-di-file-video-fast/"><u>WTV a AVI: Conversione Gratuita E On-Line Con Convertitore Di File Video Fast</u></a></li>
 </ul></div>
 

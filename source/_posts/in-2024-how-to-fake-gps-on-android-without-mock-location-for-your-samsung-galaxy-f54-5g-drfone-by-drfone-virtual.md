@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fake GPS on Android without Mock Location For your Samsung Galaxy F54 5G | Dr.fone
-date: 2025-01-16T21:36:12.654Z
-updated: 2025-01-22T09:02:41.572Z
+date: 2025-01-24T23:03:47.334Z
+updated: 2025-01-29T20:46:17.380Z
 tags: 
   - virtual location chang
   - location changer
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2
 ## How to Fake GPS on Android without Mock Location For your Samsung Galaxy F54 5G
 
 Almost all Android phones feature an application that allows third-party apps to track your exact GPS location. However, for some reason, users usually don’t like this feature because they don’t want apps to reveal their precise location. Sometimes, users want to stop sharing any location on apps, or you might want to access an unavailable app in your country. This is a common reason why most people want to fake their location. While there’s a mock location feature on most devices, you can also **fake GPS without mock location**. This simple guide teaches you exactly how to do that with different methods.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: What Is the Mock Location?
 
@@ -56,6 +52,10 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** A world map with 5 modes at the side will appear; you can choose an option to proceed. There’s the teleport, two-stop, and multi-stop mode for you to choose from to fake location without developer options. Here we take the teleport mode as an example.
 
 ![choose destination](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
@@ -83,6 +83,10 @@ This fake location app allows you to switch locations easily. Therefore, it is a
 **Step 3:** To spoof your location, launch the app and search for the location you would like. When it pops up, select it, and automatically, the app will change your location to the new location.
 
 _**App Link:** <https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en\_US>_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Fake Location Using Floater
 
@@ -120,6 +124,10 @@ _**App Link:** <https://play.google.com/store/apps/details?id=com.rosteam.gpsemu
 
 ![fake gps location app](https://images.wondershare.com/drfone/article/2023/05/how-to-fake-gps-android-without-mock-location.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 By utilizing the Fake GPS location, you can bypass the geographical restrictions imposed by your dating apps, effortlessly altering your location to discover new connections on any location-based social network. And you can also change the location to protect your privacy.
 
 _**App Link:** <https://play.google.com/store/apps/details?id=com.gsmartstudio.fakegps&hl=en\_US>_
@@ -138,10 +146,6 @@ Accessing the mock location feature on your Samsung or Moto device is relatively
 
 ![locate mock location on samsung](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. LG
 
 Another device you can access the mock location on again is the LG Smartphone device. On this device, you should also navigate to ‘Developer Options.’ Next, choose ‘allow mock location to continue.
@@ -155,7 +159,7 @@ Xiaomi devices don’t use build numbers. They work with MIUI numbers. So to ena
 ![locate mock location on xiaomi](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Huawei
@@ -191,6 +195,10 @@ Have you ever wondered why Android monitor tools exist? Well, with the recent bo
 Also, to track the real location of kids/spouses/employees, phone monitoring Apps for Android come in handy. Android monitoring Apps help you spy on others’ smartphones, hack their photos, messages, call logs, Social App data, location, and browsing patterns. To know more, read and find out about the 9 best and free Android monitoring Apps.
 
 _You may be interested in: [Top 21 Mobile Device Spy Apps for iPhone/iPad/Android in 2022](https://drfone.wondershare.com/spy/best-mobile-spy-apps.html) _
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: mSpy
 
@@ -259,6 +267,10 @@ Children tracker Android monitoring App is a parental control app to find out th
 To know more, visit <https://play.google.com/store/apps/details?id=com.faisalayaz.ChildrenTracking&hl=en>
 
 ![Free Android Monitoring App-Children Tracker](https://images.wondershare.com/drfone/article/2017/10/15081788113159.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Features:**
 
@@ -338,10 +350,6 @@ Users cannot block calls remotely.
 
 Lacks demo guidelines.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 6: Track it
 
 Phone monitoring apps for Android are many and Track it is one of them. It is essentially a call, SMS, and data monitoring tool to bar and monitor logs remotely. It turns Android into a tracking device and allows you to view the locations of registered devices in your account. Helps locate a lost device and prevent misuse and misplacing of Android.
@@ -349,6 +357,10 @@ Phone monitoring apps for Android are many and Track it is one of them. It is es
 To know more, visit <https://play.google.com/store/apps/details?id=com.perfectapps.trackit&hl=en>
 
 ![Free Android Monitoring App-Track it](https://images.wondershare.com/drfone/article/2017/10/15082187024926.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Features:**
 
@@ -371,10 +383,6 @@ Helps to bar Viber calls.
 Lacks features to track social media activities.
 
 Redundant when it comes to location tracking.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 7: iSpyoo
 
@@ -434,10 +442,6 @@ This App contains ads.
 
 Social media calls cannot be recorded.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 9: The Fonemate Spy
 
 This Android monitoring App is a reliable spy tool and has a feature-laden interface to track, spy on, and hack other people’s Android smartphones. It makes it easy to monitor and spy on Android devices and comes with an easy installation process. Just download/install the App, monitor target Android via CPanel, and then purchase the App in 48 hours.
@@ -445,6 +449,10 @@ This Android monitoring App is a reliable spy tool and has a feature-laden inter
 To know more, visit <https://www.myfonemate.com>
 
 ![Free Android Monitoring App-The TruthSpy](https://images.wondershare.com/drfone/article/2017/10/15081790103122.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Features:**
 
@@ -465,10 +473,6 @@ Access App data including Facebook and WhatsApp.
 Users complain that the App hangs and quits abruptly.
 
 We hope you find this guide useful. The tools listed above are the best phone monitoring Apps for Android. Carefully analyze the features, pros and cons of all the Android monitors and use them to suit your needs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## For People Wanting to Mock GPS on Samsung Galaxy F54 5G Devices
 
@@ -531,10 +535,6 @@ Last, but most importantly, check the feedback and the real-life experience of o
 
 ![affected apps](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: Step by Step Guide to Mock GPS on Samsung Galaxy F54 5G
 
 Now when you are all prepped-up, you can easily learn how to mock GPS on a Samsung  phone. As stated above, the fake or mock GPS feature is only enabled in Developer Options on the Samsung Galaxy F54 5G device. Thus, you need to first turn on your Samsung ’s Developer Options and later pick a mock GPS app to fake the current location on your device. Here’s how you can fake location or mock GPS on your Samsung  phone:
@@ -549,10 +549,6 @@ Once the Developer Options feature is enabled, go to your phone’s settings and
 
 ![mock location field](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Install and Allow a Mock GPS App
 
 Now, go to the Play Store app on your phone and look for a mock GPS app. I have tried and tested the Fake GPS Location app by Lexa. If you want, you can install the same freely available mock GPS app or try any other app as well.
@@ -560,7 +556,7 @@ Now, go to the Play Store app on your phone and look for a mock GPS app. I have 
 ![mock GPS app](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After successfully installing the mock GPS apk on your Samsung , go back to its Settings > Developer Options > Mock Location app and select the fake GPS location app that you have recently downloaded. This will allow the mock GPS app to change the location of your device.
@@ -572,6 +568,10 @@ Step 3: Fake location on your Samsung
 That’s it! Once you have granted the needed permission to the mock GPS app, you can easily use it to change the location of your device. Just launch the app to get a map-like interface. You can zoom in and out the map or just look for any location on the search bar. In the end, drop the pin on any location and tap on the start button to fake your location.
 
 ![confirm to fake your location](https://images.wondershare.com/drfone/article/2019/09/mock-gps-on-samsung-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Later, you can go back to the app and stop the fake location to switch back to your original location whenever you want.
 
@@ -603,19 +603,17 @@ There you go! After reading this guide, you would be able to mock GPS on your Sa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-upgrading-twitter-video-fidelity-to-4k/"><u>[New] In 2024, Upgrading Twitter Video Fidelity to 4K</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-best-7-multimedia-cameras-for-quality-live-streams-and-video-blogs/"><u>[Updated] 2024 Approved Best 7 Multimedia Cameras For Quality Live Streams & Video Blogs</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-husqvarnas-sky-high-adventure-with-h501s-x4-review-for-2024/"><u>[Updated] Husqvarna's Sky-High Adventure with H501S X4 Review for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-pc-and-android-strategies-for-optimized-facebook-video-uploads/"><u>[Updated] PC & Android Strategies for Optimized Facebook Video Uploads</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-itel-a60-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-s17t-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-x90s-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo X90S Location Settings | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-xiaomi-14-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-vivo-y27-4g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Vivo Y27 4G Devices | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-tecno-pova-5-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-eliminate-youtube-short-headaches-with-these-tips/"><u>In 2024, Eliminate YouTube Short Headaches with These Tips</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-oppo-a2-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/leading-live-tv-streams-combo-of-global-and-locals/"><u>Leading Live TV Streams Combo of Global and Locals</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-iphone-8-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From iPhone 8 You Should Try Out</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ll-you-need-to-know-about-the-youtube-shorts-fund-for-2024/"><u>[New] All You Need to Know About the YouTube Shorts Fund for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-top-10-vector-graphics-tools-to-shape-your-creative-vision/"><u>[Updated] 2024 Approved Top 10 Vector Graphics Tools to Shape Your Creative Vision</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nokia-130-music-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oneplus-nord-3-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-x100-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-most-exciting-innovations-on-day-2-of-ces-2023-with-insights/"><u>Discover the Most Exciting Innovations on Day 2 of CES 2023 with Insights</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-how-to-obtain-the-official-epson-xp-330-printer-drivers-today/"><u>Easy Installation: How to Obtain the Official Epson XP-330 Printer Drivers Today!</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-oneplus-11-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-smart-8-plus-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-selection-of-premium-smartwatches-for-2n24/"><u>The Ultimate Selection of Premium Smartwatches for 2N24</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/top-rated-mkv-to-dvd-conversion-software-for-pc/"><u>Top Rated MKV to DVD Conversion Software for PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-fix-issues-when-battlefield-4-wont-start-on-desktop-computers/"><u>Troubleshooting Guide: Fix Issues When Battlefield 4 Won't Start on Desktop Computers</u></a></li>
 </ul></div>
 

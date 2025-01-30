@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fake GPS on Android without Mock Location For your Xiaomi Redmi Note 12R | Dr.fone
-date: 2025-01-14T20:38:54.736Z
-updated: 2025-01-21T23:36:42.358Z
+date: 2025-01-25T21:41:36.759Z
+updated: 2025-01-29T21:10:09.550Z
 tags: 
   - virtual location chang
   - location changer
@@ -62,10 +62,6 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 
 This would change your location automatically, and you’re ready to access third-party apps without compromising your location.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: Using Fake Location Apps to Fake GPS Without Mock Location
 
 ### 1\. Fake Location App
@@ -77,6 +73,10 @@ This fake location app allows you to switch locations easily. Therefore, it is a
 **Step 1:** Download the Fake GPS Location app from the Google Play Store on your Xiaomi Redmi Note 12R. Use the search bar, and it will pop up amongst the search results.
 
 ![use fake gps location](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** After installation, select this app as your mock location app on your phone by exploring your device settings. Go to developer options on your Xiaomi Redmi Note 12R and tap on "Select mock location app". The next step is to choose Fake GPS Location from the displayed option.
 
@@ -128,6 +128,10 @@ _**Tips:** Discover the most effective way to fake GPS on Android without using 
 
 _You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html) _
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Mock Location Feature on Different Android Models
 
 Accessing the mock location feature on different Android models isn’t always easy. However, this section will provide insight into enabling mock location on your Xiaomi Redmi Note 12R.
@@ -144,19 +148,11 @@ Another device you can access the mock location on again is the LG Smartphone de
 
 ![locate mock location on lg](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Xiaomi
 
 Xiaomi devices don’t use build numbers. They work with MIUI numbers. So to enable the mock location feature on your Xiaomi device, you must first tap on the MIUI number. You can locate this number by visiting ‘settings’ and selecting ‘About Phone’ on the list of options. Once you tap on the number, you will see the ‘Allow Mock Location Apk’ option.
 
 ![locate mock location on xiaomi](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Huawei
 
@@ -178,15 +174,15 @@ Rooting devices have an increased susceptibility to malware attacks. Modifying t
 
 If you think the way above is complicated for you, you can just use the easiest way: using Dr.Fone - Virtual Location (GPS Changer) as introduced in [Part 2](https://drfone.wondershare.com/fake-location/fake-gps-android-without-mock-location.html#Part2).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 There are varying purposes why you might want to fake your location. Luckily, several apps are available to **fake GPS on Android without mock location**. The best option for you would be the [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With this fake location app, you can access any third-party app and be in a whole different country from the comfort of your home. However, this article also provides you with other options you can explore.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fake Android Location without Rooting For Your Xiaomi Redmi Note 12R
 
@@ -209,6 +205,10 @@ What are the benefits of a fake Android location? There is a need to [fake the G
 
 ![fake GPS for Android location](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The location-based apps are available below and learn how to make use of the spoofing techniques to establish a fake curtain on your location details.
 
 - Pokemon Go
@@ -223,10 +223,6 @@ It is one of the finest and trending game app for the current generation kids. T
 Using the GPS spoofing techniques you can fake the GPS feature and play the game on your favourite place around the globe without travelling in reality. You can play the game on the American location by moving around in Japan. Thereby you can capture a lot of Pokemon in no time.
 
 ![GPS spoofing for Pokemon Go](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Social apps like Instagram/Snapchat/Facebook
 
@@ -244,6 +240,10 @@ If you are residing in a small country then you will get exhausted after surfing
 
 ![location spoofing on tinder](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Bypass media blackouts
 
 Some websites, which handle media, ban on certain countries for a specific reason. If you are residing in the blocked regions then fake GPS Android option greatly helps you to access those media effortlessly. Some sports broadcasting platform blackout the streaming on particular regions like the UK, Russia, and Japan etc. Enjoy and have fun with media data despite location constraints using fake GPS option.
@@ -251,7 +251,7 @@ Some websites, which handle media, ban on certain countries for a specific reaso
 ![Bypass media blackouts](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: VPN vs. GPS spoofing: Which you need?
@@ -281,6 +281,10 @@ It is a Virtual Private Network and used for ages related to security needs. Thi
 The VPN provider will assist you by serving a new IP address to mask your location. The IP address (Internet Protocol) is a combination of numerals and alphabets separated by colon indicating the location of your device over the network. The original address is replaced with a new one directing to another location on the internet.
 
 ![IP address to mask your location](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Difference between GPS Spoofing and VPN
 
@@ -359,7 +363,7 @@ In the above screenshot, you can infer that there are three tabs displaying ‘R
 You can choose the desired country and connect to the respective VPN in no time. Your original IP address will be masked immediately soon after the selection process. This app will make your device to appear in the selected region using the newly generated IP address.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -379,6 +383,10 @@ This mock location feature has many benefits when you use it to fake your locati
 - First, it allows you to prevent any form of privacy breach.
 - It enables you to access several third-party apps not accessible to your location.
 - Finally, you can access location-based networking apps and interact with people beyond your locality.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Using Location Spoofer to Fake GPS Without Mock Location and Root
 
@@ -404,10 +412,6 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** A world map with 5 modes at the side will appear; you can choose an option to proceed. There’s the teleport, two-stop, and multi-stop mode for you to choose from to fake location without developer options. Here we take the teleport mode as an example.
 
 ![choose destination](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
@@ -419,10 +423,6 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 This would change your location automatically, and you’re ready to access third-party apps without compromising your location.
 
 ## Part 3: Using Fake Location Apps to Fake GPS Without Mock Location
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Fake Location App
 
@@ -451,10 +451,6 @@ _**App Link:** <https://play.google.com/store/apps/details?id=com.marlon.floatin
 ### 3\. Fake GPS Location with GPS Joystick
 
 ![use fake location with gps joystick](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Many people love this app because it doesn’t require users to root their devices. The app comes with a virtual joystick you can use to change location on the screen. However, if you want to get the best result with this app, you should set it to ‘High Accuracy.’ The joystick is available for instant changing of location, and this app is compatible with Android 4.0 and higher. It is the best option if you’re looking for a convenient app that gives the best of what you’re looking for.
 
@@ -516,6 +512,10 @@ Huawei devices are easy to navigate. Like the Xiaomi devices, they have an EMUI 
 
 ![locate mock location on huawei](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus Tip: How to Change GPS on Android without Root?
 
 Rooting devices have an increased susceptibility to malware attacks. Modifying the original software code raises the risk of introducing malicious software into the Xiaomi Redmi Note 12R device's system. Therefore, you may want to change the GPS location on Android without root access. Luckily, it can be achieved using certain apps that utilize the mock location feature. Here's a general method to change the GPS location on your Xiaomi Redmi Note 12R without rooting:
@@ -550,16 +550,20 @@ There are varying purposes why you might want to fake your location. Luckily, se
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-integrating-luts-into-film-colorwork/"><u>[New] Integrating Luts Into Film Colorwork</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-realme-v30t-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-tecno-pova-6-pro-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-itel-p55-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Itel P55 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Lava Blaze 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-iphone-13-pro-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From iPhone 13 Pro</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/latest-dex-3-release-introducing-a-new-user-friendly-touchscreen-interface/"><u>Latest DEX #3 Release: Introducing a New User-Friendly Touchscreen Interface!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/navigating-through-excellent-hdr-cam-choices/"><u>Navigating Through Excellent HDR Cam Choices</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/sound-blaster-zxr-review-a-decent-2013-flagship-from-creative-labs/"><u>Sound Blaster ZxR Review: A Decent 2013 Flagship From Creative Labs</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-list-of-free-video-compressors-for-windows-10/"><u>Updated 2024 Approved The Ultimate List of Free Video Compressors for Windows 10</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-sending-past-moments-via-snapchat-camera-roll-guide/"><u>[Updated] 2024 Approved Sending Past Moments via Snapchat Camera Roll Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-oppo-reno-10-pro-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-your-brand-effective-video-marketing-strategies-using-movavi/"><u>Boosting Your Brand: Effective Video Marketing Strategies Using Movavi</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cool-solutions-for-warm-tech-a-guide-to-handling-iphoneipad-overheating/"><u>Cool Solutions for Warm Tech: A Guide to Handling iPhone/iPad Overheating</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-lava-yuva-2-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Lava Yuva 2 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-google-pixel-8-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-odt-file-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .odt file free</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-realme-c33-2023-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-tecno-spark-20c-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Tecno Spark 20C Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-vivo-v30-lite-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-digital-waters-with-netflix-your-all-in-one-streaming-solution/"><u>Navigating the Digital Waters with Netflix: Your All-in-One Streaming Solution</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellars-revolutionary-data-restoration-for-everyday-users/"><u>Stellar's Revolutionary Data Restoration for Everyday Users</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/xbox-one-photography-basics-how-to-screenshot-like-a-pro/"><u>Xbox One Photography Basics: How to Screenshot Like a Pro</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 6 Effective Solutions When Your iPhone Only Displays SOS on Status Bar
-date: 2025-01-19T03:04:22.269Z
-updated: 2025-01-22T00:52:22.457Z
+date: 2025-01-27T23:28:27.257Z
+updated: 2025-01-29T17:18:40.444Z
 tags:
   - iphone
   - apple
@@ -25,24 +25,28 @@ thumbnail: https://thmb.techidaily.com/b1dca77248729ae79ab1361747a38e85586597f7f
 ![iPhone Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-cellular-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![iPhone Settings Cellular Data turned off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-cellular-settings-turn-data-off.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  Head into**Settings > Cellular** . It should be already on, so turn the**Cellular Data** switch off. Give it a few seconds, then turn**Cellular Data** back on. It may have just needed a quick reset, but if there is still no luck, move on to our next suggestion.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Enable Data Roaming
 
  You may need to turn Data Roaming on, especially if you're traveling internationally. This allows your iPhone to connect to another network in a different country without having to sign up for a new service. Beware that turning this on can come with additional fees on your phone bill.
 
 ![iPhone settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-cellular-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![iPhone cellular settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-cellular-data-options.jpg)
 
@@ -60,22 +64,22 @@ Close
 
 ![iPhone cellular data options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-cellular-data-options-voice-data-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![iPhone 5G and LTE options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-voice-data-5g-settings.jpg)
 
 Close
 
  Go to**Settings > Cellular > Cellular Data Options** like before, but this time tap**Voice & Data** . If**5G On** or**5G Auto** is selected, choose**LTE** and see if that gets rid of the SOS Only status.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Restart Your iPhone
 
 ![iPhone user trying to force restart their device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-user-trying-to-force-restart-their-device.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Of course, we have to mention the good old reboot technique. If you haven't yet tried turning your iPhone off and on again, let's go ahead and test it out. You'd be surprised how many little annoyances a quick restart can resolve.
@@ -89,14 +93,10 @@ Close
 ![iPhone Settings menu showing General](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-general.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![iPhone General settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-general-about.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -129,17 +129,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-nine-powerful-microphone-capture-options-decoded/"><u>[New] Nine Powerful Microphone Capture Options Decoded</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-the-ultimate-list-legal-game-music-sources-for-2024/"><u>[New] The Ultimate List Legal Game Music Sources for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-videography-size-guide-ready/"><u>[Updated] 2024 Approved Instagram Videography Size Guide - Ready</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-overcoming-green-tint-in-youtubes-on-mac-a-guide/"><u>[Updated] Overcoming Green Tint in YouTubes on Mac A Guide</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-honor-magic-vs-2-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-90-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Xiaomi Redmi A2 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-htc-u23-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-enhanced-mac-technology-video-plus-sound-record/"><u>In 2024, Enhanced Mac Technology Video + Sound Record</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-play-7t-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-a25-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-companion-guide-to-use-chatgpt/"><u>Windows Companion Guide to Use ChatGPT</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamline-your-study-avoiding-edgenuity-videos-efficiently/"><u>[New] Streamline Your Study Avoiding Edgenuity Videos Efficiently</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-easy-steps-for-ipad-video-capture/"><u>[Updated] In 2024, Easy Steps for iPad Video Capture</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-no-cost-chat-programs-compatible-with-ios-devices/"><u>Best No-Cost Chat Programs Compatible with iOS Devices</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-motorola-moto-g04-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Motorola Moto G04</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-k70e-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi K70E Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-a59-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo A59 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-samsung-galaxy-xcover-6-pro-tactical-edition-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Samsung Galaxy XCover 6 Pro Tactical Edition Devices | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Infinix Note 30 VIP Racing Edition.</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On Apple iPhone 13 Pro?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/syncing-your-live-obs-content-with-fb-network-for-2024/"><u>Syncing Your Live OBS Content with FB Network for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ayaneo's AM01 – Your Gateway to the Iconic Classic Macintosh Charm in a Cutting-Edge AMD Mini PC!
-date: 2025-01-25T23:59:10.020Z
-updated: 2025-01-29T17:33:19.966Z
+date: 2025-02-08T11:47:28.320Z
+updated: 2025-02-10T08:48:39.450Z
 tags:
   - desktop
 categories:
@@ -24,10 +24,6 @@ Damn Small Linux is a lightweight Linux distro aimed at older and lower spec PCs
  Damn Small Linux 2024 runs well on the venerable Asus Eee PC. Basic web browsing, text editing and general computing tasks are achievable. More advanced tasks, high definition video and image editing will depend on the age of your machine. On the Eee PC we found YouTube playback was not possible, because the CPU wasn’t strong enough to load all of the page elements. A newer machine is required for that. Something from the early 2010s, perhaps a Core2Duo or better and you have a workable spare machine.
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## For this project you will need
 
@@ -64,15 +60,15 @@ Damn Small Linux is a lightweight Linux distro aimed at older and lower spec PCs
 
 ![Damn Small Linux](https://cdn.mos.cms.futurecdn.net/j3mBhzFS7tmDqEckBrWdQA-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  6.**Click START** to write the ISO to the USB stick. The ISO image is only 700MB and won’t take long to write to the USB stick. When done,**click CLOSE to exit Rufus.**
 
 ![Damn Small Linux](https://cdn.mos.cms.futurecdn.net/yu9EYu9BTTuGGjBtXNuEJA-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -88,10 +84,6 @@ Damn Small Linux is a lightweight Linux distro aimed at older and lower spec PCs
 
 ![Damn Small Linux](https://cdn.mos.cms.futurecdn.net/VX3He6Ti2rXuBRUXryans9-320-80.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  3.**Wait for Damn Small Linux to boot** and**click on the Installer icon** to start the installation process.
@@ -104,11 +96,19 @@ Damn Small Linux is a lightweight Linux distro aimed at older and lower spec PCs
 
 ![Damn Small Linux](https://cdn.mos.cms.futurecdn.net/PvyNXHHvZqzg9U2xzwU9CA-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  5.**Set your keyboard layout and click Next when ready.**
 
 ![Damn Small Linux](https://cdn.mos.cms.futurecdn.net/pyrBdYG3Uqu4UxbURuo5U9-320-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -116,25 +116,21 @@ Damn Small Linux is a lightweight Linux distro aimed at older and lower spec PCs
 
 ![Damn Small Linux](https://cdn.mos.cms.futurecdn.net/yqysCHTCs2mmqroE2YtZL9-320-80.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  7.**Click OK to format the drive.** This will prepare the drive for the Damn Small Linux installation process.
 
 ![Damn Small Linux](https://cdn.mos.cms.futurecdn.net/8HggdEvF2DKDFVbUVmCqB9-320-80.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  8\. While the installer copies the files,**setup your locale and timezone then click Next.**
 
 ![Damn Small Linux](https://cdn.mos.cms.futurecdn.net/2zBeZ2Ezr6diBMHTuYQZ39-320-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -143,7 +139,7 @@ Damn Small Linux is a lightweight Linux distro aimed at older and lower spec PCs
 ![Damn Small Linux](https://cdn.mos.cms.futurecdn.net/bwm3cbDBvEeMPW7bFSGe3A-320-80.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -153,7 +149,7 @@ Damn Small Linux is a lightweight Linux distro aimed at older and lower spec PCs
 ![Damn Small Linux](https://cdn.mos.cms.futurecdn.net/vVszmiobWW4GyN9D2xCLu8-320-80.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -174,15 +170,15 @@ Damn Small Linux is a lightweight Linux distro aimed at older and lower spec PCs
 
 ![Damn Small Linux](https://cdn.mos.cms.futurecdn.net/G8vXVZ6gyiBBpriaEhooY8-320-80.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 Quick links to apps are found at the top of the list.
 
 ![Damn Small Linux](https://cdn.mos.cms.futurecdn.net/HqrNrNtz2VMYg9qbGtx8A8-320-80.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -224,6 +220,10 @@ geany
 
 ![Damn Small Linux](https://cdn.mos.cms.futurecdn.net/fpp3uEkLvKHzjMDdGUpkr7-320-80.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Damn Small Linux 2024 is a fun way to resurrect an older machine. We wouldn’t spend our entire work day using such an old machine, but it can be useful to have a spare machine for the kids to hack on. It can also be useful when we need focus, a low-spec machine will struggle to run multiple applications, forcing us to complete a task.
@@ -243,15 +243,19 @@ geany
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-best-practices-for-exporting-youtube-videos-to-facebook-for-2024/"><u>[New] Best Practices for Exporting YouTube Videos to Facebook for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-expert-take-on-camstudios-recorder-efficacy/"><u>[New] In 2024, Expert Take on CamStudio's Recorder Efficacy</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-increase-igtv-views-strategic-use-of-hashtags-for-2024/"><u>[Updated] Increase IGTV Views Strategic Use of Hashtags for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-infinix-hot-40-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-google-pixel-8-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Google Pixel 8 Devices | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-magic-5-lite-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor Magic 5 Lite Devices | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-13-mini-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 13 mini Properly</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-nubia-red-magic-8s-proplus-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Nubia Red Magic 8S Pro+ Location | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-instructions-to-harness-the-power-of-chatgpt-on-macos-systems/"><u>Step-by-Step Instructions to Harness the Power of ChatGPT on macOS Systems</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-top-10-tools-for-youtube-to-webm-conversion/"><u>[New] In 2024, Top 10 Tools for YouTube to WebM Conversion</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-discover-the-power-of-nikon-1j5s-4k-video/"><u>[Updated] 2024 Approved Discover the Power of Nikon 1J5's 4K Video</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-ultimate-visionary-insights-the-top-8k-cameras-guide/"><u>[Updated] Ultimate Visionary Insights The Top 8K Cameras Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-lava-blaze-pro-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Lava Blaze Pro 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-sony-xperia-10-v-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-system-performance-by-reducing-tiworkerexe-load/"><u>Enhancing System Performance by Reducing TiWorker.exe Load</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-nokia-g42-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-airpods-that-wont-reset/"><u>How to Fix AirPods That Won't Reset</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-samsung-galaxy-a23-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-vivo-s17t-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone 15 Plus?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-learning-leaders-most-influential-edu-tutorials-yt/"><u>In 2024, Learning Leaders Most Influential Edu Tutorials YT</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/pemulihan-gambarfay-dasar-onedrive-yang-kembali-ke-null-setelah-sincronisasi/"><u>Pemulihan Gambar/Fay Dasar OneDrive Yang Kembali Ke Null Setelah Sincronisasi</u></a></li>
 </ul></div>
 

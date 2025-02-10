@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fake GPS on Android without Mock Location For your Realme 11 Pro+ | Dr.fone
-date: 2025-01-25T19:30:02.673Z
-updated: 2025-01-29T18:33:20.876Z
+date: 2025-02-07T10:42:04.451Z
+updated: 2025-02-10T02:57:13.899Z
 tags: 
   - virtual location chang
   - location changer
@@ -18,8 +18,174 @@ thumbnail: https://thmb.techidaily.com/c367633b9f9ef727c06fd08d3dd4d78a496570d92
 
 Almost all Android phones feature an application that allows third-party apps to track your exact GPS location. However, for some reason, users usually don’t like this feature because they don’t want apps to reveal their precise location. Sometimes, users want to stop sharing any location on apps, or you might want to access an unavailable app in your country. This is a common reason why most people want to fake their location. While there’s a mock location feature on most devices, you can also **fake GPS without mock location**. This simple guide teaches you exactly how to do that with different methods.
 
+## Part 1: What Is the Mock Location?
+
+Almost all Androids have the feature "Mock Location". This setting allows you to manually change the location of your device to anywhere you would like. Developers initially introduced this setting to test some parameters. However, people use it today to fake their actual location. If you want to use the mock location feature on your device, you must enable the "Developer" option. For example, when you utilize the mock location feature, you can fake your location in Venice while you’re in Detroit. There are many free fake location apps you can find in the Google Play Store to exploit this hidden mock location feature.
+
+This mock location feature has many benefits when you use it to fake your location as below:
+
+- First, it allows you to prevent any form of privacy breach.
+- It enables you to access several third-party apps not accessible to your location.
+- Finally, you can access location-based networking apps and interact with people beyond your locality.
+
+## Part 2: Using Location Spoofer to Fake GPS Without Mock Location and Root
+
+One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) by Wondershare. This app will enable you to spoof your location on iOS and Android, and it is pretty easy to use. Below are a few crucial steps to follow if you want to fake a location without developer options or mock location.
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### Dr.Fone - Virtual Location
+
+1-Click Location Changer for both Android and iOS!
+
+- Teleport from one location to another across the world from the comfort of your home.
+- With just a few selections on your computer, you can make members of your circle believe you’re anywhere you want.
+- Stimulate and imitate movement and set the speed and stops you take along the way.
+- Compatible with both iOS and Android systems.
+- Work with location-based apps, like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Snapchat](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc.
+
+**3981454** people have downloaded it
+
+<iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/xQa-_8RTg5U"></iframe>
+
+**Step 1:** Download Dr.Fone and install it on your PC.
+
+**Step 2:** The next step you have to take is to click "Virtual Location" on the homepage to launch the app, connect your smartphone to the PC and click on "Get Started".
+
+![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+**Step 3:** A world map with 5 modes at the side will appear; you can choose an option to proceed. There’s the teleport, two-stop, and multi-stop mode for you to choose from to fake location without developer options. Here we take the teleport mode as an example.
+
+![choose destination](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
+
+**Step 4:** After choosing an option, search for your preferred location in the search bar and press "Go" once you find it.
+
+![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+This would change your location automatically, and you’re ready to access third-party apps without compromising your location.
+
+## Part 3: Using Fake Location Apps to Fake GPS Without Mock Location
+
+### 1\. Fake Location App
+
+Apart from Dr.Fone - Virtual Location, another app you can use to fake GPS without mock location-enabled is Fake GPS Location. This app is quite common as many people use it to [fake GPS Android](https://drfone.wondershare.com/virtual-location/fake-gps-android.html). Downloading this app is easy because you can get it from Google Play Store.
+
+This fake location app allows you to switch locations easily. Therefore, it is an excellent choice for anyone looking to access apps not available in their location. Below are the crucial steps you have to follow to install and use Fake GPS Location on your Realme 11 Pro+.
+
+**Step 1:** Download the Fake GPS Location app from the Google Play Store on your Realme 11 Pro+. Use the search bar, and it will pop up amongst the search results.
+
+![use fake gps location](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-4.jpg)
+
+**Step 2:** After installation, select this app as your mock location app on your phone by exploring your device settings. Go to developer options on your Realme 11 Pro+ and tap on "Select mock location app". The next step is to choose Fake GPS Location from the displayed option.
+
+**Step 3:** To spoof your location, launch the app and search for the location you would like. When it pops up, select it, and automatically, the app will change your location to the new location.
+
+_**App Link:** <https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en\_US>_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### 2\. Fake Location Using Floater
+
+![use floater fake gps location](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-5.png)
+
+This is another effective fake GPS app that you can use to fake GPS. It works as a floating window above games and third-party apps. With Floater, you can change your location to a place globally. Additionally, you can save your favorite locations and test apps without locking onto a GPS signal. This feature is great for developers. Additionally, Floater can fake GPS location when you’re tagging pictures. It shows you any part of the world you want so you can pick where you want people to think you are.
+
+_**App Link:** <https://play.google.com/store/apps/details?id=com.marlon.floating.fake.location&hl=en>_
+
+### 3\. Fake GPS Location with GPS Joystick
+
+![use fake location with gps joystick](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-6.jpg)
+
+Many people love this app because it doesn’t require users to root their devices. The app comes with a virtual joystick you can use to change location on the screen. However, if you want to get the best result with this app, you should set it to ‘High Accuracy.’ The joystick is available for instant changing of location, and this app is compatible with Android 4.0 and higher. It is the best option if you’re looking for a convenient app that gives the best of what you’re looking for.
+
+_**App Link:** <https://play.google.com/store/apps/details?id=com.theappninjas.fakegpsjoystick&hl=en>_
+
+### 4\. Mock Locations (fake GPS path)
+
+![mock locations app](https://images.wondershare.com/drfone/article/2023/05/how-to-fake-gps-android-without-mock-location-01.jpg)
+
+Mock Locations is a mobile app that allows you to simulate a different location than your actual physical location. The app works by faking GPS coordinates, allowing you to choose any location you want, anywhere in the world. This can be useful for testing location-based apps or for privacy purposes, to prevent apps from tracking your actual location. The app is typically available for Android devices and may require root access.
+
+_**App Link:** <https://play.google.com/store/apps/details?id=ru.gavrikov.mocklocations&hl=en>_
+
+### 5\. GPS Emulator
+
+GPS Emulator is a mobile app that allows users to simulate GPS locations on their device. The app is designed for developers to test location-based applications or for users to spoof their location for privacy reasons. It allows users to set a custom location or follow a pre-defined path, and supports multiple GPS signals for increased accuracy. The app is available for both Android and iOS devices, and can be used without rooting or jailbreaking the Realme 11 Pro+ device. It's important to use the app responsibly and not to violate any laws or regulations, as it can be misused for malicious purposes such as cheating in games or misrepresenting your location on dating apps.
+
+<iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/XDfb5P12yMI"></iframe>
+
+_**App Link:** <https://play.google.com/store/apps/details?id=com.rosteam.gpsemulator&hl=en\_US>_
+
+### 6\. Fake GPS Pro
+
+![fake gps location app](https://images.wondershare.com/drfone/article/2023/05/how-to-fake-gps-android-without-mock-location.jpg)
+
+By utilizing the Fake GPS location, you can bypass the geographical restrictions imposed by your dating apps, effortlessly altering your location to discover new connections on any location-based social network. And you can also change the location to protect your privacy.
+
+_**App Link:** <https://play.google.com/store/apps/details?id=com.gsmartstudio.fakegps&hl=en\_US>_
+
+_**Tips:** Discover the most effective way to fake GPS on Android without using Mock Location. Dr.Fone - Virtual Location (iOS/Android) offers a reliable and hassle-free solution to explore different places from your Realme 11 Pro+. Try it now!_
+
+_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html) _
+
+## Part 4: Mock Location Feature on Different Android Models
+
+Accessing the mock location feature on different Android models isn’t always easy. However, this section will provide insight into enabling mock location on your Realme 11 Pro+.
+
+### 1\. Samsung and Moto
+
+Accessing the mock location feature on your Samsung or Moto device is relatively easy. First, you have to visit the ‘Developer Options’ page and navigate the ‘debugging’ option.
+
+![locate mock location on samsung](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-7.jpg)
+
+### 2\. LG
+
+Another device you can access the mock location on again is the LG Smartphone device. On this device, you should also navigate to ‘Developer Options.’ Next, choose ‘allow mock location to continue.
+
+![locate mock location on lg](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-8.jpg)
+
+### 3\. Xiaomi
+
+Xiaomi devices don’t use build numbers. They work with MIUI numbers. So to enable the mock location feature on your Xiaomi device, you must first tap on the MIUI number. You can locate this number by visiting ‘settings’ and selecting ‘About Phone’ on the list of options. Once you tap on the number, you will see the ‘Allow Mock Location Apk’ option.
+
+![locate mock location on xiaomi](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-9.jpg)
+
+### 4\. Huawei
+
+Huawei devices are easy to navigate. Like the Xiaomi devices, they have an EMUI number that you need to tap on. You can find this number by selecting ‘settings’ on your device. Then, choose ‘About Phone’ to proceed and activate the ‘mock location’ feature on the settings page.
+
+![locate mock location on huawei](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-10.jpg)
+
+## Bonus Tip: How to Change GPS on Android without Root?
+
+Rooting devices have an increased susceptibility to malware attacks. Modifying the original software code raises the risk of introducing malicious software into the Realme 11 Pro+ device's system. Therefore, you may want to change the GPS location on Android without root access. Luckily, it can be achieved using certain apps that utilize the mock location feature. Here's a general method to change the GPS location on your Realme 11 Pro+ without rooting:
+
+- **1\. Enable Developer Options:** Similar to the previous response, you need to enable Developer Options on your device. Go to Settings, then tap on "About phone" or "About device." Locate the "Build number" and tap on it seven times to enable Developer Options.
+- **2\. Access Developer Options:** Once Developer Options is enabled, go back to the main Settings menu, and you should see "Developer Options" listed. Tap on it.
+- **3\. Enable Mock Locations:** In the Developer Options menu, look for the "Mock location app" or "Allow mock locations" option. Tap on it and select the app you want to use for spoofing the GPS location. If you haven't installed any specific app for this purpose, you can search for "Fake GPS" apps on the Google Play Store.
+- **4\. Install a Fake GPS App:** Go to the Google Play Store and search for a reliable Fake GPS app that doesn't require root access. Some popular options include "Fake GPS Location" or "Fake GPS Joystick & Routes Go." Install the app of your choice.
+- **5\. Set the Fake Location:** Open the Fake GPS app and grant it the necessary permissions when prompted. Use the app's interface to select a desired location on the map or enter specific coordinates to set as your new GPS location.
+- **6\. Start Mocking the Location:** Once you have set the desired location, enable the mock location feature in the Fake GPS app. This will simulate the selected GPS location on your device.
+- **7\. Test the New Location:** Open any location-based app or service that relies on GPS, such as a dating app or mapping app, to see if the new location is being used. The app should display the spoofed location instead of your actual GPS location.
+
+If you think the way above is complicated for you, you can just use the easiest way: using Dr.Fone - Virtual Location (GPS Changer) as introduced in [Part 2](https://drfone.wondershare.com/fake-location/fake-gps-android-without-mock-location.html#Part2).
+
+## Conclusion
+
+There are varying purposes why you might want to fake your location. Luckily, several apps are available to **fake GPS on Android without mock location**. The best option for you would be the [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With this fake location app, you can access any third-party app and be in a whole different country from the comfort of your home. However, this article also provides you with other options you can explore.
+
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
+
+## How to Fake GPS on Android without Mock Location For your Realme 11 Pro+
+
+Almost all Android phones feature an application that allows third-party apps to track your exact GPS location. However, for some reason, users usually don’t like this feature because they don’t want apps to reveal their precise location. Sometimes, users want to stop sharing any location on apps, or you might want to access an unavailable app in your country. This is a common reason why most people want to fake their location. While there’s a mock location feature on most devices, you can also **fake GPS without mock location**. This simple guide teaches you exactly how to do that with different methods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: What Is the Mock Location?
@@ -55,10 +221,6 @@ One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virt
 **Step 2:** The next step you have to take is to click "Virtual Location" on the homepage to launch the app, connect your smartphone to the PC and click on "Get Started".
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3:** A world map with 5 modes at the side will appear; you can choose an option to proceed. There’s the teleport, two-stop, and multi-stop mode for you to choose from to fake location without developer options. Here we take the teleport mode as an example.
 
@@ -99,6 +261,10 @@ _**App Link:** <https://play.google.com/store/apps/details?id=com.marlon.floatin
 ### 3\. Fake GPS Location with GPS Joystick
 
 ![use fake location with gps joystick](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Many people love this app because it doesn’t require users to root their devices. The app comes with a virtual joystick you can use to change location on the screen. However, if you want to get the best result with this app, you should set it to ‘High Accuracy.’ The joystick is available for instant changing of location, and this app is compatible with Android 4.0 and higher. It is the best option if you’re looking for a convenient app that gives the best of what you’re looking for.
 
@@ -148,21 +314,25 @@ Another device you can access the mock location on again is the LG Smartphone de
 
 ![locate mock location on lg](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Xiaomi
 
 Xiaomi devices don’t use build numbers. They work with MIUI numbers. So to enable the mock location feature on your Xiaomi device, you must first tap on the MIUI number. You can locate this number by visiting ‘settings’ and selecting ‘About Phone’ on the list of options. Once you tap on the number, you will see the ‘Allow Mock Location Apk’ option.
 
 ![locate mock location on xiaomi](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Huawei
 
 Huawei devices are easy to navigate. Like the Xiaomi devices, they have an EMUI number that you need to tap on. You can find this number by selecting ‘settings’ on your device. Then, choose ‘About Phone’ to proceed and activate the ‘mock location’ feature on the settings page.
 
 ![locate mock location on huawei](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus Tip: How to Change GPS on Android without Root?
 
@@ -183,176 +353,6 @@ If you think the way above is complicated for you, you can just use the easiest 
 There are varying purposes why you might want to fake your location. Luckily, several apps are available to **fake GPS on Android without mock location**. The best option for you would be the [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With this fake location app, you can access any third-party app and be in a whole different country from the comfort of your home. However, this article also provides you with other options you can explore.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
-
-## How to Fake GPS on Android without Mock Location For your Realme 11 Pro+
-
-Almost all Android phones feature an application that allows third-party apps to track your exact GPS location. However, for some reason, users usually don’t like this feature because they don’t want apps to reveal their precise location. Sometimes, users want to stop sharing any location on apps, or you might want to access an unavailable app in your country. This is a common reason why most people want to fake their location. While there’s a mock location feature on most devices, you can also **fake GPS without mock location**. This simple guide teaches you exactly how to do that with different methods.
-
-## Part 1: What Is the Mock Location?
-
-Almost all Androids have the feature "Mock Location". This setting allows you to manually change the location of your device to anywhere you would like. Developers initially introduced this setting to test some parameters. However, people use it today to fake their actual location. If you want to use the mock location feature on your device, you must enable the "Developer" option. For example, when you utilize the mock location feature, you can fake your location in Venice while you’re in Detroit. There are many free fake location apps you can find in the Google Play Store to exploit this hidden mock location feature.
-
-This mock location feature has many benefits when you use it to fake your location as below:
-
-- First, it allows you to prevent any form of privacy breach.
-- It enables you to access several third-party apps not accessible to your location.
-- Finally, you can access location-based networking apps and interact with people beyond your locality.
-
-## Part 2: Using Location Spoofer to Fake GPS Without Mock Location and Root
-
-One app that allows you to **fake GPS without mock location** is [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) by Wondershare. This app will enable you to spoof your location on iOS and Android, and it is pretty easy to use. Below are a few crucial steps to follow if you want to fake a location without developer options or mock location.
-
-### Dr.Fone - Virtual Location
-
-1-Click Location Changer for both Android and iOS!
-
-- Teleport from one location to another across the world from the comfort of your home.
-- With just a few selections on your computer, you can make members of your circle believe you’re anywhere you want.
-- Stimulate and imitate movement and set the speed and stops you take along the way.
-- Compatible with both iOS and Android systems.
-- Work with location-based apps, like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Snapchat](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc.
-
-**3981454** people have downloaded it
-
-<iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/xQa-_8RTg5U"></iframe>
-
-**Step 1:** Download Dr.Fone and install it on your PC.
-
-**Step 2:** The next step you have to take is to click "Virtual Location" on the homepage to launch the app, connect your smartphone to the PC and click on "Get Started".
-
-![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
-
-**Step 3:** A world map with 5 modes at the side will appear; you can choose an option to proceed. There’s the teleport, two-stop, and multi-stop mode for you to choose from to fake location without developer options. Here we take the teleport mode as an example.
-
-![choose destination](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
-
-**Step 4:** After choosing an option, search for your preferred location in the search bar and press "Go" once you find it.
-
-![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
-
-This would change your location automatically, and you’re ready to access third-party apps without compromising your location.
-
-## Part 3: Using Fake Location Apps to Fake GPS Without Mock Location
-
-### 1\. Fake Location App
-
-Apart from Dr.Fone - Virtual Location, another app you can use to fake GPS without mock location-enabled is Fake GPS Location. This app is quite common as many people use it to [fake GPS Android](https://drfone.wondershare.com/virtual-location/fake-gps-android.html). Downloading this app is easy because you can get it from Google Play Store.
-
-This fake location app allows you to switch locations easily. Therefore, it is an excellent choice for anyone looking to access apps not available in their location. Below are the crucial steps you have to follow to install and use Fake GPS Location on your Realme 11 Pro+.
-
-**Step 1:** Download the Fake GPS Location app from the Google Play Store on your Realme 11 Pro+. Use the search bar, and it will pop up amongst the search results.
-
-![use fake gps location](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-4.jpg)
-
-**Step 2:** After installation, select this app as your mock location app on your phone by exploring your device settings. Go to developer options on your Realme 11 Pro+ and tap on "Select mock location app". The next step is to choose Fake GPS Location from the displayed option.
-
-**Step 3:** To spoof your location, launch the app and search for the location you would like. When it pops up, select it, and automatically, the app will change your location to the new location.
-
-_**App Link:** <https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en\_US>_
-
-### 2\. Fake Location Using Floater
-
-![use floater fake gps location](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-5.png)
-
-This is another effective fake GPS app that you can use to fake GPS. It works as a floating window above games and third-party apps. With Floater, you can change your location to a place globally. Additionally, you can save your favorite locations and test apps without locking onto a GPS signal. This feature is great for developers. Additionally, Floater can fake GPS location when you’re tagging pictures. It shows you any part of the world you want so you can pick where you want people to think you are.
-
-_**App Link:** <https://play.google.com/store/apps/details?id=com.marlon.floating.fake.location&hl=en>_
-
-### 3\. Fake GPS Location with GPS Joystick
-
-![use fake location with gps joystick](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Many people love this app because it doesn’t require users to root their devices. The app comes with a virtual joystick you can use to change location on the screen. However, if you want to get the best result with this app, you should set it to ‘High Accuracy.’ The joystick is available for instant changing of location, and this app is compatible with Android 4.0 and higher. It is the best option if you’re looking for a convenient app that gives the best of what you’re looking for.
-
-_**App Link:** <https://play.google.com/store/apps/details?id=com.theappninjas.fakegpsjoystick&hl=en>_
-
-### 4\. Mock Locations (fake GPS path)
-
-![mock locations app](https://images.wondershare.com/drfone/article/2023/05/how-to-fake-gps-android-without-mock-location-01.jpg)
-
-Mock Locations is a mobile app that allows you to simulate a different location than your actual physical location. The app works by faking GPS coordinates, allowing you to choose any location you want, anywhere in the world. This can be useful for testing location-based apps or for privacy purposes, to prevent apps from tracking your actual location. The app is typically available for Android devices and may require root access.
-
-_**App Link:** <https://play.google.com/store/apps/details?id=ru.gavrikov.mocklocations&hl=en>_
-
-### 5\. GPS Emulator
-
-GPS Emulator is a mobile app that allows users to simulate GPS locations on their device. The app is designed for developers to test location-based applications or for users to spoof their location for privacy reasons. It allows users to set a custom location or follow a pre-defined path, and supports multiple GPS signals for increased accuracy. The app is available for both Android and iOS devices, and can be used without rooting or jailbreaking the Realme 11 Pro+ device. It's important to use the app responsibly and not to violate any laws or regulations, as it can be misused for malicious purposes such as cheating in games or misrepresenting your location on dating apps.
-
-<iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/XDfb5P12yMI"></iframe>
-
-_**App Link:** <https://play.google.com/store/apps/details?id=com.rosteam.gpsemulator&hl=en\_US>_
-
-### 6\. Fake GPS Pro
-
-![fake gps location app](https://images.wondershare.com/drfone/article/2023/05/how-to-fake-gps-android-without-mock-location.jpg)
-
-By utilizing the Fake GPS location, you can bypass the geographical restrictions imposed by your dating apps, effortlessly altering your location to discover new connections on any location-based social network. And you can also change the location to protect your privacy.
-
-_**App Link:** <https://play.google.com/store/apps/details?id=com.gsmartstudio.fakegps&hl=en\_US>_
-
-_**Tips:** Discover the most effective way to fake GPS on Android without using Mock Location. Dr.Fone - Virtual Location (iOS/Android) offers a reliable and hassle-free solution to explore different places from your Realme 11 Pro+. Try it now!_
-
-_You may be interested in: [Use Fake GPS Mod APK to Spoof Your Location.](https://drfone.wondershare.com/fake-location/fake-gps-mod-apk-review-and-alternative.html) _
-
-## Part 4: Mock Location Feature on Different Android Models
-
-Accessing the mock location feature on different Android models isn’t always easy. However, this section will provide insight into enabling mock location on your Realme 11 Pro+.
-
-### 1\. Samsung and Moto
-
-Accessing the mock location feature on your Samsung or Moto device is relatively easy. First, you have to visit the ‘Developer Options’ page and navigate the ‘debugging’ option.
-
-![locate mock location on samsung](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-7.jpg)
-
-### 2\. LG
-
-Another device you can access the mock location on again is the LG Smartphone device. On this device, you should also navigate to ‘Developer Options.’ Next, choose ‘allow mock location to continue.
-
-![locate mock location on lg](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### 3\. Xiaomi
-
-Xiaomi devices don’t use build numbers. They work with MIUI numbers. So to enable the mock location feature on your Xiaomi device, you must first tap on the MIUI number. You can locate this number by visiting ‘settings’ and selecting ‘About Phone’ on the list of options. Once you tap on the number, you will see the ‘Allow Mock Location Apk’ option.
-
-![locate mock location on xiaomi](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-9.jpg)
-
-### 4\. Huawei
-
-Huawei devices are easy to navigate. Like the Xiaomi devices, they have an EMUI number that you need to tap on. You can find this number by selecting ‘settings’ on your device. Then, choose ‘About Phone’ to proceed and activate the ‘mock location’ feature on the settings page.
-
-![locate mock location on huawei](https://images.wondershare.com/drfone/article/2022/05/how-to-fake-gps-android-without-mock-location-10.jpg)
-
-## Bonus Tip: How to Change GPS on Android without Root?
-
-Rooting devices have an increased susceptibility to malware attacks. Modifying the original software code raises the risk of introducing malicious software into the Realme 11 Pro+ device's system. Therefore, you may want to change the GPS location on Android without root access. Luckily, it can be achieved using certain apps that utilize the mock location feature. Here's a general method to change the GPS location on your Realme 11 Pro+ without rooting:
-
-- **1\. Enable Developer Options:** Similar to the previous response, you need to enable Developer Options on your device. Go to Settings, then tap on "About phone" or "About device." Locate the "Build number" and tap on it seven times to enable Developer Options.
-- **2\. Access Developer Options:** Once Developer Options is enabled, go back to the main Settings menu, and you should see "Developer Options" listed. Tap on it.
-- **3\. Enable Mock Locations:** In the Developer Options menu, look for the "Mock location app" or "Allow mock locations" option. Tap on it and select the app you want to use for spoofing the GPS location. If you haven't installed any specific app for this purpose, you can search for "Fake GPS" apps on the Google Play Store.
-- **4\. Install a Fake GPS App:** Go to the Google Play Store and search for a reliable Fake GPS app that doesn't require root access. Some popular options include "Fake GPS Location" or "Fake GPS Joystick & Routes Go." Install the app of your choice.
-- **5\. Set the Fake Location:** Open the Fake GPS app and grant it the necessary permissions when prompted. Use the app's interface to select a desired location on the map or enter specific coordinates to set as your new GPS location.
-- **6\. Start Mocking the Location:** Once you have set the desired location, enable the mock location feature in the Fake GPS app. This will simulate the selected GPS location on your device.
-- **7\. Test the New Location:** Open any location-based app or service that relies on GPS, such as a dating app or mapping app, to see if the new location is being used. The app should display the spoofed location instead of your actual GPS location.
-
-If you think the way above is complicated for you, you can just use the easiest way: using Dr.Fone - Virtual Location (GPS Changer) as introduced in [Part 2](https://drfone.wondershare.com/fake-location/fake-gps-android-without-mock-location.html#Part2).
-
-## Conclusion
-
-There are varying purposes why you might want to fake your location. Luckily, several apps are available to **fake GPS on Android without mock location**. The best option for you would be the [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With this fake location app, you can access any third-party app and be in a whole different country from the comfort of your home. However, this article also provides you with other options you can explore.
-
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Easy Ways to Manage Your Realme 11 Pro+ Location Settings
 
@@ -369,7 +369,7 @@ If you use an Android phone, you can turn on your location services following th
 ![Change android phone location](https://images.wondershare.com/drfone/article/2022/05/android-location-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Head over to Settings on your android phone.
@@ -388,17 +388,21 @@ When you select this mode for your location services on Android, you want the mo
 
 This mode comes in handy when navigating through streets searching for a particular location, as it gives a more accurate address than others.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Battery saving**
 
 As the name already hints, this mode is best if you want to save the phone battery. GPS, one of the location services, uses lots of power, and in a bid to save your battery, this mode will turn off the GPS and use other tracking networks like Wi-Fi and Bluetooth. Although this mode might not provide the most accurate tracking possible, it will direct you rightly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Device only**
 
 If you are in a place with poor Wi-Fi and Bluetooth networks, the best way to manage your android location settings is to turn on the Realme 11 Pro+ device-only mode. This feature prioritizes the inbuilt GPS radio signals over other networks. It functions just like cars, but, minds you, it consumes more battery power than different modes and will perform best when you're outside.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Emergency Location services**
 
@@ -419,10 +423,6 @@ First, you need to download and install **Dr.Fone - Virtual Location**, then run
 **Step 1**: Select "Virtual Location" from the drop-down menu, and connect your iPhone or Android phone to your computer through a USB cable. To begin, click "Get Started."
 
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Turn on the "virtual location" functionality.
 
@@ -445,7 +445,7 @@ You can use Wi-Fi to connect the software to your iPhone once you've linked it t
 ![change android phone location](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -466,19 +466,20 @@ Managing your android phone's location services can be super helpful to access s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-top-score-facebooks-1-10-music-video-showcase-for-2024/"><u>[New] Top Score Facebook’s #1-#10 Music Video Showcase for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-s23-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-device-editors-for-app-development-art/"><u>2024 Approved Leading Device Editors for App Development Art</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-guide-to-inspiring-youtube-names/"><u>2024 Approved The Ultimate Guide to Inspiring YouTube Names</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-a18-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decoding-how-t-mobile-handles-wireless-roaming-at-home/"><u>Decoding How T-Mobile Handles Wireless Roaming at Home</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/decoding-social-media-success-navigate-the-best-and-hidden-tiktok-glyphs/"><u>Decoding Social Media Success - Navigate the Best & Hidden TikTok Glyphs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-best-free-registry-cleaners-of-2024-top-picks/"><u>Discover the Best Free Registry Cleaners of 2024 - Top Picks</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-v29-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo V29 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-8-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone 8 without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-infinix-note-30-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-x90s-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-lava-blaze-2-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Lava Blaze 2 5G Phone</u></a></li>
-<li><a href="https://win-web3.techidaily.com/mastering-file-management-easy-window-renaming-techniques-by-yl-software-experts/"><u>Mastering File Management: Easy Window Renaming Techniques by YL Software Experts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tips-for-quickerslower-video-in-instagram-stories/"><u>[New] Tips for Quicker/Slower Video in Instagram Stories</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-breathtaking-lyric-videos-made-easy-by-lyric-video-maker-for-2024/"><u>[Updated] Breathtaking Lyric Videos Made Easy by Lyric Video Maker for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-the-file-error-puzzle-finding-solution-for-0x80070570-on-windows-11/"><u>Decoding the File Error Puzzle - Finding Solution for 0X80070570 on Windows 11</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-honor-magic5-ultimate-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-a1-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo A1 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-move-videos-from-an-iphone-4s-to-an-iphone-6-a-step-by-step-guide/"><u>How to Move Videos From an iPhone 4S to an iPhone 6: A Step-by-Step Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xs-max-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XS Max to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-magic-6-pro-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-14-pro-max-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 14 Pro Max with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-samsung-galaxy-s21-fe-5g-2023-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Samsung Galaxy S21 FE 5G (2023) Devices | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-apple-iphone-13-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on Apple iPhone 13</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-social-video-marketing-insights-for-small-business-infographic/"><u>In 2024, Social Video Marketing Insights for Small Business [Infographic]</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-mend-windows-network-proxy-errors/"><u>Steps to Mend Windows Network Proxy Errors</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Upcoming PCI-SIG Announcement: CooperLink Cables Enable PCIe Gen5 & Gen6 Connectivity - Anticipating Release of PCIe Gen7"
-date: 2025-01-27T23:22:51.573Z
-updated: 2025-01-29T19:24:15.602Z
+date: 2025-02-06T23:20:53.881Z
+updated: 2025-02-09T20:44:14.941Z
 tags:
   - desktop
 categories:
@@ -55,7 +55,7 @@ __Ayaneo Retro Mini PC AM01 Specification__
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -81,16 +81,17 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-pushing-boundaries-with-dells-revolutionary-p2715q-monitor-review/"><u>[New] Pushing Boundaries with Dell's Revolutionary P2715Q Monitor Review</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-social-media-mirrors-the-science-of-true-ig-selfies-for-2024/"><u>[New] Social Media Mirrors The Science of True IG Selfies for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-dual-screen-optimization-using-safaris-picture-in-picture/"><u>[Updated] Dual Screen Optimization Using Safari’s Picture In Picture</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-s17t-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-meizu-21-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Xiaomi 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-nokia-105-classic-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Nokia 105 Classic Devices | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-f15-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Samsung Galaxy F15 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-realme-gt-3-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Realme GT 3 Devices | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-nokia-g42-5g-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Nokia G42 5G.</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/slow-motion-symphony-a-comprehensive-app-analysis-2024/"><u>Slow Motion Symphony A Comprehensive App Analysis, 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-a34-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-meizu-21-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-c53-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nokia-c22-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-vivo-s17-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Vivo S17 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-oppo-a78-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Oppo A78 5G Location | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-testing-the-responsiveness-and-comfort-of-cleveturas-clvx-1-wireless-keyboard-design/"><u>In-Depth Review: Testing the Responsiveness and Comfort of Clevetura's CLVX 1 Wireless Keyboard Design</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-demand-for-ai-expertise-in-hiring-how-your-capabilities-matter-zdnet/"><u>Navigating the Demand for AI Expertise in Hiring: How Your Capabilities Matter | ZDNet</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-mac-users-rejoice-top-alternatives-to-pinnacle-studio/"><u>New Mac Users, Rejoice! Top Alternatives to Pinnacle Studio</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-capturing-life-moments-with-iphones-running-ios-16/"><u>Step-by-Step Tutorial: Capturing Life Moments with iPhones Running iOS 16</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-resolving-valorants-failure-to-start/"><u>Troubleshooting Steps: Resolving Valorant's Failure to Start</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upgrade-with-thrill-discover-the-iphone-16s-three-game-changing-innovations-as-spotlighted/"><u>Upgrade with Thrill: Discover the iPhone 16'S Three Game-Changing Innovations, as Spotlighted</u></a></li>
 </ul></div>
 
